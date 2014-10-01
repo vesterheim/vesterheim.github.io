@@ -24,11 +24,7 @@ related:
    description:
    exclude: false
 ---
-**Please read carefully.**
-
-**The following rules apply to all of the folk-art categories.**
-
-Call the museum at (563) 382-9681 with questions.
+**Please read carefully.** <br /> **The following rules apply to all of the folk-art categories.** Call the museum at (563) 382-9681 with questions.
 
 Entry Dates
 ===========

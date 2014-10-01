@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Knit-In"
+date:   2014-11-08 00:00:00
+categories: jekyll update yes
+---
+Join us for a Knit-In. Everyone is welcome to come and knit, chat, listen to presentations, and take a behind-the-scenes tour of textile storage. The Knit-In is made possible by gifts in memory of Ann Swanson and Grace Rikansrud. For more information, contact Laurann Gilbertson at Vesterheim (563-382-9681, lgilbertson@vesterheim.org).
