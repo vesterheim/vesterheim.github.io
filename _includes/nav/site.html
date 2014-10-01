@@ -1,0 +1,52 @@
+{% capture cache %}
+
+{% assign nodes = site.data.auto_nav | where: 'level', 1 %}
+{% assign page_current = site.data.auto_nav | where: 'url', page.url | first %}
+
+{% comment %}
+{% assign output = '<div class="layout__nav--site  layout__nav--page-head  nav--site__wrapper">' %}
+{% endcomment %}
+{% assign output = output | append: '<ul class="nav  nav--site" id="nav--site" tabindex="0">' %}
+
+{% for node in nodes %}
+	{% assign data_submenu_id = nil %}
+	{% assign item_classes = 'nav__item  nav--site__item  nav--menu__item' %}
+	{% assign link_classes = 'nav--site__link  nav--menu__link' %}
+	{% assign target = nil %}
+	{% assign vertical_rule = nil %}
+	{% if node.target %}
+		{% assign target = ' target="' | append: node.target | append: '"' %}
+	{% endif %}
+	{% if page_current.root == node.url %}
+		{% assign item_classes = item_classes | append: '  is_active' %}
+	{% endif %}
+	{% if forloop.first %}
+		{% assign item_classes = item_classes | append: '  nav--site--first' %}
+	{% endif %}
+	{% if forloop.last %}
+		{% assign item_classes = item_classes | append: '  nav--site--last' %}
+		{% assign item_classes = item_classes | append: '  nav--site__item--' | append: node.handle %}
+		{% assign link_classes = link_classes | append: '  nav--site__link--' | append: node.handle %}
+		{% assign vertical_rule = '<span class="vertical-rule"></span>' %}
+	{% endif %}
+	{% if node.has_children? %}
+		{% assign data_submenu_id  = ' data-submenu-id="submenu-' | append: node.handle | append: '"' %}
+	{% endif %}
+	{% capture item %}<li class="{{ item_classes }}"{{ data_submenu_id  }}><div class="relative-lining">{{ vertical_rule }}<a class="{{ link_classes }}" href="{{ node.url}}"{{ target }}>{{ node.title | xml_escape }}</a></div></li>{% endcapture %}
+	{% assign output = output | append: item %}
+{% endfor %}
+
+{% assign output = output | append: '</ul>' %}
+{% comment %}
+{% assign output = output | append: '</div>' %}
+{% endcomment %}
+
+{% assign data_submenu_id = nil %}
+{% assign item = nil %}
+{% assign item_classes = nil %}
+{% assign link_classes = nil %}
+{% assign target = nil %}
+{% assign vertical_rule = nil %}
+{% assign page_current = nil %}
+
+{% endcapture %}{{ output }}{% assign output = nil %}{% assign cache = nil %}

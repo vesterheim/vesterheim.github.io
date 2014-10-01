@@ -1,0 +1,26 @@
+---
+layout: base
+---
+        <div class="layout__page  layout__page--padded--m-xl  layout__auxilary--constrained">
+       
+
+            <div class="layout__main__wrapper  layout__page--padded--xs-m">
+                <div class="layout__main">
+                    <div class="main-content">
+{% include headline.html %}
+                        <div class="layout__main--constrained  text">
+{% if page.instructor.image %}<figure class="pull-left  content-photo  content-photo--golden-ratio--pull-left  content-photo--golden-ratio"><div class="content-photo__lining">{% picture golden {{ page.instructor.image }} alt="{{ page.instructor.alt }}" %}</div></figure>{% endif %}
+{{ content }}                        
+                        </div>
+{% if page.include_tiles %}{% include tiles.html %}{% endif %}
+                    </div>
+                </div>
+            </div>
+
+            <div class="auxiliary layout__auxiliary">
+                <div class="layout__auxiliary__lining">
+{% include auxiliary.html %}
+                </div>
+            </div>
+
+        </div>

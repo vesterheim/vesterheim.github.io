@@ -1,0 +1,34 @@
+{% capture cache %}
+{% comment %}
+Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+{% endcomment %}
+{% assign ifw_src = nil %}
+{% assign ifw_alt = nil %}
+{% assign ifw_caption = nil %}
+{% if include.image %}
+	{% assign ifw_src = include.image %}
+	{% if include.alt %}
+		{% assign ifw_alt = include.alt %}
+	{% endif %}
+	{% if include.caption %}
+		{% assign ifw_caption = include.caption %}
+	{% endif %}	
+{% elsif page.hero.image %}
+	{% assign ifw_src = page.hero.image %}
+	{% if page.hero.alt %}
+		{% assign ifw_alt = page.hero.alt %}
+	{% endif %}
+	{% if page.hero.caption %}
+		{% assign ifw_caption = page.hero.caption %}
+	{% endif %}	
+{% endif %}{% endcapture %}{% assign cache = nil %}{% if ifw_src %}
+<div class="paragraph-margins">
+	<figure class="layout__main--full-bleed">
+		{% picture full {{ ifw_src }} alt="{{ ifw_alt }}" %}{% if ifw_caption %}
+		<figcaption class="layout__main--constrained  caption">{{ ifw_caption | markdownify }}</figcaption>{% endif %}
+	</figure>
+</div>{% endif %}{% capture cache %}
+{% assign ifw_src = nil %}
+{% assign ifw_alt = nil %}
+{% assign ifw_caption = nil %}
+{% endcapture %}{% assign cache = nil %}

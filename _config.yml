@@ -1,0 +1,172 @@
+# Site settings
+title: Vesterheim Norwegian-American Museum 
+email: your-email@domain.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+baseurl: ""
+url: "http://vesterheim.githib.io"
+twitter_username: jekyllrb
+github_username:  jekyll
+
+gems:
+  - jekyll-redirect-from
+  
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Markdown Processors
+kramdown:
+#  input:         kramdown
+#  hard_wrap:     true
+  auto_ids:      true
+  footnote_nr:   1
+  entity_output: as_char
+  toc_levels:    1..6
+  smart_quotes:  lsquo,rsquo,ldquo,rdquo
+  use_coderay:   false
+
+  coderay:
+    coderay_wrap:              div
+    coderay_line_numbers:      inline
+    coderay_line_number_start: 1
+    coderay_tab_width:         4
+    coderay_bold_every:        10
+    coderay_css:               style
+
+image:
+  source: assets/images/_fullsize
+  output: generated
+  presets:
+    # Proportional preset
+    users:
+      attr:
+        class: user-portrait
+        itemprop: image
+      width: 350
+    # Scaled and cropped preset
+    half:
+      width: 400
+      height: 400
+
+picture:
+  source: assets/_images--fullsize
+  output: assets/images
+  markup: picture
+  presets:
+    # Full width pictures
+    default:
+      ppi: [1, 1.5, 2]
+      attr:
+        class: blog-full
+        itemprop: image
+      source_lrg:
+        media: "(min-width: 64em)"
+        width: 746
+      source_med1:
+        media: "(min-width: 59em) and (max-width: 63.9375em)"
+        width: 706
+      source_med2:
+        media: "(min-width: 55em) and (max-width: 58.9375em)"
+        width: 628
+      source_med3:
+        media: "(min-width: 50em) and (max-width: 54.9375em)"
+        width: 560
+      source_med4:
+        media: "(min-width: 42em) and (max-width: 49.9375em)"
+        width: 486
+      source_med5:
+        media: "(min-width: 40em) and (max-width: 41.9375em)"
+        width: 416
+      source_med6:
+        media: "(min-width: 38em) and (max-width: 39.9375em)"
+        width: 628
+      source_med7:
+        media: "(min-width: 33em) and (max-width: 37.9375em)"
+        width: 560
+      source_med8:
+        media: "(min-width: 28em) and (max-width: 32.9375em)"
+        width: 486
+      source_med9:
+        media: "(min-width: 21em) and (max-width: 27.9375em)"
+        width: 416
+      source_default:
+        width: 320      
+    # Half width pictures such as tiles
+    half:
+      ppi: [1, 1.5, 2]
+      attr:
+        data-active: nil
+      source_med:
+        media: "(min-width: 24.625em)"
+        width: 368
+      source_default:
+        width: 184
+    # Half width pictures such as tiles
+    tile:
+      ppi: [1, 1.5, 2]
+      attr:
+        data-location: "{{location}}"
+        data-active: nil
+      source_med:
+        media: "(min-width: 24.625em)"
+        height: 168
+        width: 368
+      source_default:
+        height: 84      
+        width: 184        
+    # Golden width pictures
+    golden:
+      ppi: [1, 1.5, 2]
+      attr:
+        data-location: "{{location}}"
+        data-active: nil
+      source_med:
+        media: "(min-width: 54em)"
+        width: 384
+      source_med1:
+        media: "(min-width: 40em) and (max-width: 53.9375em)"
+        width: 384
+      source_med2:
+        media: "(min-width: 30em) and (max-width: 39.9375em)"
+        width: 221
+      source_med3:
+        media: "(min-width: 25em) and (max-width: 29.9375em)"
+        width: 464
+      source_med4:
+        media: "(min-width: 21em) and (max-width: 24.9375em)"
+        width: 384
+      source_default:
+        width: 320    
+    # Fourth width pictures
+    golden:
+      ppi: [1, 1.5, 2]
+      attr:
+        data-location: "{{location}}"
+        data-active: nil
+      source_med:
+        media: "(min-width: 53em)"
+        width: 154
+      source_med1:
+        media: "(min-width: 40em) and (max-width: 52.9375em)"
+        width: 112
+      source_med2:
+        media: "(min-width: 30em) and (max-width: 39.9375em)"
+        width: 142
+      source_med3:
+        media: "(min-width: 21em) and (max-width: 29.9375em)"
+        width: 222
+      source_default:
+        width: 154 
+    # Self-set resolution sources. Useful if you don't want a 1:1 image size to dppx ratio.
+    gallery:
+      source_wide_hi:
+        media: "(min-width: 40em) and (min-resolution: 1.5dppx)"
+        width: 900
+        height: 600
+      source_wide:
+        media: "(min-width: 40em)"
+        width: 600
+        height: 400
+      source_default:
+        width: 250
+        height: 250

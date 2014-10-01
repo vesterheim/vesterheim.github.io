@@ -1,0 +1,74 @@
+{% capture cache %}
+
+{% capture break %}
+{% endcapture%}
+
+{% assign node_current = site.data.auto_nav | where: 'url', page.url | first %}
+
+{% assign nodes_section = site.data.auto_nav | where: 'root', node_current.root %}
+
+{% assign output = '<nav class="layout__nav--section" role="navigation">' %}
+{% assign output = output | append: break %}	
+{% assign output = output | append: '<ul class="nav nav--stacked  nav--section__wrapper">' %}
+{% assign output = output | append: break %}	
+
+{% for node in nodes_section %}
+	{% assign list_classes = '' %}}
+	{% assign item_classes = '' %}
+	{% assign link_classes = 'nav__link  nav--section__link' %}
+
+	{% assign target = nil %}
+	{% if node.target %}
+		{% assign target = ' target="' | append: node.target | append: '"' %}
+	{% endif%}
+
+	{% if page.url == node.url %}
+		{% assign item_classes = item_classes | append: '  is_active' %}
+	{% endif %}
+
+	{% if node.level == 1 %}
+		{% assign link_classes = link_classes | append: '  nav--section__headline' %}
+	{% else %}
+		{% assign item_classes = item_classes | append: '  nav__item' %}
+		{% assign item_classes = item_classes | append: '  nav--section__item' %}
+	{% endif %}
+	
+	{% capture item %}<li class="{{ item_classes }}"><a class="{{ link_classes }}" href="{{ node.url }}"{{ target }}>{{ node.title  | xml_escape }}</a>{% endcapture %}
+	{% assign output = output | append: item %}
+{% assign output = output | append: break %}	
+
+	{% if node.has_children? %}
+		{% assign list_classes = list_classes | append: 'nav' %}
+		{% assign list_classes = list_classes | append: '  nav--stacked' %}
+		{% assign list_classes = list_classes | append: '  nav-depth--' | append: node.level %}
+		{% if node.level < 2 %}
+			{% assign list_classes = list_classes | append: '  nav--section' %}
+		{% else %}
+			{% assign list_classes = list_classes | append: '  nav--sub' %}
+		{% endif %}
+		{% assign output = output | append: '<ul class="' | append: list_classes | append: '">' %}
+{% assign output = output | append: break %}	
+	{% else %}
+		{% assign output = output | append: '</li>' %}
+{% assign output = output | append: break %}			
+		{% if node.sub_depth > 0 %}
+			{% for i in (1..node.sub_depth) %}
+				{% assign output = output | append: '</ul></li>' %}
+{% assign output = output | append: break %}					
+			{% endfor %}
+		{% endif %}
+	{% endif %}
+{% endfor %}
+
+{% assign output = output | append: '</ul>' %}
+{% assign output = output | append: break %}	
+{% assign output = output | append: '</nav>' %}
+{% assign output = output | append: break %}	
+
+{% assign item = nil %}
+{% assign list_classes = nil %}
+{% assign item_classes = nil %}
+{% assign link_classes = nil %}
+{% assign target = nil %}
+
+{% endcapture %}{{ output }}{% assign output = nil %}{% assign cache = nil %}

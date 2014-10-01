@@ -1,0 +1,66 @@
+---
+layout: page
+published: true
+title: Group Tours
+description:
+keywords:
+hero:
+   image: 16x9/tours/museum--interior--people--tour.jpg
+   alt: 
+   caption:
+tile:
+   image: 46x21/tours/museum--interior--people--tour.jpg
+   alt:
+   caption: 
+navigation:
+   label:
+   order: 30
+   exclude: false
+sitemap:
+   label:
+   exclude: false
+pagelist:
+   label:
+   image:
+   exclude: false  
+search:
+   exclude: false
+related:
+   label:
+   image:
+   alt:
+   description:
+   exclude: false
+---
+Vesterheim welcomes special groups and bus tours!
+-------------------------------------------------
+We offer guided tours of the museum’s Main Building, the Open Air Division, or both. The standard tour for each lasts approximately 60-75 minutes, or we can create a personalized tour program that fits your schedule. We also can arrange a themed tour around a topic like immigration, woodcarving, rosemaling, textiles, or fine art, or a behind-the-scenes tour of one of our state-of-the-art collection storage facilities. **_Just ask!_**
+
+Make group tour reservations
+----------------------------
+563-382-9681 <br />
+[grouptours@vesterheim.org](mailto:grouptours@vesterheim.org)
+
+Vesterheim’s Museum Store is located in the Education Center. If your group would like to visit the store, please let the museum know when you make the reservation for your group visit, so that we can accommodate this into the schedule.
+
+Group Tour Rates
+----------------
+Adults: $8.00 <br />
+Seniors (65+): $7.00 <br />
+Children (7-18): $2.00 <br />
+
+These group rates are available for groups of 15 or more. Advanced reservations made less than a week in advance are subject to an additional $1 per person fee.
+
+Special group tours include general admission to the museum for the entire day. The museum’s Main Building has four floors to explore, including three exhibition galleries that change regularly. Vesterheim also has an Open Air Division located behind the museum’s Main Building. This collection of 12 historic buildings is open from May 1 to October 31.
+
+Bus Parking
+-----------
+For your convenience, disembark at the Bruening Visitor Center on the corner of Water Street and Mechanic Street. Motorcoach parking is located on Mill Street between Water Street and Heivly Street.
+
+Accessibility
+-------------
+All areas of the Main Building, Westby-Torgerson Education Center, Amdal-Odland Heritage Center, and the Bethania Church are wheelchair accessible, but some of the buildings in the Open Air Division are not. We apologize for any inconvenience. Please let us know if any member of your party requires special accommodation or assistance.
+
+Photography
+-----------
+You may take non-flash photos throughout the museum complex for personal, noncommercial use only, and we encourage you to share your favorite shots on Facebook, Flickr, TripAdvisor, Yelp, and other social networking sites. *All flash photography is prohibited and commercial use of images of Vesterheim’s collections or grounds is strictly forbidden without prior written consent.* High-quality images of artifacts are available for a fee. For further information, please contact Alison Dwyer at 563-382-9681, or [adwyer@vesterheim.org](mailto:adwyer@vesterheim.org).
