@@ -1,7 +1,8 @@
 ---
-published: true
+published: false
 layout: page
 title: Four From The North
+subtitle: September 20, 2013 – April 16, 2014
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
@@ -22,8 +23,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-**On view September 20, 2013 - April 16, 2014**
-
 _Four from the North_ is a special exhibition of recent works by four Duluth-area artists: Alison Aune, Ann Jenkins, Ann Klefstad, and Arna Rennan. Their artworks reflect a deep respect and love for the natural world and the ways in which natural motifs have created the traditional patterns of Norway and Minnesota. The artists work in different styles and media, but are united in a shared Nordic aesthetic and a mutual appreciation of heritage.
 
 Alison Aune is a native of Amherst, Massachusetts, where she received her BFA from the University of Massachusetts. She has an MA from the University of Minnesota-Duluth, and a PhD in Comparative Arts from Ohio University. Aune is Professor of art education at the University of Minnesota-Duluth. Her great-grandparents came to Minnesota from arctic Norway and Växjö, Sweden. About her work Aune says, “The patterns that we associate with Scandinavian sweaters and other designs are symbols that have meanings beyond being simply decorative. Repetition imbues symbols with strength and power.”

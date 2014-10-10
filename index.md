@@ -24,10 +24,24 @@ carousel:
       published: true
       start_date:
       stop_date:
-    - image: 16x9/exhibitions/special/four-from-the-north.jpg
-      alt: Four from the North
-      caption: A special exhibition of recent works by four Duluth-area artists.
-      link: /exhibitions/special/four-from-the-north/
+    - image: 25x9/exhibitions/special/a-restored-connection.jpg
+      alt: "A Restored Connection: A Dream of a Cultural Identity"
+      caption: How we define ourselves and the environment around us.
+      link: /exhibitions/special/a-restored-connection/
+      published: true
+      start_date:
+      stop_date:
+    - image: 25x9/exhibitions/special/love-norway-x.jpg
+      alt: Love Norway X
+      caption: Love, mutual acceptance, and compassion.
+      link: /exhibitions/special/love-norway-x/
+      published: true
+      start_date:
+      stop_date:
+    - image: 25x9/exhibitions/special/alt-for-norge.jpg
+      alt: Alt for Norge
+      caption: Memories of _Syttende Mai_ celebrations in Decorah.
+      link: /exhibitions/special/alt-for-norge/
       published: true
       start_date:
       stop_date:
@@ -44,7 +58,7 @@ panels:
     published: true
     start_date: 2014-10-01
     stop_date:
-  - url: /exhibitions/special/favorite-things/
+  - url: /exhibitions/special/a-restored-connection/
     file_under:
     image:
     alt:
@@ -54,5 +68,27 @@ panels:
     teaser:
     published: true
     start_date: 2014-10-01
-    stop_date:                             
+    stop_date:      
+  - url: /exhibitions/special/love-norway-x/
+    file_under:
+    image:
+    alt:
+    caption:
+    title:
+    subtitle:
+    teaser:
+    published: true
+    start_date: 2014-10-01
+    stop_date: 
+  - url: /exhibitions/special/alt-for-norge/
+    file_under:
+    image:
+    alt:
+    caption:
+    title:
+    subtitle:
+    teaser:
+    published: true
+    start_date: 2014-10-01
+    stop_date:
 ---

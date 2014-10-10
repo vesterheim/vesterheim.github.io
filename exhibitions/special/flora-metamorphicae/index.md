@@ -2,10 +2,10 @@
 published: true
 layout: page
 title: Flora Metamorphicae
-subtitle: December 7, 2013 - November 16, 2014
+subtitle: December 7, 2013 – November 16, 2014
 short_title:       # Used when we are short on space
 meta_title:        # Appears on bookmarks, search results, etc...
-meta_description:  # Used in HTML head and as the description for some search engines
+meta_description: Thousands of beautiful and colorful ceramic flowers artfully configured for exhibition.
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
   image: 16x9/exhibitions/special/flora-metamorphicae.jpg
@@ -21,11 +21,9 @@ pagelist:
   alt:
   caption:
   title:         # Defaults to navigation title
-  subtitle: December 7, 2013 - November 16, 2014
+  subtitle: 
   teaser: Come experience _Flora Metamorphicae_, thousands of beautiful and colorful ceramic flowers artfully configured for exhibition at Vesterheim Museum.
 ---
-**On view December 7, 2013 - November 16, 2014**
-
 _Colorful flowers are beautiful and beauty draws attention._<br />
 —Jorunn Veiteberg, PhD, Art Historian
 

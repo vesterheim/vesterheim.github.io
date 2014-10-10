@@ -4,11 +4,12 @@ published: true
 dt_start: 2014-09-12 09:00:00 # datetime the event starts
 dt_end: 2015-04-12 17:00:00 # datetime the event ends
 title: "A Restored Connection: A Dream of a Cultural Identity" # event name (or title)
+subtitle: September 12, 2014 - April 12, 2015
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-  image: 16x9/buildings/main-building--interior.jpg
+  image: 16x9/exhibitions/special/a-restored-connection.jpg
   alt: 
   caption:
 related:
@@ -25,10 +26,10 @@ event_location: # if location in data file, provide details, else simply this.
 
 tags: exhibition
 home:
-  display: true
+  display: false
 pagelist:
   order:         # Defaults to navigation order
-  image: 46x21/buildings/main-building.jpg
+  image: 
   alt:
   caption: 
   title:         # Defaults to navigation title

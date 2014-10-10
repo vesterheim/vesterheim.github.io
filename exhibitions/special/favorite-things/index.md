@@ -1,9 +1,10 @@
 ---
-published: true
+published: false
 layout: page
 title: Favorite Things
+sustitle: January 23 – April 27, 2014
 meta_title:        # Appears on bookmarks, search results, etc...
-meta_description:  # Used in HTML head and as the description for some search engines
+meta_description: Vesterheim’s collections include some remarkable pieces that are not recently on display. We've brought some of them out of storage for a limited time.
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
   image: 16x9/exhibitions/special/favorite-things.jpg
@@ -22,8 +23,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-**On view January 23 - April 27, 2014**
-
 Vesterheim’s collections include some remarkable pieces that are not recently on display. We've brought some of them out of storage for a limited time in the exhibition _Favorite Things_. The exhibition highlights a wide-range of objects, including landscape paintings by Christian Midjo, a fiddle with red devils painted around the edge, a local Decorah-area family heirloom _bunad_ (Norwegian costume), and real oak leaves with intricate etchings. Which will be your favorite?
 
 Like most museums, Vesterheim has many more objects than can be displayed at one given time. When visitors come to the museum, they see about ten percent of the vast collections of over 24,000 objects. The museum’s three storage facilities house the rest of the collections.

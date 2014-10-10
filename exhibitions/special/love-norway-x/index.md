@@ -2,12 +2,12 @@
 published: true
 layout: page
 title: Love Norway X
-subtitle: November 1, 2014 to March 2015
+subtitle: November 1, 2014 – March 2015
 meta_title:        # Appears on bookmarks, search results, etc...
-meta_description:  # Used in HTML head and as the description for some search engines
+meta_description: A special installation of two monumental artworks, a flag sculpture and obelisk, made by Ian Ward Garlant of Hatlestrand, Norway, to celebrate the 200th anniversary of the Norwegian constitution.
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-  image: 
+  image: 16x9/exhibitions/special/love-norway-x.jpg
   alt:
   caption:
 related:
@@ -23,8 +23,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-**November 1, 2014 to March 2015**
-
 This exhibition is a special installation of two monumental artworks, a flag sculpture and obelisk, made by Ian Ward Garlant of Hatlestrand, Norway, to celebrate the 200th anniversary of the Norwegian constitution. The artworks illustrate the principles that the occasion embodies—love, mutual acceptance, and compassion.
 
 Born in 1962 to an English father and Norwegian mother, Garlant left an illustrious career in London’s top fashion houses to dedicate his life to making art full time on Norway’s Hardanger fjord. Working with and within the landscape, Garlant’s creative process involves burning, bathing, and scraping pre-used wood, asphalt, and sand of the fjord to create new sculptural interpretations of ancient earthly monuments. Together with local craftsmen, Garlant has found new ways to use readily available materials, some traditional and others high tech. Utilizing an array of quotations, words, symbols, and patterns culled from both the ancient and the modern, the pieces in this exhibition reflect mankind's continued hopes and wishes to create the best of all possible worlds—a testament to love.
