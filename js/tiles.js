@@ -23,7 +23,7 @@
 (function( w ){
 
   // Enable strict mode
-  "use strict";
+  'use strict';
 
   w.tileEqualHeightRows = function() {
 
@@ -59,26 +59,27 @@
     // the wrapper needs to be position:relative;
     if (js_classes === false) {
       w.addClass(wrappers, 'js__tile__wrapper');
-    }     
+    }
     
     var currentTallest = 0,
     currentRowStart = 0,
-    rowTiles = new Array(),
-    rowTileHeights = new Array(),
+    rowTiles = [],
+    rowTileHeights = [],
     title,
     currentHeight = 0,
     topPosition = 0;
  //     console.log(titles);
     for (var i = 0, il = titles.length; i < il; i++) {
+      var currentTile = 0;
       title = titles[i];
       topPosition = title.offsetTop;
-      if (title.style.height != '' && title.style.height != 'auto') {
-        title.style.height = 'auto';        
+      if (title.style.height !== '' && title.style.height !== 'auto') {
+        title.style.height = 'auto';
       }
-      currentHeight = getHeight(title);
+      currentHeight = w.getHeight(title);
 
-      if(currentRowStart != topPosition) {
-        for (var currentTile = 0 ; currentTile < rowTiles.length ; currentTile++) {
+      if(currentRowStart !== topPosition) {
+        for (currentTile = 0 ; currentTile < rowTiles.length ; currentTile++) {
           if (rowTileHeights[currentTile] < currentTallest) {
             rowTiles[currentTile].style.height = currentTallest + 'px';
           }
@@ -88,14 +89,14 @@
         currentRowStart = topPosition;
         currentTallest = currentHeight;
         rowTiles.push(title);
-        rowTileHeights.push(currentHeight);       
+        rowTileHeights.push(currentHeight);
       }
       else {
-        rowTiles.push(title); 
-        rowTileHeights.push(currentHeight);      
+        rowTiles.push(title);
+        rowTileHeights.push(currentHeight);
         currentTallest = (currentTallest < currentHeight ? currentHeight : currentTallest);
       }
-      for (var currentTile = 0 ; currentTile < rowTiles.length ; currentTile++) {
+      for (currentTile = 0 ; currentTile < rowTiles.length ; currentTile++) {
           if (rowTileHeights[currentTile] < currentTallest) {
             rowTiles[currentTile].style.height = currentTallest + 'px';
           }
@@ -113,20 +114,20 @@
     else if (el.currentStyle) {
       return el.currentStyle[styleProp];
     }
-  }
+  };
 
 
-  w.getHeight = function(el) {   
-    var height = el.offsetHeight;    
+  w.getHeight = function(el) {
+    var height = el.offsetHeight;
     var cssProps = new Array('border-top-width', 'padding-top', 'padding-bottom', 'border-bottom-width');
     for (var i = 0, il = cssProps.length; i < il; i++) {
  //     height -= parseInt(getStyle(el, cssProps[i]), 10);
-      height -= parseFloat(getStyle(el, cssProps[i]));
+      height -= parseFloat(w.getStyle(el, cssProps[i]));
     }
     return height;
   };
 
-  w.removeClass = function(els, cl) {   
+  w.removeClass = function(els, cl) {
     var regex = new RegExp('\\s*\\b' + cl + '\\b', 'gi');
     for (var i = 0, il = els.length; i < il; i++) {
       els[i].className = els[i].className.replace(regex, ' ');
@@ -136,21 +137,21 @@
   w.addClass = function(els, cl) {
     for (var i = 0, il = els.length; i < il; i++) {
       els[i].className += '  ' + cl;
-    }   
-  }
+    }
+  };
     
   // Run on resize and domready (w.load as a fallback)
   if( w.addEventListener ){
-    w.addEventListener( "resize", w.tileEqualHeightRows, false );
-    w.addEventListener( "DOMContentLoaded", function(){
+    w.addEventListener( 'resize', w.tileEqualHeightRows, false );
+    w.addEventListener( 'DOMContentLoaded', function(){
       w.tileEqualHeightRows();
       // Run once only
-      w.removeEventListener( "load", w.tileEqualHeightRows, false );
+      w.removeEventListener( 'load', w.tileEqualHeightRows, false );
     }, false );
-    w.addEventListener( "load", w.tileEqualHeightRows, false );
+    w.addEventListener( 'load', w.tileEqualHeightRows, false );
   }
   else if( w.attachEvent ){
-    w.attachEvent( "onload", w.tileEqualHeightRows );
+    w.attachEvent( 'onload', w.tileEqualHeightRows );
   }
 
 }( this ));

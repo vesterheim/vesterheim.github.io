@@ -1,3 +1,4 @@
+/*global $:false */
 (function(w){
 	var sw = document.body.clientWidth,
 		sh = document.body.clientHeight;

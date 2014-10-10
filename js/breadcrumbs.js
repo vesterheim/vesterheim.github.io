@@ -3,12 +3,14 @@
 (function( w ){
 
 	// Enable strict mode
-	"use strict";
+	'use strict';
 
 	w.breadcrumbs = function() {
 
 		// Get breadcrumbs container
 		var breadcrumbs = document.getElementById('breadcrumbs');
+		var js_breadcrumbs__height;
+		var breadcrumbs__height;
 
 		// If no breadcrumbs container, quit.
 		if (breadcrumbs === null) {
@@ -38,22 +40,22 @@
 		// Get heights for js_breadcrumbs__item and sans 
 		// js_breadcrumbs__item versions and make a note
 		// if js_breadcrumbs__item is set or not.
-		if (js_breadcrumbs === true) {		
+		if (js_breadcrumbs === true) {
 
-			var js_breadcrumbs__height = breadcrumbs.offsetHeight;
+			js_breadcrumbs__height = breadcrumbs.offsetHeight;
 
 			w.removeClassJS(breadcrumbs_items);
 			js_breadcrumbs = false;
 
-			var breadcrumbs__height = breadcrumbs.offsetHeight;
+			breadcrumbs__height = breadcrumbs.offsetHeight;
 		}
 		else {
-			var breadcrumbs__height = breadcrumbs.offsetHeight;
+			breadcrumbs__height = breadcrumbs.offsetHeight;
 
 			w.addClassJS(breadcrumbs_items);
 			js_breadcrumbs = true;
 
-			var js_breadcrumbs__height = breadcrumbs.offsetHeight;
+			js_breadcrumbs__height = breadcrumbs.offsetHeight;
 		}
 
 		// If js_breadcrumbs__item is set and it wraps, 
@@ -70,7 +72,7 @@
 	};
 
 	// Convenience functions
-	w.removeClassJS = function(els) {		
+	w.removeClassJS = function(els) {
 		for (var i = 0, il = els.length; i < il; i++) {
 			els[i].className = els[i].className.replace(/\s*\bjs__breadcrumbs__item\b/gi, ' ');
 		}
@@ -79,21 +81,21 @@
 	w.addClassJS = function(els) {
 		for (var i = 0, il = els.length; i < il; i++) {
 			els[i].className += '  js__breadcrumbs__item';
-		}		
-	}
+		}
+	};
 		
 	// Run on resize and domready (w.load as a fallback)
 	if( w.addEventListener ){
-		w.addEventListener( "resize", w.breadcrumbs, false );
-		w.addEventListener( "DOMContentLoaded", function(){
+		w.addEventListener( 'resize', w.breadcrumbs, false );
+		w.addEventListener( 'DOMContentLoaded', function(){
 			w.breadcrumbs();
 			// Run once only
-			w.removeEventListener( "load", w.breadcrumbs, false );
+			w.removeEventListener( 'load', w.breadcrumbs, false );
 		}, false );
-		w.addEventListener( "load", w.breadcrumbs, false );
+		w.addEventListener( 'load', w.breadcrumbs, false );
 	}
 	else if( w.attachEvent ){
-		w.attachEvent( "onload", w.breadcrumbs );
+		w.attachEvent( 'onload', w.breadcrumbs );
 	}
 
 }( this ));
