@@ -1,0 +1,111 @@
+{% assign current_time =  site.time | date: "%s" %}
+{% assign current_year =  site.time | date: "%Y" %}
+{% assign current_month =  site.time | date: "%Y%m" %}
+{% assign current_day =  site.time | date: "%Y%m%d" %}
+
+{% for event in site.posts reversed %}
+	{% assign event_date =  event.date | date: "%s" %}
+	{% assign event_start =  nil %}
+	{% assign event_end = nil %}
+
+	{% assign event_date_display = 'not set' %}
+	{% assign event_time_display = 'not set' %}
+
+	{% if event.dt_start %}
+		{% assign event_start =  event.dt_start | date: "%s" %}
+	{% endif %}
+	{% if event.dt_end %}	
+		{% assign event_end =  event.dt_end | date: "%s" %}		
+	{% endif %}
+
+	{% assign display = nil %}
+	{% if event_date >= current_time %}
+		{% assign display = true %}
+	{% elsif event_start >= current_time %}	
+		{% assign display = true %}
+	{% elsif event_end >= current_time %}	
+		{% assign display = true %}
+	{% endif %}	
+
+	{% if display %}
+		{% if event.all_day == true or event.dt_start == null and event.dt_end == null %}
+			<strong>All Day: Show Museum Hours</strong>
+			{% capture event_date_display %}{{ event.date | date: "%B %-d, %Y" }}{% endcapture %}
+			{% capture event_time_display %}9:00AM–5:00PM{% endcapture %}
+		{% elsif event.dt_start and event.dt_end == null %}
+			<strong>Has Start: show one date and time</strong>
+			{% capture event_date_display %}{{ event.dt_start | date: "%B %-d, %Y" }}{% endcapture %}
+			{% capture event_time_display %}{{ event.dt_start | date: "%I:%M%p" }}{% endcapture %}
+		{% elsif event.dt_start and event.dt_end %}
+			<strong>Has Start &amp; End</strong>
+			{% assign event_start =  event.dt_start | date: "%s" %}
+			{% assign event_start_day =  event.dt_start | date: "%Y%m%d" %}
+			{% assign event_start_month =  event.dt_start | date: "%Y%m" %}
+			{% assign event_start_year =  event.dt_start | date: "%Y" %}
+			{% assign event_end =  event.dt_end | date: "%s" %}
+			{% assign event_end_day = event.dt_end | date: "%Y%m%d" %}
+			{% assign event_end_month =  event.dt_end | date: "%Y%m" %}
+			{% assign event_end_year =  event.dt_end | date: "%Y" %}
+			{% if event_start_day == event_end_day %}
+				<em>Single day event. Show one date and two times</em>
+				{% capture event_date_display %}{{ event.dt_start | date: "%B %-d, %Y" }}{% endcapture %}
+				{% capture event_time_display %}{{ event.dt_start | date: "%I:%M%p" }}–{{ event.dt_end | date: "%I:%M%p" }}{% endcapture %}				
+			{% elsif event_start_month == event_end_month%}
+				<em>Multiple Days. Same Month Show. Show Museum Hours</em>
+				{% capture event_date_display %}{{ event.dt_start | date: "%B %-d" }}–{{ event.dt_end | date: "%-d, %Y" }}{% endcapture %}
+				{% capture event_time_display %}9:00AM–5:00PM{% endcapture %}					
+			{% elsif event_start_year == event_end_year %}			
+				<em>Multiple Days. Multiple Months. Same Year. Show Museum Hours</em>
+				{% capture event_date_display %}{{ event.dt_start | date: "%B %-d" }}–{{ event.dt_end | date: "%B %-d, %Y" }}{% endcapture %}	
+				{% capture event_time_display %}9:00AM–5:00PM{% endcapture %}			
+			{% else %}	
+				<em>Multiple Days. Multiple Months. Multiple Years. Show Museum Hours</em>
+				{% capture event_date_display %}{{ event.dt_start | date: "%B %-d, %Y" }}–{{ event.dt_end | date: "%B %-d, %Y" }}{% endcapture %}
+				{% capture event_time_display %}9:00AM–5:00PM{% endcapture %}
+			{% endif%}
+		{% endif %}
+
+
+	
+	
+
+
+<article class="panel-calendar__event  h-event">
+	<a class="panel-calendar__event__link  u-url" href="{{ event.url }}">
+		<figure class="panel-calendar__event__photo  u-photo">
+		</figure>
+		<h1 class="title  panel-calendar__event__title  p-name">{{ event.title | markdownify | remove: '<p>' | remove: '</p>' }}</h1>
+		<h2 class="subtitle  panel-calendar__event__date">{{ event_date_display }}</h2>
+		<div class="panel-calendar__event__time">{{ event_time_display }}</div>
+		<p class="more  panel-calendar__event__more">Read more</p>
+	</a>
+</article>		
+{% endif %}
+{% endfor %}
+{% comment %}
+Set total length to default number or 2 * number of panels
+<article class="panel-calendar__event  h-event">
+	<a class="panel-calendar__event__link  u-url" href="#">
+		<figure class="panel-calendar__event__photo  u-photo">
+		<span data-picture="" data-alt="16x9 Image">
+		    <span data-src="../../images/fpo_16x9-320.png"></span>
+		    <span data-src="../../images/fpo_16x9-640.png" data-media="(min-device-pixel-ratio: 2.0)"></span>
+		    <span data-src="../../images/fpo_16x9-640.png" data-media="(min-width: 320px)"></span>
+		    <span data-src="../../images/fpo_16x9-1280.png" data-media="(min-width: 320px) and (min-device-pixel-ratio: 2.0)"></span>
+		    <span data-src="../../images/fpo_16x9-1280.png" data-media="(min-width: 640px)"><img alt="16x9 Image" src="../../images/fpo_16x9-1280.png"></span>
+		    <span data-src="../../images/fpo_16x9-2560.png" data-media="(min-width: 640px) and (min-device-pixel-ratio: 2.0)"></span>
+			<!--[if (lt IE 9) & (!IEMobile)]>
+				<span data-src="../../images/fpo_16x9-640.png"></span>
+			<![endif]-->
+		    <!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+		    <noscript>
+		        &lt;img src="../../images/fpo_16x9-320.png" alt="16x9 Image"&gt;
+		    </noscript>
+		</span>								</figure>
+		<h1 class="title  panel-calendar__event__title  p-name">Performance by members of the band Bjärv</h1>
+		<h2 class="subtitle  panel-calendar__event__date">June 14, 2013</h2>
+		<div class="panel-calendar__event__time"><time class="dt-start" datetime="2013-06-14 17:00">5:00pm</time> - <time class="dt-start" datetime="2013-06-14 20:00">8:00pm</time></div>
+		<p class="more  panel-calendar__event__more">Reserve a Spot</p>
+	</a>
+</article>
+{% endcomment %}						

@@ -1,0 +1,129 @@
+{% capture panel_cache %}
+    {% assign current_time =  site.time | date: "%s" %}
+    {% assign start_date = nil %}
+    {% assign stop_date = nil %}
+    {% assign display = true %}
+    {% if panel.published == false %}
+        {% assign display = false %}
+    {% endif %}
+    {% if panel.start_date %}
+        {% assign start_date = panel.start_date | date: "%s" %}
+        {% if start_date > current_time %}
+            {% assign display = false %}
+        {% endif %}
+    {% endif %}
+    {% if panel.stop_date %}
+        {% assign stop_date = panel.stop_date | date: "%s" %}
+        {% if current_time > stop_date %}
+            {% assign display = false %}
+        {% endif %}    
+    {% endif %}
+    {% assign panel_output = '' %}
+    {% if display %}
+        {% assign panel_page = site.pages | where:'url', panel.url | first %}
+        {% if panel_page %}
+
+            {% if panel.file_under %}
+                {% assign panel_file_under = panel.file_under %}
+            {% else %}
+                {% assign panel_root_url =  site.data.auto_nav_hash[panel_page.url]['root'] %}
+                {% assign panel_file_under = site.data.auto_nav_hash[panel_root_url]['title'] %}
+                }
+            {% endif %}
+        
+            {% if panel.image %}
+                {% assign panel_image = panel.image %}
+            {% elsif panel_page.hero.image %}
+                {% assign panel_image = panel_page.hero.image %}
+            {% endif %}
+            {% if panel.image %}
+                {% if panel.alt %}
+                    {% assign panel_alt = panel.alt %}
+                {% elsif panel_page.hero.alt %}
+                    {% assign panel_alt = panel_page.hero.alt %}
+                {% endif %}
+                {% if panel.caption %}
+                    {% assign panel_caption = panel.caption %}
+                {% elsif panel_page.hero.caption %}
+                    {% assign panel_caption = panel_page.hero.caption %}
+                {% endif %}                
+            {% endif %}
+        
+            {% if panel.title %}
+                {% assign panel_title = panel.title %}
+            {% elsif panel_page.pagelist.title %}
+                {% assign panel_title = panel_page.pagelist.title %}
+            {% elsif panel_page.title %}
+                {% assign panel_title = panel_page.title %}
+            {% endif %}  
+        
+            {% if panel.subtitle == false %}
+                {% assign panel_subtitle = nil %}
+            {% elsif panel.subtitle %}
+                {% assign panel_subtitle = panel.subtitle %}
+            {% elsif panel_page.pagelist.subtitle %}
+                {% assign panel_subtitle = panel_page.pagelist.subtitle %}                
+            {% elsif panel_page.subtitle %}
+                {% assign panel_subtitle = panel_page.subtitle %}
+            {% endif %} 
+        
+            {% if panel.teaser %}
+                {% assign panel_teaser = panel.teaser %}
+            {% elsif panel_page.pagelist.teaser %}
+                {% assign panel_teaser = panel_page.pagelist.teaser %}
+            {% elsif panel_page.teaser %}
+                {% assign panel_teaser = panel_page.teaser %}
+            {% endif %}                          
+            
+            {% assign panel_output = panel_output | append: '<article class="h-entry  panel  panel-default">' %}
+            {% capture panel_capture %}<a class="u-url  panel__lining  panel__lining--padding-bottom" href="{{ panel_page.url }}">{% endcapture %}
+            {% assign panel_output = panel_output | append: panel_capture %}
+            {% if panel_image %}
+                {% assign panel_output = panel_output | append: '<figure class="u-photo">' %}
+                {% capture panel_capture %}{% picture panel {{ panel_image }} alt="{{ panel_alt }}" %}{% endcapture %}
+                {% assign panel_output = panel_output | append: panel_capture %}
+                {% assign panel_output = panel_output | append: '</figure>' %}
+            {% endif %}
+            {% assign panel_output = panel_output | append: '<div class="panel__body">' %}
+            {% assign panel_output = panel_output | append: '<header class="home-block__header">' %}
+            {% assign panel_output = panel_output | append: '<h1 class="p-name  title  title--main">' %}
+            {% capture panel_capture %}{{ panel_title | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
+            {% assign panel_output = panel_output | append: panel_capture %}
+            {% assign panel_output = panel_output | append: '</h1>' %}
+            {% if panel_subtitle %}
+                {% assign panel_output = panel_output | append: '<h2 class="subtitle  subtitle--main">' %}
+                {% capture panel_capture %}{{ panel_subtitle | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
+                {% assign panel_output = panel_output | append: panel_capture %}
+                {% assign panel_output = panel_output | append: '</h2>' %}
+            {% endif %}
+            {% assign panel_output = panel_output | append: '</header>' %}
+            {% if panel_teaser %}
+                {% assign panel_output = panel_output | append: '<p class="p-summary  summary  text">' %}
+                {% capture panel_capture %}{{ panel_teaser | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
+                {% assign panel_output = panel_output | append: panel_capture %}
+                {% assign panel_output = panel_output | append: '</p>' %}
+            {% endif %}
+            {% assign panel_output = panel_output | append: '<div class="panel__heading  panel__heading--orange"><span class="dontshow">File Under: </span><span class="category  p-category  panel__title">' %}
+            {% assign panel_output = panel_output | append: panel_file_under %}
+            {% assign panel_output = panel_output | append: '</span></div>' %}
+            {% assign panel_output = panel_output | append: '<p class="more  home-block__more">Read More</p>' %}
+            {% assign panel_output = panel_output | append: '</div>' %}
+            {% assign panel_output = panel_output | append: '</a>' %}
+            {% assign panel_output = panel_output | append: '</article>' %}
+        {% endif %}   
+    {% endif %}
+    {% assign current_time = nil %}
+    {% assign start_date = nil %}
+    {% assign stop_date = nil %}
+    {% assign display = nil %}
+    {% assign panel_page = nil %}
+    {% assign panel_root_url = nil %}
+    {% assign panel_file_under = nil %}
+    {% assign panel_image = nil %}
+    {% assign panel_alt = nil %}
+    {% assign panel_caption = nil %}
+    {% assign panel_title = nil %}
+    {% assign panel_subtitle = nil %}
+    {% assign panel_teaser = nil %}
+    {% assign panel_capture = nil %}
+{% endcapture %}{% assign panel_cache = nil %}{{ panel_output }}{% assign panel_output = nil %}

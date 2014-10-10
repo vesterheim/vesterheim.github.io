@@ -1,0 +1,62 @@
+{% capture carousel_slide_cache %}
+    {% assign display = true %}
+    {% if carousel_slide.published == false %}
+        {% assign display = false %}
+    {% endif %}
+    {% if carousel_slide.start_date %}
+        {% assign start_date = carousel_slide.start_date | date: "%s" %}
+        {% if start_date > current_time %}
+            {% assign display = false %}
+        {% endif %}
+    {% endif %}
+    {% if carousel_slide.stop_date %}
+        {% assign stop_date = carousel_slide.stop_date | date: "%s" %}
+        {% if current_time > stop_date %}
+            {% assign display = false %}
+        {% endif %}    
+    {% endif %}
+    {% assign carousel_slide_output = '' %}
+    {% if display %}
+        {% if carousel_slide.image %}
+			{% assign carousel_slide_alt = carousel_slide.alt | xml_escape %}
+			{% assign carousel_slide_output = carousel_slide_output | append: '<li class="layout__carousel__item  carousel__item">' %}
+			{% if carousel_slide.link %}
+				{% assign carousel_slide_output = carousel_slide_output | append: '<a class="layout__carousel__lining" href="' | append: carousel_slide.link | append: '">' %}
+			{% else %}
+				{% assign carousel_slide_output = carousel_slide_output | append: '<div class="layout__carousel__lining">' %}
+			{% endif %}
+			{% assign carousel_slide_output = carousel_slide_output | append: '<figure class="layout__carousel__image__wrapper">' %}
+			{% capture carousel_slide_capture %}{% picture {{ carousel_ratio }} {{ carousel_slide.image }} alt="{{ carousel_slide_alt }}" %}{% endcapture %}
+			{% assign carousel_slide_output = carousel_slide_output | append: carousel_slide_capture %}
+            {% assign carousel_slide_output = carousel_slide_output | append: '</figure>' %}
+        
+			{% assign carousel_slide_output = carousel_slide_output | append: '<div class="layout__page  layout__page--padded--min-medium-width layout__carousel__caption">' %}
+			{% assign carousel_slide_output = carousel_slide_output | append: '<div class="carousel__caption  layout__page--padded--max-medium-width">' %}
+			{% if carousel_slide.caption %}
+	            {% assign carousel_slide_caption = carousel_slide.caption | markdownify | remove: '<p>' | remove: '</p>' %}
+				{% assign carousel_slide_output = carousel_slide_output | append: '<span class="carousel__caption__text">' %}
+				{% assign carousel_slide_output = carousel_slide_output | append: carousel_slide_caption %}
+				{% assign carousel_slide_output = carousel_slide_output | append: '</span>' %}
+			{% endif %}
+			{% if carousel_slide.link %}
+				{% assign carousel_slide_output = carousel_slide_output | append: '<div class="carousel__more__wrapper"><span class="home__carousel__button"><span class="carousel__more">Read More</span></span></div>' %}
+			{% endif %}
+			{% assign carousel_slide_output = carousel_slide_output | append: '</div>' %} 
+			{% assign carousel_slide_output = carousel_slide_output | append: '</div>' %} 
+			{% if carousel_slide.link %}
+				{% assign carousel_slide_output = carousel_slide_output | append: '</a>' %}
+			{% else %}
+				{% assign carousel_slide_output = carousel_slide_output | append: '</div>' %}
+			{% endif %}
+			{% assign carousel_slide_output = carousel_slide_output | append: '</li>' %}
+		{% endif %}
+	{% endif %}
+    {% assign current_time = nil %}
+    {% assign start_date = nil %}
+    {% assign stop_date = nil %}
+    {% assign display = nil %}
+    {% assign carousel_slide_image = nil %}
+    {% assign carousel_slide_alt = nil %}
+    {% assign carousel_slide_caption = nil %}
+    {% assign carousel_slide_capture = nil %}
+{% endcapture %}{% assign carousel_slide_cache = nil %}{{ carousel_slide_output }}{% assign carousel_slide_output = nil %}

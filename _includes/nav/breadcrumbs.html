@@ -21,7 +21,7 @@
 		{% assign node = site.data.auto_nav | where: 'url', ancestor | first %}
 		{% endcomment %}
 		{% assign node = site.data.auto_nav_hash[ancestor] %}
-		{% assign title = node.title %}
+		{% assign title = node.title | markdownify | remove: '<p>' | remove: '</p>'  %}
 		{% assign url = node.url %}
 	{% endif %}
 	{% assign item_classes = item_classes_default %}
@@ -32,7 +32,7 @@
 	{% if forloop.last %}
 		{% assign item_classes = item_classes | append: '  breadcrumbs__item--penultimate' %}
 	{% endif %}
-	{% capture item %}<li class="{{ item_classes }}"><a class="{{ link_classes }}" href="{{ url }}"{{ target }}>{{ title | xml_escape }}</a></li>{% endcapture %}
+	{% capture item %}<li class="{{ item_classes }}"><a class="{{ link_classes }}" href="{{ url }}"{{ target }}>{{ title }}</a></li>{% endcapture %}
 	{% assign output = output | append: item %}
 	{% assign title = nil %}
 	{% assign url = nil %}
@@ -40,7 +40,7 @@
 {% assign item_classes = item_classes_default %}
 {% assign link_classes = link_classes_default %}
 {% assign item_classes = item_classes | append: '  breadcrumbs__item--last' %}
-{% capture item %}<li class="{{ item_classes }}">{{ page.title | xml_escape }}</li>{% endcapture %}
+{% capture item %}<li class="{{ item_classes }}">{{ page.title | markdownify | remove: '<p>' | remove: '</p>' }}</li>{% endcapture %}
 {% assign output = output | append: item %}
 {% assign output = output | append: '</ul>' %}
 

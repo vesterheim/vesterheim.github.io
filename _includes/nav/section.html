@@ -33,7 +33,7 @@
 		{% assign item_classes = item_classes | append: '  nav--section__item' %}
 	{% endif %}
 	
-	{% capture item %}<li class="{{ item_classes }}"><a class="{{ link_classes }}" href="{{ node.url }}"{{ target }}>{{ node.title  | xml_escape }}</a>{% endcapture %}
+	{% capture item %}<li class="{{ item_classes }}"><a class="{{ link_classes }}" href="{{ node.url }}"{{ target }}>{{ node.title  | markdownify | remove: '<p>' | remove: '</p>' }}</a>{% endcapture %}
 	{% assign output = output | append: item %}
 {% assign output = output | append: break %}	
 

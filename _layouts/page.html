@@ -12,7 +12,7 @@ layout: base
                         <div class="layout__main--constrained  text">
 {{ content }}                        
                         </div>
-{% if page.include_tiles %}{% include tiles.html %}{% endif %}
+{% if page.show_pagelist_menu %}{% include nav/pagelist-tiles.html %}{% endif %}
                     </div>
                 </div>
             </div>

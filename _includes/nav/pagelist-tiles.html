@@ -5,11 +5,19 @@
 
 {% for tile in tiles %}
 	{% assign tile_url = tile.url %}
-	{% assign tile_title = tile.title | markdownify | remove: '<p>' | remove: '</p>' %}
+	{% if tile.pagelist.title %}
+		{% assign tile_title = tile.pagelist.title | markdownify | remove: '<p>' | remove: '</p>'   %}
+	{% elsif tile.navigation.title  %}
+		{% assign tile_title = tile.navigation.title | markdownify | remove: '<p>' | remove: '</p>'   %}
+	{% elsif tile.short_title  %}
+		{% assign tile_title = tile.short_title | markdownify | remove: '<p>' | remove: '</p>'   %}
+	{% else %}
+		{% assign tile_title = tile.title %}
+	{% endif %}
 	{% assign tile_page = site.pages | where: 'url', tile_url | first %}
-	{% if tile_page.tile.image %}
-		{% assign tile_src =  tile_page.tile.image %}
-		{% assign tile_alt =  tile_page.tile.alt | strip_html | xml_escape %}
+	{% if tile_page.pagelist.image %}
+		{% assign tile_src =  tile_page.pagelist.image %}
+		{% assign tile_alt =  tile_page.pagelist.alt | strip_html | xml_escape %}
 	{% elsif tile_page.hero.image %}
 		{% assign tile_src =  tile_page.hero.image %}
 		{% assign tile_alt =  tile_page.hero.alt | strip_html | xml_escape %}
@@ -18,7 +26,7 @@
 		{% assign tile_alt = '' %}
 	{% endif %}
 	
-	{% capture tile_capture %}{% include image--tile.html %}{% endcapture %}	
+	{% capture tile_capture %}{% include images/tile.html %}{% endcapture %}	
 	{% assign tiles_output = tiles_output | append: tile_capture %}
 {% endfor %}
 

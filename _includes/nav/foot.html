@@ -14,7 +14,7 @@
 	{% if node.target %}
 		{% assign target = ' target="' | append: node.target | append: '"' %}
 	{% endif%}
-	{% capture item %}<li class="{{ item_classes }}"><a class="{{ link_classes }}" href="{{ node.url}}"{{ target }}>{{ node.title | xml_escape }}</a></li>{% endcapture %}
+	{% capture item %}<li class="{{ item_classes }}"><a class="{{ link_classes }}" href="{{ node.url}}"{{ target }}>{{ node.title  | markdownify | remove: '<p>' | remove: '</p>' }}</a></li>{% endcapture %}
 	{% assign output = output | append: item %}
 {% endfor %}
 
