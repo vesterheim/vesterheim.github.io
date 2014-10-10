@@ -1,0 +1,75 @@
+tags: 
+  - exhibition
+  - family
+  - member
+  - free
+  - preformance
+  - screening
+  - talk
+  - other
+  - class
+  - demonstration
+  - reception
+  - youth
+  - workshop
+  - tour
+
+
+
+
+---
+published: true
+layout: page
+title:
+subtitle: 
+short_title:       # Used when we are short on space
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+hero:
+  image:
+  alt:
+  caption:
+# Ratio: 25:9 | Recommended: 2400px by 864px | Minimum: 1200px by 432px
+# Ratio: 25:9 | Recommended: 1492px by 538px | Minimum: 746px by 269px
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+carousel:
+  ratio:          # 'carousel' or 'hero'. Defaults to 'carousel'
+  slides:
+    - image:
+  alt:
+  caption:
+      link:
+      exclude: false
+      start_date:
+      stop_date:
+
+show_pagelist_menu: false
+
+related:
+# How and if the page is displayed in listing contexts
+navigation:
+  exclude: false
+  order:         # Defaults to 1000
+  title:         # Defaults to short title
+breadcrumbs:
+  title:         # Defaults to navigation title
+pagelist:
+  exclude: false
+  order:         # Defaults to navigation order  
+  image:         # Defaults to cropped page hero image
+  alt:
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description
+sitemap:
+  exclude: false
+  title:         # Defaults to page title
+search:
+  exclude: false
+
+categories:
+tags:
+---
