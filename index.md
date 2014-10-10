@@ -53,7 +53,7 @@ panels:
     alt:
     caption:
     title:
-    subtitle: false
+    subtitle:
     teaser:
     published: true
     start_date: 2014-10-01

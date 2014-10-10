@@ -73,6 +73,8 @@
                 {% assign panel_teaser = panel_page.pagelist.teaser %}
             {% elsif panel_page.teaser %}
                 {% assign panel_teaser = panel_page.teaser %}
+            {% elsif panel_page.meta_description %}
+                {% assign panel_teaser = panel_page.meta_description %}                
             {% endif %}                          
             
             {% assign panel_output = panel_output | append: '<article class="h-entry  panel  panel-default">' %}
@@ -98,7 +100,7 @@
             {% endif %}
             {% assign panel_output = panel_output | append: '</header>' %}
             {% if panel_teaser %}
-                {% assign panel_output = panel_output | append: '<p class="p-summary  summary  text">' %}
+                {% assign panel_output = panel_output | append: '<p class="p-summary  summary  text  main-content">' %}
                 {% capture panel_capture %}{{ panel_teaser | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
                 {% assign panel_output = panel_output | append: panel_capture %}
                 {% assign panel_output = panel_output | append: '</p>' %}
