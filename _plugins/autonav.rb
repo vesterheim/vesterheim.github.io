@@ -66,15 +66,15 @@ module Jekyll
 			isnt_navigable = 
 				get_label(page) == nil ||
 				/^\/(?:index.html?)?$/ =~ page['url'] ||
-				navigation['exclude'] == true ||
+#				navigation['exclude'] == true ||
 				page['published'] == false ||
 				page['published'] == 'draft'
-				! isnt_navigable
+			! isnt_navigable
 		end
 
 		def get_label(page)
 			navigation = page['navigation'] || {}
-			navigation['label'] || navigation['title'] || page['title']
+			navigation['title'] || navigation['short_title'] || page['title']
 		end	
 
 		def get_geneology_hash(page, pages)	
