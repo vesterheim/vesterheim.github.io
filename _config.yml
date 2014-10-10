@@ -7,12 +7,32 @@ url: "http://vesterheim.githib.io"
 twitter_username: jekyllrb
 github_username:  jekyll
 
+timezone: America/Chicago
+
 gems:
   - jekyll-redirect-from
   
 # Build settings
 markdown: kramdown
 permalink: pretty
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+#      permalink: /events/calendar/:year/:month/:day/:title/ # I wish this worked as I had expected
+      categories: events calendar # Ugly hack: don't touch!
+      layout: post
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page      
+
+#permalink: /events/calendar/:year/:month/:day/:title/
+#permalink: /:path/:year/:month/:day/:title/
 
 # Markdown Processors
 kramdown:
@@ -32,20 +52,19 @@ kramdown:
     coderay_tab_width:         4
     coderay_bold_every:        10
     coderay_css:               style
-
-image:
-  source: assets/images/_fullsize
-  output: generated
-  presets:
-    # Proportional preset
-    users:
-      attr:
-        class: user-portrait
-        itemprop: image
-      width: 350
-    # Scaled and cropped preset
-    half:
-      width: 400
+  image: 
+    source: assets/images/_fullsize
+    output: generated
+    presets:
+      # Proportional preset
+      users:
+        attr:
+          class: user-portrait
+          itemprop: image
+        width: 350
+      # Scaled and cropped preset
+      half:
+        width: 400
       height: 400
 
 picture:
@@ -91,7 +110,94 @@ picture:
         width: 416
       source_default:
         width: 320      
-    # Half width pictures such as tiles
+    # Home Page Panel Images
+    panel:
+      ppi: [1, 1.5, 2]
+      attr:
+        data-location: "{{location}}"
+        data-active: nil
+      source_lrg:
+        media: "(min-width: 64em)"
+        width: 490
+      source_med1:
+        media: "(min-width: 59em) and (max-width: 63.9375em)"
+        width: 465
+      source_med2:
+        media: "(min-width: 55em) and (max-width: 58.9375em)"
+        width: 376
+      source_med3:
+        media: "(min-width: 50em) and (max-width: 54.9375em)"
+        width: 348
+      source_med4:
+        media: "(min-width: 42em) and (max-width: 49.9375em)"
+        width: 312
+      source_med5:
+        media: "(min-width: 40em) and (max-width: 41.9375em)"
+        width: 204
+      source_med6:
+        media: "(min-width: 38em) and (max-width: 39.9375em)"
+        width: 608
+      source_med7:
+        media: "(min-width: 33em) and (max-width: 37.9375em)"
+        width: 576
+      source_med8:
+        media: "(min-width: 28em) and (max-width: 32.9375em)"
+        width: 496
+      source_med9:
+        media: "(min-width: 21em) and (max-width: 27.9375em)"
+        width: 432
+      source_default:
+        width: 320  
+    # Home Page Panel Images
+    carousel:
+      ppi: [1, 1.5, 2]
+      attr:
+        data-location: "{{location}}"
+        data-active: nil
+      source_lrg:
+        media: "(min-width: 64em)"
+        height: 432
+        width: 1200
+      source_med1:
+        media: "(min-width: 59em) and (max-width: 63.9375em)"
+        height: 432
+        width: 1200
+      source_med2:
+        media: "(min-width: 55em) and (max-width: 58.9375em)"
+        height: 432
+        width: 1200
+      source_med3:
+        media: "(min-width: 50em) and (max-width: 54.9375em)"
+        height: 432
+        width: 1200
+      source_med4:
+        media: "(min-width: 42em) and (max-width: 49.9375em)"
+        height: 432
+        width: 1200
+      source_med5:
+        media: "(min-width: 40em) and (max-width: 41.9375em)"
+        height: 432
+        width: 1200
+      source_med6:
+        media: "(min-width: 38em) and (max-width: 39.9375em)"
+        height: 432
+        width: 1200
+      source_med7:
+        media: "(min-width: 33em) and (max-width: 37.9375em)"
+        height: 432
+        width: 1200
+      source_med8:
+        media: "(min-width: 28em) and (max-width: 32.9375em)"
+        height: 216
+        width: 600
+      source_med9:
+        media: "(min-width: 21em) and (max-width: 27.9375em)"
+        height: 216
+        width: 600
+      source_default:
+        height: 108
+        width: 320      
+   # Half width pictures such as tiles
     half:
       ppi: [1, 1.5, 2]
       attr:
@@ -138,7 +244,7 @@ picture:
       source_default:
         width: 320    
     # Fourth width pictures
-    golden:
+    fourth:
       ppi: [1, 1.5, 2]
       attr:
         data-location: "{{location}}"
