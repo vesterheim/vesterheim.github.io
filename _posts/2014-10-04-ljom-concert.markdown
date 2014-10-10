@@ -1,8 +1,7 @@
 ---
-layout: post
+published: true
 title:  "Ljom Concert"
 date:   2014-10-04 19:00:00
-categories: music
 description: From 7:00-9:00 p.m., free show in the Hotel Winneshiek Lobby with full menu and bar available. Nordic Roots music—traditional Norwegian mountain melodies with influences of jazz, rock, classical, contemporary, and world music.
 ---
 From 7:00-9:00 p.m., free show in the Hotel Winneshiek Lobby with full menu and bar available. Nordic Roots music—traditional Norwegian mountain melodies with influences of jazz, rock, classical, contemporary, and world music.

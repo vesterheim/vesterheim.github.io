@@ -1,7 +1,7 @@
 ---
 published: true
-title:  "Love Norway X"
-dt_start: 2014-11-01 10:00:00 # datetime the event starts
+title:  "Chicago Norske Klub"
+dt_start: 2014-12-06 10:00:00 # datetime the event starts
 dt_end: 2015-03-30 16:00:00 # datetime the event ends
 
 tags: exhibition

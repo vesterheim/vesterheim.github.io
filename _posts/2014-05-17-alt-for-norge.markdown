@@ -1,10 +1,9 @@
 ---
 published: true
-all_day: false # If true, ignore times?
-dt_start: 2014-10-17 17:00:00 -05:00 # datetime the event starts
-dt_end: 2014-10-17 19:00:00 -05:00 # datetime the event ends
-dt_duration: # duration of the event.  Do we need it?
-title: _Flora_ Finale # event name (or title)
+#all_day: false # If true, ignore times?
+dt_start: 2014-05-17 10:00:00 -05:00 # datetime the event starts
+dt_end: 2015-04-16 16:00:00 -05:00 # datetime the event ends
+title: "Alt for Norge: Celebrating 200 Years of the Norwegian Constitution" # event name (or title)
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
@@ -24,6 +23,7 @@ event_location: # if location in data file, provide details, else simply this.
 # need option for when museum is closed. Show no events.
 # todo: need option to group dates or times for Barnetimin or Dag talks during Nordic Fest?
 
+tags: exhibition
 home:
   display: true
 pagelist:

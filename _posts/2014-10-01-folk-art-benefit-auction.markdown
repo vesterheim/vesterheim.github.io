@@ -1,8 +1,31 @@
 ---
-layout: post
-title:  "Folk Art Benefit Auction"
+published: true
 date:   2014-10-01 12:00:00
-categories: 
+end: 2015-09-19 20:30:00
+allday: true 
+
+title:  Folk Art Benefit Auction
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+categories:
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+hero:
+  image: 16x9/buildings/main-building--interior.jpg
+  alt: 
+  caption:
+related:
+
+tags: other
+navigation:
+  order: 10
+pagelist:
+  order:         # Defaults to navigation order
+  image: 46x21/buildings/main-building.jpg
+  alt:
+  caption: 
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description
 ---
 This year’s auction will be completely online. Preview auction items [here](https://www.biddingforgood.com/auction/auctionhome.action?vhost=VEST-2014).
 

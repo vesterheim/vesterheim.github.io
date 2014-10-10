@@ -1,8 +1,7 @@
 ---
-layout: post
+published: true
 title:  "When Disney Called"
 date:   2014-10-18 11:30:00
-categories: jekyll update yes
 ---
 Do you live in the Madison, Wisconsin, area?
 
@@ -11,3 +10,6 @@ Come to the luncheon presentation _When Disney Called_ by Vesterheim staff to le
 Tickets are $30 per person. Reservations are required.
 
 For more information and to RSVP, contact Stephanie Johnson at (563) 382-9681, ext.103, or snjohnson@vesterheim.org.
+
+{{ page | debug }}
+{{ site.data.auto_nav | debug }}

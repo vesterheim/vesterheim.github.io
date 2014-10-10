@@ -1,8 +1,7 @@
 ---
-layout: post
+published: true
 title:  "Deck the Tables"
 date:   2014-11-07 18:00:00
-categories:
 ---
 Deck the Tables <br /> Celebrate the Seasons
 ============================================
