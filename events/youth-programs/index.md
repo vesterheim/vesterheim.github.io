@@ -1,29 +1,26 @@
 ---
+published: true
 layout: page
 title: Youth Programs
-description:
-keywords:
-include_tiles: true
-tile:
-   image: 46x21/events/pioneer-immersion-program--kids.jpg
-   alt: 
-   caption:
-navigation:
-   label:
-   order: 30
-sitemap:
-   label:
-   exclude: false
-pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
+meta_title: "Events at Vesterheim: The National Norwegian-American Museum & Heritage Center"
+meta_description: ~
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+hero:
+  image:
+  alt:
+  caption:
 related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+
+show_pagelist_menu: true
+
+navigation:
+  order: 30
+pagelist:
+  order:         # Defaults to navigation order
+  image: 46x21/events/pioneer-immersion-program--kids.jpg
+  alt: 
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description
 ---

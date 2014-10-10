@@ -1,34 +1,26 @@
 ---
+published: true
 layout: page
 title: Pioneer Immersion Program
-description:
-keywords:
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-   image: 16x9/events/pioneer-immersion-program--log-sawing--kids.jpg
-   alt: 
-   caption: 
-tile:
-   image: 46x21/events/pioneer-immersion-program--log-cabin--kids.jpg
-   alt: 
-   caption:
+  image: 16x9/events/pioneer-immersion-program--log-sawing--kids.jpg
+  alt:
+  caption: 
+
+
 navigation:
-   label:
-   order: 30
-sitemap:
-   label:
-   exclude: false
+  order: 30
 pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
-related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+  order:         # Defaults to navigation order
+  image: 46x21/events/pioneer-immersion-program--log-cabin--kids.jpg
+  alt: 
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description    
 ---
 **Program in the schools: February 20-May 18** <br />
 **Exhibition of Projects: May 12-May 18** <br />

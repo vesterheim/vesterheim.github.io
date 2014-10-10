@@ -1,30 +1,28 @@
 ---
+published: true
 layout: instructor
 published: true
 title: Carol Colburn
-description:
-keywords:
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+
 instructor:
-   image: folk-art-school/instructors/colburn--carol.jpg
-   alt: Carol Colburn
-   caption: 
-navigation:
-   label:
-   order: 10
-sitemap:
-   label:
-   exclude: false
-pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
+  image: folk-art-school/instructors/colburn--carol.jpg
+  alt: Carol Colburn
+caption:
+
 related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+
+navigation:
+  order: 10
+pagelist:
+  exclude: false
+  order:         # Defaults to navigation order  
+  image:         # Defaults to cropped page hero image
+  alt:
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description  
 ---
 Carol Colburn has studied Norwegian and Norwegian-American clothing at Vesterheim since 1974. She is co-author of the Vesterheim publication _Handweaving in the Norwegian Tradition_ and has contributed chapters on Norwegian-American clothing to Marion Nelson’s books _Norwegian Folk Art: The Migration of a Tradition_ and _Material Culture and People’s Art Among the Norwegians in America_. Carol is Professor Emerita of Theater and Costume History and Design at the University of Northern Iowa.

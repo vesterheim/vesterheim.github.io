@@ -1,36 +1,27 @@
 ---
-layout: page
 published: true
+layout: page
 title: Things to do in Decorah
-description:
-keywords:
+short_title:       # Used when we are short on space
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-   image: 16x9/decorah/fish-hatchery.jpg
-   alt: 
-   caption: Seiwer's Springs is the site of Decorah's fish hatchery, Trout Run Trail, and eagle nest.
-tile:
-   image: 46x21/decorah/hotel-winneshiek.jpg
-   alt:
-   caption:   
-navigation:
-   label:
-   order: 70
-   exclude: false
-sitemap:
-   label:
-   exclude: false
-pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
+  image: 16x9/decorah/fish-hatchery.jpg
+  alt: 
+  caption: Seiwer's Springs is the site of Decorah's fish hatchery, Trout Run Trail, and eagle nest.
 related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+
+navigation:
+  order: 70
+pagelist:
+  order:         # Defaults to navigation order
+  image: 46x21/decorah/hotel-winneshiek.jpg
+  alt:
+  caption:   
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description
 ---
 Decorah is a great place to visit. It’s a perfect getaway that is close by yet seems far from the hustle and bustle of everyday life.
 

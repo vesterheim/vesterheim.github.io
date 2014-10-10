@@ -1,36 +1,25 @@
 ---
-layout: page
 published: true
+layout: page
 title: Vesterheim's Connection To Norway
-description:
-keywords:
+meta_description: ~
 hero:
-   image: 16x9/flags.jpg
-   alt:
-   caption:
-tile:
-   image: 46x21/fpo_46x21-368.png
-   alt:
-   caption:
-navigation:
-   label:
-   order: 10
-   exclude: false
-sitemap:
-   label:
-   exclude: false
-pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
+  image: 16x9/flags.jpg
+  alt: ~
+  caption: ~
 related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+
+navigation:
+  order: 10
+pagelist:
+  exclude: false
+  order:         # Defaults to navigation order  
+  image:         # Defaults to cropped page hero image
+  alt:
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description
 ---
 Ties between Norwegians and Norwegian Americans have always remained close, so it would be natural for Norway and its cultural institutions to maintain a close connection to Vesterheim throughout the museum's history. Norway has been generous with its gifts of artifacts. Many folk artists have come to Vesterheim to teach traditional techniques. Norwegian organizations and artists host visits and events during Vesterheim tours to their country. Norway's Royal family and government officials have visited the museum many times, and His Majesty King Harald V is the museum's Honorary Board Chair.
 

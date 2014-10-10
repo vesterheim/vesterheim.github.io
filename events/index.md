@@ -1,25 +1,12 @@
 ---
+published: true
 layout: page
 title: Events
-description:
-keywords:
-include_tiles: true
+meta_title: "Events at Vesterheim: The National Norwegian-American Museum & Heritage Center"
+meta_description: ~
+
+show_pagelist_menu: true
+
 navigation:
-   label:
-   order: 40
-sitemap:
-   label:
-   exclude: false
-pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
-related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+  order: 40
 ---

@@ -1,31 +1,29 @@
 ---
+published: true
 layout: instructor
 published: true
 title: Darlene Fossum-Martin
-description:
-keywords:
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+
 instructor:
-   image: folk-art-school/instructors/fossum-martin--darlene.jpg
-   alt: Darlene Fossum-Martin
-   caption: 
-navigation:
-   label:
-   order: 10
-sitemap:
-   label:
-   exclude: false
-pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
+  image: folk-art-school/instructors/fossum-martin--darlene.jpg
+  alt: Darlene Fossum-Martin
+caption: 
+
 related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+
+navigation:
+  order: 10
+pagelist:
+  exclude: false
+  order:         # Defaults to navigation order  
+  image:         # Defaults to cropped page hero image
+  alt:
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description
 ---
 Darlene Fossum-Martin, of Decorah, Iowa, is a third-generation Norwegian who grew up on a small farm in Spring Grove, Minnesota. She has always had a passion for folk arts and the way her ancestors expressed themselves through their work. She is both a woodworker and Norwegian food specialist.
 

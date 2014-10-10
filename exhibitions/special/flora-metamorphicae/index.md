@@ -1,36 +1,28 @@
 ---
-layout: page
 published: true
+layout: page
 title: Flora Metamorphicae
-description:
-keywords:
+subtitle: December 7, 2013 - November 16, 2014
+short_title:       # Used when we are short on space
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-   image: 16x9/exhibitions/special/flora-metamorphicae.jpg
-   alt:
-   caption:
-tile:
-   image: 46x21/exhibitions/special/flora-metamorphicae.jpg
-   alt:
-   caption: 
-navigation:
-   label:
-   order: 10
-   exclude: false
-sitemap:
-   label:
-   exclude: false
-pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
+  image: 16x9/exhibitions/special/flora-metamorphicae.jpg
+  alt:
+  caption:
 related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+# How and if the page is displayed in listing contexts
+navigation:
+  order: 10
+pagelist:
+  order:         # Defaults to navigation order  
+  image: 46x21/exhibitions/special/flora-metamorphicae.jpg # Defaults to cropped page hero image
+  alt:
+  caption:
+  title:         # Defaults to navigation title
+  subtitle: December 7, 2013 - November 16, 2014
+  teaser: Come experience _Flora Metamorphicae_, thousands of beautiful and colorful ceramic flowers artfully configured for exhibition at Vesterheim Museum.
 ---
 **On view December 7, 2013 - November 16, 2014**
 

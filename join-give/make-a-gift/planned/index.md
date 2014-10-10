@@ -1,28 +1,22 @@
 ---
-layout: page
 published: true
+layout: page
 title: Planned Giving
-description:
-keywords:
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+
 navigation:
-   label:
-   order: 40
-   exclude: false
-sitemap:
-   label:
-   exclude: false
+  order: 40
 pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
-related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+  exclude: false
+  order:         # Defaults to navigation order  
+  image:         # Defaults to cropped page hero image
+  alt:
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description
 ---
 Thank you for your interest in the future of Vesterheim by considering a special kind of gift to the museum. Supporting Vesterheim with planned gifts is vital if we are to maintain the activities and programs so essential to our members and visitors. Planned gifts are instrumental in helping us achieve our goals of providing the highest quality of care to the collection, and preserve and interpret our immigrant heritage for all.
 

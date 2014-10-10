@@ -1,26 +1,22 @@
 ---
+published: true
 layout: page
 title: Events Across the Country
-description:
-keywords:
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+
 navigation:
-   label:
-   order: 50
-sitemap:
-   label:
-   exclude: false
+  order: 50
 pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
-related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+  exclude: false
+  order:         # Defaults to navigation order  
+  image:         # Defaults to cropped page hero image
+  alt:
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description   
 ---
 Vesterheim thanks all of the people who have hosted so many fantastic Vesterheim events around the country! From dinners and dances for hundreds of guests to dessert for small groups in a private backyard, those who appreciate Norwegian art and heritage come together to enjoy each others company and share their enthusiasm for Vesterheim with others.
 

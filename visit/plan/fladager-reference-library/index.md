@@ -1,36 +1,27 @@
 ---
-layout: page
 published: true
+layout: page
 title: The Fladager Reference Library
-description:
-keywords:
+short_title:       # Used when we are short on space
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-   image: 16x9/buildings/fladager-reference-library.jpg
-   alt: 
-   caption: 
-tile:
-   image: 46x21/buildings/fladager-reference-library.jpg
-   alt: 
-   caption:
-navigation:
-   label:
-   order: 70
-   exclude: false
-sitemap:
-   label:
-   exclude: false
-pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
+  image: 16x9/buildings/fladager-reference-library.jpg
+  alt: 
+  caption: 
 related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+
+navigation:
+  order: 70
+pagelist:
+  order:         # Defaults to navigation order
+  image: 46x21/buildings/fladager-reference-library.jpg
+  alt: 
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description
 ---
 Vesterheim's reference library includes over 5,000 books for researching topics related to Norwegian and Norwegian-American history and culture, fine art and folk art, and the emigration/immigration story. Many books showing examples of traditional Norwegian rosemaling, woodworking, metalworking, and weaving will be of special interest to the artist and researcher. 
 

@@ -1,31 +1,22 @@
 ---
-layout: page
 published: true
+layout: page
 title: Our Unique History
-description:
-keywords:
-tile:
-   image: 46x21/folk-art-school/weaving.jpg
-   alt:
-   caption:   
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+
+
 navigation:
-   label:
-   order: 50
-sitemap:
-   label:
-   exclude: false
+  order: 50
 pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
-related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+  order:         # Defaults to navigation order
+  image: 46x21/folk-art-school/weaving.jpg
+  alt:
+  caption:   
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description   
 ---
 <figure class="pull-left  content-photo  content-photo--golden-ratio--pull-left  content-photo--golden-ratio"><div class="content-photo__lining">{% picture golden folk-art-school/aarseth--sigmund--1967.jpg alt="Sigmund Aarseth 1967" %}</div></figure>
 

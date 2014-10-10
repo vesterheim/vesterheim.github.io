@@ -1,28 +1,22 @@
 ---
-layout: page
 published: true
+layout: page
 title: Betty Rikansrud Nelson
-description:
-keywords:
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+
 navigation:
-   label:
-   order: 1200
-   exclude: false
-sitemap:
-   label:
-   exclude: false
+  order: 1200
 pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
-related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+  exclude: false
+  order:         # Defaults to navigation order  
+  image:         # Defaults to cropped page hero image
+  alt:
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description
 ---
 Betty Rikansrud Nelson felt inspired to get involved with Vesterheim because it was her heritage. Her father-in-law was on the Vesterheim Board, her sister-in-law was an important employee, and her mother took needlework classes. Her true love for Vesterheim began when she started taking weaving classes at the museum.
 

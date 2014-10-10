@@ -1,34 +1,27 @@
 ---
+published: true
 layout: page
-title: WOW (window on the World) Farm Program
-description:
-keywords:
+title: WOW (Window on the World) Farm Program
+short_title: WOW Farm Program
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-   image: 16x9/events/wow--demonstrator--kids.jpg
-   alt: 
-   caption: 
-tile:
-   image: 46x21/events/wow--demonstrator--kids.jpg
-   alt: 
-   caption:
+  image: 16x9/events/wow--demonstrator--kids.jpg
+  alt: 
+  caption: 
+
+
 navigation:
-   label:
-   order: 20
-sitemap:
-   label:
-   exclude: false
+  order: 20
 pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
-related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+  order:         # Defaults to navigation order
+  image: 46x21/events/wow--demonstrator--kids.jpg
+  alt: 
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description    
 ---
 The WOW Program, which developed in partnership between Vesterheim and the Decorah Community Schools, helps students understand change over time through the history of agriculture. The program is geared toward third-graders and includes information, historic photographs, and local history as a basis for social studies curriculum.
 

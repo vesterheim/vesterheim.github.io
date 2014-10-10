@@ -1,36 +1,24 @@
 ---
-layout: page
 published: true
+layout: page
 title: What is Vesterheim?
-description:
-keywords:
+meta_description: ~
 hero:
-   image: 16x9/kids/discover--interior--kids.jpg
-   alt: 
-   caption: 
-tile:
-   image: 46x21/kids/discover--interior--kids.jpg
-   alt: 
-   caption:
-navigation:
-   label:
-   order: 10
-   exclude: false
-sitemap:
-   label:
-   exclude: false
-pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
+  image: 16x9/kids/discover--interior--kids.jpg
+  alt: ~
+  caption: ~
 related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+
+navigation:
+  order: 10
+pagelist:
+  order:         # Defaults to navigation order  
+  image: 46x21/kids/discover--interior--kids.jpg
+  alt:
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description
 ---
 Vesterheim is _the_ national Norwegian-American museum and heritage center, with over 24,000 artifacts, 12 historic buildings, a Folk Art School, and a library and archives. This treasure showcases the most extensive collection of Norwegian-American artifacts in the world.
 

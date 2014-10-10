@@ -1,28 +1,22 @@
 ---
-layout: page
 published: true
+layout: page
 title: Peter Coffeen
-description:
-keywords:
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+
 navigation:
-   label:
-   order: 300
-   exclude: false
-sitemap:
-   label:
-   exclude: false
+  order: 300
 pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
-related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+  exclude: false
+  order:         # Defaults to navigation order  
+  image:         # Defaults to cropped page hero image
+  alt:
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description
 ---
 As a child growing up in Decorah, it wasn't hard for Peter Coffeen to be enthralled by all that Vesterheim had to offer.  “A curious child growing up in Decorah could not miss the split-log cabins on the Luther College campus and the dusty curiosities in what was then simply known as ‘the Museum’; the immigrant sail boat, old flint-lock pistols, a very strange statue with naked men fighting a big snake; wandering about at will with no security, just trust. Watching changes from then to now has been like watching an old friend grow older and better. That’s what is special,” said Peter when speaking of his personal connection to Vesterheim Norwegian-American Museum.
 

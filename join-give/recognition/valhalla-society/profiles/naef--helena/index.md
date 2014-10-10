@@ -1,28 +1,22 @@
 ---
-layout: page
 published: true
+layout: page
 title: Helena Naef
-description:
-keywords:
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+
 navigation:
-   label:
-   order: 1100
-   exclude: false
-sitemap:
-   label:
-   exclude: false
+  order: 1100
 pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
-related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+  exclude: false
+  order:         # Defaults to navigation order  
+  image:         # Defaults to cropped page hero image
+  alt:
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description
 ---
 Helena Naef was an active member of the Decorah community and loved donating her time to Vesterheim. Helena was born November 18, 1933, in Affoltem am Albis, Switzerland. In 1947 she emigrated with her family to the U.S. and settled in Big Pine, California.
 

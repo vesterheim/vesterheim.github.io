@@ -1,30 +1,28 @@
 ---
+published: true
 layout: instructor
 published: true
 title: Trudy Peach
-description:
-keywords:
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+
 instructor:
-   image: folk-art-school/instructors/peach--trudy.jpg
-   alt: Trudy Peach
-   caption: 
-navigation:
-   label:
-   order: 10
-sitemap:
-   label:
-   exclude: false
-pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
+  image: folk-art-school/instructors/peach--trudy.jpg
+  alt: Trudy Peach
+caption:
+
 related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+
+navigation:
+  order: 10
+pagelist:
+  exclude: false
+  order:         # Defaults to navigation order  
+  image:         # Defaults to cropped page hero image
+  alt:
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description  
 ---
 Trudy Peach is a Vesterheim Gold Medal winner and is a Certified Decorative Artist with the Society of Decorative Painters. She studies old pieces of rosemaling to influence her designs in Rogaland and Os styles. Trudy shares these ideas with students to help them develop an awareness of how to interpret designs. She has taught rosemaling throughout the United States.

@@ -1,28 +1,22 @@
 ---
-layout: page
 published: true
+layout: page
 title: Kroneklubben
-description:
-keywords:
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+
 navigation:
-   label:
-   order: 30
-   exclude: false
-sitemap:
-   label:
-   exclude: false
+  order: 30
 pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
-related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+  exclude: false
+  order:         # Defaults to navigation order  
+  image:         # Defaults to cropped page hero image
+  alt:
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description
 ---
 In 2000, Vesterheim launched Kroneklubben or “Crown Club” for recognizing our most generous and devoted donors. This special recognition acknowledges accumulated lifetime gifts and is essential for helping us achieve our mission. Membership in Kroneklubben is a high honor starting at $10,000 up to $29,999 for the pewter level, followed by bronze at $30,000-99,999, next is silver with a range from $100,000-499,999, then gold at $500,000-999,000, and ultimately platinum for lifetime gifts of $1,000,000 and more. 
 

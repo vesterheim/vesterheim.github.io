@@ -1,27 +1,22 @@
 ---
-layout: page
 published: true
+layout: page
 title: Ordering Your Supplies
-description:
-keywords:
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+
 navigation:
-   label:
-   order: 60
-sitemap:
-   label:
-   exclude: false
+  order: 60
 pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
-related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+  exclude: false
+  order:         # Defaults to navigation order  
+  image:         # Defaults to cropped page hero image
+  alt:
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description  
 ---
 Vesterheim's Museum Store includes everything a folk-art enthusiast needs, whether you are just getting started or have been working at your art for years. You’ll find books and videos on fiber arts, textiles, rosemaling, painting, woodworking, and knifemaking. There are also tools and patterns for woodworking; brushes, paints, and patterns for rosemaling; and beautiful hand-made woodenware ready to decorate. Supplies needed for each class are always available in the store.
 

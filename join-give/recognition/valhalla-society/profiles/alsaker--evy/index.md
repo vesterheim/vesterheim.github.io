@@ -1,28 +1,22 @@
 ---
-layout: page
 published: true
+layout: page
 title: Evy Alsaker
-description:
-keywords:
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+
 navigation:
-   label:
-   order: 100
-   exclude: false
-sitemap:
-   label:
-   exclude: false
+  order: 100
 pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
-related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+  exclude: false
+  order:         # Defaults to navigation order  
+  image:         # Defaults to cropped page hero image
+  alt:
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description
 ---
 Evy Johansen Alsaker was born December 12, 1946, in Fredrikstad, Norway, and immigrated to the U.S. from Norway in 1965. She obtained her degree in banking from the University of Wisconsin- Madison and then settled in the Chicago area, where she began working at the Uptown National Bank of Chicago in 1971. During her time at Uptown, she rose to the position of Senior Vice President and Secretary to the Board of Directors. In 1998, Evy began dating her long-time friend, Robert A. Alsaker, and in 1999 they were wed at Orchestra Hall in Chicago. In December 2004, Evy retired from her position at Uptown.
 

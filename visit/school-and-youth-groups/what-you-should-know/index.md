@@ -1,28 +1,27 @@
 ---
-layout: page
 published: true
+layout: page
 title: What You Should Know Before You Visit
-description:
-keywords:
-navigation:
-   label:
-   order: 10
-   exclude: false
-sitemap:
-   label:
-   exclude: false
-pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+hero:
+  image: 16x9/kids/school-group--interior--kids.jpg
+  alt: 
+  caption:
 related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+
+navigation:
+  order: 10
+pagelist:
+  exclude: false
+  order:         # Defaults to navigation order  
+  image:         # Defaults to cropped page hero image
+  alt:
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description  
 ---
 * One chaperone (adult) is recommended per ten students. Chaperones are expected to stay with their groups and maintain appropriate behavior, including walking slowly up and down the stairs and not running in the exhibitions.
 * Objects in the museum may not be touched unless otherwise noted by signs or by the guide. This is to protect the objects from dirt and damage.

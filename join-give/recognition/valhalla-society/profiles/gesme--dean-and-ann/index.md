@@ -1,28 +1,22 @@
 ---
-layout: page
 published: true
+layout: page
 title: Dean and Ann Gesme
-description:
-keywords:
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+
 navigation:
-   label:
-   order: 700
-   exclude: false
-sitemap:
-   label:
-   exclude: false
+  order: 700
 pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
-related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+  exclude: false
+  order:         # Defaults to navigation order  
+  image:         # Defaults to cropped page hero image
+  alt:
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description
 ---
 Dean and Ann Gesme grew up knowing what it meant to have Norwegian heritage. Ann was raised in Dane County, Wisconsin, and Dean in Winnebago County, Iowa, where they were shaped by their Norwegian families. They continued to cultivate their heritage by attending colleges with Scandinavian roots. Ann attended St. Olaf (’49) and Dean went to Luther (’51). During their first year of marriage Dean and Ann lived in Decorah, where Ann worked at Luther. This was not the couple’s first experience with Decorah and its Norwegian influence. They often visited Decorah before they were married because Ann had family living in Decorah and Dean came for family reunions.
 

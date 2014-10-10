@@ -1,36 +1,26 @@
 ---
-layout: page
 published: true
+layout: page
 title: Main Building
-description:
-keywords:
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-   image: 16x9/buildings/main-building--interior.jpg
-   alt: 
-   caption:
-tile:
-   image: 46x21/buildings/main-building.jpg
-   alt:
-   caption: 
-navigation:
-   label:
-   order: 10
-   exclude: false
-sitemap:
-   label:
-   exclude: false
-pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
+  image: 16x9/buildings/main-building--interior.jpg
+  alt: 
+  caption:
 related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+
+navigation:
+  order: 10
+pagelist:
+  order:         # Defaults to navigation order
+  image: 46x21/buildings/main-building.jpg
+  alt:
+  caption: 
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description
 ---
 Step inside Vesterheim’s Main Building to discover four floors filled with stories of identity, beauty, and faith. The lives of the people who settled our nation where often as colorful as their folk art and their stories speak through the objects they left behind. You’ll find a cabin made from a single tree, elaborate costumes, intricately carved butter molds, colorful paintings, silver wedding crowns, woven tapestries, and even a boat that sailed the Atlantic Ocean.
 

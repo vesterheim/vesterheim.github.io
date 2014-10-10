@@ -1,34 +1,27 @@
 ---
+published: true
 layout: page
 title: Vesterheim Activities at Decorah's Nordic Fest
-description:
-keywords:
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-   image: 16x9/events/nordic-fest-demonstrator--kids.jpg
-   alt: 
-   caption: 
-tile:
-   image: 46x21/events/nordic-fest-demonstrator.jpg
-   alt: 
-   caption:
-navigation:
-   label:
-   order: 30
-sitemap:
-   label:
-   exclude: false
-pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
+  image: 16x9/events/nordic-fest-demonstrator--kids.jpg
+  alt: 
+caption: 
+
 related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+
+navigation:
+  order: 30
+pagelist:
+  order:         # Defaults to navigation order
+  image: 46x21/events/nordic-fest-demonstrator.jpg
+  alt: 
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description  
 ---
 Vikings, folk-art, theater productions, storytellers, art demonstrations, and more—Vesterheim is always a center of activity during Decorah’s Annual Nordic Fest.
 

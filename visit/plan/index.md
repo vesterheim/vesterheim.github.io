@@ -1,31 +1,23 @@
 ---
-layout: page
 published: true
+layout: page
 title: Plan Your Visit
-description:
-keywords:
-include_tiles: true
-tile:
-   image: 46x21/fpo_46x21-368.png
-   alt:
-   caption:
+subtitle: 
+short_title:       # Used when we are short on space
+meta_title: Plan Your Visit to Vesterheim       # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+
+show_pagelist_menu: true 
+
 navigation:
-   label:
    order: 20
-   exclude: false
-sitemap:
-   label:
-   exclude: false
 pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
-related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+  exclude: false
+  order:         # Defaults to navigation order  
+  image:         # Defaults to cropped page hero image
+  alt:
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description
 ---

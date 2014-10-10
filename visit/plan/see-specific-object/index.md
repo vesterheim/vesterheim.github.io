@@ -1,36 +1,26 @@
 ---
-layout: page
 published: true
+layout: page
 title: Want to See a Specific Object?
-description:
-keywords:
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-   image: 16x9/tours/blc--interior--people--tour.jpg
-   alt: 
-   caption: 
-tile:
-   image: 46x21/tours/blc--interior--people--tour.jpg
-   alt: 
-   caption:
-navigation:
-   label:
-   order: 60
-   exclude: false
-sitemap:
-   label:
-   exclude: false
-pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
+  image: 16x9/tours/blc--interior--people--tour.jpg
+  alt: 
+  caption: 
 related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+
+navigation:
+  order: 60
+pagelist:
+  order:         # Defaults to navigation order
+  image: 46x21/tours/blc--interior--people--tour.jpg
+  alt: 
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description
 ---
 Is there something you are especially interested in seeing at Vesterheim? With a collection of over 24,000 artifacts, many of Vesterheim's objects are in storage, but we'd like to make sure you have access to your special piece.
 

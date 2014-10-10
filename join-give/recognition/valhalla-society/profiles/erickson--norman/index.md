@@ -1,28 +1,22 @@
 ---
-layout: page
 published: true
+layout: page
 title: Norman Erickson
-description:
-keywords:
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+
 navigation:
-   label:
-   order: 600
-   exclude: false
-sitemap:
-   label:
-   exclude: false
+  order: 600
 pagelist:
-   label:
-   image:
-   exclude: false  
-search:
-   exclude: false
-related:
-   label:
-   image:
-   alt:
-   description:
-   exclude: false
+  exclude: false
+  order:         # Defaults to navigation order  
+  image:         # Defaults to cropped page hero image
+  alt:
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description
 ---
 Norman E. Erickson, formerly of Cedar Rapids, was a supportive member of Vesterheim,illustrated by a charitable bequest and other gifts dating back to his first $5 contribution in 1966. Norman passed away in September 2010, but his legacy is very much alive at Vesterheim. He lives on in the smiles of visitors to the museum each year and in the hearts and minds of those working to preserve a heritage and connect us all.
 
