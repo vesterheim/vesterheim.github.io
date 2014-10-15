@@ -12,6 +12,7 @@ hero:
 related:
 
 navigation:
+  exclude: true
   order: 1400
 pagelist:
   exclude: false
