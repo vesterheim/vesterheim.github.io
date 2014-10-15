@@ -1,22 +1,66 @@
-# auto_nav_hash structure
-# title: 
-# short_title:
-# page_title: 
-# breadcrumb:
-#   title:
-#   short_title:
-# url: Page URL
-# order: sort order
-# ancestors: array of ancestor URLs
-# root: URL of root
-# parent: URL of parent
-# level: depth in site
-# handle: slugify version of name
-# id: slugify version of URL
+# Title: Jekyll auto_nav generator for Vesterheim
+# Authors: Faust Gertz :faust@faustgertz.com
 #
-# auto_nav_array structure same as for hash with these added:
-# has_children?: Boolean if there are children
-# sub_depth:
+# Description: Generates useful navigation stuff in site.data.
+#              Inspired by Concrete5's auto_nav
+# 
+# Generates the following:
+# 
+# site.data.auto_nav_hash = { page.url => {
+# 		'title' =>  
+# 		'short_title' =>
+# 		'page_title' => 
+# 		'breadcrumb' => {
+# 			'title' =>  
+# 			'short_title' =>
+# 		},
+# 		'url' => Page URL
+# 		'order' => page.navigation.order || 1000,
+# 		'ancestors' => array of ancestor URLs
+# 		'root' => URL of root
+# 		'parent' => URL of parent
+# 		'level' => depth in site
+# 		'handle' => slugify version of name
+# 		'id' => slugify version of URL
+# 	},
+#   etc....	
+# }
+#
+# site.data.auto_nav = [
+# 	{
+# 		'title' =>  
+# 		'short_title' =>
+# 		'page_title' => 
+# 		'breadcrumb' => {
+# 			'title' =>  
+# 			'short_title' =>
+# 		},
+# 		'url' => Page URL
+# 		'order' => page.navigation.order || 1000,
+# 		'ancestors' => array of ancestor URLs
+# 		'root' => URL of root
+# 		'parent' => URL of parent
+# 		'level' => depth in site
+# 		'handle' => slugify version of name
+# 		'id' => slugify version of URL
+#       'has_children?' => Boolean if there are children
+# 		'sub_depth' => current level - level of next node in array
+# 	},
+#   etc....	
+# ]
+#
+# site.data.auto_nav_site = site.data.auto_nav.select do |n| 
+# 	n['level'] == 1
+# end
+# That is to say, site.data.auto_nav with just the top level
+# navigation nodes.
+#
+# site.data.auto_nav_section_hash = {
+#	page.url => site.data.auto_nav.select do |n| 
+# 		# filtered to be used for section navigation
+# 	end
+# }
+
 require './_plugins/vester_utils.rb'
 
 module Jekyll

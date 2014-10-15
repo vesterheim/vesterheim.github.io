@@ -1,3 +1,9 @@
+# Title: auto_nav & pagelist common functions
+# Authors: Faust Gertz :faust@faustgertz.com
+#
+# Description: Jekyll functions for common to Vesterheim's auto_nav and 
+#              pagelist generators
+
 module Jekyll
 	module VesterUtils
   	extend self
