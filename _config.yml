@@ -24,12 +24,14 @@ defaults:
 #      permalink: /events/calendar/:year/:month/:day/:title/ # I wish this worked as I had expected
       categories: events calendar # Ugly hack: don't touch!
       layout: post
+      navigation:
+        exclude: true       
   -
     scope:
       path: ""
       type: "pages"
     values:
-      layout: page      
+      layout: page     
 
 #permalink: /events/calendar/:year/:month/:day/:title/
 #permalink: /:path/:year/:month/:day/:title/
