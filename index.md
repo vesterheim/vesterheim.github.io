@@ -19,28 +19,28 @@ carousel:
   slides:
     - image: 16x9/exhibitions/special/flora-metamorphicae.jpg
       alt: Flora Metamorphicae
-      caption: _Colorful_ flowers are beautiful and beauty draws attention.
+      caption: Flora Metamorphicae
       link: /exhibitions/special/flora-metamorphicae/
       published: true
       start_date:
       stop_date:
     - image: 25x9/exhibitions/special/a-restored-connection.jpg
       alt: "A Restored Connection: A Dream of a Cultural Identity"
-      caption: How we define ourselves and the environment around us.
+      caption: "A Restored Connection: A Dream of a Cultural Identity"
       link: /exhibitions/special/a-restored-connection/
       published: true
       start_date:
       stop_date:
     - image: 25x9/exhibitions/special/love-norway-x.jpg
       alt: Love Norway X
-      caption: Love, mutual acceptance, and compassion.
+      caption: Love Norway X
       link: /exhibitions/special/love-norway-x/
       published: true
       start_date:
       stop_date:
     - image: 25x9/exhibitions/special/alt-for-norge.jpg
       alt: Alt for Norge
-      caption: Memories of _Syttende Mai_ celebrations in Decorah.
+      caption: Alt for Norge
       link: /exhibitions/special/alt-for-norge/
       published: true
       start_date:
