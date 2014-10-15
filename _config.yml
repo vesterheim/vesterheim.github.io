@@ -11,27 +11,55 @@ timezone: America/Chicago
 
 gems:
   - jekyll-redirect-from
-  
+
 # Build settings
 markdown: kramdown
 permalink: pretty
+# setting a part of the has doesn't work. Either it set the whole hash or none. For example navigation['exclude'] = true
+# won't be set if there is a navigation['order'] = 10 in the front matter. IS this a bug to raise? I couldn't figure out
+# how to change the behaviour just by looking at the source.
 defaults:
   -
     scope:
-      path: ""
-      type: "posts"
+      type: pages
     values:
-#      permalink: /events/calendar/:year/:month/:day/:title/ # I wish this worked as I had expected
+      layout: page  
+  -
+    scope:
+      type: posts
+    values:
+#      permalink: /events/calendar/:year/:month/:day/:title/ # I wish this worked as I had expected as a default
       categories: events calendar # Ugly hack: don't touch!
       layout: post
       navigation:
         exclude: true       
   -
     scope:
-      path: ""
-      type: "pages"
+      path: folk-art-school
     values:
-      layout: page     
+      css_theme: theme--folk-art
+# The scoping is correct, but see about about setting the navigation hash
+#  -
+#    scope:
+#      path: exhibitions/open-air
+#      type: pages
+#    values:
+#      navigation:
+#        exclude: true 
+#  -  
+#    scope:
+#      path: join-give/recognition/profiles
+#      type: pages
+#    values:
+#      navigation:
+#        exclude: true 
+#  -
+#    scope:
+#      path: join-give/recognition/valhalla-society/profiles
+#      type: pages
+#    values:
+#      navigation:
+#        exclude: true        
 
 #permalink: /events/calendar/:year/:month/:day/:title/
 #permalink: /:path/:year/:month/:day/:title/

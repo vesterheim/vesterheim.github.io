@@ -4,7 +4,7 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 {% include head.html %}
-<body>
+<body{% if page.css_theme %} class="{{ page.css_theme }}"{% endif %}>
 
     <div class="layout__body">
 
