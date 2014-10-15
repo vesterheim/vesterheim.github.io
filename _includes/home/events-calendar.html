@@ -28,16 +28,26 @@
 	{% endif %}	
 
 	{% if display %}
+		{% if event.pagelist.image %}
+			{% assign event_src =  event.pagelist.image %}
+			{% assign event_alt =  event.pagelist.alt | strip_html | xml_escape %}
+		{% elsif event.hero.image %}
+			{% assign event_src =  event.hero.image %}
+			{% assign event_alt =  event.hero.alt | strip_html | xml_escape %}
+		{% else %}
+			{% assign event_src = '46x21/fpo_46x21-368.png' %}
+			{% assign event_alt = '' %}
+		{% endif %}	
 		{% if event.all_day == true or event.dt_start == null and event.dt_end == null %}
-			<strong>All Day: Show Museum Hours</strong>
+			{% comment %}<strong>All Day: Show Museum Hours</strong>{% endcomment %}
 			{% capture event_date_display %}{{ event.date | date: "%B %-d, %Y" }}{% endcapture %}
 			{% capture event_time_display %}9:00AM–5:00PM{% endcapture %}
 		{% elsif event.dt_start and event.dt_end == null %}
-			<strong>Has Start: show one date and time</strong>
+			{% comment %}<strong>Has Start: show one date and time</strong>{% endcomment %}
 			{% capture event_date_display %}{{ event.dt_start | date: "%B %-d, %Y" }}{% endcapture %}
 			{% capture event_time_display %}{{ event.dt_start | date: "%I:%M%p" }}{% endcapture %}
 		{% elsif event.dt_start and event.dt_end %}
-			<strong>Has Start &amp; End</strong>
+			{% comment %}<strong>Has Start &amp; End</strong>{% endcomment %}
 			{% assign event_start =  event.dt_start | date: "%s" %}
 			{% assign event_start_day =  event.dt_start | date: "%Y%m%d" %}
 			{% assign event_start_month =  event.dt_start | date: "%Y%m" %}
@@ -47,19 +57,19 @@
 			{% assign event_end_month =  event.dt_end | date: "%Y%m" %}
 			{% assign event_end_year =  event.dt_end | date: "%Y" %}
 			{% if event_start_day == event_end_day %}
-				<em>Single day event. Show one date and two times</em>
+				{% comment %}<em>Single day event. Show one date and two times</em>{% endcomment %}
 				{% capture event_date_display %}{{ event.dt_start | date: "%B %-d, %Y" }}{% endcapture %}
 				{% capture event_time_display %}{{ event.dt_start | date: "%I:%M%p" }}–{{ event.dt_end | date: "%I:%M%p" }}{% endcapture %}				
 			{% elsif event_start_month == event_end_month%}
-				<em>Multiple Days. Same Month Show. Show Museum Hours</em>
+				{% comment %}<em>Multiple Days. Same Month Show. Show Museum Hours</em>{% endcomment %}
 				{% capture event_date_display %}{{ event.dt_start | date: "%B %-d" }}–{{ event.dt_end | date: "%-d, %Y" }}{% endcapture %}
 				{% capture event_time_display %}9:00AM–5:00PM{% endcapture %}					
 			{% elsif event_start_year == event_end_year %}			
-				<em>Multiple Days. Multiple Months. Same Year. Show Museum Hours</em>
+				{% comment %}<em>Multiple Days. Multiple Months. Same Year. Show Museum Hours</em>{% endcomment %}
 				{% capture event_date_display %}{{ event.dt_start | date: "%B %-d" }}–{{ event.dt_end | date: "%B %-d, %Y" }}{% endcapture %}	
 				{% capture event_time_display %}9:00AM–5:00PM{% endcapture %}			
 			{% else %}	
-				<em>Multiple Days. Multiple Months. Multiple Years. Show Museum Hours</em>
+				{% comment %}<em>Multiple Days. Multiple Months. Multiple Years. Show Museum Hours</em>{% endcomment %}
 				{% capture event_date_display %}{{ event.dt_start | date: "%B %-d, %Y" }}–{{ event.dt_end | date: "%B %-d, %Y" }}{% endcapture %}
 				{% capture event_time_display %}9:00AM–5:00PM{% endcapture %}
 			{% endif%}
@@ -73,6 +83,7 @@
 <article class="panel-calendar__event  h-event">
 	<a class="panel-calendar__event__link  u-url" href="{{ event.url }}">
 		<figure class="panel-calendar__event__photo  u-photo">
+		{% picture tile {{ event_src }} alt="{{ event_alt }}" %}
 		</figure>
 		<h1 class="title  panel-calendar__event__title  p-name">{{ event.title | markdownify | remove: '<p>' | remove: '</p>' }}</h1>
 		<h2 class="subtitle  panel-calendar__event__date">{{ event_date_display }}</h2>
@@ -80,7 +91,15 @@
 		<p class="more  panel-calendar__event__more">Read more</p>
 	</a>
 </article>		
-{% endif %}
+	{% endif %}
+	{% assign event_src = nil %}
+	{% assign event_alt = nil %}
+	{% assign event_date =  nil %}
+	{% assign event_start =  nil %}
+	{% assign event_end = nil %}
+
+	{% assign event_date_display = nil %}
+	{% assign event_time_display = nil %}
 {% endfor %}
 {% comment %}
 Set total length to default number or 2 * number of panels
