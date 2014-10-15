@@ -1,7 +1,11 @@
 {% capture cache %}
 
+{% comment %}
 {% assign nodes = site.data.auto_nav | where: 'level', 1 %}
 {% assign page_current = site.data.auto_nav | where: 'url', page.url | first %}
+{% endcomment %}
+{% assign nodes = site.data.auto_nav_site %}
+{% assign page_current = site.data.auto_nav_hash[page.url] %}
 
 {% comment %}
 {% assign output = '<div class="layout__nav--site  layout__nav--page-head  nav--site__wrapper">' %}

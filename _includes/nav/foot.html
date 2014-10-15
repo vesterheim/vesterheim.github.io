@@ -1,6 +1,9 @@
 {% capture cache %}
 
+{% comment %}
 {% assign nodes = site.data.auto_nav | where: 'level', 1 %}
+{% endcomment %}
+{% assign nodes = site.data.auto_nav_site %}
 
 {% assign output = '<div class="layout__nav--page-foot">' %}
 {% assign output = output | append: '<ul class="nav--page-foot">' %}
