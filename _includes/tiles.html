@@ -1,7 +1,7 @@
 {% capture tiles_cache %}
 {% assign tiles_output = '<ul class="layout__tile__wrapper  tile__wrapper">' %}
 
-{% assign tiles = site.data.auto_nav | where: 'parent', page.url %}
+{% assign tiles = site.data.pagelist | where: 'parent', page.url %}
 
 {% for tile in tiles %}
 	{% assign tile_url = tile.url %}
