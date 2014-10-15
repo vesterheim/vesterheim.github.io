@@ -1,14 +1,14 @@
 ---
 published: true
 layout: page
-title: Vesterheim Folk Art Benefit Auction
-subtitle: Bidding is open!
-meta_title:        # Appears on bookmarks, search results, etc...
+title: Folk Art Benefit Auction
+subtitle: Bidding is Open!
+meta_title: Vesterheim Folk Art Benefit Auction
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 
 navigation:
-  title: Benefit Auction
+  title: Folk Art Benefit Auction
   order: 80  
 pagelist:
   exclude: false
@@ -22,7 +22,7 @@ pagelist:
 ---
 This year’s auction will be completely online. View auction items [here](https://www.biddingforgood.com/auction/auctionhome.action?vhost=VEST-2014).
 
-You can bid from anywhere in the world! The auction will go live at noon on Oct. 1 and bidding will end at 9:00 p.m. on Oct. 29 (CST).
+You can bid from anywhere in the world! The auction went live at noon on Oct. 1 and bidding will end at 9:00 p.m. on Oct. 29 (CST).
 
 These one-of-a-kind folk-art pieces of rosemaling, woodworking, fiber arts, and more are by the best artists working in the Norwegian tradition and will be available only in Vesterheim’s Folk Art Benefit Auction.
 
