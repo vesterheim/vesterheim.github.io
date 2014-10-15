@@ -9,7 +9,7 @@ meta_description:  # Used in HTML head and as the description for some search en
 show_pagelist_menu: true
 
 navigation:
-  order: 20
+  order: 30
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  

@@ -14,7 +14,7 @@ caption:
 related:
 
 navigation:
-  order: 10
+  exclude: true
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
