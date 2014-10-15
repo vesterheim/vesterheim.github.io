@@ -1,11 +1,17 @@
 {% capture cache %}
 
 {% capture break %}
-{% endcapture%}
+{% endcapture %}
 
-{% assign node_current = site.data.auto_nav | where: 'url', page.url | first %}
 
+
+{% comment %}
+{% assign node_current = site.data.auto_nav_hash[page.url] %}
 {% assign nodes_section = site.data.auto_nav | where: 'root', node_current.root %}
+{% endcomment %}
+
+{% assign nodes_section = site.data.auto_nav_section_hash[page.url] %}
+
 
 {% assign output = '<nav class="layout__nav--section" role="navigation">' %}
 {% assign output = output | append: break %}	
