@@ -114,7 +114,7 @@ panels:
     title:
     subtitle:
     teaser:
-    published: true
+    published: false
     start_date: 2014-10-01
     stop_date: 
   - url: /exhibitions/special/alt-for-norge/
@@ -125,7 +125,7 @@ panels:
     title:
     subtitle:
     teaser:
-    published: true
+    published: false
     start_date: 2014-10-01
     stop_date:
 ---
