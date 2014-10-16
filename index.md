@@ -23,12 +23,19 @@ carousel:
       link: /exhibitions/special/flora-metamorphicae/
       published: true
       start_date:
+      stop_date:  
+    - image: 25x9/folk-art-school/classes/weaving.jpg
+      alt: Weaving Class
+      caption: Classes all year!
+      link: /folk-art-school/
+      published: true
+      start_date:
       stop_date:
     - image: 25x9/exhibitions/special/a-restored-connection.jpg
       alt: "A Restored Connection: A Dream of a Cultural Identity"
       caption: "A Restored Connection: A Dream of a Cultural Identity"
       link: /exhibitions/special/a-restored-connection/
-      published: true
+      published: false
       start_date:
       stop_date:
     - image: 25x9/exhibitions/special/love-norway-x.jpg
@@ -38,16 +45,24 @@ carousel:
       published: true
       start_date:
       stop_date:
+    - image: 25x9/visit/LC0849-mangletre.jpg
+      alt: Mangletre
+      caption: Plan your visit.
+      link: /visit/what/
+      published: true
+      start_date:
+      stop_date:       
     - image: 25x9/exhibitions/special/alt-for-norge.jpg
       alt: Alt for Norge
       caption: Alt for Norge
       link: /exhibitions/special/alt-for-norge/
-      published: true
+      published: false
       start_date:
       stop_date:
+
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px      
 panels:
-  - url: /exhibitions/special/flora-metamorphicae/
+  - url: /join-give/benefit-auction/
     file_under:
     image:
     alt:
@@ -56,6 +71,28 @@ panels:
     subtitle:
     teaser:
     published: true
+    start_date: 2014-10-01
+    stop_date:
+  - url: /norway-tours/upcoming/coastal-voyage/
+    file_under:
+    image: 16x9/norway-tours/coastal-tour-houses.jpg
+    alt:
+    caption:
+    title:
+    subtitle:
+    teaser:
+    published: true
+    start_date: 2014-10-01
+    stop_date:    
+  - url: /exhibitions/special/flora-metamorphicae/
+    file_under:
+    image:
+    alt:
+    caption:
+    title:
+    subtitle:
+    teaser:
+    published: false
     start_date: 2014-10-01
     stop_date:
   - url: /exhibitions/special/a-restored-connection/
