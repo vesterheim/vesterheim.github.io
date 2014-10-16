@@ -2,6 +2,19 @@
 published: true
 title:  "Deck the Tables"
 date:   2014-11-07 18:00:00
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+hero:
+  image: 16x9/events/deck-the-tables.jpg
+  alt: 
+  caption: 
+pagelist:
+  order:         # Defaults to navigation order
+  image: 46x21/events/deck-the-tables.jpg
+  alt: 
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description  
 ---
 Deck the Tables <br /> Celebrate the Seasons
 ============================================

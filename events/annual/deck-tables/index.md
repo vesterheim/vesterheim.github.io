@@ -8,7 +8,7 @@ meta_description:  # Used in HTML head and as the description for some search en
 hero:
   image: 16x9/events/deck-the-tables.jpg
   alt: 
-caption: 
+  caption: 
 
 related:
 

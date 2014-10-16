@@ -25,7 +25,7 @@ event_location: # if location in data file, provide details, else simply this.
 
 tags: exhibition
 home:
-  display: true
+  display: false
 pagelist:
   order:         # Defaults to navigation order
   image: 

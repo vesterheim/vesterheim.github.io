@@ -4,7 +4,7 @@ layout: page
 title: "Norwegian Coastal Voyage: A Vesterheim Experience"
 subtitle: July 2-16, 2015 & August 26-September 9, 2015
 meta_title:        # Appears on bookmarks, search results, etc...
-meta_description:  # Used in HTML head and as the description for some search engines
+meta_description: Vesterheim gives its special touch to the Hurtigruten’s classic Norwegian coastal voyage! Every day of this incredible trip will be filled with one-of-a-kind opportunities to explore Norway and see breathtaking scenery, both on land and at sea. This tour is so popular it’s being offered twice in 2015!
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
   image: 16x9/norway-tours/coastal-voyage.jpg
@@ -20,7 +20,7 @@ pagelist:
   image: 46x21/norway-tours/coastal-voyage.jpg
   alt: 
   caption:   
-  title: Norwegian Coastal Voyage
+  title: Norwegian Coastal Voyage Tour
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---

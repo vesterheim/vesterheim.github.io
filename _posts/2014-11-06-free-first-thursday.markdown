@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 all_day: true
 title:  "Free First Thursday"
 dt_start:   2014-11-06 10:00:00

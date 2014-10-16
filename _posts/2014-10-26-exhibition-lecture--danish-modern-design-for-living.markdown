@@ -1,7 +1,20 @@
 ---
 published: true
-title:  "Exhibition Lecture—Danish Modern: Design for Living"
-date:   2014-10-26 14:00:00
+title: "Exhibition Lecture—Danish Modern: Design for Living"
+date: 2014-10-26 14:00:00
+hero:
+  image: 
+  alt: 
+  caption: 
+
+pagelist:
+  order:         # Defaults to navigation order
+  image: 46x21/events/lecture—danish-modern--design-for-living.jpg
+  alt: 
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description
 ---
 Amdal-Odland Heritage Center <br />
 Danish Modern: Design for Living <br />
