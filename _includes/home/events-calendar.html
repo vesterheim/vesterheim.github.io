@@ -19,7 +19,9 @@
 	{% endif %}
 
 	{% assign display = nil %}
-	{% if event_date >= current_time %}
+	{% if event.home.display == false %}
+		{% assign display = nil %}
+	{% elsif event_date >= current_time %}
 		{% assign display = true %}
 	{% elsif event_start >= current_time %}	
 		{% assign display = true %}
