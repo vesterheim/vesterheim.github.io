@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://vesterheim.githib.io/</link>
     <atom:link href="http://vesterheim.githib.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 15 Oct 2014 14:14:05 -0500</pubDate>
-    <lastBuildDate>Wed, 15 Oct 2014 14:14:05 -0500</lastBuildDate>
+    <pubDate>Wed, 15 Oct 2014 22:43:50 -0500</pubDate>
+    <lastBuildDate>Wed, 15 Oct 2014 22:43:50 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -54,21 +54,6 @@
         <pubDate>Fri, 05 Dec 2014 18:00:00 -0600</pubDate>
         <link>http://vesterheim.githib.io/events/calendar/2014/12/05/norwegian-christmas-celebration/</link>
         <guid isPermaLink="true">http://vesterheim.githib.io/events/calendar/2014/12/05/norwegian-christmas-celebration/</guid>
-        
-        
-        <category>events</category>
-        
-        <category>calendar</category>
-        
-      </item>
-    
-      <item>
-        <title>Free First Thursday</title>
-        <description>&lt;p&gt;Activity to be announced.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 04 Dec 2014 03:00:00 -0600</pubDate>
-        <link>http://vesterheim.githib.io/events/calendar/2014/12/04/free-first-thursday/</link>
-        <guid isPermaLink="true">http://vesterheim.githib.io/events/calendar/2014/12/04/free-first-thursday/</guid>
         
         
         <category>events</category>
@@ -241,21 +226,6 @@
       </item>
     
       <item>
-        <title>Free First Thursday</title>
-        <description>&lt;p&gt;Activity to be announced.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 06 Nov 2014 00:00:00 -0600</pubDate>
-        <link>http://vesterheim.githib.io/events/calendar/2014/11/06/free-first-thursday/</link>
-        <guid isPermaLink="true">http://vesterheim.githib.io/events/calendar/2014/11/06/free-first-thursday/</guid>
-        
-        
-        <category>events</category>
-        
-        <category>calendar</category>
-        
-      </item>
-    
-      <item>
         <title>Love Norway X</title>
         <description>&lt;p&gt;This exhibition is a special installation of a monumental artwork—a flag sculpture—made by Ian Ward Garlant of Hatlestrand, Norway, to celebrate the 200th anniversary of the Norwegian constitution. The artwork illustrates the principles that the occasion embodies—love, mutual acceptance, and compassion.&lt;/p&gt;
 
@@ -287,6 +257,42 @@ Tova Brandt &lt;br /&gt;&lt;/p&gt;
         <pubDate>Sun, 26 Oct 2014 09:00:00 -0500</pubDate>
         <link>http://vesterheim.githib.io/events/calendar/2014/10/26/exhibition-lecture--danish-modern-design-for-living/</link>
         <guid isPermaLink="true">http://vesterheim.githib.io/events/calendar/2014/10/26/exhibition-lecture--danish-modern-design-for-living/</guid>
+        
+        
+        <category>events</category>
+        
+        <category>calendar</category>
+        
+      </item>
+    
+      <item>
+        <title>Barnetimen (Children&#39;s Hour)</title>
+        <description>&lt;p&gt;For all pre-schoolers and their caregivers. 10:00 a.m., free.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Oct 2014 05:00:00 -0500</pubDate>
+        <link>http://vesterheim.githib.io/events/calendar/2014/10/21/barnetimen/</link>
+        <guid isPermaLink="true">http://vesterheim.githib.io/events/calendar/2014/10/21/barnetimen/</guid>
+        
+        
+        <category>events</category>
+        
+        <category>calendar</category>
+        
+      </item>
+    
+      <item>
+        <title>When Disney Called</title>
+        <description>&lt;p&gt;Do you live in the Madison, Wisconsin, area?&lt;/p&gt;
+
+&lt;p&gt;Come to the luncheon presentation &lt;em&gt;When Disney Called&lt;/em&gt; by Vesterheim staff to learn more about Vesterheim’s connection to the hit movie &lt;em&gt;Frozen&lt;/em&gt;. The event will be from 11:30 a.m. - 1:00 p.m. on October 18 at the Craftsman Table and Tap in Madison, Wisconsin.&lt;/p&gt;
+
+&lt;p&gt;Tickets are $30 per person. Reservations are required.&lt;/p&gt;
+
+&lt;p&gt;For more information and to RSVP, contact Stephanie Johnson at (563) 382-9681, ext.103, or snjohnson@vesterheim.org.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 18 Oct 2014 06:30:00 -0500</pubDate>
+        <link>http://vesterheim.githib.io/events/calendar/2014/10/18/when-disney-called-madison-wi/</link>
+        <guid isPermaLink="true">http://vesterheim.githib.io/events/calendar/2014/10/18/when-disney-called-madison-wi/</guid>
         
         
         <category>events</category>

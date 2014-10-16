@@ -4471,3 +4471,23 @@ strong {
 em,
 i {
   font-style: italic; }
+
+
+.fb_iframe_widget {
+ display: block !important;
+}
+ 
+.fb-like-box iframe {
+ width: 100% !important;
+}
+ 
+.fb-like-box span {
+ width: auto !important;
+ position: initial !important;
+}
+.fb_iframe_widget_fluid span {
+ width:100% !important;
+}
+.fb_iframe_widget span {
+ position: static !important;
+}  
