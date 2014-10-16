@@ -1,6 +1,13 @@
 ---
 layout: base
 ---
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=509015789178497&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 {% include home/carousel.html %}
         <div class="layout__page">
             <div class="grid--home">
@@ -42,25 +49,24 @@ layout: base
                                 <div class="panel__heading  panel__heading--deep-space-sparkle"><span class="panel__title">Hours<span class="hide-narrow"> &amp; Admission</span></span></div>
                                 <div class="panel__body  hours__panel__body">
                                     <section class="hours__section  hours__section__rule">
-                                        <h1 class="hours__section__title">Vesterheim Museum open daily</h1>
+                                        <h1 class="hours__section__title">Museum open daily</h1>
                                         <div class="hours__section__hours">9 am to 5 pm</div>
                                         <div class="hours__section__date">from May 1 to October 31</div>
                                         <div class="hours__section__hours">10 am to 4 pm</div>
                                         <div class="hours__section__date">November 1 to April 30</div>
                                     </section>
                                     <section class="hours__section  hours__section__rule">
-                                        <h1 class="hours__section__title">Museum Store open daily</h1>
+                                        <h1 class="hours__section__title">Store open daily</h1>
                                         <div class="hours__section__hours">9 am to 5 pm</div>
                                         <div class="hours__section__date">all year</div>
                                     </section>
                                     <section class="hours__section">
-                                        <h1 class="hours__section__title">Guided tours of Vesterheim's Open Air Division</h1>
+                                        <h1 class="hours__section__title">Guided tours of Open Air Division</h1>
                                         <div class="hours__section__open-air">offered once daily generally at 1:30 pm but call ahead for tour times but call ahead for tour times</div>
                                     </section>
                                 </div>
                             </div>
                         </div>
-
 
                         <div class="panel  panel-default">
                             <div class="panel__lining    panel__lining--isabelline  panel__lining--padding-bottom">
@@ -70,6 +76,37 @@ layout: base
                                 </div>
                             </div>
                         </div>
+
+                        <div class="panel  panel-default">
+                            <div class="panel__lining    xpanel__lining--isabelline  panel__lining--padding-bottom">
+                                <div class="panel__heading  panel__heading--deep-space-sparkle"><span class="panel__title">Facebook</span></div>
+                                <div class="panel__body">                        
+<div class="fb-like-box" data-href="https://www.facebook.com/pages/Vesterheim-Norwegian-American-Museum/18263584108" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="panel  panel-default">
+                            <div class="panel__lining  panel__lining--padding-bottom">
+                                <div class="panel__heading  panel__heading--deep-space-sparkle"><span class="panel__title">People's Choice</span></div>
+                                <div class="panel__body">
+{% picture half widgets/2014--site-of-the-year.png alt="2014 Silos and Smokestacks' People's Choice Site of the Year" %} 
+                                </div>
+                            </div>
+                        </div> 
+                        
+                        <div class="panel  panel-default">
+                            <div class="panel__lining    panel__lining--isabelline  panel__lining--padding-bottom">
+                                <div class="panel__heading  panel__heading--deep-space-sparkle"><span class="panel__title">Trip Advisor</span></div>
+                                <div class="panel__body">
+                                    <div id="TA_certificateOfExcellence289" class="TA_certificateOfExcellence" style="margin:0 auto; padding-top: 24px; max-width: 172px;"><div id="CDSWIDCOE" class="widCOE" style="margin-left:auto; margin-left:right; width: 148px;"> <div class="widCOETitle"> Certificate of Excellence </div> <div class="widCOEDate"> <span class="widCOEDateText">2014 Winner</span> </div> <div class="widCOELogo"> <a target="_blank" href="http://www.tripadvisor.com/"><img src="http://www.tripadvisor.com/img/cdsi/img2/awards/CoE2014_WidgetAsset-14348-2.png" alt="TripAdvisor" class="widCOEImg" id="CDSWIDCOELOGO"></a> </div> <div class="widCOELink"> <a target="_blank" onclick="ta.cds.handleTALink(14348,this);return true;" href="http://www.tripadvisor.com/Attraction_Review-g37822-d276441-Reviews-Vesterheim-Decorah_Iowa.html">Vesterheim</a> </div> </div><!--/ #CDSWIDCOE--> </div>
+<script src="http://www.jscache.com/wejs?wtype=certificateOfExcellence&amp;uniq=289&amp;locationId=276441&amp;lang=en_US&amp;year=2014"></script><script src="http://www.tripadvisor.com/WidgetEmbed-certificateOfExcellence?uniq=289&amp;locationId=276441&amp;year=2014&amp;lang=en_US"></script>
+                                </div>
+                            </div>
+                        </div>
+
+
+
 
 {% comment %}
                         <div class="panel  panel-default">
