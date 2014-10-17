@@ -29,6 +29,8 @@ More than just a diversion, the Decorah area, or “Bluff Country,” is nestled
 
 Thriving, quaint shops fill the downtown area, four-star restaurants tempt the palate, cultural and historic venues entertain, and recreational opportunities blanket the entire region. Whatever the season—your stay is sure to be unforgettable!
 
+{% picture full 16x9/maps/decorah-map.jpg alt="Heat map of Decorah attractions" %}
+
 * Link to Visit Decorah http://www.visitdecorah.com/
 * Link to Northeast Iowa http://visitiowa.org/
 * Link to bike trail video
