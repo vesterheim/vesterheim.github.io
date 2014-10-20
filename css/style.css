@@ -24,23 +24,38 @@
  *
  */
 @font-face {
-  font-family: 'FranKlein';
-  src: url('../fonts/frankleinmedium-webfont.eot?1391627713');
-  src: url('../fonts/frankleinmedium-webfont.eot?&1391627713#iefix') format("embedded-opentype"), url('../fonts/frankleinmedium-webfont.woff?1391627714') format("woff"), url('../fonts/frankleinmedium-webfont.ttf?1391627713') format("truetype"), url('../fonts/frankleinmedium-webfont.svg?1391627713#frankleinmediumregular') format("svg");
-  font-weight: 400;
-  font-style: normal; }
+    font-family: 'FranKlein';
+    src: url('frankleinmedium-webfont.eot');
+    src: url('frankleinmedium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('frankleinmedium-webfont.woff2') format('woff2'),
+         url('frankleinmedium-webfont.woff') format('woff'),
+         url('frankleinmedium-webfont.ttf') format('truetype'),
+         url('frankleinmedium-webfont.svg#frankleinmediumregular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
 @font-face {
-  font-family: 'FranKlein';
-  src: url('../fonts/frankleinbold-webfont.eot?1391627713');
-  src: url('../fonts/frankleinbold-webfont.eot?&1391627713#iefix') format("embedded-opentype"), url('../fonts/frankleinbold-webfont.woff?1391627713') format("woff"), url('../fonts/frankleinbold-webfont.ttf?1391627713') format("truetype"), url('../fonts/frankleinbold-webfont.svg?1391627713#frankleinboldregular') format("svg");
-  font-weight: 700;
-  font-style: normal; }
+    font-family: 'FranKlein';
+    src: url('frankleinbold-webfont.eot');
+    src: url('frankleinbold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('frankleinbold-webfont.woff2') format('woff2'),
+         url('frankleinbold-webfont.woff') format('woff'),
+         url('frankleinbold-webfont.ttf') format('truetype'),
+         url('frankleinbold-webfont.svg#frankleinboldregular') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
 @font-face {
-  font-family: 'FranKlein';
-  src: url('../fonts/frankleinbook-webfont.eot?1391627713');
-  src: url('../fonts/frankleinbook-webfont.eot?&1391627713#iefix') format("embedded-opentype"), url('../fonts/frankleinbook-webfont.woff?1391627713') format("woff"), url('../fonts/frankleinbook-webfont.ttf?1391627713') format("truetype"), url('../fonts/frankleinbook-webfont.svg?1391627713#frankleinbookregular') format("svg");
-  font-weight: 100;
-  font-style: normal; }
+    font-family: 'FranKlein';
+    src: url('frankleinbook-webfont.eot');
+    src: url('frankleinbook-webfont.eot?#iefix') format('embedded-opentype'),
+         url('frankleinbook-webfont.woff2') format('woff2'),
+         url('frankleinbook-webfont.woff') format('woff'),
+         url('frankleinbook-webfont.ttf') format('truetype'),
+         url('frankleinbook-webfont.svg#frankleinbookregular') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}  
 /** MODIFIED: http://meyerweb.com/eric/tools/css/reset/ v2.0 | 20110126
  * Get rid of background, borders, font-sizes, margins, 
  * outlines, padding, etc... Set it where you need it 
