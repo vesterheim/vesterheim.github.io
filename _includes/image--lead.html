@@ -39,7 +39,7 @@ Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 <figure class="pull-{{ image_lead__pull }}  content-photo  content-photo--{{ image_lead__ratio }}-ratio--pull-{{ image_lead__pull }}  content-photo--{{ image_lead__ratio }}-ratio">
 	<div class="content-photo__lining">
 		{% picture {{ image_lead__ratio }} {{ image_lead__src }} alt="{{ image_lead__alt }}" %}{% if image_lead__caption %}
-		<figcaption class="caption">{{ image_lead__caption }}</figcaption>{% endif %}
+		<figcaption class="{% if image_lead__pull == 'left' %}layout__main--constrained__padding {% endif %}caption">{{ image_lead__caption }}</figcaption>{% endif %}
 	</div>
 </figure>
 {% endif %}{% capture image_lead__cache %}
