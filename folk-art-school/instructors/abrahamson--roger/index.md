@@ -1,15 +1,14 @@
 ---
 published: true
 layout: instructor
-published: true
 title: Roger Abrahamson
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 
-instructor:
+lead:
   image: folk-art-school/instructors/abrahamson--roger.jpg
   alt: Roger Abrahamson
-caption: 
+  caption: Roger Abrahamson
 
 related:
 

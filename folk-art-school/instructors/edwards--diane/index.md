@@ -6,10 +6,10 @@ title: Diane Edwards
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 
-instructor:
+lead:
   image: folk-art-school/instructors/edwards--diane.jpg
   alt: Diane Edwards
-caption: 
+  caption: 
 
 related:
 

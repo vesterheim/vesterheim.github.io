@@ -6,10 +6,10 @@ title: Carol Colburn
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 
-instructor:
+lead:
   image: folk-art-school/instructors/colburn--carol.jpg
   alt: Carol Colburn
-caption:
+  caption:
 
 related:
 

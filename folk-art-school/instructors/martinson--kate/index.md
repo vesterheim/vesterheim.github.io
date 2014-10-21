@@ -6,10 +6,10 @@ title: Kate Martinson
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 
-instructor:
+lead:
   image: folk-art-school/instructors/martinson--kate.jpg
   alt: Kate Martinson
-caption: 
+  caption: 
 
 related:
 
