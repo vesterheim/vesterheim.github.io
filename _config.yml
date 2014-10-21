@@ -3,7 +3,7 @@ title: Vesterheim Norwegian-American Museum
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 baseurl: ""
-url: "http://vesterheim.githib.io"
+url: "http://vesterheim.github.io"
 twitter_username: jekyllrb
 github_username:  jekyll
 

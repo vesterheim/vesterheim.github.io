@@ -25,20 +25,20 @@
  */
 @font-face {
   font-family: 'FranKlein';
-  src: url('../fonts/frankleinmedium-webfont.eot?1391627713');
-  src: url('../fonts/frankleinmedium-webfont.eot?&1391627713#iefix') format("embedded-opentype"), url('../fonts/frankleinmedium-webfont.woff?1391627714') format("woff"), url('../fonts/frankleinmedium-webfont.ttf?1391627713') format("truetype"), url('../fonts/frankleinmedium-webfont.svg?1391627713#frankleinmediumregular') format("svg");
+  src: url('../fonts/frankleinmedium-webfont.eot?1413828604');
+  src: url('../fonts/frankleinmedium-webfont.eot?&1413828604#iefix') format("embedded-opentype"), url('../fonts/frankleinmedium-webfont.woff?1413828604') format("woff"), url('../fonts/frankleinmedium-webfont.ttf?1413828604') format("truetype"), url('../fonts/frankleinmedium-webfont.svg?1413828604#frankleinmediumregular') format("svg");
   font-weight: 400;
   font-style: normal; }
 @font-face {
   font-family: 'FranKlein';
-  src: url('../fonts/frankleinbold-webfont.eot?1391627713');
-  src: url('../fonts/frankleinbold-webfont.eot?&1391627713#iefix') format("embedded-opentype"), url('../fonts/frankleinbold-webfont.woff?1391627713') format("woff"), url('../fonts/frankleinbold-webfont.ttf?1391627713') format("truetype"), url('../fonts/frankleinbold-webfont.svg?1391627713#frankleinboldregular') format("svg");
+  src: url('../fonts/frankleinbold-webfont.eot?1413828604');
+  src: url('../fonts/frankleinbold-webfont.eot?&1413828604#iefix') format("embedded-opentype"), url('../fonts/frankleinbold-webfont.woff?1413828604') format("woff"), url('../fonts/frankleinbold-webfont.ttf?1413828604') format("truetype"), url('../fonts/frankleinbold-webfont.svg?1413828604#frankleinboldregular') format("svg");
   font-weight: 700;
   font-style: normal; }
 @font-face {
   font-family: 'FranKlein';
-  src: url('../fonts/frankleinbook-webfont.eot?1391627713');
-  src: url('../fonts/frankleinbook-webfont.eot?&1391627713#iefix') format("embedded-opentype"), url('../fonts/frankleinbook-webfont.woff?1391627713') format("woff"), url('../fonts/frankleinbook-webfont.ttf?1391627713') format("truetype"), url('../fonts/frankleinbook-webfont.svg?1391627713#frankleinbookregular') format("svg");
+  src: url('../fonts/frankleinbook-webfont.eot?1413828604');
+  src: url('../fonts/frankleinbook-webfont.eot?&1413828604#iefix') format("embedded-opentype"), url('../fonts/frankleinbook-webfont.woff?1413828604') format("woff"), url('../fonts/frankleinbook-webfont.ttf?1413828604') format("truetype"), url('../fonts/frankleinbook-webfont.svg?1413828604#frankleinbookregular') format("svg");
   font-weight: 100;
   font-style: normal; }
 /** MODIFIED: http://meyerweb.com/eric/tools/css/reset/ v2.0 | 20110126
@@ -4894,3 +4894,29 @@ INTERNET EXPLORER 8 and below
     display: inline;
     float: left;
     width: 100%; } }
+/* line 331, sass/style.scss */
+.social-sharing-bar__item {
+  display: inline-block;
+  display: inline-block;
+  vertical-align: bottom;
+  *vertical-align: auto;
+  *zoom: 1;
+  *display: inline;
+  -moz-transition: opacity 0.3s;
+  -o-transition: opacity 0.3s;
+  -webkit-transition: opacity 0.3s;
+  transition: opacity 0.3s; }
+
+/* line 336, sass/style.scss */
+.social-sharing-bar:hover .social-sharing-bar__item:not(:hover) {
+  opacity: 0.9; }
+
+/* line 340, sass/style.scss */
+.social-icon {
+  background-repeat: no-repeat;
+  display: block;
+  height: 48px;
+  overflow: hidden;
+  text-indent: 100%;
+  white-space: nowrap;
+  width: 48px; }

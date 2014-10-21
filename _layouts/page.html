@@ -13,6 +13,7 @@ layout: base
 {% include image--lead.html %}
 {{ content }}
                         </div>
+{% if page.show_social_sharing_bar %}{% include social-sharing-bar.html %}{% endif %}                        
 {% if page.show_pagelist_menu %}{% include nav/pagelist-tiles.html %}{% endif %}
                     </div>
                 </div>
