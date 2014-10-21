@@ -44,6 +44,12 @@ carousel:
       exclude: false
       start_date:
       stop_date:
+lead:
+  image:
+  alt:
+  caption:
+  ratio:
+  pull:
 
 show_pagelist_menu: false
 

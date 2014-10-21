@@ -1,0 +1,51 @@
+{% capture image_lead__cache %}
+{% comment %}
+Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+{% endcomment %}
+{% assign image_lead__src = nil %}
+{% assign image_lead__ratio = 'golden' %}
+{% assign image_lead__pull = 'left' %}
+{% assign image_lead__alt = nil %}
+{% assign image_lead__caption = nil %}
+{% if include.image %}
+	{% assign image_lead__src = include.image %}
+	{% if include.alt %}
+		{% assign image_lead__alt = include.alt | strip_html | xml_escape %}
+	{% endif %}
+	{% if include.caption %}
+		{% assign image_lead__caption = include.caption | markdownify | remove: '<p>' | remove: '</p>' %}
+	{% endif %}	
+	{% if include.ratio %}
+		{% assign image_lead__ratio = include.ratio %}
+	{% endif %}	
+	{% if include.pull %}
+		{% assign image_lead__pull = include.pull %}
+	{% endif %}	
+{% elsif page.lead.image %}
+	{% assign image_lead__src = page.lead.image %}
+	{% if page.lead.alt %}
+		{% assign image_lead__alt = page.lead.alt | strip_html | xml_escape %}
+	{% endif %}
+	{% if page.lead.caption %}
+		{% assign image_lead__caption = page.lead.caption | markdownify | remove: '<p>' | remove: '</p>' %}
+	{% endif %}	
+	{% if page.lead.ratio %}
+		{% assign image_lead__caption = include.ratio %}
+	{% endif %}
+	{% if page.lead.pull %}
+		{% assign image_lead__pull = page.lead.pull %}
+	{% endif %}		
+{% endif %}{% endcapture %}{% assign cache = nil %}{% if image_lead__src %}
+<figure class="pull-{{ image_lead__pull }}  content-photo  content-photo--{{ image_lead__ratio }}-ratio--pull-{{ image_lead__pull }}  content-photo--{{ image_lead__ratio }}-ratio">
+	<div class="content-photo__lining">
+		{% picture {{ image_lead__ratio }} {{ image_lead__src }} alt="{{ image_lead__alt }}" %}{% if image_lead__caption %}
+		<figcaption class="caption">{{ image_lead__caption }}</figcaption>{% endif %}
+	</div>
+</figure>
+{% endif %}{% capture image_lead__cache %}
+{% assign image_lead__src = nil %}
+{% assign image_lead__ratio = nil %}
+{% assign image_lead__pull = nil %}
+{% assign image_lead__alt = nil %}
+{% assign image_lead__caption = nil %}
+{% endcapture %}{% assign image_lead__cache = nil %}

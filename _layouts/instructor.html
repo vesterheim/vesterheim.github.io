@@ -9,7 +9,7 @@ layout: base
                     <div class="main-content">
 {% include headline.html %}
                         <div class="layout__main--constrained  text">
-{% if page.instructor.image %}<figure class="pull-left  content-photo  content-photo--golden-ratio--pull-left  content-photo--golden-ratio"><div class="content-photo__lining">{% picture golden {{ page.instructor.image }} alt="{{ page.instructor.alt }}" %}</div></figure>{% endif %}
+{% include image--lead.html %}
 {{ content }}                        
                         </div>
 {% if page.include_tiles %}{% include tiles.html %}{% endif %}

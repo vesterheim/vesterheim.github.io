@@ -10,7 +10,8 @@ layout: base
 {% include headline.html %}
 {% include image--full-width.html %}
                         <div class="layout__main--constrained  text">
-{{ content }}                        
+{% include image--lead.html %}
+{{ content }}
                         </div>
 {% if page.show_pagelist_menu %}{% include nav/pagelist-tiles.html %}{% endif %}
                     </div>
