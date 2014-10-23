@@ -2820,46 +2820,54 @@ a {
     .page-foot__contact {
       margin-left: 50%; } }
 
-/* line 80, sass/partials/_page-foot.scss */
+/* line 79, sass/partials/_page-foot.scss */
 .page-foot__contact__p-name {
   color: transparent;
   font: 0/0 FranKlein, Arial, "Helvetica Neue", Helvetica, sans-serif; }
 
-/* line 86, sass/partials/_page-foot.scss */
+/* line 85, sass/partials/_page-foot.scss */
 .page-foot__contact_delimiter {
   display: none; }
   @media screen and (min-width: 30em) {
-    /* line 86, sass/partials/_page-foot.scss */
+    /* line 85, sass/partials/_page-foot.scss */
     .page-foot__contact_delimiter {
       display: inline; } }
 
-/* line 92, sass/partials/_page-foot.scss */
+/* line 91, sass/partials/_page-foot.scss */
 .page-foot__contact__p-street-address {
   display: block; }
   @media screen and (min-width: 30em) {
-    /* line 92, sass/partials/_page-foot.scss */
+    /* line 91, sass/partials/_page-foot.scss */
     .page-foot__contact__p-street-address {
       display: inline; } }
 
-/* line 98, sass/partials/_page-foot.scss */
+/* line 97, sass/partials/_page-foot.scss */
 .page-foot__contact__link {
   color: #bcc0c1;
   color: rgba(238, 238, 238, 0.76); }
 
+/**
+ * For different color test. Delete if not used!
+ */
+/* line 105, sass/partials/_page-foot.scss */
+.page-foot__contact--new-color,
+.page-foot__contact__link--new-color {
+  color: #fff; }
+
 /** 
  * Page Foot Credit
  */
-/* line 109, sass/partials/_page-foot.scss */
+/* line 114, sass/partials/_page-foot.scss */
 .page-foot__credit {
   font-weight: 100;
   margin-top: 1.58333em;
   margin-top: 1.1875rem; }
   @media screen and (min-width: 48em) {
-    /* line 109, sass/partials/_page-foot.scss */
+    /* line 114, sass/partials/_page-foot.scss */
     .page-foot__credit {
       margin-left: 50%; } }
 
-/* line 117, sass/partials/_page-foot.scss */
+/* line 122, sass/partials/_page-foot.scss */
 .page-foot__credit__link {
   color: #7c8081;
   color: rgba(153, 153, 153, 0.76); }
@@ -4316,7 +4324,45 @@ input[type="button"].btn-block {
   margin-bottom: 0.75rem;
   text-transform: uppercase; }
 
-/* line 535, sass/modules/_new.scss */
+/* line 534, sass/modules/_new.scss */
+.hours__section__address {
+  font-size: 0.875em;
+  font-size: 0.875rem;
+  font-weight: 700;
+  line-height: 1.28571em;
+  line-height: 1.125rem;
+  margin-top: 1.71429em;
+  margin-top: 1.5rem;
+  margin-bottom: 0.85714em;
+  margin-bottom: 0.75rem;
+  text-transform: uppercase; }
+
+/* line 544, sass/modules/_new.scss */
+.hours__section__phone,
+.hours__section__phone a {
+  color: #EDEDED;
+  font-size: 0.875em;
+  font-size: 0.875rem;
+  font-weight: 700;
+  line-height: 1.28571em;
+  line-height: 1.125rem;
+  margin-bottom: 0.85714em;
+  margin-bottom: 0.75rem;
+  text-transform: uppercase; }
+
+/* line 554, sass/modules/_new.scss */
+.hours__section__email,
+.hours__section__email a {
+  color: #EDEDED;
+  font-size: 0.875em;
+  font-size: 0.875rem;
+  font-weight: 700;
+  line-height: 1.28571em;
+  line-height: 1.125rem;
+  margin-bottom: 0.85714em;
+  margin-bottom: 0.75rem; }
+
+/* line 564, sass/modules/_new.scss */
 .dining__title {
   color: #414141;
   font-size: 1.125em;
@@ -4329,57 +4375,57 @@ input[type="button"].btn-block {
   margin-bottom: 2.33333em;
   margin-bottom: 2.625rem; }
 
-/* line 544, sass/modules/_new.scss */
+/* line 573, sass/modules/_new.scss */
 .dining__panel__lining {
   padding-top: 1.5em;
   padding-top: 1.5rem;
   padding-bottom: 1.5em;
   padding-bottom: 1.5rem; }
 
-/* line 550, sass/modules/_new.scss */
+/* line 579, sass/modules/_new.scss */
 .mobile-hours {
   background-color: #FCF2EB;
   color: #444;
   position: relative;
   z-index: 0; }
 
-/* line 556, sass/modules/_new.scss */
+/* line 585, sass/modules/_new.scss */
 .mobile-hours__buttons {
   padding-top: 0.75em;
   padding-top: 0.75rem;
   padding-top: 0.375em;
   padding-top: 0.375rem; }
 
-/* line 560, sass/modules/_new.scss */
+/* line 589, sass/modules/_new.scss */
 .mobile-hours__visit {
   padding-bottom: 0.75em;
   padding-bottom: 0.75rem;
   padding-bottom: 0.375em;
   padding-bottom: 0.375rem; }
 
-/* line 564, sass/modules/_new.scss */
+/* line 593, sass/modules/_new.scss */
 .mobile-hours__call {
   float: left;
   width: 50%; }
 
-/* line 568, sass/modules/_new.scss */
+/* line 597, sass/modules/_new.scss */
 .mobile-hours__call__lining {
   display: block;
   padding-right: 0.375em;
   padding-right: 0.375rem; }
 
-/* line 572, sass/modules/_new.scss */
+/* line 601, sass/modules/_new.scss */
 .mobile-hours__directions {
   float: right;
   width: 50%; }
 
-/* line 576, sass/modules/_new.scss */
+/* line 605, sass/modules/_new.scss */
 .mobile-hours__directions__lining {
   display: block;
   padding-left: 0.375em;
   padding-left: 0.375rem; }
 
-/* line 580, sass/modules/_new.scss */
+/* line 609, sass/modules/_new.scss */
 .mobile-hours__hours {
   clear: both;
   font-size: 1.125em;
@@ -4401,7 +4447,7 @@ input[type="button"].btn-block {
   padding-bottom: 1.125rem;
   text-align: center; }
 
-/* line 593, sass/modules/_new.scss */
+/* line 622, sass/modules/_new.scss */
 .button--visit,
 .button--hours,
 .button--directions {
