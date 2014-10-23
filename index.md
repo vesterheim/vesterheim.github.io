@@ -60,6 +60,8 @@ carousel:
       start_date:
       stop_date:
 
+show_social_sharing_bar: false
+
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px      
 panels:
   - url: /join-give/benefit-auction/
