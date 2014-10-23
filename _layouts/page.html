@@ -14,7 +14,7 @@ layout: base
 {{ content }}
                         </div>
 {% if page.show_pagelist_menu %}{% include nav/pagelist-tiles.html %}{% endif %}                      
-{% if page.show_social_sharing_bar %}{% include social-sharing-bar.html %}{% endif %}  
+{% if page.show_social_sharing_bar %}<div class="layout__main--constrained">{% include social-sharing-bar.html %}</div>{% endif %}
                     </div>
                 </div>
             </div>
