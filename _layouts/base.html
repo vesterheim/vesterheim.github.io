@@ -17,6 +17,7 @@
 
 {% include footer.html %}
     </div>
-{% include javascript--foot.html %}  
+{% include javascript--foot.html %}
+{% if site.production == false %}{{ site.time | date_to_rfc822 }}{% endif %}
 </body>
 </html>

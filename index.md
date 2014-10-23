@@ -16,14 +16,7 @@ sitemap:
 # Ratio: 25:9 | Recommended: 1492px by 538px | Minimum: 746px by 269px
 carousel:
   ratio: carousel
-  slides:
-    - image: 16x9/exhibitions/special/flora-metamorphicae.jpg
-      alt: Flora Metamorphicae
-      caption: Flora Metamorphicae
-      link: /exhibitions/special/flora-metamorphicae/
-      published: true
-      start_date:
-      stop_date:  
+  slides: 
     - image: 25x9/folk-art-school/classes/weaving.jpg
       alt: Weaving Class
       caption: Classes all year!

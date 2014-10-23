@@ -42,7 +42,7 @@ For an additional fee, members can subscribe to the _Rosemaling Letter_, which i
 
 ### Basic Membership benefits:
 
-*   _Vesterheim_, the magazine published twice a year, featuring in-depth articles focusing on the museum’s priceless collection of artifacts, Norwegian-American history and culture, and related topics.
+*   _Vesterheim_, our lushly illustrated magazine published twice a year, featuring in-depth articles focusing on the museum’s priceless collection of artifacts, Norwegian-American history and culture, and related topics.
 *   Discount on class tuition.
 *   Discounts on most items and mail orders from the Museum Store
 *   Free admission to the museum.
