@@ -684,23 +684,23 @@ a {
 
 /*
 .layout__page--padded {
-	@include padding-right($page__margin__width--min--px, 16px);
-	@include padding-left($page__margin__width--min--px, 16px);   
+  @include padding-right($page__margin__width--min--px, 16px);
+  @include padding-left($page__margin__width--min--px, 16px);   
 
-	@include respond-between($media__iphone--landscape, $media__iphone-4) { 
-		@include padding-right($page__margin__width--constrained--px, 16px);
-		@include padding-left($page__margin__width--constrained--px, 16px);  
-	} 
+  @include respond-between($media__iphone--landscape, $media__iphone-4) { 
+    @include padding-right($page__margin__width--constrained--px, 16px);
+    @include padding-left($page__margin__width--constrained--px, 16px);  
+  } 
 
-	@include respond-between($media__iphone-4, $media__ipad) { 
-		@include padding-right($page__margin__width--constrained--px, 16px);
-		@include padding-left($page__margin__width--constrained--px, 16px);  
-	} 
+  @include respond-between($media__iphone-4, $media__ipad) { 
+    @include padding-right($page__margin__width--constrained--px, 16px);
+    @include padding-left($page__margin__width--constrained--px, 16px);  
+  } 
 
-	@include respond-min($media__ipad) {  
-		@include padding-right($page__margin__width--px, 16px);    
-		@include padding-left($page__margin__width--px, 16px);    
-	}   
+  @include respond-min($media__ipad) {  
+    @include padding-right($page__margin__width--px, 16px);    
+    @include padding-left($page__margin__width--px, 16px);    
+  }   
 }
 */
 /**
@@ -4419,121 +4419,124 @@ input[type="button"].btn-block {
   padding-left: 0;
   padding-left: 0; }
 
-/* line 3, sass/themes/_folk-art-classy-hack.scss */
-.theme--folk-art .page-head {
-  background-color: #29393C;
-  color: #fff; }
-@media screen and (min-width: 48em) {
-  /* line 8, sass/themes/_folk-art-classy-hack.scss */
-  .theme--folk-art .nav--page-head__link {
-    color: #fff; } }
-/* line 13, sass/themes/_folk-art-classy-hack.scss */
-.theme--folk-art .site-logo--image-replacement {
-  background-image: url('../images/png/vesterheim-logo--194x42--white-on-blue.png?1391627714'); }
-  @media screen and (min-width: 30em) and (max-width: 59.9375em) {
-    /* line 13, sass/themes/_folk-art-classy-hack.scss */
-    .theme--folk-art .site-logo--image-replacement {
-      background-image: url('../images/png/vesterheim-logo--254x55--white-on-blue.png?1391627714'); } }
-  @media screen and (min-width: 60em) {
-    /* line 13, sass/themes/_folk-art-classy-hack.scss */
-    .theme--folk-art .site-logo--image-replacement {
-      background-image: url('../images/png/vesterheim-logo--332x72--white-on-blue.png?1391627714'); } }
-@media screen and (min-width: 18em) and (max-width: 47.9375em) {
-  /* line 25, sass/themes/_folk-art-classy-hack.scss */
-  .theme--folk-art .nav--skip {
-    background-color: #29393C; } }
-@media screen and (min-width: 48em) {
-  /* line 31, sass/themes/_folk-art-classy-hack.scss */
-  .theme--folk-art .nav--featured__wrapper {
-    border-color: #465457;
-    border-color: rgba(255, 255, 255, 0.14); } }
-@media screen and (min-width: 48em) {
-  /* line 43, sass/themes/_folk-art-classy-hack.scss */
-  .theme--folk-art .is_active > .nav--featured__link {
-    border-color: #DD5D2D; } }
-@media screen and (min-width: 48em) {
-  /* line 48, sass/themes/_folk-art-classy-hack.scss */
-  .theme--folk-art .nav--site__wrapper {
-    border-color: #465457;
-    border-color: rgba(255, 255, 255, 0.14); } }
-@media screen and (min-width: 48em) {
-  /* line 59, sass/themes/_folk-art-classy-hack.scss */
-  .theme--folk-art .is_active > .relative-lining > .nav--site__link {
-    border-color: #DD5D2D;
-    color: #DD5D2D; } }
-@media screen and (min-width: 48em) {
-  /* line 67, sass/themes/_folk-art-classy-hack.scss */
-  .theme--folk-art .nav--site__item > .relative-lining:hover {
-    background-color: #DD5D2D; } }
-@media screen and (min-width: 48em) {
-  /* line 73, sass/themes/_folk-art-classy-hack.scss */
-  .theme--folk-art .nav--site__item--folk-art-school:before {
-    border-color: #465457;
-    border-color: rgba(255, 255, 255, 0.14); }
-  /* line 78, sass/themes/_folk-art-classy-hack.scss */
-  .theme--folk-art .relative-lining:hover > .nav--site__link--folk-art-school,
-  .theme--folk-art .relative-lining > .nav--site__link--folk-art-school:active,
-  .theme--folk-art .relative-lining > .nav--site__link--folk-art-school:focus {
-    color: #fff; } }
-@media screen and (min-width: 40em) {
-  /* line 88, sass/themes/_folk-art-classy-hack.scss */
-  .theme--folk-art .auxiliary {
-    background-color: #213236;
-    background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjAuMCIgeDI9IjAuNSIgeTI9IjEuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzFhMjkyYyIvPjxzdG9wIG9mZnNldD0iMTYlIiBzdG9wLWNvbG9yPSIjMjEzMjM2Ii8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0idXJsKCNncmFkKSIgLz48L3N2Zz4g');
-    background-size: 100%;
-    background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #1a292c), color-stop(16%, #213236));
-    background-image: -moz-linear-gradient(top, #1a292c, #213236 16%);
-    background-image: -webkit-linear-gradient(top, #1a292c, #213236 16%);
-    background-image: linear-gradient(to bottom, #1a292c, #213236 16%);
-    background-repeat: no-repeat;
-    background-size: 100% 100px;
+/* line 1, sass/themes/_folk-art-classy-hack.scss */
+.theme--folk-art {
+  background-color: #FEFFF9; }
+  /* line 4, sass/themes/_folk-art-classy-hack.scss */
+  .theme--folk-art .page-head {
+    background-color: #29393C;
     color: #fff; }
-  /* line 100, sass/themes/_folk-art-classy-hack.scss */
-  .theme--folk-art .nav--section__link {
-    border-color: #404e52;
-    color: #dfe2e2; }
-    /* line 104, sass/themes/_folk-art-classy-hack.scss */
-    .theme--folk-art .nav--section__link:hover, .theme--folk-art .nav--section__link:active, .theme--folk-art .nav--section__link:focus {
-      background: #223337;
-      border-color: #4d5b5e;
+  @media screen and (min-width: 48em) {
+    /* line 9, sass/themes/_folk-art-classy-hack.scss */
+    .theme--folk-art .nav--page-head__link {
+      color: #fff; } }
+  /* line 14, sass/themes/_folk-art-classy-hack.scss */
+  .theme--folk-art .site-logo--image-replacement {
+    background-image: url('../images/png/vesterheim-logo--194x42--white-on-blue.png?1391627714'); }
+    @media screen and (min-width: 30em) and (max-width: 59.9375em) {
+      /* line 14, sass/themes/_folk-art-classy-hack.scss */
+      .theme--folk-art .site-logo--image-replacement {
+        background-image: url('../images/png/vesterheim-logo--254x55--white-on-blue.png?1391627714'); } }
+    @media screen and (min-width: 60em) {
+      /* line 14, sass/themes/_folk-art-classy-hack.scss */
+      .theme--folk-art .site-logo--image-replacement {
+        background-image: url('../images/png/vesterheim-logo--332x72--white-on-blue.png?1391627714'); } }
+  @media screen and (min-width: 18em) and (max-width: 47.9375em) {
+    /* line 26, sass/themes/_folk-art-classy-hack.scss */
+    .theme--folk-art .nav--skip {
+      background-color: #29393C; } }
+  @media screen and (min-width: 48em) {
+    /* line 32, sass/themes/_folk-art-classy-hack.scss */
+    .theme--folk-art .nav--featured__wrapper {
+      border-color: #465457;
+      border-color: rgba(255, 255, 255, 0.14); } }
+  @media screen and (min-width: 48em) {
+    /* line 44, sass/themes/_folk-art-classy-hack.scss */
+    .theme--folk-art .is_active > .nav--featured__link {
+      border-color: #DD5D2D; } }
+  @media screen and (min-width: 48em) {
+    /* line 49, sass/themes/_folk-art-classy-hack.scss */
+    .theme--folk-art .nav--site__wrapper {
+      border-color: #465457;
+      border-color: rgba(255, 255, 255, 0.14); } }
+  @media screen and (min-width: 48em) {
+    /* line 60, sass/themes/_folk-art-classy-hack.scss */
+    .theme--folk-art .is_active > .relative-lining > .nav--site__link {
+      border-color: #DD5D2D;
+      color: #DD5D2D; } }
+  @media screen and (min-width: 48em) {
+    /* line 68, sass/themes/_folk-art-classy-hack.scss */
+    .theme--folk-art .nav--site__item > .relative-lining:hover {
+      background-color: #DD5D2D; } }
+  @media screen and (min-width: 48em) {
+    /* line 74, sass/themes/_folk-art-classy-hack.scss */
+    .theme--folk-art .nav--site__item--folk-art-school:before {
+      border-color: #465457;
+      border-color: rgba(255, 255, 255, 0.14); }
+    /* line 79, sass/themes/_folk-art-classy-hack.scss */
+    .theme--folk-art .relative-lining:hover > .nav--site__link--folk-art-school,
+    .theme--folk-art .relative-lining > .nav--site__link--folk-art-school:active,
+    .theme--folk-art .relative-lining > .nav--site__link--folk-art-school:focus {
+      color: #fff; } }
+  @media screen and (min-width: 40em) {
+    /* line 89, sass/themes/_folk-art-classy-hack.scss */
+    .theme--folk-art .auxiliary {
+      background-color: #213236;
+      background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjAuMCIgeDI9IjAuNSIgeTI9IjEuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzFhMjkyYyIvPjxzdG9wIG9mZnNldD0iMTYlIiBzdG9wLWNvbG9yPSIjMjEzMjM2Ii8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0idXJsKCNncmFkKSIgLz48L3N2Zz4g');
+      background-size: 100%;
+      background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #1a292c), color-stop(16%, #213236));
+      background-image: -moz-linear-gradient(top, #1a292c, #213236 16%);
+      background-image: -webkit-linear-gradient(top, #1a292c, #213236 16%);
+      background-image: linear-gradient(to bottom, #1a292c, #213236 16%);
+      background-repeat: no-repeat;
+      background-size: 100% 100px;
       color: #fff; }
-  /* line 113, sass/themes/_folk-art-classy-hack.scss */
-  .theme--folk-art .nav--section__headline {
-    color: #DD5D2D; } }
-@media screen and (min-width: 48em) {
-  /* line 123, sass/themes/_folk-art-classy-hack.scss */
-  .theme--folk-art .nav--featured__item--site-search:before {
-    border-color: #465457;
-    border-color: rgba(255, 255, 255, 0.14); } }
-@media screen and (min-width: 48em) {
-  /* line 129, sass/themes/_folk-art-classy-hack.scss */
-  .theme--folk-art .site-search {
-    color: #fff; }
-  /* line 132, sass/themes/_folk-art-classy-hack.scss */
-  .theme--folk-art .site-search__search-field {
-    color: #fff; }
-  /* line 135, sass/themes/_folk-art-classy-hack.scss */
-  .theme--folk-art .site-search__search-field:focus,
-  .theme--folk-art .is_active > .site-search .site-search__search-field {
-    border-color: #DD5D2D; }
-  /* line 139, sass/themes/_folk-art-classy-hack.scss */
-  .theme--folk-art .site-search__search-field[placeholder] {
-    color: #fff; }
-  /* line 142, sass/themes/_folk-art-classy-hack.scss */
-  .theme--folk-art .site-search__search-field::-webkit-input-placeholder {
-    color: #fff; }
-  /* line 145, sass/themes/_folk-art-classy-hack.scss */
-  .theme--folk-art .site-search__search-field:-moz-placeholder {
-    color: #fff; }
-  /* line 148, sass/themes/_folk-art-classy-hack.scss */
-  .theme--folk-art .site-search__search-field::-moz-placehoder {
-    color: #fff; }
-  /* line 151, sass/themes/_folk-art-classy-hack.scss */
-  .theme--folk-art .site-search__search-field:-ms-placeholder {
-    color: #fff; }
-  /* line 154, sass/themes/_folk-art-classy-hack.scss */
-  .theme--folk-art .site-search__submit__icon {
-    background-image: url('../images/png/icon__search--white.png?1391627714'); } }
+    /* line 101, sass/themes/_folk-art-classy-hack.scss */
+    .theme--folk-art .nav--section__link {
+      border-color: #404e52;
+      color: #dfe2e2; }
+      /* line 105, sass/themes/_folk-art-classy-hack.scss */
+      .theme--folk-art .nav--section__link:hover, .theme--folk-art .nav--section__link:active, .theme--folk-art .nav--section__link:focus {
+        background: #223337;
+        border-color: #4d5b5e;
+        color: #fff; }
+    /* line 114, sass/themes/_folk-art-classy-hack.scss */
+    .theme--folk-art .nav--section__headline {
+      color: #DD5D2D; } }
+  @media screen and (min-width: 48em) {
+    /* line 124, sass/themes/_folk-art-classy-hack.scss */
+    .theme--folk-art .nav--featured__item--site-search:before {
+      border-color: #465457;
+      border-color: rgba(255, 255, 255, 0.14); } }
+  @media screen and (min-width: 48em) {
+    /* line 130, sass/themes/_folk-art-classy-hack.scss */
+    .theme--folk-art .site-search {
+      color: #fff; }
+    /* line 133, sass/themes/_folk-art-classy-hack.scss */
+    .theme--folk-art .site-search__search-field {
+      color: #fff; }
+    /* line 136, sass/themes/_folk-art-classy-hack.scss */
+    .theme--folk-art .site-search__search-field:focus,
+    .theme--folk-art .is_active > .site-search .site-search__search-field {
+      border-color: #DD5D2D; }
+    /* line 140, sass/themes/_folk-art-classy-hack.scss */
+    .theme--folk-art .site-search__search-field[placeholder] {
+      color: #fff; }
+    /* line 143, sass/themes/_folk-art-classy-hack.scss */
+    .theme--folk-art .site-search__search-field::-webkit-input-placeholder {
+      color: #fff; }
+    /* line 146, sass/themes/_folk-art-classy-hack.scss */
+    .theme--folk-art .site-search__search-field:-moz-placeholder {
+      color: #fff; }
+    /* line 149, sass/themes/_folk-art-classy-hack.scss */
+    .theme--folk-art .site-search__search-field::-moz-placehoder {
+      color: #fff; }
+    /* line 152, sass/themes/_folk-art-classy-hack.scss */
+    .theme--folk-art .site-search__search-field:-ms-placeholder {
+      color: #fff; }
+    /* line 155, sass/themes/_folk-art-classy-hack.scss */
+    .theme--folk-art .site-search__submit__icon {
+      background-image: url('../images/png/icon__search--white.png?1391627714'); } }
 
 /* line 47, sass/style.scss */
 abbr[title] {
@@ -4895,6 +4898,23 @@ INTERNET EXPLORER 8 and below
     float: left;
     width: 100%; } }
 /* line 331, sass/style.scss */
+.social-sharing-bar__wrapper {
+  margin-top: 4.5em;
+  margin-top: 4.5rem;
+  margin-bottom: 4.5em;
+  margin-bottom: 4.5rem; }
+
+/* line 335, sass/style.scss */
+.social-sharing-bar__heading {
+  color: #999;
+  font-family: FranKlein, Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 0.75em;
+  font-size: 0.75rem;
+  line-height: 3em;
+  line-height: 2.25rem;
+  text-transform: uppercase; }
+
+/* line 342, sass/style.scss */
 .social-sharing-bar__item {
   display: inline-block;
   display: inline-block;
@@ -4907,11 +4927,11 @@ INTERNET EXPLORER 8 and below
   -webkit-transition: opacity 0.3s;
   transition: opacity 0.3s; }
 
-/* line 336, sass/style.scss */
+/* line 347, sass/style.scss */
 .social-sharing-bar:hover .social-sharing-bar__item:not(:hover) {
   opacity: 0.9; }
 
-/* line 340, sass/style.scss */
+/* line 351, sass/style.scss */
 .social-icon {
   background-repeat: no-repeat;
   display: block;
