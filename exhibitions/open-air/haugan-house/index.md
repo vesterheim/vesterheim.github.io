@@ -16,7 +16,7 @@ navigation:
   order: 40
 pagelist:
   order: 40
-  image: 46x21/buildings/haugan-house.jpg
+  image: 46x21/buildings/haugen_m.jpg
   alt:
   caption: 
   title:         # Defaults to navigation title

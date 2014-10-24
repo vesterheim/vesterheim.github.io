@@ -16,7 +16,7 @@ navigation:
   order: 100
 pagelist:
   order: 100
-  image: 46x21/buildings/tasa-drying-shed.jpg
+  image: 46x21/buildings/tasa1_m.jpg
   alt:
   caption: 
   title:         # Defaults to navigation title

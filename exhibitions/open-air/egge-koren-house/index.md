@@ -16,7 +16,7 @@ navigation:
   order: 20
 pagelist:
   order: 20
-  image: 46x21/buildings/egge-koren-house.jpg
+  image: 46x21/buildings/egge4_m.jpg
   alt:
   caption: 
   title:         # Defaults to navigation title

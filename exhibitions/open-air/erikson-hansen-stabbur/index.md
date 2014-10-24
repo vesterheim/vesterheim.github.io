@@ -16,7 +16,7 @@ navigation:
   order: 30
 pagelist:
   order: 30
-  image: 46x21/buildings/erikson-hansen-stabbur.jpg
+  image: 46x21/buildings/stabbur_m.jpg
   alt:
   caption: 
   title:         # Defaults to navigation title

@@ -16,7 +16,7 @@ navigation:
   order: 80
 pagelist:
   order: 80
-  image: 46x21/buildings/rovang-parochial-school.jpg
+  image: 46x21/buildings/schoolhouse_m.jpg
   alt:
   caption: 
   title:         # Defaults to navigation title

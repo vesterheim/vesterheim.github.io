@@ -16,7 +16,7 @@ navigation:
   order: 120
 pagelist:
   order: 120
-  image: 46x21/buildings/wickney-house.jpg
+  image: 46x21/buildings/wickney2_m.jpg
   alt:
   caption: 
   title:         # Defaults to navigation title

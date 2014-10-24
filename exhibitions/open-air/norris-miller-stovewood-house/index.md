@@ -16,7 +16,7 @@ navigation:
   order: 60
 pagelist:
   order: 60
-  image: 46x21/buildings/norris-miller-stovewood-house.jpg
+  image: 46x21/buildings/stovewood1_m.jpg
   alt:
   caption: 
   title:         # Defaults to navigation title

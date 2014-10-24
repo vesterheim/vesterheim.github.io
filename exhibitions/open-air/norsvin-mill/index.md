@@ -16,7 +16,7 @@ navigation:
   order: 70
 pagelist:
   order: 70
-  image: 46x21/buildings/norsvin-mill.jpg
+  image: 46x21/buildings/norsvinmill2_m.jpg
   alt:
   caption: 
   title:         # Defaults to navigation title
