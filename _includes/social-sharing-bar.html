@@ -1,6 +1,6 @@
 {% capture social_sharing_bar__cache %}
 	{% assign social_sharing_bar__title = page.title | uri_escape %}
-	{% assign social_sharing_bar__url = site.url | append: page.url | uri_escape %}
+	{% assign social_sharing_bar__url = site.url | append: page.url | cgi_escape %}
 	{% assign social_sharing_bar__pinterest__display = false %}
 	{% if page.pinterest.display == false %}
 		{% assign social_sharing_bar__pinterest__display = false %}
@@ -18,13 +18,18 @@
 		{% assign social_sharing_bar__pinterest__media = site.url | append: page.lead.image | uri_escape %}
 	{% endif %}
 {% endcapture %}
+<aside class="social-sharing-bar__wrapper">
+<h1 class="social-sharing-bar__heading">Share This:</h1>
 <ul class="social-sharing-bar social-sharing-bar">
 	<li class="social-sharing-bar__item"><a class="social-icon social-icon--facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ social_sharing_bar__url }}" title="Share on Facebook">Share on Facebook</a></li>
 	<li class="social-sharing-bar__item"><a class="social-icon social-icon--twitter" href="https://twitter.com/intent/tweet?text={{ social_sharing_bar__title }}&amp;url={{ social_sharing_bar__url }}" title="Share on Twitter">Share on Twitter</a></li>
-	<li class="social-sharing-bar__item"><a class="social-icon social-icon--tumblr" href="http://www.tumblr.com/share?v=3&amp;u={{ social_sharing_bar__url }}&amp;t={{ social_sharing_bar__title }}" title="Share on Tumblr">Share on Tumblr</a></li>
-	<li class="social-sharing-bar__item"><a class="social-icon social-icon--googleplus" href="https://plus.google.com/share?url={{ social_sharing_bar__url }}" title="Share on Google+">Share on Google+</a></li>{% if social_sharing_bar__pinterest__display %}
-	<li class="social-sharing-bar__item"><a class="social-icon social-icon--pinterest" href="http://pinterest.com/pin/create/bookmarklet/?media={{social_sharing_bar__pinterest__media}}&amp;url={{ social_sharing_bar__url }}&amp;description={{ social_sharing_bar__title }}" title="Pin on Pinterest">Pin on Pinterest</a></li>{% endif %}
+	<li class="social-sharing-bar__item"><a class="social-icon social-icon--tumblr" href="http://www.tumblr.com/share/link?url={{ social_sharing_bar__url }}&amp;name={{ social_sharing_bar__title }}{% comment %}&amp;description=[description]{% endcomment %}" title="Share on Tumblr">Share on Tumblr</a></li>
+	<li class="social-sharing-bar__item"><a class="social-icon social-icon--googleplus" href="https://plus.google.com/share?url={{ social_sharing_bar__url }}" title="Share on Google+">Share on Google+</a></li>
+	{% comment %}{% if social_sharing_bar__pinterest__display %}
+	<li class="social-sharing-bar__item"><a class="social-icon social-icon--pinterest" href="http://pinterest.com/pin/create/bookmarklet/?media={{social_sharing_bar__pinterest__media}}&amp;url={{ social_sharing_bar__url }}&amp;description={{ social_sharing_bar__title }}" title="Pin on Pinterest">Pin on Pinterest</a></li>{% endif %}{% endcomment %}
+	<li class="social-sharing-bar__item"><a class="social-icon social-icon--mail" href="mailto:?subject={{ social_sharing_bar__title }}&amp;body={{ social_sharing_bar__url }}" title="Email this Page">Email this Page</a></li>
 </ul>
+</aside>
 {% capture social_sharing_bar__cache %}
 	{% assign social_sharing_bar__title = nil %}
 	{% assign social_sharing_bar__url = nil %}

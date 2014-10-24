@@ -11,6 +11,7 @@ hero:
   caption:
 related:
 
+show_social_sharing_bar: false
 show_pagelist_menu: true
 
 navigation:

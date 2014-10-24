@@ -5,6 +5,7 @@ title: Folk Art School
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 
+show_social_sharing_bar: false
 show_pagelist_menu: true
 
 navigation:

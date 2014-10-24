@@ -23,7 +23,8 @@ defaults:
     scope:
       type: pages
     values:
-      layout: page  
+      layout: page 
+      show_social_sharing_bar: true 
   -
     scope:
       type: posts
