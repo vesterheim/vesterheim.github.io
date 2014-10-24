@@ -44,9 +44,9 @@ For an additional fee, members can subscribe to the _Rosemaling Letter_, which i
 
 *   _Vesterheim_, our lushly illustrated magazine published twice a year, featuring in-depth articles focusing on the museum’s priceless collection of artifacts, Norwegian-American history and culture, and related topics.
 *   Discount on class tuition.
-*   Discounts on most items and mail orders from the Museum Store
+*   Discounts on most items and mail orders from the Museum Store.
 *   Free admission to the museum.
-*   Special “Member Appreciation” events
+*   Special “Member Appreciation” events.
 *   Discount on space rental of Vesterheim’s Bethania Church.
 *   Benefits at over 200 museums across the USA through the Time Travelers program.
 
@@ -63,11 +63,11 @@ Philanthropic levels include two adults at the same address and children under 1
 
 ### Philanthropic Membership benefits:
 
-* _Vesterheim_, the magazine published twice a year, featuring in-depth articles focusing on the museum’s priceless collection of artifacts, Norwegian-American history and culture, and related topics.
+* _Vesterheim_, our lushly illustrated magazine published twice a year, featuring in-depth articles focusing on the museum’s priceless collection of artifacts, Norwegian-American history and culture, and related topics.
 * Discount on class tuition.
-* Discounts on most items and mail orders from the Museum Store
+* Discounts on most items and mail orders from the Museum Store.
 * Free admission to the museum.
-* Special “Member Appreciation” events
+* Special “Member Appreciation” events.
 * Discount on space rental of Vesterheim’s Bethania Church.
 * Benefits at over 200 museums across the USA through the Time Travelers program.
 * Plus Two Benefits (bring up to two guests each time you visit the museum).
