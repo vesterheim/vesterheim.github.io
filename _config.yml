@@ -8,7 +8,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 timezone: America/Chicago
-
+exclude: 
+  - node_modules
 gems:
   - jekyll-redirect-from
 
