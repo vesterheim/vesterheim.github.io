@@ -7,7 +7,7 @@ meta_title:        # Appears on bookmarks, search results, etc...
 meta_description: A center in Chicago for Norwegian-American social, cultural, and artistic activities from 1911 to 1971.
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-  image: 
+  image: 16x9/exhibitions/special/blessum_norske_klub.jpg
   alt:
   caption:
 related:
@@ -16,7 +16,7 @@ navigation:
   order: 50
 pagelist:
   order:         # Defaults to navigation order
-  image: 
+  image: 46x21/exhibitions/special/norske_klub.jpg
   alt:
   caption: 
   title:         # Defaults to navigation title
