@@ -7,7 +7,7 @@ meta_title:        # Appears on bookmarks, search results, etc...
 meta_description: Vesterheim gives its special touch to the Hurtigruten’s classic Norwegian coastal voyage! Every day of this incredible trip will be filled with one-of-a-kind opportunities to explore Norway and see breathtaking scenery, both on land and at sea. This tour is so popular it’s being offered twice in 2015!
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-  image: 16x9/norway-tours/coastal-voyage.jpg
+  image: 16x9/norway-tours/coastal-tour-houses.jpg
   alt: 
   caption:
 related:
