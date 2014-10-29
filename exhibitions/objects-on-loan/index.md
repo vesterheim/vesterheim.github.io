@@ -40,15 +40,7 @@ Twenty-one items, which include bentwood boxes, a tankard, a horse harness, ale 
 
 Washington, D. C.
 
-This company, which has a traveling exhibition service, has borrowed an East Telemark bridal costume, a pair of shoes, a blouse, and brooches. These items are part of an exhibit that is traveling to the Museum of Design in Atlanta, Georgia, the Appleton Museum of Art in Ocala, Florida, and the Michele and Michael D’Amour Museum of Fine Arts in Springfield, Massachusetts.
-
-### The American Swedish Institute
-{: .heading--black--mixed-case }
-
-Minneapolis, Minnesota <br />
-Exhibition _Love Norway X_
-
-Nine artifacts are part of the  “cave,” a darkened entry that leads to the main exhibit and features Norwegian folk art with symbolic motifs. The artifacts on loan include knives and knife sheaths, a door latch, a coverlet, a Hardanger fiddle, and a larger-than-life sculpture by Ian Ward Garlant “that channels runic imagery for the modern age.”  
+This company, which has a traveling exhibition service, has borrowed an East Telemark bridal costume, a pair of shoes, a blouse, and brooches. These items are part of an exhibit that is traveling to the Museum of Design in Atlanta, Georgia, the Appleton Museum of Art in Ocala, Florida, and the Michele and Michael D’Amour Museum of Fine Arts in Springfield, Massachusetts. 
 
 ### The Dwight D. Eisenhower Library and Museum
 {: .heading--black--mixed-case }

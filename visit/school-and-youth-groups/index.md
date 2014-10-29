@@ -4,7 +4,7 @@ layout: page
 title: School and Youth Groups
 meta_description: ~
 hero:
-  image: 16x9/kids/school-group--interior--kids.jpg
+  image: 16x9/tours/tradewind_schoolgroup_h.jpg
   alt: 
   caption:
 related:

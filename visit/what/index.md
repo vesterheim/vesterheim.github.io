@@ -4,7 +4,7 @@ layout: page
 title: What is Vesterheim?
 meta_description: ~
 hero:
-  image: 16x9/kids/discover--interior--kids.jpg
+  image: 16x9/exhibitions/furniture_h.jpg
   alt: ~
   caption: ~
 related:
