@@ -6,7 +6,7 @@ meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-  image: 16x9/tours/museum--interior--people--tour.jpg
+  image: 16x9/tours/norhouse_weldon_h.jpg
   alt: 
   caption: Seiwer's Springs is the site of Decorah's fish hatchery, Trout Run Trail, and eagle nest.
 related:
