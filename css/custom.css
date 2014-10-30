@@ -9,20 +9,20 @@
 - - - - - - - - - - - - - - - - - - - - - */
 @font-face {
   font-family: 'FranKlein';
-  src: url('http:///vesterheim.github.io/fonts/frankleinmedium-webfont.eot?1413828604');
-  src: url('http:///vesterheim.github.io/fonts/frankleinmedium-webfont.eot?&1413828604#iefix') format("embedded-opentype"), url('http:///vesterheim.github.io/fonts/frankleinmedium-webfont.woff?1413828604') format("woff"), url('http:///vesterheim.github.io/fonts/frankleinmedium-webfont.ttf?1413828604') format("truetype"), url('http:///vesterheim.github.io/fonts/frankleinmedium-webfont.svg?1413828604#frankleinmediumregular') format("svg");
+  src: url('../fonts/frankleinmedium-webfont.eot?1413828604');
+  src: url('../fonts/frankleinmedium-webfont.eot?&1413828604#iefix') format("embedded-opentype"), url('../fonts/frankleinmedium-webfont.woff?1413828604') format("woff"), url('../fonts/frankleinmedium-webfont.ttf?1413828604') format("truetype"), url('../fonts/frankleinmedium-webfont.svg?1413828604#frankleinmediumregular') format("svg");
   font-weight: 400;
   font-style: normal; }
 @font-face {
   font-family: 'FranKlein';
-  src: url('http:///vesterheim.github.io/fonts/frankleinbold-webfont.eot?1413828604');
-  src: url('http:///vesterheim.github.io/fonts/frankleinbold-webfont.eot?&1413828604#iefix') format("embedded-opentype"), url('http:///vesterheim.github.io/fonts/frankleinbold-webfont.woff?1413828604') format("woff"), url('http:///vesterheim.github.io/fonts/frankleinbold-webfont.ttf?1413828604') format("truetype"), url('http:///vesterheim.github.io/fonts/frankleinbold-webfont.svg?1413828604#frankleinboldregular') format("svg");
+  src: url('../fonts/frankleinbold-webfont.eot?1413828604');
+  src: url('../fonts/frankleinbold-webfont.eot?&1413828604#iefix') format("embedded-opentype"), url('../fonts/frankleinbold-webfont.woff?1413828604') format("woff"), url('../fonts/frankleinbold-webfont.ttf?1413828604') format("truetype"), url('../fonts/frankleinbold-webfont.svg?1413828604#frankleinboldregular') format("svg");
   font-weight: 700;
   font-style: normal; }
 @font-face {
   font-family: 'FranKlein';
-  src: url('http:///vesterheim.github.io/fonts/frankleinbook-webfont.eot?1413828604');
-  src: url('http:///vesterheim.github.io/fonts/frankleinbook-webfont.eot?&1413828604#iefix') format("embedded-opentype"), url('http:///vesterheim.github.io/fonts/frankleinbook-webfont.woff?1413828604') format("woff"), url('http:///vesterheim.github.io/fonts/frankleinbook-webfont.ttf?1413828604') format("truetype"), url('http:///vesterheim.github.io/fonts/frankleinbook-webfont.svg?1413828604#frankleinbookregular') format("svg");
+  src: url('../fonts/frankleinbook-webfont.eot?1413828604');
+  src: url('../fonts/frankleinbook-webfont.eot?&1413828604#iefix') format("embedded-opentype"), url('../fonts/frankleinbook-webfont.woff?1413828604') format("woff"), url('../fonts/frankleinbook-webfont.ttf?1413828604') format("truetype"), url('../fonts/frankleinbook-webfont.svg?1413828604#frankleinbookregular') format("svg");
   font-weight: 100;
   font-style: normal; }
 body {
