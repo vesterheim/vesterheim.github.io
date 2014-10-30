@@ -79,7 +79,11 @@ body {
   xmargin-bottom: 2em;
   xmargin-bottom: 2.25rem;   
 }
-
+.wufoo .info div p {
+  margin-top: 0;
+  margin-bottom: 2em;
+  margin-bottom: 2.25rem;
+}
 .wufoo .section h3 {
   color: #DD5D2D;
   font-family: FranKlein, Arial, "Helvetica Neue", Helvetica, sans-serif;
