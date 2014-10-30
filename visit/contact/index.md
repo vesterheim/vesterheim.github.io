@@ -37,6 +37,7 @@ Museum Store <br />
 
 Vesterheim Staff
 ----------------
+{: .heading--black--large }
 
 ### Administration
 
@@ -85,6 +86,7 @@ Vesterheim Staff
 
 Vesterheim Board of Trustees 
 ----------------------------
+{: .heading--black--large }
 
 ### Honorary Chair
 - **His Majesty Harald V**, King of Norway
