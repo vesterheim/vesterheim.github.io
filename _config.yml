@@ -8,6 +8,12 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 timezone: America/Chicago
+exclude: 
+  - Gemfile
+  - Gemfile.lock
+  - Gruntfile.js
+  - node_modules
+  - package.json
 
 gems:
   - jekyll-redirect-from
