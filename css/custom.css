@@ -7,6 +7,7 @@
  Last Updated : 
 
 - - - - - - - - - - - - - - - - - - - - - */
+/* Won't work without some hacking on a cdn */
 @font-face {
   font-family: 'FranKlein';
   src: url('../fonts/frankleinmedium-webfont.eot?1413828604');
@@ -99,15 +100,15 @@ body {
   padding-bottom: 0;
   text-transform: uppercase;
 }
-#fo6li332 {
+form li.no-separation {
   padding-top: 0;
 }
-#fo6li332 h3 {
+.wufoo li.no-separation h3 {
   border-top-width: 0;
   margin-top:0;
   padding-top: 0;
 }
-#fo6li220 {  
+form li.full-width {  
   width: auto !important;
 }
 form li {
