@@ -5,12 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0,minimal-ui" />
     {% if page.meta_description %}<meta name="description" content="{{ page.meta_description | strip_html | xml_escape }}" />{% endif %}
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+    <script>window.grunticon=function(e){if(e&&3===e.length){var t=window,n=!(!t.document.createElementNS||!t.document.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect||!document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image","1.1")||window.opera&&-1===navigator.userAgent.indexOf("Chrome")),o=function(o){var r=t.document.createElement("link"),a=t.document.getElementsByTagName("script")[0];r.rel="stylesheet",r.href=e[o&&n?0:o?1:2],a.parentNode.insertBefore(r,a)},r=new t.Image;r.onerror=function(){o(!1)},r.onload=function(){o(1===r.width&&1===r.height)},r.src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="}};grunticon( [ "/css/icons.data.svg.css", "/css/icons.data.png.css", "/css/icons.fallback.css" ] );</script>
     <link href="{{ "/css/style.css" | prepend: site.baseurl }}" media="all" rel="stylesheet" />
-
-<script>
-window.grunticon=function(e){if(e&&3===e.length){var t=window,n=!(!t.document.createElementNS||!t.document.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect||!document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image","1.1")||window.opera&&-1===navigator.userAgent.indexOf("Chrome")),o=function(o){var r=t.document.createElement("link"),a=t.document.getElementsByTagName("script")[0];r.rel="stylesheet",r.href=e[o&&n?0:o?1:2],a.parentNode.insertBefore(r,a)},r=new t.Image;r.onerror=function(){o(!1)},r.onload=function(){o(1===r.width&&1===r.height)},r.src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="}};
-grunticon( [ "/css/icons.data.svg.css", "/css/icons.data.png.css", "/css/icons.fallback.css" ] );
-</script>
-<noscript><link href="/css/icons.fallback.css" rel="stylesheet"></noscript>
-
+    <noscript><link href="/css/icons.fallback.css" rel="stylesheet"></noscript>
 </head>
