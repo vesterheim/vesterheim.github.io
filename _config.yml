@@ -105,7 +105,9 @@ kramdown:
       height: 400
 
 monthly_archive:
-  path: events-calendar/
+  path: events/calendar/
+daily_archive:
+  path: events/calendar/
 
 picture:
   source: assets/_images--fullsize
