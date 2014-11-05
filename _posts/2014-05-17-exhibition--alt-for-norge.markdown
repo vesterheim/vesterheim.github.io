@@ -24,7 +24,6 @@ event_location: # if location in data file, provide details, else simply this.
 # need option for when museum is closed. Show no events.
 # todo: need option to group dates or times for Barnetimin or Dag talks during Nordic Fest?
 
-tags: exhibition
 home:
   display: false
 pagelist:
@@ -35,6 +34,12 @@ pagelist:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
+  link: /exhibitions/special/alt-for-norge/
+  
+redirect_to:
+   - /exhibitions/special/alt-for-norge/ 
+ 
+tags: exhibition 
 ---
 This display honors the signing of this important document. It features commemorative artifacts from Vesterheim’s collection and a model of the Eidsvoll building where the constitution was signed on May 17, 1814. The display also discusses political and cultural developments in Norway in the ensuing years. It was guest curated by intern Mary Claire Vuckovich.
 

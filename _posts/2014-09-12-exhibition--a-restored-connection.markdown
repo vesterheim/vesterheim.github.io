@@ -24,7 +24,6 @@ event_location: # if location in data file, provide details, else simply this.
 # need option for when museum is closed. Show no events.
 # todo: need option to group dates or times for Barnetimin or Dag talks during Nordic Fest?
 
-tags: exhibition
 home:
   display: false
 pagelist:
@@ -35,6 +34,12 @@ pagelist:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
+  link: /exhibitions/special/a-restored-connection/
+  
+redirect_to:
+   - /exhibitions/special/a-restored-connection/ 
+ 
+tags: exhibition 
 ---
 {% comment %}
 {% blockquote Jorunn Veiteberg, PhD, Art Historian %}

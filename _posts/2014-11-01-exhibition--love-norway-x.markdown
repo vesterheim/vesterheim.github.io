@@ -24,7 +24,6 @@ event_location: # if location in data file, provide details, else simply this.
 # need option for when museum is closed. Show no events.
 # todo: need option to group dates or times for Barnetimin or Dag talks during Nordic Fest?
 
-tags: exhibition
 home:
   display: false
 pagelist:
@@ -35,6 +34,12 @@ pagelist:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
+  link: /exhibitions/special/love-norway-x/
+  
+redirect_to:
+   - /exhibitions/special/love-norway-x/ 
+ 
+tags: exhibition  
 ---
 This exhibition is a special installation of a monumental artwork—a flag sculpture—made by Ian Ward Garlant of Hatlestrand, Norway, to celebrate the 200th anniversary of the Norwegian constitution. The artwork illustrates the principles that the occasion embodies—love, mutual acceptance, and compassion.
 

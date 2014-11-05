@@ -13,7 +13,6 @@ hero:
   caption:
 related:
 
-tags: other
 pagelist:
   order:         # Defaults to navigation order
   image: 46x21/buildings/main-building.jpg
