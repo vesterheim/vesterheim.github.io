@@ -2,6 +2,7 @@
 {% assign current_year =  site.time | date: "%Y" %}
 {% assign current_month =  site.time | date: "%Y%m" %}
 {% assign current_day =  site.time | date: "%Y%m%d" %}
+{% assign events_displayed = 0 %}
 
 {% for event in site.posts reversed %}
 	{% assign event_date =  event.date | date: "%s" %}
@@ -21,6 +22,9 @@
 	{% assign display = nil %}
 	{% if event.home.display == false %}
 		{% assign display = nil %}
+{% comment %} Quick dumb hack to try to limit items on home page {% endcomment %}
+	{% elsif events_displayed > 5 %}
+		{% assign display = nil %}
 	{% elsif event_date >= current_time %}
 		{% assign display = true %}
 	{% elsif event_start >= current_time %}	
@@ -30,6 +34,7 @@
 	{% endif %}	
 
 	{% if display %}
+		{% assign events_displayed = events_displayed | plus:1 %}
 		{% if event.pagelist.image %}
 			{% assign event_src =  event.pagelist.image %}
 			{% assign event_alt =  event.pagelist.alt | strip_html | xml_escape %}
@@ -103,6 +108,7 @@
 	{% assign event_date_display = nil %}
 	{% assign event_time_display = nil %}
 {% endfor %}
+{% assign events_displayed = nil %}
 {% comment %}
 Set total length to default number or 2 * number of panels
 <article class="panel-calendar__event  h-event">
