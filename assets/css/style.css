@@ -25,20 +25,20 @@
  */
 @font-face {
   font-family: 'FranKlein';
-  src: url('../fonts/frankleinmedium-webfont.eot?1413828604');
-  src: url('../fonts/frankleinmedium-webfont.eot?&1413828604#iefix') format("embedded-opentype"), url('../fonts/frankleinmedium-webfont.woff?1413828604') format("woff"), url('../fonts/frankleinmedium-webfont.ttf?1413828604') format("truetype"), url('../fonts/frankleinmedium-webfont.svg?1413828604#frankleinmediumregular') format("svg");
+  src: url('../fonts/frankleinmedium-webfont.eot?1413902386');
+  src: url('../fonts/frankleinmedium-webfont.eot?&1413902386#iefix') format("embedded-opentype"), url('../fonts/frankleinmedium-webfont.woff?1413902386') format("woff"), url('../fonts/frankleinmedium-webfont.ttf?1413902386') format("truetype"), url('../fonts/frankleinmedium-webfont.svg?1413902386#frankleinmediumregular') format("svg");
   font-weight: 400;
   font-style: normal; }
 @font-face {
   font-family: 'FranKlein';
-  src: url('../fonts/frankleinbold-webfont.eot?1413828604');
-  src: url('../fonts/frankleinbold-webfont.eot?&1413828604#iefix') format("embedded-opentype"), url('../fonts/frankleinbold-webfont.woff?1413828604') format("woff"), url('../fonts/frankleinbold-webfont.ttf?1413828604') format("truetype"), url('../fonts/frankleinbold-webfont.svg?1413828604#frankleinboldregular') format("svg");
+  src: url('../fonts/frankleinbold-webfont.eot?1413902386');
+  src: url('../fonts/frankleinbold-webfont.eot?&1413902386#iefix') format("embedded-opentype"), url('../fonts/frankleinbold-webfont.woff?1413902388') format("woff"), url('../fonts/frankleinbold-webfont.ttf?1413902388') format("truetype"), url('../fonts/frankleinbold-webfont.svg?1413902386#frankleinboldregular') format("svg");
   font-weight: 700;
   font-style: normal; }
 @font-face {
   font-family: 'FranKlein';
-  src: url('../fonts/frankleinbook-webfont.eot?1413828604');
-  src: url('../fonts/frankleinbook-webfont.eot?&1413828604#iefix') format("embedded-opentype"), url('../fonts/frankleinbook-webfont.woff?1413828604') format("woff"), url('../fonts/frankleinbook-webfont.ttf?1413828604') format("truetype"), url('../fonts/frankleinbook-webfont.svg?1413828604#frankleinbookregular') format("svg");
+  src: url('../fonts/frankleinbook-webfont.eot?1413902388');
+  src: url('../fonts/frankleinbook-webfont.eot?&1413902388#iefix') format("embedded-opentype"), url('../fonts/frankleinbook-webfont.woff?1413902388') format("woff"), url('../fonts/frankleinbook-webfont.ttf?1413902388') format("truetype"), url('../fonts/frankleinbook-webfont.svg?1413902388#frankleinbookregular') format("svg");
   font-weight: 100;
   font-style: normal; }
 /** MODIFIED: http://meyerweb.com/eric/tools/css/reset/ v2.0 | 20110126
@@ -1237,7 +1237,7 @@ a {
  *
   <header class="page-head layout-page-head" id="top" role="banner">  
     <div class="layout-page-head-constrained">   
-      <h1 class="site-logo"><a href="/"><img src="/_/img/logos/vesterheim-logo.svg" /></a></h1>
+      <h1 class="site-logo"><a href="/"><img src="/assets/images/svg/logo/vesterheim-logo--white.svg" /></a></h1>
     </div>
   </header>
  *
@@ -1769,7 +1769,7 @@ a {
     */ } }
 /* line 1, sass/partials/_site-logo.scss */
 .site-logo--image-replacement {
-  background-image: url('../images/png/vesterheim-logo--194x42--white-on-orange.png?1391627714');
+  background-image: url('../img/png/logo/vesterheim-logo--194x42--white-on-orange.png?1391627714');
   background-repeat: no-repeat;
   background-position: 0 0;
   position: absolute;
@@ -1780,11 +1780,11 @@ a {
   @media screen and (min-width: 40em) and (max-width: 59.9375em) {
     /* line 1, sass/partials/_site-logo.scss */
     .site-logo--image-replacement {
-      background-image: url('../images/png/vesterheim-logo--254x55--white-on-orange.png?1391627714'); } }
+      background-image: url('../img/png/logo/vesterheim-logo--254x55--white-on-orange.png?1391627714'); } }
   @media screen and (min-width: 60em) {
     /* line 1, sass/partials/_site-logo.scss */
     .site-logo--image-replacement {
-      background-image: url('../images/png/vesterheim-logo--332x72--white-on-orange.png?1391627714'); } }
+      background-image: url('../img/png/logo/vesterheim-logo--332x72--white-on-orange.png?1391627714'); } }
 
 /* line 20, sass/partials/_site-logo.scss */
 .site-logo__link {
@@ -2024,7 +2024,7 @@ a {
       color: #DD5D2D; }
     /* line 78, sass/partials/_nav-menu.scss */
     body:not(:target) .layout__body .nav--menu .site-search__submit__icon {
-      background-image: url('../images/png/icon__search--white.png?1391627714'); }
+      background-image: url('../img/png/heading/icon__search--white.png?1391627714'); }
     /* line 82, sass/partials/_nav-menu.scss */
     body:not(:target) .layout__body .nav--menu:target {
       border-top-width: 1px;
@@ -2388,7 +2388,7 @@ a {
 
   /* line 39, sass/partials/_nav-social.scss */
   .nav--social__link--facebook {
-    background-image: url('../images/png/facebook--white-circle.png?1391627714'); }
+    background-image: url('../img/png/facebook--white-circle.png'); }
 
   /* line 42, sass/partials/_nav-social.scss */
   .nav--social__link--facebook {
@@ -2608,7 +2608,7 @@ a {
 
 /* line 87, sass/partials/_site-search.scss */
 .site-search__submit__icon {
-  background-image: url('../images/png/icon__search--blue.png?1391627714');
+  background-image: url('../img/png/heading/icon__search--blue.png?1391627714');
   background-repeat: no-repeat;
   display: block;
   margin: 0;
@@ -2820,46 +2820,54 @@ a {
     .page-foot__contact {
       margin-left: 50%; } }
 
-/* line 80, sass/partials/_page-foot.scss */
+/* line 79, sass/partials/_page-foot.scss */
 .page-foot__contact__p-name {
   color: transparent;
   font: 0/0 FranKlein, Arial, "Helvetica Neue", Helvetica, sans-serif; }
 
-/* line 86, sass/partials/_page-foot.scss */
+/* line 85, sass/partials/_page-foot.scss */
 .page-foot__contact_delimiter {
   display: none; }
   @media screen and (min-width: 30em) {
-    /* line 86, sass/partials/_page-foot.scss */
+    /* line 85, sass/partials/_page-foot.scss */
     .page-foot__contact_delimiter {
       display: inline; } }
 
-/* line 92, sass/partials/_page-foot.scss */
+/* line 91, sass/partials/_page-foot.scss */
 .page-foot__contact__p-street-address {
   display: block; }
   @media screen and (min-width: 30em) {
-    /* line 92, sass/partials/_page-foot.scss */
+    /* line 91, sass/partials/_page-foot.scss */
     .page-foot__contact__p-street-address {
       display: inline; } }
 
-/* line 98, sass/partials/_page-foot.scss */
+/* line 97, sass/partials/_page-foot.scss */
 .page-foot__contact__link {
   color: #bcc0c1;
   color: rgba(238, 238, 238, 0.76); }
 
+/**
+ * For different color test. Delete if not used!
+ */
+/* line 105, sass/partials/_page-foot.scss */
+.page-foot__contact--new-color,
+.page-foot__contact__link--new-color {
+  color: #fff; }
+
 /** 
  * Page Foot Credit
  */
-/* line 109, sass/partials/_page-foot.scss */
+/* line 114, sass/partials/_page-foot.scss */
 .page-foot__credit {
   font-weight: 100;
   margin-top: 1.58333em;
   margin-top: 1.1875rem; }
   @media screen and (min-width: 48em) {
-    /* line 109, sass/partials/_page-foot.scss */
+    /* line 114, sass/partials/_page-foot.scss */
     .page-foot__credit {
       margin-left: 50%; } }
 
-/* line 117, sass/partials/_page-foot.scss */
+/* line 122, sass/partials/_page-foot.scss */
 .page-foot__credit__link {
   color: #7c8081;
   color: rgba(153, 153, 153, 0.76); }
@@ -3193,6 +3201,36 @@ a {
     color: #DD5D2D;
     background-color: #fff; }
 
+/* line 65, sass/partials/_button.scss */
+.button--primary {
+  color: #fff;
+  background-color: #29393C;
+  border-color: #29393C; }
+  /* line 26, sass/generic/_mixins.scss */
+  .button--primary:hover, .button--primary:focus, .button--primary:active, .button--primary.active {
+    color: #fff;
+    background-color: #182224;
+    border-color: #101618; }
+  /* line 34, sass/generic/_mixins.scss */
+  .open .button--primary.dropdown-toggle {
+    color: #fff;
+    background-color: #182224;
+    border-color: #101618; }
+  /* line 39, sass/generic/_mixins.scss */
+  .button--primary:active, .button--primary.active {
+    background-image: none; }
+  /* line 43, sass/generic/_mixins.scss */
+  .open .button--primary.dropdown-toggle {
+    background-image: none; }
+  /* line 49, sass/generic/_mixins.scss */
+  .button--primary.disabled, .button--primary.disabled:hover, .button--primary.disabled:focus, .button--primary.disabled:active, .button--primary.disabled.active, .button--primary[disabled], .button--primary[disabled]:hover, .button--primary[disabled]:focus, .button--primary[disabled]:active, .button--primary[disabled].active, fieldset[disabled] .button--primary, fieldset[disabled] .button--primary:hover, fieldset[disabled] .button--primary:focus, fieldset[disabled] .button--primary:active, fieldset[disabled] .button--primary.active {
+    background-color: #29393C;
+    border-color: #29393C; }
+  /* line 59, sass/generic/_mixins.scss */
+  .button--primary .badge {
+    color: #29393C;
+    background-color: #fff; }
+
 /*
 .btn-primary {
   @include button-variant($btn-primary-color, $btn-primary-bg, $btn-primary-border);
@@ -3250,7 +3288,7 @@ a {
   }
 }
 */
-/* line 133, sass/partials/_button.scss */
+/* line 136, sass/partials/_button.scss */
 .button-xlarge {
   border-radius: 0;
   font-size: 1.875em;
@@ -3266,7 +3304,7 @@ a {
   padding-left: 0.6875em;
   padding-left: 0.6875rem; }
 
-/* line 138, sass/partials/_button.scss */
+/* line 141, sass/partials/_button.scss */
 .button-large {
   border-radius: 0;
   font-size: 1.25em;
@@ -3282,7 +3320,7 @@ a {
   padding-left: 0.6875em;
   padding-left: 0.6875rem; }
 
-/* line 143, sass/partials/_button.scss */
+/* line 146, sass/partials/_button.scss */
 .btn-sm {
   border-radius: 0;
   font-size: 0.75em;
@@ -3298,7 +3336,7 @@ a {
   padding-left: 0.6875em;
   padding-left: 0.6875rem; }
 
-/* line 148, sass/partials/_button.scss */
+/* line 151, sass/partials/_button.scss */
 .btn-xs {
   border-radius: 0;
   font-size: 0.75em;
@@ -3314,18 +3352,18 @@ a {
   padding-left: 0.6875em;
   padding-left: 0.6875rem; }
 
-/* line 156, sass/partials/_button.scss */
+/* line 159, sass/partials/_button.scss */
 .btn-block {
   display: block;
   width: 100%;
   padding-left: 0;
   padding-right: 0; }
 
-/* line 164, sass/partials/_button.scss */
+/* line 167, sass/partials/_button.scss */
 .btn-block + .btn-block {
   margin-top: 5px; }
 
-/* line 172, sass/partials/_button.scss */
+/* line 175, sass/partials/_button.scss */
 input[type="submit"].btn-block,
 input[type="reset"].btn-block,
 input[type="button"].btn-block {
@@ -4316,7 +4354,45 @@ input[type="button"].btn-block {
   margin-bottom: 0.75rem;
   text-transform: uppercase; }
 
-/* line 535, sass/modules/_new.scss */
+/* line 534, sass/modules/_new.scss */
+.hours__section__address {
+  font-size: 0.875em;
+  font-size: 0.875rem;
+  font-weight: 700;
+  line-height: 1.28571em;
+  line-height: 1.125rem;
+  margin-top: 1.71429em;
+  margin-top: 1.5rem;
+  margin-bottom: 0.85714em;
+  margin-bottom: 0.75rem;
+  text-transform: uppercase; }
+
+/* line 544, sass/modules/_new.scss */
+.hours__section__phone,
+.hours__section__phone a {
+  color: #EDEDED;
+  font-size: 0.875em;
+  font-size: 0.875rem;
+  font-weight: 700;
+  line-height: 1.28571em;
+  line-height: 1.125rem;
+  margin-bottom: 0.85714em;
+  margin-bottom: 0.75rem;
+  text-transform: uppercase; }
+
+/* line 554, sass/modules/_new.scss */
+.hours__section__email,
+.hours__section__email a {
+  color: #EDEDED;
+  font-size: 0.875em;
+  font-size: 0.875rem;
+  font-weight: 700;
+  line-height: 1.28571em;
+  line-height: 1.125rem;
+  margin-bottom: 0.85714em;
+  margin-bottom: 0.75rem; }
+
+/* line 564, sass/modules/_new.scss */
 .dining__title {
   color: #414141;
   font-size: 1.125em;
@@ -4329,57 +4405,57 @@ input[type="button"].btn-block {
   margin-bottom: 2.33333em;
   margin-bottom: 2.625rem; }
 
-/* line 544, sass/modules/_new.scss */
+/* line 573, sass/modules/_new.scss */
 .dining__panel__lining {
   padding-top: 1.5em;
   padding-top: 1.5rem;
   padding-bottom: 1.5em;
   padding-bottom: 1.5rem; }
 
-/* line 550, sass/modules/_new.scss */
+/* line 579, sass/modules/_new.scss */
 .mobile-hours {
   background-color: #FCF2EB;
   color: #444;
   position: relative;
   z-index: 0; }
 
-/* line 556, sass/modules/_new.scss */
+/* line 585, sass/modules/_new.scss */
 .mobile-hours__buttons {
   padding-top: 0.75em;
   padding-top: 0.75rem;
   padding-top: 0.375em;
   padding-top: 0.375rem; }
 
-/* line 560, sass/modules/_new.scss */
+/* line 589, sass/modules/_new.scss */
 .mobile-hours__visit {
   padding-bottom: 0.75em;
   padding-bottom: 0.75rem;
   padding-bottom: 0.375em;
   padding-bottom: 0.375rem; }
 
-/* line 564, sass/modules/_new.scss */
+/* line 593, sass/modules/_new.scss */
 .mobile-hours__call {
   float: left;
   width: 50%; }
 
-/* line 568, sass/modules/_new.scss */
+/* line 597, sass/modules/_new.scss */
 .mobile-hours__call__lining {
   display: block;
   padding-right: 0.375em;
   padding-right: 0.375rem; }
 
-/* line 572, sass/modules/_new.scss */
+/* line 601, sass/modules/_new.scss */
 .mobile-hours__directions {
   float: right;
   width: 50%; }
 
-/* line 576, sass/modules/_new.scss */
+/* line 605, sass/modules/_new.scss */
 .mobile-hours__directions__lining {
   display: block;
   padding-left: 0.375em;
   padding-left: 0.375rem; }
 
-/* line 580, sass/modules/_new.scss */
+/* line 609, sass/modules/_new.scss */
 .mobile-hours__hours {
   clear: both;
   font-size: 1.125em;
@@ -4401,7 +4477,7 @@ input[type="button"].btn-block {
   padding-bottom: 1.125rem;
   text-align: center; }
 
-/* line 593, sass/modules/_new.scss */
+/* line 622, sass/modules/_new.scss */
 .button--visit,
 .button--hours,
 .button--directions {
@@ -4432,15 +4508,15 @@ input[type="button"].btn-block {
       color: #fff; } }
   /* line 14, sass/themes/_folk-art-classy-hack.scss */
   .theme--folk-art .site-logo--image-replacement {
-    background-image: url('../images/png/vesterheim-logo--194x42--white-on-blue.png?1391627714'); }
+    background-image: url('../img/png/logo/vesterheim-logo--194x42--white-on-blue.png?1391627714'); }
     @media screen and (min-width: 30em) and (max-width: 59.9375em) {
       /* line 14, sass/themes/_folk-art-classy-hack.scss */
       .theme--folk-art .site-logo--image-replacement {
-        background-image: url('../images/png/vesterheim-logo--254x55--white-on-blue.png?1391627714'); } }
+        background-image: url('../img/png/logo/vesterheim-logo--254x55--white-on-blue.png?1391627714'); } }
     @media screen and (min-width: 60em) {
       /* line 14, sass/themes/_folk-art-classy-hack.scss */
       .theme--folk-art .site-logo--image-replacement {
-        background-image: url('../images/png/vesterheim-logo--332x72--white-on-blue.png?1391627714'); } }
+        background-image: url('../img/png/logo/vesterheim-logo--332x72--white-on-blue.png?1391627714'); } }
   @media screen and (min-width: 18em) and (max-width: 47.9375em) {
     /* line 26, sass/themes/_folk-art-classy-hack.scss */
     .theme--folk-art .nav--skip {
@@ -4459,27 +4535,56 @@ input[type="button"].btn-block {
     .theme--folk-art .nav--site__wrapper {
       border-color: #465457;
       border-color: rgba(255, 255, 255, 0.14); } }
+  /* line 56, sass/themes/_folk-art-classy-hack.scss */
+  .theme--folk-art .button--primary {
+    color: #fff;
+    background-color: #29393C;
+    border-color: #29393C; }
+    /* line 26, sass/generic/_mixins.scss */
+    .theme--folk-art .button--primary:hover, .theme--folk-art .button--primary:focus, .theme--folk-art .button--primary:active, .theme--folk-art .button--primary.active {
+      color: #fff;
+      background-color: #182224;
+      border-color: #101618; }
+    /* line 34, sass/generic/_mixins.scss */
+    .open .theme--folk-art .button--primary.dropdown-toggle {
+      color: #fff;
+      background-color: #182224;
+      border-color: #101618; }
+    /* line 39, sass/generic/_mixins.scss */
+    .theme--folk-art .button--primary:active, .theme--folk-art .button--primary.active {
+      background-image: none; }
+    /* line 43, sass/generic/_mixins.scss */
+    .open .theme--folk-art .button--primary.dropdown-toggle {
+      background-image: none; }
+    /* line 49, sass/generic/_mixins.scss */
+    .theme--folk-art .button--primary.disabled, .theme--folk-art .button--primary.disabled:hover, .theme--folk-art .button--primary.disabled:focus, .theme--folk-art .button--primary.disabled:active, .theme--folk-art .button--primary.disabled.active, .theme--folk-art .button--primary[disabled], .theme--folk-art .button--primary[disabled]:hover, .theme--folk-art .button--primary[disabled]:focus, .theme--folk-art .button--primary[disabled]:active, .theme--folk-art .button--primary[disabled].active, fieldset[disabled] .theme--folk-art .button--primary, fieldset[disabled] .theme--folk-art .button--primary:hover, fieldset[disabled] .theme--folk-art .button--primary:focus, fieldset[disabled] .theme--folk-art .button--primary:active, fieldset[disabled] .theme--folk-art .button--primary.active {
+      background-color: #29393C;
+      border-color: #29393C; }
+    /* line 59, sass/generic/_mixins.scss */
+    .theme--folk-art .button--primary .badge {
+      color: #29393C;
+      background-color: #fff; }
   @media screen and (min-width: 48em) {
-    /* line 60, sass/themes/_folk-art-classy-hack.scss */
+    /* line 62, sass/themes/_folk-art-classy-hack.scss */
     .theme--folk-art .is_active > .relative-lining > .nav--site__link {
       border-color: #DD5D2D;
       color: #DD5D2D; } }
   @media screen and (min-width: 48em) {
-    /* line 68, sass/themes/_folk-art-classy-hack.scss */
+    /* line 70, sass/themes/_folk-art-classy-hack.scss */
     .theme--folk-art .nav--site__item > .relative-lining:hover {
       background-color: #DD5D2D; } }
   @media screen and (min-width: 48em) {
-    /* line 74, sass/themes/_folk-art-classy-hack.scss */
+    /* line 76, sass/themes/_folk-art-classy-hack.scss */
     .theme--folk-art .nav--site__item--folk-art-school:before {
       border-color: #465457;
       border-color: rgba(255, 255, 255, 0.14); }
-    /* line 79, sass/themes/_folk-art-classy-hack.scss */
+    /* line 81, sass/themes/_folk-art-classy-hack.scss */
     .theme--folk-art .relative-lining:hover > .nav--site__link--folk-art-school,
     .theme--folk-art .relative-lining > .nav--site__link--folk-art-school:active,
     .theme--folk-art .relative-lining > .nav--site__link--folk-art-school:focus {
       color: #fff; } }
   @media screen and (min-width: 40em) {
-    /* line 89, sass/themes/_folk-art-classy-hack.scss */
+    /* line 91, sass/themes/_folk-art-classy-hack.scss */
     .theme--folk-art .auxiliary {
       background-color: #213236;
       background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjAuMCIgeDI9IjAuNSIgeTI9IjEuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzFhMjkyYyIvPjxzdG9wIG9mZnNldD0iMTYlIiBzdG9wLWNvbG9yPSIjMjEzMjM2Ii8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0idXJsKCNncmFkKSIgLz48L3N2Zz4g');
@@ -4491,52 +4596,52 @@ input[type="button"].btn-block {
       background-repeat: no-repeat;
       background-size: 100% 100px;
       color: #fff; }
-    /* line 101, sass/themes/_folk-art-classy-hack.scss */
+    /* line 103, sass/themes/_folk-art-classy-hack.scss */
     .theme--folk-art .nav--section__link {
       border-color: #404e52;
       color: #dfe2e2; }
-      /* line 105, sass/themes/_folk-art-classy-hack.scss */
+      /* line 107, sass/themes/_folk-art-classy-hack.scss */
       .theme--folk-art .nav--section__link:hover, .theme--folk-art .nav--section__link:active, .theme--folk-art .nav--section__link:focus {
         background: #223337;
         border-color: #4d5b5e;
         color: #fff; }
-    /* line 114, sass/themes/_folk-art-classy-hack.scss */
+    /* line 116, sass/themes/_folk-art-classy-hack.scss */
     .theme--folk-art .nav--section__headline {
       color: #DD5D2D; } }
   @media screen and (min-width: 48em) {
-    /* line 124, sass/themes/_folk-art-classy-hack.scss */
+    /* line 126, sass/themes/_folk-art-classy-hack.scss */
     .theme--folk-art .nav--featured__item--site-search:before {
       border-color: #465457;
       border-color: rgba(255, 255, 255, 0.14); } }
   @media screen and (min-width: 48em) {
-    /* line 130, sass/themes/_folk-art-classy-hack.scss */
+    /* line 132, sass/themes/_folk-art-classy-hack.scss */
     .theme--folk-art .site-search {
       color: #fff; }
-    /* line 133, sass/themes/_folk-art-classy-hack.scss */
+    /* line 135, sass/themes/_folk-art-classy-hack.scss */
     .theme--folk-art .site-search__search-field {
       color: #fff; }
-    /* line 136, sass/themes/_folk-art-classy-hack.scss */
+    /* line 138, sass/themes/_folk-art-classy-hack.scss */
     .theme--folk-art .site-search__search-field:focus,
     .theme--folk-art .is_active > .site-search .site-search__search-field {
       border-color: #DD5D2D; }
-    /* line 140, sass/themes/_folk-art-classy-hack.scss */
+    /* line 142, sass/themes/_folk-art-classy-hack.scss */
     .theme--folk-art .site-search__search-field[placeholder] {
       color: #fff; }
-    /* line 143, sass/themes/_folk-art-classy-hack.scss */
+    /* line 145, sass/themes/_folk-art-classy-hack.scss */
     .theme--folk-art .site-search__search-field::-webkit-input-placeholder {
       color: #fff; }
-    /* line 146, sass/themes/_folk-art-classy-hack.scss */
+    /* line 148, sass/themes/_folk-art-classy-hack.scss */
     .theme--folk-art .site-search__search-field:-moz-placeholder {
       color: #fff; }
-    /* line 149, sass/themes/_folk-art-classy-hack.scss */
+    /* line 151, sass/themes/_folk-art-classy-hack.scss */
     .theme--folk-art .site-search__search-field::-moz-placehoder {
       color: #fff; }
-    /* line 152, sass/themes/_folk-art-classy-hack.scss */
+    /* line 154, sass/themes/_folk-art-classy-hack.scss */
     .theme--folk-art .site-search__search-field:-ms-placeholder {
       color: #fff; }
-    /* line 155, sass/themes/_folk-art-classy-hack.scss */
+    /* line 157, sass/themes/_folk-art-classy-hack.scss */
     .theme--folk-art .site-search__submit__icon {
-      background-image: url('../images/png/icon__search--white.png?1391627714'); } }
+      background-image: url('../img/png/heading/icon__search--white.png?1391627714'); } }
 
 /* line 47, sass/style.scss */
 abbr[title] {
@@ -4940,3 +5045,12 @@ INTERNET EXPLORER 8 and below
   text-indent: 100%;
   white-space: nowrap;
   width: 48px; }
+
+/* line 361, sass/style.scss */
+.group {
+  *zoom: 1; }
+  /* line 38, ../../../../../../../../.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-core-1.0.1/stylesheets/compass/utilities/general/_clearfix.scss */
+  .group:after {
+    content: "";
+    display: table;
+    clear: both; }
