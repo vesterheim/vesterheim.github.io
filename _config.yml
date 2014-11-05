@@ -15,6 +15,10 @@ exclude:
   - node_modules
   - package.json
 
+collections:
+  norway-tours--guides:
+    output: false
+
 gems:
   - jekyll-redirect-from
 
