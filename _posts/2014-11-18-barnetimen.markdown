@@ -18,5 +18,6 @@ pagelist:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
+tags: free children barnetimen youth-program
 ---
 For all pre-schoolers and their caregivers. 10:00 a.m., free.

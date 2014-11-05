@@ -1,8 +1,9 @@
 ---
 published: false
+title: Free First Thursday
+dt_start: 2014-11-06
 all_day: true
-title:  "Free First Thursday"
-dt_start:   2014-11-06 10:00:00
-dt_end:   2014-11-06 16:00:00
+
+tags: free free-first-thursday
 ---
 Activity to be announced.
