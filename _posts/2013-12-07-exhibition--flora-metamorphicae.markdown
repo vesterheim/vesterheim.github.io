@@ -1,15 +1,16 @@
 ---
 published: true
 #all_day: false # If true, ignore times?
-dt_start: 2014-08-22 09:00:00 # datetime the event starts
-dt_end: 2015-04-19 17:00:00 # datetime the event ends
-title: "Scandinavian Modern Design: Norwegian Enamel" # event name (or title)
+dt_start: 2013-12-07 10:00:00 # datetime the event starts
+dt_end: 2014-11-16 16:00:00 # datetime the event ends
+title: Flora Metamorphicae # event name (or title)
+subtitle: December 7, 2013 - November 16, 2014
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-  image: 
-  alt: 
+  image: 16x9/exhibitions/special/flora-metamorphicae.jpg
+  alt:
   caption:
 related:
 
@@ -23,17 +24,22 @@ event_location: # if location in data file, provide details, else simply this.
 # need option for when museum is closed. Show no events.
 # todo: need option to group dates or times for Barnetimin or Dag talks during Nordic Fest?
 
-tags: exhibition
 home:
   display: false
 pagelist:
   order:         # Defaults to navigation order
-  image: 
+  image: 46x21/exhibitions/special/flora-metamorphicae.jpg
   alt:
   caption: 
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
+  link: /exhibitions/special/flora-metamorphicae/
+  
+redirect_to:
+   - /exhibitions/special/flora-metamorphicae/ 
+ 
+tags: exhibition 
 ---
 {% comment %}
 {% blockquote Jorunn Veiteberg, PhD, Art Historian %}

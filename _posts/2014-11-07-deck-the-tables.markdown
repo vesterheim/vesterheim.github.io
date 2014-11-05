@@ -14,7 +14,8 @@ pagelist:
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
-  teaser:        # Defaults to page meta-description  
+  teaser:        # Defaults to page meta-description 
+tags: event annual holiday deck-tables
 ---
 Deck the Tables <br /> Celebrate the Seasons
 ============================================

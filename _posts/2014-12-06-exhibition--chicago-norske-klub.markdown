@@ -1,12 +1,25 @@
 ---
 published: true
 title:  "Chicago Norske Klub"
-dt_start: 2014-12-06 10:00:00 # datetime the event starts
-dt_end: 2015-03-30 16:00:00 # datetime the event ends
+dt_start: 2014-12-06 10:00:00 -5:00 # datetime the event starts
+dt_end: 2015-11-15 16:00:00 -5:00 # datetime the event ends
 
-tags: exhibition
 home:
   display: false
+pagelist:
+  order:         # Defaults to navigation order
+  image: 
+  alt:
+  caption: 
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description
+  link: /exhibitions/special/chicago-norske-klub/
+  
+redirect_to:
+   - /exhibitions/special/chicago-norske-klub/ 
+ 
+tags: exhibition 
 ---
 This exhibition is a special installation of two monumental artworks, a flag sculpture and obelisk, made by Ian Ward Garlant of Hatlestrand, Norway, to celebrate the 200th anniversary of the Norwegian constitution. The artworks illustrate the principles that the occasion embodies—love, mutual acceptance, and compassion.
 

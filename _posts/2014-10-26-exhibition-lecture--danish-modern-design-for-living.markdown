@@ -15,6 +15,7 @@ pagelist:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
+tags: exhibition  
 ---
 Amdal-Odland Heritage Center <br />
 Danish Modern: Design for Living <br />
