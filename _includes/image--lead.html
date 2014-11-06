@@ -30,13 +30,34 @@ Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 		{% assign image_lead__caption = page.lead.caption | markdownify | remove: '<p>' | remove: '</p>' %}
 	{% endif %}	
 	{% if page.lead.ratio %}
-		{% assign image_lead__caption = include.ratio %}
+		{% assign image_lead__ratio = page.lead.ratio %}
 	{% endif %}
 	{% if page.lead.pull %}
 		{% assign image_lead__pull = page.lead.pull %}
 	{% endif %}		
-{% endif %}{% endcapture %}{% assign cache = nil %}{% if image_lead__src %}
-<figure class="pull-{{ image_lead__pull }}  content-photo  content-photo--{{ image_lead__ratio }}-ratio--pull-{{ image_lead__pull }}  content-photo--{{ image_lead__ratio }}-ratio">
+{% endif %}
+{% case image_lead__pull %}
+	{% when 'right' %}
+		{% assign image_lead__pull--class = 'pull-right' %}
+	{% when 'left' %}
+		{% assign image_lead__pull--class = 'pull-left' %}
+	{% else %}
+		{% assign image_lead__pull = 'left' %}
+		{% assign image_lead__pull--class = 'pull-left' %}
+{% endcase %}
+{% case image_lead__ratio %}
+	{% when 'half' or 'one-half'%}
+		{% assign image_lead__ratio--class = 'one-half' %}
+	{% when 'golden' %}
+		{% assign image_lead__ratio--class = 'golden-ratio' %}
+	{% when 'fourth' or 'one-fourth' %}
+		{% assign image_lead__ratio--class = 'one-fourth' %}
+	{% else %}
+		{% assign image_lead__ratio = 'golden' %}
+		{% assign image_lead__ratio--class = 'golden-ratio' %}
+{% endcase %}
+{% endcapture %}{% assign cache = nil %}{% if image_lead__src %}
+<figure class="{{ image_lead__pull--class }}  content-photo  content-photo--{{ image_lead__pull--class }}  content-photo--{{ image_lead__ratio--class }}  content-photo--{{ image_lead__ratio--class }}--{{ image_lead__pull--class }}">
 	<div class="content-photo__lining">
 		{% picture {{ image_lead__ratio }} {{ image_lead__src }} alt="{{ image_lead__alt }}" %}{% if image_lead__caption %}
 		<figcaption class="{% if image_lead__pull == 'left' %}layout__main--constrained__padding {% endif %}caption">{{ image_lead__caption }}</figcaption>{% endif %}

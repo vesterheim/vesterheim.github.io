@@ -1,0 +1,17 @@
+{% capture norway_tours_guides__cache %}
+	{% assign norway_tours_guides__display = false %}
+	{% assign norway_tours_guides__guide = nil %}
+	{% assign norway_tours_guides__image = nil %}
+	{% assign norway_tours_guides__output = nil %}
+	{% assign norway_tours_guides__guide = site.norway-tours--guides | where: 'name', include.name | first %}
+	{% if norway_tours_guides__guide %}
+		{% assign norway_tours_guides__display = true %}
+		{% assign norway_tours_guides__output = '<div class="group  x-paragraph-margins">' %}
+		{% capture norway_tours_guides__image %}{% include image--lead.html ratio='fourth' image=norway_tours_guides__guide.lead.image alt=norway_tours_guides__guide.lead.alt caption=norway_tours_guides__guide.lead.caption %}{% endcapture %}
+		{% assign norway_tours_guides__output = norway_tours_guides__output | append: norway_tours_guides__image %}
+		{% assign norway_tours_guides__output = norway_tours_guides__output | append: norway_tours_guides__guide.output %}
+		{% assign norway_tours_guides__output = norway_tours_guides__output | append: '</div>' %}		
+	{% endif %}	
+	{% assign norway_tours_guides__guide = nil %}
+	{% assign norway_tours_guides__image = nil %}
+{% endcapture %}{% assign norway_tours_guides__cache = nil %}{% if norway_tours_guides__display %}{{ norway_tours_guides__output }}{% endif %}{% assign norway_tours_guides__display = nil %}{% assign norway_tours_guides__output = nil %}

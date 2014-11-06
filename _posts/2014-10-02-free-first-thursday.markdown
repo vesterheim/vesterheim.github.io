@@ -2,6 +2,8 @@
 published: false
 title:  "Free First Thursday"
 date:   2014-10-02 09:00:00
+
+tags: free free-first-thursday
 ---
 The first Thursday of every month Vesterheim offers free admission to the museum and a special event.
 

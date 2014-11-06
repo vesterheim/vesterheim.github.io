@@ -37,6 +37,7 @@ Museum Store <br />
 
 Vesterheim Staff
 ----------------
+{: .heading--black--large }
 
 ### Administration
 
@@ -71,7 +72,7 @@ Vesterheim Staff
 - **Ken Koop**, Museum Store Manager, Ext. 303, [kkoop@vesterheim.org](mailto:kkoop@vesterheim.org)
 - **Shelley Hendricks**, Assistant Museum Store Manager, Ext. 205, [shendricks@vesterheim.org](mailto:shendricks@vesterheim.org)
 - **Erlene Fisher**, Senior Sales Staff, Museum Store, Ext. 212
-- **Sandy Bishop Sales Staff**, Museum Store, Ext. 212
+- **Sandy Bishop**, Sales Staff, Museum Store, Ext. 212
 - **Sharon DelVento**, Sales Staff, Museum Store, Ext. 212
 - **Danette Franzen**, Sales Staff, Museum Store, Ext. 212
 - **Joann Stevenson**, Sales Staff, Museum Store, Ext. 212
@@ -85,6 +86,7 @@ Vesterheim Staff
 
 Vesterheim Board of Trustees 
 ----------------------------
+{: .heading--black--large }
 
 ### Honorary Chair
 - **His Majesty Harald V**, King of Norway

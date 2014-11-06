@@ -34,6 +34,7 @@ pagelist:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
+tags: event  
 ---
 {% comment %}
 {% blockquote Jorunn Veiteberg, PhD, Art Historian %}
