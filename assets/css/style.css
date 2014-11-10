@@ -26,19 +26,19 @@
 @font-face {
   font-family: 'FranKlein';
   src: url('../fonts/frankleinmedium-webfont.eot?1413902386');
-  src: url('../fonts/frankleinmedium-webfont.eot?&1413902386#iefix') format("embedded-opentype"), url('../fonts/frankleinmedium-webfont.woff?1413902386') format("woff"), url('../fonts/frankleinmedium-webfont.ttf?1413902386') format("truetype"), url('../fonts/frankleinmedium-webfont.svg?1413902386#frankleinmediumregular') format("svg");
+  src: url('../fonts/frankleinmedium-webfont.eot?&1413902386#iefix') format("embedded-opentype"), url('../fonts/frankleinmedium-webfont.woff2?1413902386') format("woff2"), url('../fonts/frankleinmedium-webfont.woff?1413902386') format("woff"), url('../fonts/frankleinmedium-webfont.ttf?1413902386') format("truetype"), url('../fonts/frankleinmedium-webfont.svg?1413902386#frankleinmediumregular') format("svg");
   font-weight: 400;
   font-style: normal; }
 @font-face {
   font-family: 'FranKlein';
   src: url('../fonts/frankleinbold-webfont.eot?1413902386');
-  src: url('../fonts/frankleinbold-webfont.eot?&1413902386#iefix') format("embedded-opentype"), url('../fonts/frankleinbold-webfont.woff?1413902388') format("woff"), url('../fonts/frankleinbold-webfont.ttf?1413902388') format("truetype"), url('../fonts/frankleinbold-webfont.svg?1413902386#frankleinboldregular') format("svg");
+  src: url('../fonts/frankleinbold-webfont.eot?&1413902386#iefix') format("embedded-opentype"), url('../fonts/frankleinbold-webfont.woff2?1413902388') format("woff2"), url('../fonts/frankleinbold-webfont.woff?1413902388') format("woff"), url('../fonts/frankleinbold-webfont.ttf?1413902388') format("truetype"), url('../fonts/frankleinbold-webfont.svg?1413902386#frankleinboldregular') format("svg");
   font-weight: 700;
   font-style: normal; }
 @font-face {
   font-family: 'FranKlein';
   src: url('../fonts/frankleinbook-webfont.eot?1413902388');
-  src: url('../fonts/frankleinbook-webfont.eot?&1413902388#iefix') format("embedded-opentype"), url('../fonts/frankleinbook-webfont.woff?1413902388') format("woff"), url('../fonts/frankleinbook-webfont.ttf?1413902388') format("truetype"), url('../fonts/frankleinbook-webfont.svg?1413902388#frankleinbookregular') format("svg");
+  src: url('../fonts/frankleinbook-webfont.eot?&1413902388#iefix') format("embedded-opentype"), url('../fonts/frankleinbook-webfont.woff2?1413902388') format("woff2"), url('../fonts/frankleinbook-webfont.woff?1413902388') format("woff"), url('../fonts/frankleinbook-webfont.ttf?1413902388') format("truetype"), url('../fonts/frankleinbook-webfont.svg?1413902388#frankleinbookregular') format("svg");
   font-weight: 100;
   font-style: normal; }
 /** MODIFIED: http://meyerweb.com/eric/tools/css/reset/ v2.0 | 20110126
