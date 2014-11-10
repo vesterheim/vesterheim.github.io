@@ -36,7 +36,7 @@
 	{% if node.has_children? %}
 		{% assign data_submenu_id  = ' data-submenu-id="submenu-' | append: node.handle | append: '"' %}
 	{% endif %}
-	{% capture item %}<li class="{{ item_classes }}"{{ data_submenu_id  }}><div class="relative-lining">{{ vertical_rule }}<a class="{{ link_classes }}" href="{{ node.url}}"{{ target }}>{{ node.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></div></li>{% endcapture %}
+	{% capture item %}<li class="{{ item_classes }}"{{ data_submenu_id  }}><div class="relative-lining">{{ vertical_rule }}<a class="{{ link_classes }}" href="{{ node.url}}"{{ target }}>{{ node.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}</a></div></li>{% endcapture %}
 	{% assign output = output | append: item %}
 {% endfor %}
 

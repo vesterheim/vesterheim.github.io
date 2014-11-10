@@ -11,7 +11,7 @@ Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 		{% assign ifw_alt = include.alt | strip_html | xml_escape  %}
 	{% endif %}
 	{% if include.caption %}
-		{% assign ifw_caption = include.caption | markdownify | remove: '<p>' | remove: '</p>' %}
+		{% assign ifw_caption = include.caption | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines %}
 	{% endif %}	
 {% elsif page.hero.image %}
 	{% assign ifw_src = page.hero.image %}
@@ -19,7 +19,7 @@ Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 		{% assign ifw_alt = page.hero.alt | strip_html | xml_escape  %}
 	{% endif %}
 	{% if page.hero.caption %}
-		{% assign ifw_caption = page.hero.caption | markdownify | remove: '<p>' | remove: '</p>'  %}
+		{% assign ifw_caption = page.hero.caption | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines  %}
 	{% endif %}	
 {% endif %}{% endcapture %}{% assign cache = nil %}{% if ifw_src %}
 <div class="paragraph-margins">

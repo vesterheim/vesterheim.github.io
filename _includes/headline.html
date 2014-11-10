@@ -1,4 +1,4 @@
                         <header class="layout__main--constrained  header">
-                            <h1 class="title  title--main">{{ page.title  | markdownify | remove: '<p>' | remove: '</p>' }}</h1>{% if page.subtitle %}
-                            <h2 class="subtitle  subtitle--main">{{ page.subtitle  | markdownify | remove: '<p>' | remove: '</p>' }}</h2>{% endif %}
+                            <h1 class="title  title--main">{{ page.title  | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}</h1>{% if page.subtitle %}
+                            <h2 class="subtitle  subtitle--main">{{ page.subtitle  | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}</h2>{% endif %}
                         </header>

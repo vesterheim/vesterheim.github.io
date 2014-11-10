@@ -8,11 +8,11 @@
 {% for tile in tiles %}
 	{% assign tile_url = tile.url %}
 	{% if tile.pagelist.title %}
-		{% assign tile_title = tile.pagelist.title | markdownify | remove: '<p>' | remove: '</p>'   %}
+		{% assign tile_title = tile.pagelist.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines %}
 	{% elsif tile.navigation.title  %}
-		{% assign tile_title = tile.navigation.title | markdownify | remove: '<p>' | remove: '</p>'   %}
+		{% assign tile_title = tile.navigation.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines %}
 	{% elsif tile.short_title  %}
-		{% assign tile_title = tile.short_title | markdownify | remove: '<p>' | remove: '</p>'   %}
+		{% assign tile_title = tile.short_title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines %}
 	{% else %}
 		{% assign tile_title = tile.title %}
 	{% endif %}
