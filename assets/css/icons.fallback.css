@@ -27,29 +27,33 @@
   body:not(:target) .layout__body .nav--menu .site-search__submit__icon {
     background-image: url('../img/png/heading/icon__search--white.png?1391627714'); } }
 /* line 24, sass/icons.fallback.scss */
+.nav--social__link--facebook {
+  background-image: url('../img/png/heading/social-sharing/facebook--white-circle.png?1391627714'); }
+
+/* line 28, sass/icons.fallback.scss */
 .social-icon--facebook {
   background-image: url('../img/png/social-sharing-bar/facebook-square.png?1414184250'); }
 
-/* line 28, sass/icons.fallback.scss */
+/* line 32, sass/icons.fallback.scss */
 .social-icon--googleplus {
   background-image: url('../img/png/social-sharing-bar/googleplus-square.png?1414184250'); }
 
-/* line 32, sass/icons.fallback.scss */
+/* line 36, sass/icons.fallback.scss */
 .social-icon--mail {
   background-image: url('../img/png/social-sharing-bar/mail.png?1414184250'); }
 
-/* line 36, sass/icons.fallback.scss */
+/* line 40, sass/icons.fallback.scss */
 .social-icon--pinterest {
   background-image: url('../img/png/social-sharing-bar/pinterest.png?1414184250'); }
 
-/* line 40, sass/icons.fallback.scss */
+/* line 44, sass/icons.fallback.scss */
 .social-icon--rss-feed {
   background-image: url('../img/png/social-sharing-bar/rss-feed.png?1414184250'); }
 
-/* line 44, sass/icons.fallback.scss */
+/* line 48, sass/icons.fallback.scss */
 .social-icon--tumblr {
   background-image: url('../img/png/social-sharing-bar/tumblr.png?1414184250'); }
 
-/* line 48, sass/icons.fallback.scss */
+/* line 52, sass/icons.fallback.scss */
 .social-icon--twitter {
   background-image: url('../img/png/social-sharing-bar/twitter.png?1414184250'); }
