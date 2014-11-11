@@ -33,7 +33,7 @@
 			{% assign carousel_slide_output = carousel_slide_output | append: '<div class="layout__page  layout__page--padded--min-medium-width layout__carousel__caption">' %}
 			{% assign carousel_slide_output = carousel_slide_output | append: '<div class="carousel__caption  layout__page--padded--max-medium-width">' %}
 			{% if carousel_slide.caption %}
-	            {% assign carousel_slide_caption = carousel_slide.caption | markdownify | remove: '<p>' | remove: '</p>' %}
+	            {% assign carousel_slide_caption = carousel_slide.caption | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines %}
 				{% assign carousel_slide_output = carousel_slide_output | append: '<span class="carousel__caption__text">' %}
 				{% assign carousel_slide_output = carousel_slide_output | append: carousel_slide_caption %}
 				{% assign carousel_slide_output = carousel_slide_output | append: '</span>' %}

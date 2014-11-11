@@ -39,9 +39,8 @@
 		{% assign item_classes = item_classes | append: '  nav--section__item' %}
 	{% endif %}
 	
-	{% capture item %}<li class="{{ item_classes }}"><a class="{{ link_classes }}" href="{{ node.url }}"{{ target }}>{{ node.title  | markdownify | remove: '<p>' | remove: '</p>' }}</a>{% endcapture %}
-	{% assign output = output | append: item %}
-{% assign output = output | append: break %}	
+	{% capture item %}<li class="{{ item_classes }}"><a class="{{ link_classes }}" href="{{ node.url }}"{{ target }}>{{ node.title  | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}</a>{% endcapture %}
+	{% assign output = output | append: item %}	
 
 	{% if node.has_children? %}
 		{% assign list_classes = list_classes | append: 'nav' %}
@@ -59,7 +58,9 @@
 {% assign output = output | append: break %}			
 		{% if node.sub_depth > 0 %}
 			{% for i in (1..node.sub_depth) %}
-				{% assign output = output | append: '</ul></li>' %}
+				{% assign output = output | append: '</ul>' %}
+{% assign output = output | append: break %}
+				{% assign output = output | append: '</li>' %}
 {% assign output = output | append: break %}					
 			{% endfor %}
 		{% endif %}

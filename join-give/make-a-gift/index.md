@@ -34,7 +34,7 @@ Opportunities for Giving:
 
 ### Donate Now Online
 
-Make a gift right now. Gifts at all levels are important to Vesterheim.
+{% include button.html text="Make Your Gift Now" url="https://vesterheim.wufoo.com/forms/m1ufzvni19c3srk/" pull="right" style="primary" %} Make a gift right now. Gifts at all levels are important to Vesterheim.
 
 ### Pledge Your Support 
 
