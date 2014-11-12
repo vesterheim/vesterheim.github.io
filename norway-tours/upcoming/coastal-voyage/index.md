@@ -10,7 +10,10 @@ hero:
   image: 16x9/norway-tours/coastal-tour-houses.jpg
   alt: 
   caption:
-related:
+related: 
+  - /norway-tours/upcoming/textile/
+  - /norway-tours/about/
+  - /norway-tours/
 
 navigation:
   title: Norwegian Coastal Voyage
