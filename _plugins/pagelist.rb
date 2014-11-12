@@ -19,7 +19,7 @@ module Jekyll
 			pagelist_hash = create_pagelist_hash(navigable_nodes)
 			site.data['pagelist_hash'] = pagelist_hash
 
-			# Navigable nodes excluding navigation['exclude'] == true
+			# Navigable nodes excluding pagelist['exclude'] == true
 			# that should not appear in menu
 			pagelist_nodes = nodes.select do |node| 
 				pagelist = node['pagelist'] || {}
@@ -99,7 +99,7 @@ module Jekyll
 
 		def get_pagelist_teaser(page)
 			pagelist = page['pagelist'] || {}
-			pagelist['teaser'] || page['meta_description']
+			pagelist['teaser'] || page['meta_description'] || page['excerpt']
 		end
 
 		def get_pagelist_title(page)
