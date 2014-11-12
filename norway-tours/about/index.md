@@ -3,7 +3,7 @@ published: true
 layout: page
 title: About Our Tours
 meta_title:        # Appears on bookmarks, search results, etc...
-meta_description:  # Used in HTML head and as the description for some search engines
+meta_description: For more than 30 years, Vesterheim has been providing exciting and educational tours to Norway. These tours offer unique opportunities based on the museum’s ties and relationships with the artists and institutions of Norway.
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
   image: 16x9/norway-tours/boat.jpg
