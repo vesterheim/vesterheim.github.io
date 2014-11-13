@@ -49,17 +49,22 @@ module Jekyll
       months_in_range = date_range.select {|d| d.day == 1}
       months_in_range.each do |date|
         site.posts.each do |post|
-          #time = Time.parse(post.date.to_s)
-          #posts_hash[[post.date.year, post.date.month]] << post if date_range.cover?(time)
-          #puts post.date
-          #puts post.data['dt_start']
           if post.data['dt_start'] and post.data['dt_end'] then
             start_date = Date.parse(post.data['dt_start'].to_s)
             end_date = Date.parse(post.data['dt_end'].to_s)
             date_range = start_date..end_date
             posts_hash[[date.year, date.month]] << post if date_range === date
-            #puts date_range.cover?(date)
-            #posts_hash[[date.year, date.month]] << post if date_range.cover?(date)
+          end
+        end
+      end
+      site.posts.each do |post|
+        unless post.data['dt_start'] and post.data['dt_end']
+          if post.data['occurrences'] then
+            post.data['occurrences'].each do |occurrence|
+              posts_hash[[occurrence['date'].year, occurrence['date'].month]] << post
+            end
+          else
+            posts_hash[[post.date.year, post.date.month]] << post
           end
         end
       end
