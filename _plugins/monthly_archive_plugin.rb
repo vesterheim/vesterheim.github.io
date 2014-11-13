@@ -32,12 +32,39 @@ module Jekyll
         site.pages << MonthlyArchivePage.new(site, MonthlyArchiveUtil.archive_base(site),
                                              ym[0], ym[1], list)
       end
+      rescue => exception
+        puts exception.backtrace
+        raise exception
     end
 
     def posts_group_by_year_and_month(site)
-      site.posts.each.group_by { |post| [post.date.year, post.date.month] }
+      posts_hash = Hash.new { |hash, key| hash[key] = [] }
+      date_range = Date.new(2013, 01, 01)..Date.new(2015, 12, 31)
+      #TODO: for each date in range run through posts and see if it falls on that day
+      #      you will have to look to see if the post.data.st_date and post data end_date
+      #      are on either side of the date of current loop
+      #or: for each post if st_date and end_date then set each key to this post between range
+      # then for each date in date_list set key with value post
+      # and if neither of those set post date itself
+      months_in_range = date_range.select {|d| d.day == 1}
+      months_in_range.each do |date|
+        site.posts.each do |post|
+          #time = Time.parse(post.date.to_s)
+          #posts_hash[[post.date.year, post.date.month]] << post if date_range.cover?(time)
+          #puts post.date
+          #puts post.data['dt_start']
+          if post.data['dt_start'] and post.data['dt_end'] then
+            start_date = Date.parse(post.data['dt_start'].to_s)
+            end_date = Date.parse(post.data['dt_end'].to_s)
+            date_range = start_date..end_date
+            posts_hash[[date.year, date.month]] << post if date_range === date
+            #puts date_range.cover?(date)
+            #posts_hash[[date.year, date.month]] << post if date_range.cover?(date)
+          end
+        end
+      end
+      posts_hash
     end
-
   end
 
   # Actual page instances

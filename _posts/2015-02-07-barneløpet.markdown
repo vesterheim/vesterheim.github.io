@@ -3,8 +3,6 @@ published: true
 
 title: Barneløpet
 
-dt_start: 2015-02-07
-
 pagelist:
   link: /events/annual/barnelopet/
   
