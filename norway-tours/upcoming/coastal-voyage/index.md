@@ -13,7 +13,6 @@ hero:
 related: 
   - /norway-tours/upcoming/textile/
   - /norway-tours/about/
-  - /norway-tours/
 
 navigation:
   title: Norwegian Coastal Voyage
@@ -46,4 +45,6 @@ Vesterheim gives its special touch to the Hurtigruten’s classic Norwegian coas
 
 Place Your Tour Deposit
 -----------------------
-{% include button.html text="Register Now" url="/norway-tours/forms/" style="primary" pull="right"%}  Fill out a "[Registration Form](/norway-tours/forms/documents/RegForm.pdf)" and send it, with a $500 deposit per person, to Vesterheim. Deposits are accepted on a first come, first-served basis. As soon as the price and itinerary are finalized, you will receive more information. You must formalize your reservation by November 15, 2014. The deposit is fully refundable until November 15, 2014. For a printed copy of the "[Tour Registration Form](/norway-tours/forms/documents/RegForm.pdf)," or more information contact Michelle Whitehill at 563-382-9681, ext. 240, or [mwhitehill@vesterheim.org](mailto:mwhitehill@vesterheim.org).
+Fill out a "[Registration Form](/norway-tours/forms/documents/RegForm.pdf)" and send it, with a $500 deposit per person, to Vesterheim. Deposits are accepted on a first come, first-served basis. As soon as the price and itinerary are finalized, you will receive more information. You must formalize your reservation by November 15, 2014. The deposit is fully refundable until November 15, 2014. For a printed copy of the "[Tour Registration Form](/norway-tours/forms/documents/RegForm.pdf)," or more information contact Michelle Whitehill at 563-382-9681, ext. 240, or [mwhitehill@vesterheim.org](mailto:mwhitehill@vesterheim.org).
+
+{% include button.html text="Register Now" url="/norway-tours/forms/" style="primary" %} 
