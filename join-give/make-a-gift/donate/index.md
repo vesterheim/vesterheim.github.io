@@ -24,20 +24,16 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-Make a gift today:
-------------------
-{: .heading--black--large }
-
-### Online
-
+Online
+------
 Your secure, online contribution allows your donation to go to work at once. Your gift will be acknowledged via email or regular mail. 
 
 {% include button.html text="Make Your Gift Now" url="https://vesterheim.wufoo.com/forms/m1ufzvni19c3srk/" style="primary" %} 
 
-### Mail
-
+Mail
+----
 Complete this form with your credit card number or check payable to Vesterheim Museum. Mail to Vesterheim Museum, Development Department, PO Box 379, Decorah, IA 52101
 
-### Phone
-
+Phone
+-----
 Call the Development Department at (563) 382-9681.
