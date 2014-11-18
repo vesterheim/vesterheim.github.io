@@ -8,6 +8,7 @@
 {% assign button__text = include.text | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines %}
 {% assign button__url = include.url %}
 {% assign button__class = include.class %}
+{% assign button__id = include.id %}
 
 {% case include.pull %}
 	{% when 'right' %}
@@ -79,7 +80,7 @@
 {% else %}
 	{% assign button__display = true %}
 {% endif %}
-{% endcapture %}{% assign button__cache = nil %}{% if button__display %}<a class="{{ button__classes }}" href="{{ button__url }}">{{ button__text }}</a>{% endif %}{% capture button__cache %}
+{% endcapture %}{% assign button__cache = nil %}{% if button__display %}<a {% if button__id %}id="{{ button__id }}" {% endif %}class="{{ button__classes }}" href="{{ button__url }}">{{ button__text }}</a>{% endif %}{% capture button__cache %}
 {% assign button__display = nil %}
 {% assign button__text = nil %}
 {% assign button__url = nil %}

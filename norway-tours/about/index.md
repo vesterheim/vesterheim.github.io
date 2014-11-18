@@ -10,6 +10,8 @@ hero:
   alt: 
   caption: 
 related:
+  - /norway-tours/upcoming/coastal-voyage/
+  - /norway-tours/upcoming/textile/
 
 navigation:
   order: 10

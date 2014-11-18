@@ -11,12 +11,15 @@ hero:
   alt:
   caption:
 related:
+  - /norway-tours/upcoming/coastal-voyage/
+  - /norway-tours/upcoming/textile/
+  - /norway-tours/about/
 
 navigation:
   exclude: true
 pagelist:
   order:         # Defaults to navigation order
-  image:
+  image: 16x9/norway-tours/north-norway.jpg
   alt:
  
   caption:   
@@ -24,8 +27,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-* (Needs to include a button directly to registration form and terms and conditions)
-
 *[B]: Breakfast
 *[L]: Lunch
 *[D]: Dinner

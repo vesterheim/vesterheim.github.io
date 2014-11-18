@@ -17,9 +17,9 @@ sitemap:
 carousel:
   ratio: carousel
   slides: 
-    - image: 25x9/folk-art-school/classes/weaving.jpg
-      alt: Weaving Class
-      caption: Classes all year!
+    - image: 25x9/folk-art-school/classes/woodroom.jpg
+      alt: Woodcarving Class
+      caption: Experience the Joy of Making Things at Vesterheim's Folk Art School in 2015!
       link: /folk-art-school/
       published: true
       start_date:
@@ -35,12 +35,12 @@ carousel:
       alt: Love Norway X
       caption: Love Norway X
       link: /exhibitions/special/love-norway-x/
-      published: true
+      published: false
       start_date:
       stop_date:
-    - image: 25x9/visit/LC0849-mangletre.jpg
-      alt: Mangletre
-      caption: Plan your visit.
+    - image: 25x9/visit/dancers.jpg
+      alt: Norwegian Festivals
+      caption: Plan your visit to Vesterheim.
       link: /visit/what/
       published: true
       start_date:
@@ -50,6 +50,13 @@ carousel:
       caption: Alt for Norge
       link: /exhibitions/special/alt-for-norge/
       published: false
+      start_date:
+      stop_date:
+    - image: 25x9/visit/norwegian_house.jpg
+      alt: Alt for Norge
+      caption: Vesterheim has the largest collection of Norwegian-American artifacts in the world!
+      link: /visit/what
+      published: true
       start_date:
       stop_date:
 
@@ -65,7 +72,7 @@ panels:
     title:
     subtitle:
     teaser:
-    published: true
+    published: false
     start_date: 2014-10-01
     stop_date:
   - url: /norway-tours/upcoming/coastal-voyage/
@@ -101,7 +108,7 @@ panels:
     published: true
     start_date: 2014-10-01
     stop_date:      
-  - url: /exhibitions/special/love-norway-x/
+  - url: /exhibitions/special/chicago-norske-klub/
     file_under:
     image:
     alt:
@@ -109,7 +116,7 @@ panels:
     title:
     subtitle:
     teaser:
-    published: false
+    published: true
     start_date: 2014-10-01
     stop_date: 
   - url: /exhibitions/special/alt-for-norge/

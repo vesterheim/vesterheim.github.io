@@ -4,7 +4,7 @@ layout: page
 title: Vesterheim's Connection To Norway
 meta_description: ~
 hero:
-  image: 16x9/flags.jpg
+  image: 16x9/events/flags.jpg
   alt: ~
   caption: ~
 related:
