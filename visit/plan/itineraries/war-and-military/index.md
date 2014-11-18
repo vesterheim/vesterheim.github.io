@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: page
 title: War and Military
 meta_title:        # Appears on bookmarks, search results, etc...
