@@ -1,1 +1,27 @@
-panel
+                        <div class="panel  panel-default">
+                            <div class="panel__lining    panel__lining--isabelline  panel__lining--padding-bottom">
+                                <div class="panel__heading  panel__heading--deep-space-sparkle"><span class="panel__title">Newsletter</span></div>
+                                <div class="panel__body">
+                                Subscribe to <em>Vesterheim Current</em>, our email newsletter.
+<form action="https://vesterheim.wufoo.com/forms/z1p2fjd01e48kms/" id="current_subscription_form" name="current_subscription_form">
+{% include button.html text="Subscribe" url="https://vesterheim.wufoo.com/forms/z1p2fjd01e48kms/" style="primary" %}  
+</form>
+<script>
+var current_subscription_form = document.getElementById('current_subscription_form');
+current_subscription_form.innerHTML = '<label class="desc" id="title0" for="Field0">Email Address</label><div><input id="Field0"  name="Field0" type="email" value="" maxlength="255" required /></div><button class="button  button--primary" type="submit">Subscribe</button>';
+var email = document.getElementById('Field0');
+var eHandler = function(evt) {
+	var url = this.action + 'def/field0=' + encodeURIComponent(email.value);
+	console.log(url);	
+	evt.preventDefault();
+	window.location.assign(url);
+};
+if(current_subscription_form.addEventListener) {
+	current_subscription_form.addEventListener('submit', eHandler, true);
+} else {
+    current_subscription_form.attachEvent('onsubmit', eHandler);
+}	
+</script>
+                                </div>
+                            </div>
+                        </div>
