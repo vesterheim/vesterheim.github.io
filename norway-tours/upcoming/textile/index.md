@@ -11,6 +11,8 @@ hero:
   alt: 
   caption:
 related:
+  - /norway-tours/upcoming/coastal-voyage/
+  - /norway-tours/about/
 
 navigation:
   title: Textile Study Tour

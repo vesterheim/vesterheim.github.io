@@ -13,6 +13,7 @@ hero:
 related: 
   - /norway-tours/upcoming/textile/
   - /norway-tours/about/
+  - /norway-tours/forms/  
 
 navigation:
   title: Norwegian Coastal Voyage
