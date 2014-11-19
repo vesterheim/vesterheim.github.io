@@ -12,11 +12,13 @@ navigation:
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
-  image:         # Defaults to cropped page hero image
+  image: 46x21/exhibitions/ship.jpg
   alt:
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description   
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed porta risus. Morbi rutrum, leo eu sollicitudin convallis, ante eros luctus ipsum, et dapibus lectus nisl in felis. Vivamus vel pharetra quam, non auctor enim. Nam posuere varius auctor. Maecenas vitae leo at odio dapibus feugiat at eu tellus. Mauris pretium sem tristique tincidunt pharetra. Nullam lobortis consectetur urna a tristique. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent egestas id mi nec interdum. Pellentesque et purus et tellus ultrices bibendum. Vestibulum posuere sodales lorem, a hendrerit nisl semper ac. Phasellus tincidunt urna in justo venenatis fermentum. Nullam eget velit quis risus feugiat varius quis sed nunc. Morbi eget rhoncus velit. Phasellus interdum tincidunt augue eu luctus. Ut eget magna sollicitudin mauris vehicula dictum.
+Exploring Vesterheim's Main Building with its four floors of incredible artifacts is a delight. Wandering at your own speed, you can linger for as long as you wish at your favorite pieces. 
+
+These itineraries were arranged in case you wish to narrow your emphasis to a certain theme. Some itineraries focus only on Vesterheim's exhibitions, while others give you ideas for spending time in Decorah and the surrounding area. However you choose to revel in Vesterheim's vast galleries, enjoy!

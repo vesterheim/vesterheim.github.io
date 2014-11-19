@@ -23,9 +23,9 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-Vesterheim staff members are available to give presentations to cultural, community, and church groups on a variety of topics. Staff members will give presentations to groups visiting Decorah and to groups in their own towns. Below is a list of prepared speeches.
+Vesterheim staff members are available to give presentations to cultural, community, and church groups on a variety of topics. Staff members will give presentations to groups visiting Decorah and they will travel to present in other towns. Below is a list of prepared speeches.
 
-**To arrange for a presentation, contact the speaker directly at:**
+**To arrange for a presentation, contact the speaker directly at:**<br />
 Vesterheim Norwegian-American Museum <br />
 PO Box 379, Decorah, IA 52101-0379 <br />
 563-382-9681 <br />
@@ -41,7 +41,7 @@ Speakers
 
 Cost
 ----
-If speakers travel outside of Decorah, hosting groups are required to pay round-trip mileage at the IRS rate (currently $.50/mile) and, for evening presentations, provide overnight accommodations (motel or private housing). All groups are encouraged to give a donation to Vesterheim as an honorarium but it is not required
+If speakers travel outside of Decorah, hosting groups are required to pay round-trip mileage at the IRS rate (currently $.50/mile) and, for evening presentations, provide overnight accommodations (motel or private housing). All groups are encouraged to give a donation to Vesterheim as an honorarium but it is not required.
 
 Presentations
 -------------

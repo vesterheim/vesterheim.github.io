@@ -16,7 +16,7 @@ navigation:
   order: 50
 pagelist:
   order:         # Defaults to navigation order
-  image: 
+  image: 46x21/exhibitions/special/alt-for-norge.jpg
   alt:
   caption: 
   title:         # Defaults to navigation title
