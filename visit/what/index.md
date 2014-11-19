@@ -4,7 +4,7 @@ layout: page
 title: What is Vesterheim?
 meta_description: ~
 hero:
-  image: 16x9/exhibitions/furniture_h.jpg
+  image: 16x9/artifacts/1973.008.062.jpg
   alt: ~
   caption: ~
 related:

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: page
 title: Flora Metamorphicae
 subtitle: December 7, 2013 – November 16, 2014
