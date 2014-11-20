@@ -1,50 +1,28 @@
 ---
 published: true
-layout: page
 title:  Icelandic Knitting Sampler
-
-meta_title:        # Appears on bookmarks, search results, etc...
+subtitle: April 17-19, 2015 with Hélène Magnússon
 meta_description:  # Used in HTML head and as the description for some search engines
-# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 
-instructors: Hélène Magnússon
-
-participation:
-
-level: Intermediate. Students should be able to knit in the round and do pattern (stranded) knitting.
-
-materials: 
-
-price:
-  members: $192
-  nonmembers: $242
-  materials: 
-  note: 
-
-
-
+location: ~
+instructor: Hélène Magnússon
+sessions: "April 17–19, 2015, 9:00 a.m.–5:00 p.m."
 dtstart: 2015-04-17 9:00:00 -5:00
 dtend: 2015-04-19 17:00:00 -5:00
-dates:
-  - 
-    dtstart: 2015-04-17 9:00:00 -5:00
-    dtend: 2015-04-17 17:00:00 -5:00
-  - 
-    dtstart: 2015-04-18 9:00:00 -5:00
-    dtend: 2015-04-18 17:00:00 -5:00
-  - 
-    dtstart: 2015-04-19 9:00:00 -5:00
-    dtend: 2015-04-19 17:00:00 -5:00    
+level: Intermediate. Students should be able to knit in the round and do pattern (stranded) knitting.
+participation: ~
+tuition:
+  members: $192
+  nonmembers: $242
+  note: ~
+materials_fee: ~
+materials: ~
 
-
-
-
-tags: 
-  -intermediate
-categories:
-  - class
-  - fiber-arts
-
+lead:
+  image: folk-art-school/classes/2015/icelandic-knitting-sampler--magnússon-hélène.jpg
+  alt: ~
+  caption: ~
+  pull: right
 
 navigation:
   exclude: true

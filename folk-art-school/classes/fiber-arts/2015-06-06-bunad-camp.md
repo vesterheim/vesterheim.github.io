@@ -1,53 +1,29 @@
 ---
 published: true
-layout: page
-title:  Bunad Camp
-
-meta_title:        # Appears on bookmarks, search results, etc...
+title: Bunad Camp
+subtitle: April 17-19, 2015 with Sue Sutherland
+meta_title: Bunad Camp with Sue Sutherland
 meta_description:  # Used in HTML head and as the description for some search engines
-# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 
-instructors: Sue Sutherland
-
-participation: All levels.
-
-level: Intermediate. Students should be able to knit in the round and do pattern (stranded) knitting.
-
-materials: Must bring your own sewing machine.
-
-price:
-  members: $256
-  nonmembers: $306
-  materials: Material fees will vary depending on project.
-  note: 
-
-
-
+location: Class will be held at Luther College Baker Commons with overnight accommodations available. Reserve rooms with Darlene Fossum-Martin.
+instructor: Sue Sutherland
+sessions: "June 6–9, 2015, 9:00 a.m.–5:00 p.m."
 dtstart: 2015-06-06 9:00:00 -5:00
 dtend: 2015-06-09 17:00:00 -5:00
-dates:
-  - 
-    dtstart: 2015-06-06 9:00:00 -5:00
-    dtend: 2015-06-06 17:00:00 -5:00
-  - 
-    dtstart: 2015-06-07 9:00:00 -5:00
-    dtend: 2015-06-07 17:00:00 -5:00
-  - 
-    dtstart: 2015-06-08 9:00:00 -5:00
-    dtend: 2015-06-08 17:00:00 -5:00
-  - 
-    dtstart: 2015-06-09 9:00:00 -5:00
-    dtend: 2015-06-09 17:00:00 -5:00    
+level: Intermediate
+participation: ~
+tuition:
+  members: $256
+  nonmembers: $306
+  note: ~
+materials_fee: Material fees will vary depending on project.
+materials: Must bring your own sewing machine.
 
-
-
-
-tags: 
-  - all-levels
-categories:
-  - class
-  - fiber-arts
-
+lead:
+  image: folk-art-school/classes/2015/bunad-camp--sutherland-sue.jpg
+  alt: ~
+  caption: ~
+  pull: right
 
 navigation:
   exclude: true
@@ -63,5 +39,3 @@ pagelist:
   teaser:        # Defaults to page meta-description 
 ---
 Each area of Norway has a different *bunad* (national costume) design. This class is for anyone who wishes to construct their own authentic formal or everyday *bunad*, or an authentic purse, cap, shawl, belt, or blouse to complete the costume. Sue will have many different fabrics, colors, and ideas to help you start or complete a *bunad* or accessory. 
-
-Class will be held at Luther College Baker Commons with overnight accommodations available. Reserve rooms with Darlene Fossum-Martin. 

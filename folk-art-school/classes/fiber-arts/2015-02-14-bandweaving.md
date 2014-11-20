@@ -1,52 +1,32 @@
 ---
 published: true
-layout: page
 title:  Bandweaving (Class for Couples)
-
-meta_title:        # Appears on bookmarks, search results, etc...
+subtitle: February 14-15, 2015 with Reggie Delarm
+meta_title: Bandweaving with Reggie Delarm
 meta_description:  # Used in HTML head and as the description for some search engines
-# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 
-instructors: Reggie Delarm
-
-participation:
-
-level: All levels.
-
-materials: 
-
-price:
+location: ~
+instructor: Reggie Delarm
+sessions: "February 14–15, 2015, 9:00 a.m.–5:00 p.m."
+dtstart: 2015-02-14 9:00:00 -5:00
+dtend: 2015-02-15 17:00:00 -5:00 
+level: All levels
+participation: ~
+tuition:
   members: $128
   nonmembers: $178
-  materials: There will be a materials fee.
-  note: People signed up as a couple receive a 10% discount.
+  note: People who sign up as a couple will receive a 10% discount.
+materials_fee: There will be a materials fee.
+materials: ~
 
-
-
-dtstart: 2015-02-14 9:00:00 -5:00
-dtend: 2015-02-15 17:00:00 -5:00
-dates:
-  - 
-    dtstart: 2015-02-14 9:00:00 -5:00
-    dtend: 2015-02-14 17:00:00 -5:00
-  - 
-    dtstart: 2015-02-15 9:00:00 -5:00
-    dtend: 2015-02-15 17:00:00 -5:00  
-
-
-
-
-tags: 
-  - all-levels
-  - youth
-categories:
-  - class
-  - fiber-arts
-
+lead:
+  image: folk-art-school/classes/2015/bandweaving--delarm-reggie.jpg
+  alt: ~
+  caption: ~
+  pull: right
 
 navigation:
   exclude: true
-  order: 10
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
