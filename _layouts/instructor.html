@@ -1,26 +1,25 @@
 ---
-layout: base
+layout: page
 ---
-        <div class="layout__page  layout__page--padded--m-xl  layout__auxilary--constrained">
-       
+{{ content }}
 
-            <div class="layout__main__wrapper  layout__page--padded--xs-m">
-                <div class="layout__main">
-                    <div class="main-content">
-{% include headline.html %}
-                        <div class="layout__main--constrained  text">
-{% include image--lead.html %}
-{{ content }}                        
-                        </div>
-{% if page.include_tiles %}{% include tiles.html %}{% endif %}
-                    </div>
-                </div>
-            </div>
+{% assign class__pagelist = '' | split: '' %}
+{% assign class__pages = site.pages | where: 'layout', 'class' | sort: 'dtstart' %}
 
-            <div class="auxiliary layout__auxiliary">
-                <div class="layout__auxiliary__lining">
-{% include auxiliary.html %}
-                </div>
-            </div>
-
-        </div>
+{% for class__page in class__pages %}
+	{% for class__instructor in class__page.instructor %}
+		{% if class__instructor == page.title %}
+			{% assign class__pagelist = class__pagelist | push: site.data.pagelist_hash[class__page.url] %}
+			{% break %}
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+{% assign class__pages = nil %}
+{% assign class__page = nil %}
+{% capture class__pagelist__markdown %}
+{% include folk-art-school/class-list.html %}
+{% endcapture %}
+<div style="clear:both;">
+{{ class__pagelist__markdown | markdownify }}
+</div>
+{% assign assign class__pagelist = nil %}{% assign class__pagelist__markdown = nil %}
