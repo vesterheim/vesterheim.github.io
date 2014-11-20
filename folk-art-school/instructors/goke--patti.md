@@ -9,10 +9,6 @@ lead:
   alt: Patti Goke
   caption: Patti Goke
 
-related:
-
-navigation:
-  exclude: true
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  

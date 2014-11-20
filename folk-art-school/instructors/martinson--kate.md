@@ -9,10 +9,6 @@ lead:
   alt: Kate Martinson
   caption: Kate Martinson
 
-related:
-
-navigation:
-  exclude: true
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  

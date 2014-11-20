@@ -9,10 +9,6 @@ lead:
   alt: Roger Buhr
   caption: Roger Buhr
 
-related:
-
-navigation:
-  exclude: true
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  

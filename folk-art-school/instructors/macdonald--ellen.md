@@ -9,10 +9,6 @@ lead:
   alt: Ellen Macdonald 
   caption: Ellen Macdonald 
 
-related:
-
-navigation:
-  exclude: true
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  

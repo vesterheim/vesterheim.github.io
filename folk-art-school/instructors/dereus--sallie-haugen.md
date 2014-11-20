@@ -9,10 +9,6 @@ lead:
   alt: Sallie Haugen DeReus
   caption: 
 
-related:
-
-navigation:
-  exclude: true
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  

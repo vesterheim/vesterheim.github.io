@@ -9,10 +9,6 @@ lead:
   alt: Pam Rucinski
   caption: Pam Rucinski
 
-related:
-
-navigation:
-  exclude: true
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  

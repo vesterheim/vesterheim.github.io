@@ -8,10 +8,6 @@ lead:
   alt: Sara Tollefson
   caption: Sara Tollefson
 
-related:
-
-navigation:
-  exclude: true
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  

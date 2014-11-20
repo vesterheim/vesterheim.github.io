@@ -24,9 +24,6 @@ lead:
   caption: ~
   pull: right
 
-navigation:
-  exclude: true
-  order: 10
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  

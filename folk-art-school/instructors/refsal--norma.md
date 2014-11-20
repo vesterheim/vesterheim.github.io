@@ -9,10 +9,6 @@ lead:
   alt: Norma Refsal
   caption: Norma Refsal
 
-related:
-
-navigation:
-  exclude: true
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  

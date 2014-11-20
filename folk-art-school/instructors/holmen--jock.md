@@ -9,10 +9,6 @@ lead:
   alt: Jock Holmen
   caption: Jock Holmen
 
-related:
-
-navigation:
-  exclude: true
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  

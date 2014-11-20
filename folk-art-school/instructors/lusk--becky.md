@@ -9,10 +9,6 @@ lead:
   alt: Becky Lusk
   caption: Becky Lusk
 
-related:
-
-navigation:
-  exclude: true
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  

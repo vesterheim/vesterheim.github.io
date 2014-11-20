@@ -8,10 +8,6 @@ lead:
   alt: Torgeir Lirhus
   caption: Torgeir Lirhus
 
-related:
-
-navigation:
-  exclude: true
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  

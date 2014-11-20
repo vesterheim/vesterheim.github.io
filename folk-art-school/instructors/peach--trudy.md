@@ -9,10 +9,6 @@ lead:
   alt: Trudy Peach
   caption: Trudy Peach
 
-related:
-
-navigation:
-  exclude: true
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  

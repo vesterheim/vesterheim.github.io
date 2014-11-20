@@ -9,10 +9,6 @@ lead:
   alt: Heather Torgenrud
   caption: Heather Torgenrud
 
-related:
-
-navigation:
-  exclude: true
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  

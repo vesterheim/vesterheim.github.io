@@ -9,10 +9,6 @@ lead:
   alt: Roger Abrahamson
   caption: Roger Abrahamson
 
-related:
-
-navigation:
-  exclude: true
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  

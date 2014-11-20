@@ -9,10 +9,6 @@ lead:
   alt: Jim Sannerud
   caption: Jim Sannerud
 
-related:
-
-navigation:
-  exclude: true
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  

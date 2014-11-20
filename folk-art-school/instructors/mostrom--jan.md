@@ -9,10 +9,6 @@ lead:
   alt: Jan Mostrom
   caption: Jan Mostrom
 
-related:
-
-navigation:
-  exclude: true
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  

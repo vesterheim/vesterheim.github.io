@@ -9,10 +9,6 @@ lead:
   alt: Diane Edwards
   caption: 
 
-related:
-
-navigation:
-  exclude: true
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  

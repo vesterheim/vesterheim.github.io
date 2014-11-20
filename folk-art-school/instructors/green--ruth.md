@@ -9,10 +9,6 @@ lead:
   alt: Ruth Green
   caption: Ruth Green
 
-related:
-
-navigation:
-  exclude: true
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
