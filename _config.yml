@@ -49,6 +49,16 @@ defaults:
       path: folk-art-school
     values:
       css_theme: theme--folk-art
+  -
+    scope:
+      path: folk-art-school/instructors
+    values:
+      layout: instructor
+  -
+    scope:
+      path: folk-art-school/classes
+    values:
+      layout: class  
 # The scoping is correct, but see about about setting the navigation hash
 #  -
 #    scope:

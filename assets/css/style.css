@@ -4975,6 +4975,7 @@ INTERNET EXPLORER 8 and below
     width: 100%; } }
 /* line 331, sass/style.scss */
 .social-sharing-bar__wrapper {
+  clear: both;
   margin-top: 4.5em;
   margin-top: 4.5rem;
   margin-bottom: 4.5em;

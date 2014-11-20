@@ -1,13 +1,18 @@
 ---
 published: true
-layout: page
-title: Our Instructors
+title: Carrie Solberg
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
-# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+
+lead:
+  image:
+  alt:
+  caption:
+
+related:
 
 navigation:
-  order: 30
+  exclude: true
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
@@ -18,6 +23,4 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-{% assign instructors = site.data.pagelist | where: 'parent', page.url | sort: 'name' %}
-{% for instructor in instructors %}
-- [{{ instructor.title }}]({{ instructor.url }}){% endfor %}
+Carrie Solberg, a native of Spring Grove, Minnesota, has made Decorah her home since 1966. She taught third grade in the Decorah Public Schools for many years, retiring in 1998. She baked her first *kransekake* for her parent’s 40th wedding anniversary and has made many cakes since. She has demonstrated the making of *kransekaker* at several Nordic Fest celebrations and also in her home.

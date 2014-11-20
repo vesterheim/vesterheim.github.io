@@ -1,13 +1,18 @@
 ---
 published: true
-layout: page
-title: Our Instructors
+title: Marty Bergland
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
-# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+
+lead:
+  image: 
+  alt: 
+  caption: 
+
+related:
 
 navigation:
-  order: 30
+  exclude: true
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
@@ -18,6 +23,4 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-{% assign instructors = site.data.pagelist | where: 'parent', page.url | sort: 'name' %}
-{% for instructor in instructors %}
-- [{{ instructor.title }}]({{ instructor.url }}){% endfor %}
+Marty Bergland, a lifelong gardener and Emeritus Master Gardner from Wright Co., Minnesota, is one of the first graduates of the Minnesota Landscape Arboretum’s Gardening School. A well-known horticulturist and author, Marty has written several books and is a frequent presenter for the Minnesota State Horticulture Society, Minneapolis Farmer’s Market, and Minnesota State Fair.

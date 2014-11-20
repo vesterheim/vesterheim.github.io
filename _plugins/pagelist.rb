@@ -48,7 +48,9 @@ module Jekyll
 					'subtitle' => get_pagelist_subtitle(page),
 					'teaser' => get_pagelist_teaser(page),
 					'url' => page['url'],
-					'order' => pagelist['order'] || navigation['order'] || 1000
+					'order' => pagelist['order'] || navigation['order'] || 1000,
+					'dtstart' =>  pagelist['dtstart'] || page['dtstart'] || nil,
+					'dtend' =>  pagelist['dtend'] || page['dtend'] || nil
 				}
 				node.merge!get_pagelist_image(page)
 				node.merge!VesterUtils.create_geneology_hash(page, pages)

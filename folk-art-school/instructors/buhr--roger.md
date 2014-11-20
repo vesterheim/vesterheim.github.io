@@ -1,12 +1,18 @@
 ---
 published: true
-layout: page
-title: Fiber Arts
+title: Roger Buhr
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 
+lead:
+  image: folk-art-school/instructors/buhr--roger.jpg
+  alt: Roger Buhr
+  caption: Roger Buhr
+
+related:
+
 navigation:
-  order: 10
+  exclude: true
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
@@ -15,8 +21,6 @@ pagelist:
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
-  teaser:        # Defaults to page meta-description 
+  teaser:        # Defaults to page meta-description  
 ---
-{% assign class__pagelist = site.data.pagelist | where: 'parent', page.url | sort: 'dtstart' %}
-{% include folk-art-school/class-list.html %}
-{% assign assign class__pagelist = nil %}
+Roger Buhr, Decorah, Iowa, has stitched _hedebosøm_ for 17 years and has taught courses at Vesterheim and the John C. Campbell Folk School in Basstown, North Carolina.
