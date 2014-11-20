@@ -31,7 +31,7 @@ The Decorah Community Prairie is accessed by car at the south end of Ohio Street
 
 Along with the main loop for skiing and walking, there will be a shorter loop for younger skiers. Caregivers can walk or ski the course with the children, or may choose to stand along the course and cheer. Sleds are welcome for younger siblings.
 
-In the absence of snow, children will walk the course. If in doubt about weather conditions, listen to local radio stations for cancellations or check vesterheim.org.
+In the absence of snow, children will walk the course. If in doubt about weather conditions, listen to local radio stations for cancellations or check our website.
 
 The entry fee is $3, and participants must provide their own skis. There are a limited number of children's skis for rent at Decorah Bicycles.
 

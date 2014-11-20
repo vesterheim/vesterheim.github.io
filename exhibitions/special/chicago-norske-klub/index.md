@@ -2,7 +2,7 @@
 published: true
 layout: page
 title: Chicago Norske Klub
-subtitle: December 6, 2014 into 2015
+subtitle: December 6, 2014 - November 15, 2015
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description: A center in Chicago for Norwegian-American social, cultural, and artistic activities from 1911 to 1971.
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
@@ -31,4 +31,6 @@ The club often hosted benefits for American and Norwegian causes. For example, t
 
 Another significant activity was an annual art exhibition. Vesterheim will display artworks that had been part of Chicago Norske Klub exhibitions in the 1920s and 1940s.
 
-The clubhouse, dedicated July 4, 1917, was designed by the firm Giaver and Dinkelberg. The Vesterheim exhibition will show furnishings from the clubhouse, many of which were designed by club members who were artists. The massive "high seat," complete with carved dragon-head bench ends, a mural depicting Leif Erickson's discovery of America, and coats of arms of Norwegian cites, will be recreated in the gallery.
+The clubhouse, dedicated July 4, 1917, was designed by the firm Giaver and Dinkelberg. The Vesterheim exhibition shows furnishings from the clubhouse, many of which were designed by club members who were artists. The massive "high seat," complete with carved dragon-head bench ends, a mural depicting Leif Erickson's discovery of America, and coats of arms of Norwegian cites, have been recreated in the gallery.
+
+The exhibition is sponsored by Chicago Area Friends of Vesterheim Evy and Rob Alsaker with additional support.

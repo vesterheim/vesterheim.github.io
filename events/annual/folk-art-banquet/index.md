@@ -18,7 +18,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-Everyone is invited to Vesterheim’s Folk-Art Banquet in Luther College’s Peace Dining Room. During the banquet, we honor the new Ribbon Winners in the_ National Exhibition of Folk Art in the Norwegian Tradition_ and the new Gold Medalists will receive their pins.
+Everyone is invited to Vesterheim’s Folk-Art Banquet in Luther College’s Peace Dining Room. During the banquet, we honor the new Ribbon Winners in the _National Exhibition of Folk Art in the Norwegian Tradition_ and the new Gold Medalists will receive their pins.
 
 This event is held the Friday of Decorah's Nordic Fest celebration, which is the last full weekend in July.
 

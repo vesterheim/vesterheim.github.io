@@ -27,7 +27,7 @@ The WOW Program, which developed in partnership between Vesterheim and the Decor
 
 A highlight of the program is a visit to Vesterheim when students and their parent or grandparent guests use nineteenth-century agricultural technology and machinery to press apples, make rope, shell corn, hand-thresh grain, and more.
 
-The program is funded through 2014 by Gundersen Lutheran Health System.
+The program is funded through 2019 by Gundersen Lutheran Health System.
 
 Gundersen Lutheran’s support of this program is significant because the funding ensures that over 600 area third graders will have access to meaningful and fun learning experiences that support and enhance the school curriculum. 
 
