@@ -5,7 +5,7 @@ subtitle: April 17-19, 2015 with Sue Sutherland
 meta_title: Bunad Camp with Sue Sutherland
 meta_description:  # Used in HTML head and as the description for some search engines
 
-location: Class will be held at Luther College Baker Commons with overnight accommodations available. Reserve rooms with Darlene Fossum-Martin.
+location: Class will be held at Luther College Baker Commons with overnight accommodations available. Reserve rooms by contacting Darlene Fossum-Martin at 563-382-9681, or [dfossum-martin@vesterheim.org](mailto:dfossum-martin@vesterheim.org).
 instructor: Sue Sutherland
 sessions: "June 6–9, 2015, 9:00 a.m.–5:00 p.m."
 dtstart: 2015-06-06 9:00:00 -5:00
