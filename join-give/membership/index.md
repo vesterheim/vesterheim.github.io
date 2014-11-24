@@ -30,6 +30,8 @@ Join over 6,000 others from all 50 states and several foreign countries who supp
 
 Membership Levels
 -----------------
+{: .heading--black--large }
+
 Memberships are renewed annually.
 
 ### Basic Membership Categories
@@ -59,9 +61,7 @@ For an additional fee, members can subscribe to the _Rosemaling Letter_, which i
 
 {% include button.html text="Join, give or renew a membership" url="https://vesterheim.wufoo.com/forms/w3h863c0xax0mc/" style="primary" %} 
 
-Philanthropic Membership Categories
------------------------------------
-{: .heading--black--large }
+### Philanthropic Membership Categories
 
 Philanthropic levels include two adults at the same address and children under 18.
 
