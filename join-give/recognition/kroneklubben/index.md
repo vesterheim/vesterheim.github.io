@@ -11,6 +11,11 @@ hero:
   caption:
 navigation:
   order: 30
+
+related:
+  - /join-give/make-a-gift/donate/
+  - /join-give/make-a-gift/pledge/
+
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
@@ -27,4 +32,4 @@ The crown illustrated on the Kronekluben award is a part of the Vesterheim colle
 
 Vesterheim chose this bridal crown, drawn and interpreted by Norwegian-American artist Elisabeth Maurland, to be a symbol for its Kroneklubben. For us too, the crown represents the ties that bind us as a community, linking us to each other and to those that come before and after us. Your gifts to Vesterheim enable the museum to sustain this mission, to share a cultural legacy, for years to come.  
 
-Just as the bridal crown is passed from one generation to another within a community, your support ensures that Vesterheim keeps its stories alive for tomorrow’s generations. We invite you to consider a gift or pledge to become a part of this prestigious group.
+Just as the bridal crown is passed from one generation to another within a community, your support ensures that Vesterheim keeps its stories alive for tomorrow’s generations. We invite you to consider a [gift](/join-give/make-a-gift/donate/) or [pledge](/join-give/make-a-gift/pledge/) to become a part of this prestigious group.
