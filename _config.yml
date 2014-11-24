@@ -8,6 +8,7 @@ url: "http://vesterheim.org"
 production: false
 
 timezone: America/Chicago
+
 exclude: 
   - Gemfile
   - Gemfile.lock
@@ -85,6 +86,8 @@ permalink: pretty
 # setting a part of the has doesn't work. Either it set the whole hash or none. For example navigation['exclude'] = true
 # won't be set if there is a navigation['order'] = 10 in the front matter. IS this a bug to raise? I couldn't figure out
 # how to change the behaviour just by looking at the source.
+
+
 defaults:
   -
     scope:
@@ -120,6 +123,13 @@ defaults:
       layout: class
       navigation:
         exclude: true
+  -
+    scope:
+      path: collections/civil-war-database
+    values:
+      layout: civil-war-db-record
+      navigation:
+        exclude: true      
 # The scoping is correct, but see about about setting the navigation hash
 #  -
 #    scope:
