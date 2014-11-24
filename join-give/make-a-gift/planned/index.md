@@ -10,6 +10,8 @@ hero:
   alt:
   caption:
 related:
+  - /join-give/recognition/valhalla-society/
+  - /join-give/recognition/valhalla-society/profiles/
 
 navigation:
   order: 40
@@ -25,7 +27,7 @@ pagelist:
 ---
 Thank you for your interest in the future of Vesterheim by considering a special kind of gift to the museum. Supporting Vesterheim with planned gifts is vital if we are to maintain the activities and programs so essential to our members and visitors. Planned gifts are instrumental in helping us achieve our goals of providing the highest quality of care to the collection, and preserve and interpret our immigrant heritage for all.
 
-Everyone who makes a planned gift to Vesterheim can become a member of the museum's Valhalla Society. Founded in 1989, the Valhalla Society consists of a special group of donors who have chosen to honor their passion for preservation with planned giving. These gifts provide a lasting legacy for the future of Vesterheim.
+Everyone who makes a planned gift to Vesterheim and informed Vesterheim of this gift can become a member of the museum's Valhalla Society. Founded in 1989, the Valhalla Society consists of a special group of donors who have chosen to honor their passion for preservation with planned giving. These gifts provide a lasting legacy for the future of Vesterheim.
 
 Why Make a Planned Gift?
 ------------------------

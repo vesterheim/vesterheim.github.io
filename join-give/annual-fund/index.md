@@ -10,6 +10,7 @@ hero:
   alt:
   caption:
 related:
+  - /join-give/make-a-gift/donate/
 
 navigation:
   order: 30

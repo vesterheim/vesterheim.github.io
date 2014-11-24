@@ -10,6 +10,9 @@ hero:
   alt:
   caption:
 
+related:
+  - /join-give/recognition/compass-club/
+
 navigation:
   order: 30
 pagelist:

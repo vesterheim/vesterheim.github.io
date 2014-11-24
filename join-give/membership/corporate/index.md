@@ -10,6 +10,7 @@ hero:
   alt:
   caption:
 related:
+  - /join-give/membership/corporate/list/
 
 navigation:
   order: 10
