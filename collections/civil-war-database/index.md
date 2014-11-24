@@ -11,6 +11,7 @@ hero:
   caption:
 
 navigation:
+  exclude: false
   order: 40
 pagelist:
   exclude: false
@@ -26,4 +27,24 @@ This database contains information on Civil War soldiers born in Norway, plus ma
 
 Vesterheim’s Norwegians in the Civil War project is made possible through the generous support of Hamlet and Suzanne Peterson, Rochester, Minn., and a grant from Humanities Iowa and the National Endowment for the Humanities.
 
-The companion volume _Ole Goes to War: Men from Norway who Fought in America’s Civil War,_ by Jerry Rosholt, was made possible through a gift from the Government of Norway in honor of Vesterheim’s 125th Anniversary.
+The companion volume *Ole Goes to War: Men from Norway who Fought in America’s Civil War*, by Jerry Rosholt, was made possible through a gift from the Government of Norway in honor of Vesterheim’s 125th Anniversary.
+
+## How to Search
+
+### If you know the last name…
+
+If you know the name of the person for whom you are searching, it is best to browse by last name.  It is faster, easier, and more accurate than typing it into the search box. Under “**Browse by last name**,” select the first letter of the person’s last name and then select the first three letters of the person’s last name. This will give you all of the listings with those first three letters in their last name.
+
+### If you don’t know the last name…
+
+If you don’t know the last name, you can try using the search box. It works a lot like Google. If you know you had a relative named “Magnus” who was born in Norway and died or at least was a prisoner in Andersonville, Georgia. You could try:
+
+<form action="<$MTCGIPath$><$MTSearchScript$>" method="get">
+<input maxlength="256" name="search" size="40" value="Magnus Norway Andersonville" /><input type="submit" value="Search" />
+</form>
+
+Let’s say you looked up the variants of “Bolstad” from the “[Name Variations](/collections/civil-war-database/soldiers-names/)” page.  If you wanted to see all of the listings for “Bolstad” and “Baalstad”, as well as those that may reference “Bolstad” and “Baalstad”, you could try:
+
+<form action="<$MTCGIPath$><$MTSearchScript$>" method="get">
+<input maxlength="256" name="search" size="40" value="Bolstad OR Baalstad" /><input type="submit" value="Search" />
+</form>
