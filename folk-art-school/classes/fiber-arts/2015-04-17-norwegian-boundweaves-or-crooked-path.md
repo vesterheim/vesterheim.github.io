@@ -1,6 +1,6 @@
 ---
 published: true
-title:  Norwegian Boundweaves or “Crooked Path” 
+title: Norwegian Boundweaves or “Crooked Path” 
 subtitle: June 10-14, 2015, 2015 with Laura Demuth
 meta_description:  # Used in HTML head and as the description for some search engines
 
@@ -19,7 +19,7 @@ materials_fee: ~
 materials: ~
 
 lead:
-  image: ~
+  image: folk-art-school/classes/2015/norwegian-boundweaves-demuth.jpg
   alt: ~
   caption: ~
   pull: right

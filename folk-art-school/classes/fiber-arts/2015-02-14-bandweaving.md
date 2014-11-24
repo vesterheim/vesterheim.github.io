@@ -1,6 +1,6 @@
 ---
 published: true
-title:  Band Loom Carving and Bandweaving (Classes for Couples)
+title: Band Loom Carving and Bandweaving (Classes for Couples)
 subtitle: February 14-15, 2015 with Reggie Delarm & Roger Abrahamson
 meta_title: Band Loom Carving and Bandweaving, Classes for Couples with Reggie Delarm & Roger Abrahamson
 meta_description:  # Used in HTML head and as the description for some search engines
@@ -22,7 +22,7 @@ materials_fee: There will be a materials fee.
 materials: ~
 
 lead:
-  image: folk-art-school/classes/2015/bandweaving--delarm-reggie.jpg
+  image: folk-art-school/classes/2015/bandweaving-couples-delarm.jpg
   alt: ~
   caption: ~
   pull: right

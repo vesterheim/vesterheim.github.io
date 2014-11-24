@@ -20,7 +20,7 @@ materials_fee: Material fees will vary depending on project.
 materials: Must bring your own sewing machine.
 
 lead:
-  image: folk-art-school/classes/2015/bunad-camp--sutherland-sue.jpg
+  image: folk-art-school/classes/2015/bunadcamp-sutherland.jpg
   alt: ~
   caption: ~
   pull: right
