@@ -136,11 +136,15 @@ module Jekyll
 		end
 
 		def create_auto_nav_section_hash(navigable_nodes, auto_nav_array, auto_nav_hash)
+			# page.url vs page['url'] 
+			# they return different values when dealing with Ben's auto generated pages
+			# why would page['url'] be necessarly to use with Ben's page generator?
+			# Figure out a way to ask about this in Jekyll Issues
 			hash = {}
 			filter = {}
 			navigable_nodes.each do |page|
 				filter.clear
-				node = auto_nav_hash[page.url]
+				node = auto_nav_hash[page['url']]
 				auto_nav_array.
 					# Only get nodes for this section
 					select { |n| n['root'] == node['root'] }.
@@ -174,11 +178,11 @@ module Jekyll
 								end
 						end
 					end
-				hash[page.url] = auto_nav_array.
+				hash[page['url']] = auto_nav_array.
 					select { |n| filter[n['url']] }.
 					map { |n| n.clone }
-				hash[page.url] = fix_has_children(hash[page.url])
-				hash[page.url] = VesterUtils.add_sub_depth(hash[page.url])
+				hash[page['url']] = fix_has_children(hash[page['url']])
+				hash[page['url']] = VesterUtils.add_sub_depth(hash[page['url']])
 			end
 			hash
 		end
