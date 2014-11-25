@@ -44,9 +44,6 @@ Harry and Josepha Anderson Fine Ars Endowment
 Haugen Living Trust
 : toward operating expenses
 
-King Olav V Cadillac Endowment
-: for the limousine’s long-term preservation and care
-
 King Olav V Endowment
 : for the conservation program
 

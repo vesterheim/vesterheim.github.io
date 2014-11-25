@@ -1,0 +1,39 @@
+{% capture class__list__cache %}
+	{% assign class__pagelist__current = '' | split: '' %}
+	{% assign class__pagelist__future = '' | split: '' %}
+	{% assign class__pagelist__past = '' | split: '' %}
+	{% for class in class__pagelist %}	
+		{% if class.dtstart > site.time %}
+			{% assign class__pagelist__future = class__pagelist__future | push: class %}
+		{% elsif site.time > class.dtend %}
+			{% assign class__pagelist__past = class__pagelist__past | push: class %}
+		{% else %}
+			{% assign class__pagelist__current = class__pagelist__current | push: class %}
+		{% endif %}
+	{% endfor %}
+{% endcapture %}{% assign class__list__cache = nil %}
+{% if class__pagelist__current.size > 0 %}
+## {% include pluralize.html number=class__pagelist__future.size singular='Class' plural='Classes' %} Happening Now
+
+{% for class in class__pagelist__current %}
+- [**{{ class.title }}**<br />{{ class.subtitle }}]({{ class.url }}){% endfor %}
+{% endif %}
+
+{% if class__pagelist__future.size > 0 %}
+## Upcoming {% include pluralize.html number=class__pagelist__future.size singular='Class' plural='Classes' %}
+
+{% for class in class__pagelist__future %}
+- [**{{ class.title }}**<br />{{ class.subtitle }}]({{ class.url }}){% endfor %}
+{% endif %}
+
+{% if class__pagelist__past.size > 0 %}
+## Recent {% include pluralize.html number=class__pagelist__past.size singular='Class' plural='Classes' %}
+
+{% for class in class__pagelist__past %}
+- [**{{ class.title }}**<br />{{ class.subtitle }}]({{ class.url }}){% endfor %}
+{% endif %}
+{% capture class__list__cache %}
+	{% assign class__pagelist__current = nil %}
+	{% assign class__pagelist__future = nil %}
+	{% assign class__pagelist__past = nil %}
+{% endcapture %}{% assign class__list__cache = nil %}

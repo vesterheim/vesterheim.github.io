@@ -43,12 +43,26 @@ defaults:
       categories: events calendar # Ugly hack: don't touch!
       layout: post
       navigation:
-        exclude: true       
+        exclude: true
   -
     scope:
       path: folk-art-school
     values:
       css_theme: theme--folk-art
+  -
+    scope:
+      path: folk-art-school/instructors
+    values:
+      layout: instructor
+      navigation:
+        exclude: true
+  -
+    scope:
+      path: folk-art-school/classes
+    values:
+      layout: class
+      navigation:
+        exclude: true
 # The scoping is correct, but see about about setting the navigation hash
 #  -
 #    scope:

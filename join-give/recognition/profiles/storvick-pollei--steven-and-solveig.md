@@ -1,0 +1,44 @@
+---
+published: true
+layout: page
+title: Steven and Solveig Storvick Pollei
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+
+navigation:
+  exclude: true
+  order: 10
+pagelist:
+  exclude: false
+  order:         # Defaults to navigation order  
+  image:         # Defaults to cropped page hero image
+  alt:
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description
+---
+## Vesterheim Members since 2002 
+## Sustaining Members since 2003
+
+Solveig Pollei was interviewed by Vesterheim in 2010.
+
+_Tell us about your Scandinavian heritage._</b>
+Solveig: Our Norwegian heritage is pretty extensive. On my side, all of my family came from Norway . . . on both sides of both sides. Both of my mother’s parents and both of my father’s parents are of Norwegian descent. Steven’s relatives also hail from Norway; on the paternal side, the Norwegian heritage comes from his grandmother’s line and on the maternal side it comes from his grandfather’s line.
+
+_What inspired you to get involved with Vesterheim and later become a Sustaining Fellow?_</b>
+Vesterheim was always on my family’s radar. We would come down to Decorah for various things at Luther College and make a point of going through the museum. As I walked through the museum, I felt like I was walking through a much larger version of my grandparent’s home and now, my own home. I remember one of the first times I went through the Bethania Church . . . the way the altar was set up at the front, with the rail around it, reminded me of my grandfather Struxness’s Church. My Grandpa Struxness graduated from Luther in 1906 and our daughter, Marit, graduated from Luther in 2006, one hundred years later.
+
+We knew about Vesterheim before we could fully invest as members. I think what mattered to us was that as I go more and more involved in the weaving community and exploring Norwegian weaving techniques that I realized there was such a wealth of knowledge within those walls.
+
+Also, we have traveled extensively, living in many different parts of the United States during Steve’s medical schooling and training, and you realize that, once you get out of the Upper Midwest, with the exception of a few pockets here and Solveig, Marit, and Steven Storvick Pollei there, there just isn’t really that ease of finding Scandinavian literature, painting, woodworking, textiles, and such. The fact that you do have such a place in Decorah, Iowa, which not only houses all this, but celebrates it and takes such grand care of that heritage, I just think that shouldn’t be lost. Ever!
+
+_What do you enjoy most about Vesterheim?_</b>
+There are three things. First, it’s the textiles and, within that, it’s the exhibits that they have, it’s the teachers that they bring in, it’s the local teachers . . . .
+
+Second, I would have to add the scholarship involved at Vesterheim. I thought that the exhibit that you had about the Civil War, and the Norwegian immigrants who were a part of the Civil War, was fascinating. Also, the joint exhibit with Kay Larson and the Swedish; with the compliments and differences between the two [Norwegian and Swedish textiles] and how, depending on the geography, there were only slight differences in some of the sections of Sweden vs. Norway. Vesterheim is able to weave different cultures together and I always learn something. Vesterheim to me is a kind of continuing education. Lastly, the trips that I have been able to take, like the weaving workshop trips with [Vesterheim Chief Curator] Laurann Gilbertson, have been so amazing. One of the primary reasons is the respect that Vesterheim’s name has in other countries (Iceland and Sweden as well as Norway) and that is due to the people in place at the museum now, but also from many years ago, like Lila Nelson [Vesterheim’s first textile curator] and her husband [Marion Nelson, Vesterheim’s first Executive Director. We had great hosts when we would go places [during tours to Norway], doors would open, we were able to get into places to look at their conservancy techniques, things that you would have to be a graduate student in order to do here in the U.S. I guess that again falls under the ability to keep learning.
+
+_What would you tell others to encourage them to become Sustaining Members?_</b>
+I think one of the things each of us hasto do . . . is look at the things, at the programs, at
+the museums, etc. which are around you and really decide for yourself, “If the museum were no longer there, would it matter to you, would it matter in your life?” In Decorah, you have people who grew up with Vesterheim, it has always been a presence, so for at least a generation or so you have people that can’t imagine it not being there. Once you have the answer to that question, then you know how to help work your budget.

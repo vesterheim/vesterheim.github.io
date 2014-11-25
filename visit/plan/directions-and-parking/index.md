@@ -17,11 +17,12 @@ navigation:
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
-  image:         # Defaults to cropped page hero image
+  image: 46x21/visit/direction-sign.jpg
   alt:
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-Google Map on this page?
+<iframe width="600" height="450" frameborder="0" style="border:0"
+src="https://www.google.com/maps/embed/v1/place?q=Vesterheim%20520%20West%20Water%20Street%20Decorah%2C%20IA%2052101&key=AIzaSyB3jDsoXFT8P4rBLKwwjkZ6tPsFe0b-AIQ"></iframe>

@@ -1,0 +1,12 @@
+{% capture pluralize__cache %}
+	{% case include.number %}
+		{% when 1 %}
+	    	{% assign pluralize__output = include.singular %}
+	  	{% else %}
+	  		{% if include.plural %}
+	  			{% assign pluralize__output = include.plural %}
+	  		{% else %}
+	  			{% assign pluralize__output = include.singular | append: 's' %}
+	  		{% endif %}
+	{% endcase %}
+{% endcapture %}{% assign pluralize__cache = nil %}{{ pluralize__output }}{% assign pluralize__output = nil %}

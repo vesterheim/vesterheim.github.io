@@ -7,9 +7,9 @@ meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-  image: 16x9/decorah/fish-hatchery.jpg
-  alt: 
-  caption: Seiwer's Springs is the site of Decorah's fish hatchery, Trout Run Trail, and eagle nest.
+  image: 16x9/maps/decorah-map.jpg
+  alt: Heat map of Decorah attractions
+  caption:
 related:
 
 navigation:
@@ -29,9 +29,9 @@ More than just a diversion, the Decorah area, or “Bluff Country,” is nestled
 
 Thriving, quaint shops fill the downtown area, four-star restaurants tempt the palate, cultural and historic venues entertain, and recreational opportunities blanket the entire region. Whatever the season—your stay is sure to be unforgettable!
 
-{% picture full 16x9/maps/decorah-map.jpg alt="Heat map of Decorah attractions" %}
+{% include image--full-width.html image="16x9/decorah/fish-hatchery.jpg" alt="Seiwer's Springs is the site of Decorah's fish hatchery, Trout Run Trail, and eagle nest." caption="Seiwer's Springs is the site of Decorah's fish hatchery, Trout Run Trail, and eagle nest." %}
 
-* Link to Visit Decorah http://www.visitdecorah.com/
-* Link to Northeast Iowa http://visitiowa.org/
+* Link to [Visit Decorah](http://www.visitdecorah.com/)
+* Link to [Northeast Iowa](http://visitiowa.org/)
 * Link to bike trail video
 * Link to any other Decorah sites or videos

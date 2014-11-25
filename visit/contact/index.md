@@ -15,7 +15,7 @@ navigation:
   order: 50
 pagelist:
   order:         # Defaults to navigation order
-  image: 46x21/buildings/fladager-reference-library.jpg
+  image: 46x21/contact/staff.jpg
   alt: 
   caption:
   title:         # Defaults to navigation title

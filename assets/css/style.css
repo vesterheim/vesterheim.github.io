@@ -26,19 +26,19 @@
 @font-face {
   font-family: 'FranKlein';
   src: url('../fonts/frankleinmedium-webfont.eot?1413902386');
-  src: url('../fonts/frankleinmedium-webfont.eot?&1413902386#iefix') format("embedded-opentype"), url('../fonts/frankleinmedium-webfont.woff?1413902386') format("woff"), url('../fonts/frankleinmedium-webfont.ttf?1413902386') format("truetype"), url('../fonts/frankleinmedium-webfont.svg?1413902386#frankleinmediumregular') format("svg");
+  src: url('../fonts/frankleinmedium-webfont.eot?&1413902386#iefix') format("embedded-opentype"), url('../fonts/frankleinmedium-webfont.woff2?1413902386') format("woff2"), url('../fonts/frankleinmedium-webfont.woff?1413902386') format("woff"), url('../fonts/frankleinmedium-webfont.ttf?1413902386') format("truetype"), url('../fonts/frankleinmedium-webfont.svg?1413902386#frankleinmediumregular') format("svg");
   font-weight: 400;
   font-style: normal; }
 @font-face {
   font-family: 'FranKlein';
   src: url('../fonts/frankleinbold-webfont.eot?1413902386');
-  src: url('../fonts/frankleinbold-webfont.eot?&1413902386#iefix') format("embedded-opentype"), url('../fonts/frankleinbold-webfont.woff?1413902388') format("woff"), url('../fonts/frankleinbold-webfont.ttf?1413902388') format("truetype"), url('../fonts/frankleinbold-webfont.svg?1413902386#frankleinboldregular') format("svg");
+  src: url('../fonts/frankleinbold-webfont.eot?&1413902386#iefix') format("embedded-opentype"), url('../fonts/frankleinbold-webfont.woff2?1413902388') format("woff2"), url('../fonts/frankleinbold-webfont.woff?1413902388') format("woff"), url('../fonts/frankleinbold-webfont.ttf?1413902388') format("truetype"), url('../fonts/frankleinbold-webfont.svg?1413902386#frankleinboldregular') format("svg");
   font-weight: 700;
   font-style: normal; }
 @font-face {
   font-family: 'FranKlein';
   src: url('../fonts/frankleinbook-webfont.eot?1413902388');
-  src: url('../fonts/frankleinbook-webfont.eot?&1413902388#iefix') format("embedded-opentype"), url('../fonts/frankleinbook-webfont.woff?1413902388') format("woff"), url('../fonts/frankleinbook-webfont.ttf?1413902388') format("truetype"), url('../fonts/frankleinbook-webfont.svg?1413902388#frankleinbookregular') format("svg");
+  src: url('../fonts/frankleinbook-webfont.eot?&1413902388#iefix') format("embedded-opentype"), url('../fonts/frankleinbook-webfont.woff2?1413902388') format("woff2"), url('../fonts/frankleinbook-webfont.woff?1413902388') format("woff"), url('../fonts/frankleinbook-webfont.ttf?1413902388') format("truetype"), url('../fonts/frankleinbook-webfont.svg?1413902388#frankleinbookregular') format("svg");
   font-weight: 100;
   font-style: normal; }
 /** MODIFIED: http://meyerweb.com/eric/tools/css/reset/ v2.0 | 20110126
@@ -871,7 +871,7 @@ a {
     padding-left: 0.55556em;
     padding-left: 0.625rem; } }
 
-/* line 372, sass/generic/_mixins.scss */
+/* line 375, sass/generic/_mixins.scss */
 .text {
   /**
    * Remove from WYSIWYG styles
@@ -926,7 +926,7 @@ a {
   /* line 62, sass/base/_text-typography.scss */
   .text dt {
     font-weight: bold; }
-  /* line 154, sass/generic/_mixins.scss */
+  /* line 157, sass/generic/_mixins.scss */
   .text h1, .text h2, .text h3, .text h4, .text h5, .text h6 {
     color: #DD5D2D;
     font-family: FranKlein, Arial, "Helvetica Neue", Helvetica, sans-serif;
@@ -964,23 +964,23 @@ a {
     .text h6 a:focus {
       border-color: inherit;
       color: inherit; }
-  /* line 154, sass/generic/_mixins.scss */
+  /* line 157, sass/generic/_mixins.scss */
   .text h1.heading--x-large, .text h2.heading--x-large, .text h3.heading--x-large, .text h4.heading--x-large, .text h5.heading--x-large, .text h6.heading--x-large {
     margin-top: 0; }
-  /* line 154, sass/generic/_mixins.scss */
+  /* line 157, sass/generic/_mixins.scss */
   .text h1.heading--black--x-large, .text h2.heading--black--x-large, .text h3.heading--black--x-large, .text h4.heading--black--x-large, .text h5.heading--black--x-large, .text h6.heading--black--x-large {
     margin-top: 0; }
-  /* line 154, sass/generic/_mixins.scss */
+  /* line 157, sass/generic/_mixins.scss */
   .text h1.heading--black--large--mixed-case, .text h2.heading--black--large--mixed-case, .text h3.heading--black--large--mixed-case, .text h4.heading--black--large--mixed-case, .text h5.heading--black--large--mixed-case, .text h6.heading--black--large--mixed-case {
     letter-spacing: normal; }
-  /* line 154, sass/generic/_mixins.scss */
+  /* line 157, sass/generic/_mixins.scss */
   .text h1.heading--black--x-large--mixed-case, .text h2.heading--black--x-large--mixed-case, .text h3.heading--black--x-large--mixed-case, .text h4.heading--black--x-large--mixed-case, .text h5.heading--black--x-large--mixed-case, .text h6.heading--black--x-large--mixed-case {
     letter-spacing: normal;
     margin-top: 0; }
-  /* line 154, sass/generic/_mixins.scss */
+  /* line 157, sass/generic/_mixins.scss */
   .text h1.heading--large--mixed-case, .text h2.heading--large--mixed-case, .text h3.heading--large--mixed-case, .text h4.heading--large--mixed-case, .text h5.heading--large--mixed-case, .text h6.heading--large--mixed-case {
     letter-spacing: normal; }
-  /* line 154, sass/generic/_mixins.scss */
+  /* line 157, sass/generic/_mixins.scss */
   .text h1.heading--x-large--mixed-case, .text h2.heading--x-large--mixed-case, .text h3.heading--x-large--mixed-case, .text h4.heading--x-large--mixed-case, .text h5.heading--x-large--mixed-case, .text h6.heading--x-large--mixed-case {
     letter-spacing: normal;
     margin-top: 0; }
@@ -2380,23 +2380,7 @@ a {
     background-position: right center;
     background-repeat: no-repeat;
     display: block;
-    padding-right: 2.5em; }
-
-  /* line 36, sass/partials/_nav-social.scss */
-  .nav--social__link--facebook {
-    xbackground: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iMTVweCIgaGVpZ2h0PSIxNXB4IiB2aWV3Qm94PSIxNDMgMTQyLjUgMTUgMTUiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMTQzIDE0Mi41IDE1IDE1IiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMTUwLjUgMTQyLjVjLTQuMTQyIDAtNy41IDMuMzU4LTcuNSA3LjVzMy4zNTggNy41IDcuNSA3LjVzNy41LTMuMzU4IDcuNS03LjVTMTU0LjY0MiAxNDIuNSAxNTAuNSAxNDIuNXogTTE1My4zMTcgMTUwLjMxM2gtMS43ODR2NC43NzFoLTEuODE2di00Ljc3MWgtMS4yNjJ2LTEuNzE4aDEuMjYyYzAgMCAwLTAuNzA0IDAtMS40NjhjMC0xLjE1MyAwLjc0Ni0yLjIxMiAyLjQ2Mi0yLjIxMiBjMC42OTYgMCAxLjIgMC4xIDEuMiAwLjA2N2wtMC4wNCAxLjYwNGMwIDAtMC41MjUtMC4wMDUtMS4wOTktMC4wMDVjLTAuNjE4IDAtMC43MTggMC4yODYtMC43MTggMC44IGMwIDAuMSAwIDAuMSAwIDAuMDhjMCAwLjEgMCAwLjUgMCAxLjE3NGgxLjg2NEwxNTMuMzE3IDE1MC4zMTN6Ii8+PC9zdmc+) no-repeat right 2px; }
-
-  /* line 39, sass/partials/_nav-social.scss */
-  .nav--social__link--facebook {
-    background-image: url('../img/png/facebook--white-circle.png'); }
-
-  /* line 42, sass/partials/_nav-social.scss */
-  .nav--social__link--facebook {
-    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAMAAAAMCGV4AAAAA3NCSVQICAjb4U/gAAAAM1BMVEX////////99fL76+X54df318r1zL3zwrDzw7Hurpbqm3zqmnvmhmHkfFXickfgaDreXi2QnV5+AAAAEXRSTlMA/////////////////////xAVQKEAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAcdEVYdFNvZnR3YXJlAEFkb2JlIEZpcmV3b3JrcyBDUzbovLKMAAAAb0lEQVQImVVPURYDMQQUXWlpVub+py2S7Hv1Y4bBIERY58b9m5AAv9oK8eTOiVlVGs/gqxstDQXIlhR3yYz65qNypyorMMcn11CV3zd8SKLVD71W5mde97z9cdv3N5fj76W5rfzB5fif9c/5zxL+AIZFBUoF9NWSAAAAAElFTkSuQmCC); }
-
-  /* line 45, sass/partials/_nav-social.scss */
-  .nav--social__link--facebook {
-    background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2215%22%20height%3D%2215%22%20viewBox%3D%22248.5%20248.5%2015%2015%22%20enable-background%3D%22new%20248.5%20248.5%2015%2015%22%3E%3Cpath%20fill%3D%22%23fff%22%20d%3D%22M256%20248.5c-4.1%200-7.5%203.4-7.5%207.5s3.4%207.5%207.5%207.5%207.5-3.4%207.5-7.5-3.4-7.5-7.5-7.5zm2.8%207.8h-1.8v4.8h-1.8v-4.8h-1.2v-1.7h1.3v-1.5c0-1.2.7-2.2%202.5-2.2.7%200%201.2.1%201.2.1v1.6h-1.1c-.6%200-.7.3-.7.8v1.3h1.9l-.3%201.6z%22/%3E%3C/svg%3E"); } }
+    padding-right: 2.5em; } }
 /*------------------------------------*\
     $NAV-FEATURED
 \*------------------------------------*/
@@ -2535,7 +2519,7 @@ a {
       .site-search__search-field:focus, .is_active > .site-search .site-search__search-field {
         border-color: #1B332F;
         width: 20.09090909em; }
-      /* line 178, sass/generic/_mixins.scss */
+      /* line 181, sass/generic/_mixins.scss */
       .site-search__search-field[placeholder] {
         color: #213236;
         font-size: 0.6875em;
@@ -2544,7 +2528,7 @@ a {
         letter-spacing: 0.1em;
         text-overflow: ellipsis;
         text-transform: uppercase; }
-      /* line 178, sass/generic/_mixins.scss */
+      /* line 181, sass/generic/_mixins.scss */
       .site-search__search-field::-webkit-input-placeholder {
         color: #213236;
         font-size: 0.6875em;
@@ -2553,7 +2537,7 @@ a {
         letter-spacing: 0.1em;
         text-overflow: ellipsis;
         text-transform: uppercase; }
-      /* line 178, sass/generic/_mixins.scss */
+      /* line 181, sass/generic/_mixins.scss */
       .site-search__search-field:-moz-placeholder {
         color: #213236;
         font-size: 0.6875em;
@@ -2562,7 +2546,7 @@ a {
         letter-spacing: 0.1em;
         text-overflow: ellipsis;
         text-transform: uppercase; }
-      /* line 178, sass/generic/_mixins.scss */
+      /* line 181, sass/generic/_mixins.scss */
       .site-search__search-field::-moz-placehoder {
         color: #213236;
         font-size: 0.6875em;
@@ -2571,7 +2555,7 @@ a {
         letter-spacing: 0.1em;
         text-overflow: ellipsis;
         text-transform: uppercase; }
-      /* line 178, sass/generic/_mixins.scss */
+      /* line 181, sass/generic/_mixins.scss */
       .site-search__search-field:-ms-placeholder {
         color: #213236;
         font-size: 0.6875em;
@@ -2811,7 +2795,7 @@ a {
  */
 /* line 69, sass/partials/_page-foot.scss */
 .page-foot__contact {
-  color: #bcc0c1;
+  color: #fff;
   font-weight: 100;
   margin-bottom: 1.58333em;
   margin-bottom: 1.1875rem; }
@@ -2820,54 +2804,45 @@ a {
     .page-foot__contact {
       margin-left: 50%; } }
 
-/* line 79, sass/partials/_page-foot.scss */
+/* line 81, sass/partials/_page-foot.scss */
 .page-foot__contact__p-name {
   color: transparent;
   font: 0/0 FranKlein, Arial, "Helvetica Neue", Helvetica, sans-serif; }
 
-/* line 85, sass/partials/_page-foot.scss */
+/* line 87, sass/partials/_page-foot.scss */
 .page-foot__contact_delimiter {
   display: none; }
   @media screen and (min-width: 30em) {
-    /* line 85, sass/partials/_page-foot.scss */
+    /* line 87, sass/partials/_page-foot.scss */
     .page-foot__contact_delimiter {
       display: inline; } }
 
-/* line 91, sass/partials/_page-foot.scss */
+/* line 93, sass/partials/_page-foot.scss */
 .page-foot__contact__p-street-address {
   display: block; }
   @media screen and (min-width: 30em) {
-    /* line 91, sass/partials/_page-foot.scss */
+    /* line 93, sass/partials/_page-foot.scss */
     .page-foot__contact__p-street-address {
       display: inline; } }
 
-/* line 97, sass/partials/_page-foot.scss */
+/* line 99, sass/partials/_page-foot.scss */
 .page-foot__contact__link {
-  color: #bcc0c1;
-  color: rgba(238, 238, 238, 0.76); }
-
-/**
- * For different color test. Delete if not used!
- */
-/* line 105, sass/partials/_page-foot.scss */
-.page-foot__contact--new-color,
-.page-foot__contact__link--new-color {
   color: #fff; }
 
 /** 
  * Page Foot Credit
  */
-/* line 114, sass/partials/_page-foot.scss */
+/* line 111, sass/partials/_page-foot.scss */
 .page-foot__credit {
   font-weight: 100;
   margin-top: 1.58333em;
   margin-top: 1.1875rem; }
   @media screen and (min-width: 48em) {
-    /* line 114, sass/partials/_page-foot.scss */
+    /* line 111, sass/partials/_page-foot.scss */
     .page-foot__credit {
       margin-left: 50%; } }
 
-/* line 122, sass/partials/_page-foot.scss */
+/* line 119, sass/partials/_page-foot.scss */
 .page-foot__credit__link {
   color: #7c8081;
   color: rgba(153, 153, 153, 0.76); }
@@ -3115,23 +3090,26 @@ a {
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
-  user-select: none; }
-  /* line 26, sass/partials/_button.scss */
+  user-select: none;
+  -moz-box-shadow: 0.1em 0.1em 0.25em 0 #444;
+  -webkit-box-shadow: 0.1em 0.1em 0.25em 0 #444;
+  box-shadow: 0.1em 0.1em 0.25em 0 #444; }
+  /* line 27, sass/partials/_button.scss */
   .button:focus, .button:active:focus, .button.active:focus {
     outline: thin dotted;
     outline: 5px auto -webkit-focus-ring-color;
     outline-offset: -2px; }
-  /* line 31, sass/partials/_button.scss */
+  /* line 32, sass/partials/_button.scss */
   .button:hover, .button:focus {
     text-decoration: none; }
-  /* line 37, sass/partials/_button.scss */
+  /* line 38, sass/partials/_button.scss */
   .button:active, .button.active {
     outline: 0;
     background-image: none;
     -moz-box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
     -webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
     box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125); }
-  /* line 44, sass/partials/_button.scss */
+  /* line 45, sass/partials/_button.scss */
   .button.disabled, .button[disabled], fieldset[disabled] .button {
     cursor: not-allowed;
     pointer-events: none;
@@ -3141,95 +3119,85 @@ a {
     -webkit-box-shadow: none;
     box-shadow: none; }
 
-/* line 58, sass/partials/_button.scss */
+/* line 59, sass/partials/_button.scss */
 .button--default {
-  color: inherit;
-  background-color: #fff;
-  border-color: #999; }
-  /* line 26, sass/generic/_mixins.scss */
+  color: inherit !important;
+  background-color: #fff !important;
+  border-color: #999 !important;
+  border-style: solid  !important;
+  font-family: FranKlein, Arial, "Helvetica Neue", Helvetica, sans-serif !important;
+  font-weight: 700 !important; }
+  /* line 29, sass/generic/_mixins.scss */
   .button--default:hover, .button--default:focus, .button--default:active, .button--default.active {
-    color: inherit;
-    background-color: #ebebeb;
-    border-color: #7a7a7a; }
-  /* line 34, sass/generic/_mixins.scss */
+    color: inherit !important;
+    background-color: #ebebeb !important;
+    border-color: #7a7a7a !important; }
+  /* line 37, sass/generic/_mixins.scss */
   .open .button--default.dropdown-toggle {
-    color: inherit;
-    background-color: #ebebeb;
-    border-color: #7a7a7a; }
-  /* line 39, sass/generic/_mixins.scss */
+    color: inherit !important;
+    background-color: #ebebeb !important;
+    border-color: #7a7a7a !important; }
+  /* line 42, sass/generic/_mixins.scss */
   .button--default:active, .button--default.active {
     background-image: none; }
-  /* line 43, sass/generic/_mixins.scss */
+  /* line 46, sass/generic/_mixins.scss */
   .open .button--default.dropdown-toggle {
     background-image: none; }
-  /* line 49, sass/generic/_mixins.scss */
+  /* line 52, sass/generic/_mixins.scss */
   .button--default.disabled, .button--default.disabled:hover, .button--default.disabled:focus, .button--default.disabled:active, .button--default.disabled.active, .button--default[disabled], .button--default[disabled]:hover, .button--default[disabled]:focus, .button--default[disabled]:active, .button--default[disabled].active, fieldset[disabled] .button--default, fieldset[disabled] .button--default:hover, fieldset[disabled] .button--default:focus, fieldset[disabled] .button--default:active, fieldset[disabled] .button--default.active {
-    background-color: #fff;
+    background-color: #fff !important;
     border-color: #999; }
-  /* line 59, sass/generic/_mixins.scss */
+  /* line 62, sass/generic/_mixins.scss */
   .button--default .badge {
-    color: #fff;
-    background-color: inherit; }
+    color: #fff !important;
+    background-color: inherit !important; }
 
 /* line 62, sass/partials/_button.scss */
 .button--primary {
-  color: #fff;
-  background-color: #DD5D2D;
-  border-color: #DD5D2D; }
-  /* line 26, sass/generic/_mixins.scss */
+  color: #fff !important;
+  background-color: #DD5D2D !important;
+  border-color: #DD5D2D !important;
+  border-style: solid  !important;
+  font-family: FranKlein, Arial, "Helvetica Neue", Helvetica, sans-serif !important;
+  font-weight: 700 !important; }
+  /* line 29, sass/generic/_mixins.scss */
   .button--primary:hover, .button--primary:focus, .button--primary:active, .button--primary.active {
-    color: #fff;
-    background-color: #c24c1f;
-    border-color: #b0451d; }
-  /* line 34, sass/generic/_mixins.scss */
+    color: #fff !important;
+    background-color: #c24c1f !important;
+    border-color: #b0451d !important; }
+  /* line 37, sass/generic/_mixins.scss */
   .open .button--primary.dropdown-toggle {
-    color: #fff;
-    background-color: #c24c1f;
-    border-color: #b0451d; }
-  /* line 39, sass/generic/_mixins.scss */
+    color: #fff !important;
+    background-color: #c24c1f !important;
+    border-color: #b0451d !important; }
+  /* line 42, sass/generic/_mixins.scss */
   .button--primary:active, .button--primary.active {
     background-image: none; }
-  /* line 43, sass/generic/_mixins.scss */
+  /* line 46, sass/generic/_mixins.scss */
   .open .button--primary.dropdown-toggle {
     background-image: none; }
-  /* line 49, sass/generic/_mixins.scss */
+  /* line 52, sass/generic/_mixins.scss */
   .button--primary.disabled, .button--primary.disabled:hover, .button--primary.disabled:focus, .button--primary.disabled:active, .button--primary.disabled.active, .button--primary[disabled], .button--primary[disabled]:hover, .button--primary[disabled]:focus, .button--primary[disabled]:active, .button--primary[disabled].active, fieldset[disabled] .button--primary, fieldset[disabled] .button--primary:hover, fieldset[disabled] .button--primary:focus, fieldset[disabled] .button--primary:active, fieldset[disabled] .button--primary.active {
-    background-color: #DD5D2D;
+    background-color: #DD5D2D !important;
     border-color: #DD5D2D; }
-  /* line 59, sass/generic/_mixins.scss */
+  /* line 62, sass/generic/_mixins.scss */
   .button--primary .badge {
-    color: #DD5D2D;
-    background-color: #fff; }
+    color: #DD5D2D !important;
+    background-color: #fff !important; }
 
-/* line 65, sass/partials/_button.scss */
-.button--primary {
-  color: #fff;
-  background-color: #29393C;
-  border-color: #29393C; }
-  /* line 26, sass/generic/_mixins.scss */
-  .button--primary:hover, .button--primary:focus, .button--primary:active, .button--primary.active {
-    color: #fff;
-    background-color: #182224;
-    border-color: #101618; }
-  /* line 34, sass/generic/_mixins.scss */
-  .open .button--primary.dropdown-toggle {
-    color: #fff;
-    background-color: #182224;
-    border-color: #101618; }
-  /* line 39, sass/generic/_mixins.scss */
-  .button--primary:active, .button--primary.active {
-    background-image: none; }
-  /* line 43, sass/generic/_mixins.scss */
-  .open .button--primary.dropdown-toggle {
-    background-image: none; }
-  /* line 49, sass/generic/_mixins.scss */
-  .button--primary.disabled, .button--primary.disabled:hover, .button--primary.disabled:focus, .button--primary.disabled:active, .button--primary.disabled.active, .button--primary[disabled], .button--primary[disabled]:hover, .button--primary[disabled]:focus, .button--primary[disabled]:active, .button--primary[disabled].active, fieldset[disabled] .button--primary, fieldset[disabled] .button--primary:hover, fieldset[disabled] .button--primary:focus, fieldset[disabled] .button--primary:active, fieldset[disabled] .button--primary.active {
-    background-color: #29393C;
-    border-color: #29393C; }
-  /* line 59, sass/generic/_mixins.scss */
-  .button--primary .badge {
-    color: #29393C;
-    background-color: #fff; }
+/* line 66, sass/partials/_button.scss */
+.button--pull-left {
+  margin-right: 0.55556em;
+  margin-right: 0.625rem;
+  margin-bottom: 0.33333em;
+  margin-bottom: 0.375rem; }
+
+/* line 70, sass/partials/_button.scss */
+.button--pull-right {
+  margin-left: 0.55556em;
+  margin-left: 0.625rem;
+  margin-bottom: 0.33333em;
+  margin-bottom: 0.375rem; }
 
 /*
 .btn-primary {
@@ -3288,8 +3256,8 @@ a {
   }
 }
 */
-/* line 136, sass/partials/_button.scss */
-.button-xlarge {
+/* line 140, sass/partials/_button.scss */
+.button--x-large {
   border-radius: 0;
   font-size: 1.875em;
   font-size: 1.875rem;
@@ -3304,8 +3272,8 @@ a {
   padding-left: 0.6875em;
   padding-left: 0.6875rem; }
 
-/* line 141, sass/partials/_button.scss */
-.button-large {
+/* line 145, sass/partials/_button.scss */
+.button--large {
   border-radius: 0;
   font-size: 1.25em;
   font-size: 1.25rem;
@@ -3320,8 +3288,8 @@ a {
   padding-left: 0.6875em;
   padding-left: 0.6875rem; }
 
-/* line 146, sass/partials/_button.scss */
-.btn-sm {
+/* line 150, sass/partials/_button.scss */
+.button--small {
   border-radius: 0;
   font-size: 0.75em;
   font-size: 0.75rem;
@@ -3336,11 +3304,11 @@ a {
   padding-left: 0.6875em;
   padding-left: 0.6875rem; }
 
-/* line 151, sass/partials/_button.scss */
-.btn-xs {
+/* line 155, sass/partials/_button.scss */
+.button--x-small {
   border-radius: 0;
-  font-size: 0.75em;
-  font-size: 0.75rem;
+  font-size: 0.625em;
+  font-size: 0.625rem;
   line-height: 1.125em;
   line-height: 1.125rem;
   padding-top: 0.1875em;
@@ -3352,18 +3320,18 @@ a {
   padding-left: 0.6875em;
   padding-left: 0.6875rem; }
 
-/* line 159, sass/partials/_button.scss */
+/* line 163, sass/partials/_button.scss */
 .btn-block {
   display: block;
   width: 100%;
   padding-left: 0;
   padding-right: 0; }
 
-/* line 167, sass/partials/_button.scss */
+/* line 171, sass/partials/_button.scss */
 .btn-block + .btn-block {
   margin-top: 5px; }
 
-/* line 175, sass/partials/_button.scss */
+/* line 179, sass/partials/_button.scss */
 input[type="submit"].btn-block,
 input[type="reset"].btn-block,
 input[type="button"].btn-block {
@@ -4537,33 +4505,36 @@ input[type="button"].btn-block {
       border-color: rgba(255, 255, 255, 0.14); } }
   /* line 56, sass/themes/_folk-art-classy-hack.scss */
   .theme--folk-art .button--primary {
-    color: #fff;
-    background-color: #29393C;
-    border-color: #29393C; }
-    /* line 26, sass/generic/_mixins.scss */
+    color: #fff !important;
+    background-color: #29393C !important;
+    border-color: #29393C !important;
+    border-style: solid  !important;
+    font-family: FranKlein, Arial, "Helvetica Neue", Helvetica, sans-serif !important;
+    font-weight: 700 !important; }
+    /* line 29, sass/generic/_mixins.scss */
     .theme--folk-art .button--primary:hover, .theme--folk-art .button--primary:focus, .theme--folk-art .button--primary:active, .theme--folk-art .button--primary.active {
-      color: #fff;
-      background-color: #182224;
-      border-color: #101618; }
-    /* line 34, sass/generic/_mixins.scss */
+      color: #fff !important;
+      background-color: #182224 !important;
+      border-color: #101618 !important; }
+    /* line 37, sass/generic/_mixins.scss */
     .open .theme--folk-art .button--primary.dropdown-toggle {
-      color: #fff;
-      background-color: #182224;
-      border-color: #101618; }
-    /* line 39, sass/generic/_mixins.scss */
+      color: #fff !important;
+      background-color: #182224 !important;
+      border-color: #101618 !important; }
+    /* line 42, sass/generic/_mixins.scss */
     .theme--folk-art .button--primary:active, .theme--folk-art .button--primary.active {
       background-image: none; }
-    /* line 43, sass/generic/_mixins.scss */
+    /* line 46, sass/generic/_mixins.scss */
     .open .theme--folk-art .button--primary.dropdown-toggle {
       background-image: none; }
-    /* line 49, sass/generic/_mixins.scss */
+    /* line 52, sass/generic/_mixins.scss */
     .theme--folk-art .button--primary.disabled, .theme--folk-art .button--primary.disabled:hover, .theme--folk-art .button--primary.disabled:focus, .theme--folk-art .button--primary.disabled:active, .theme--folk-art .button--primary.disabled.active, .theme--folk-art .button--primary[disabled], .theme--folk-art .button--primary[disabled]:hover, .theme--folk-art .button--primary[disabled]:focus, .theme--folk-art .button--primary[disabled]:active, .theme--folk-art .button--primary[disabled].active, fieldset[disabled] .theme--folk-art .button--primary, fieldset[disabled] .theme--folk-art .button--primary:hover, fieldset[disabled] .theme--folk-art .button--primary:focus, fieldset[disabled] .theme--folk-art .button--primary:active, fieldset[disabled] .theme--folk-art .button--primary.active {
-      background-color: #29393C;
+      background-color: #29393C !important;
       border-color: #29393C; }
-    /* line 59, sass/generic/_mixins.scss */
+    /* line 62, sass/generic/_mixins.scss */
     .theme--folk-art .button--primary .badge {
-      color: #29393C;
-      background-color: #fff; }
+      color: #29393C !important;
+      background-color: #fff !important; }
   @media screen and (min-width: 48em) {
     /* line 62, sass/themes/_folk-art-classy-hack.scss */
     .theme--folk-art .is_active > .relative-lining > .nav--site__link {
@@ -5004,6 +4975,7 @@ INTERNET EXPLORER 8 and below
     width: 100%; } }
 /* line 331, sass/style.scss */
 .social-sharing-bar__wrapper {
+  clear: both;
   margin-top: 4.5em;
   margin-top: 4.5rem;
   margin-bottom: 4.5em;

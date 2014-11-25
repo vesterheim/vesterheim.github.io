@@ -6,10 +6,11 @@ meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-  image:
+  image: 16x9/join-give/corporate-members.jpg
   alt:
   caption:
 related:
+  - /join-give/membership/corporate/list/
 
 navigation:
   order: 10
@@ -24,6 +25,44 @@ pagelist:
   teaser:        # Defaults to page meta-description
 ---
 **Vesterheim thanks our Corporate Members!**
+
+How to Join
+-----------
+{: .heading--large }
+
+Please print a corporate membership form (pdf) and send the form, along with your check or credit card information to: <br />
+Corporate Membership<br />
+Vesterheim Museum<br />
+P.O. Box 379<br />
+Decorah, IA 52101
+
+For questions regarding corporate membership, contact Steve Grinna at 563-382-9681, ext. 109, or email at [sgrinna@vesterheim.org](mailto:sgrinna@vesterheim.org).
+
+Benefits of Corporate Membership:
+---------------------------------
+{: .heading--large }
+
+### Visibility
+{: .heading--black }
+
+* Your company will be listed on our website with a direct link to your website.
+* Your company will be included in Vesterheim’s _Annual Report_ sent to 6,000 members annually.
+* Your company will be listed on our “Corporate Members of Vesterheim” poster proudly displayed at all Vesterheim locations.
+
+### Recognition
+{: .heading--black }
+
+* Your company’s support as a Corporate Member is published annually in the _Decorah Newspaper_.
+* Your company will receive a Vesterheim decal to show that you are a valued partner in our community.
+* Your company’s contribution accrues toward Vesterheim’s donor recognition program, _Kroneklubben_.
+
+### Opportunity
+{: .heading--black }
+
+* Your company will receive _Vesterheim_, our full-color bi-annual magazine.
+* Your company will receive ten guest passes to the museum’s facilities. Use them for employees or hand them out to your customers/valued guests.
+* Your company will be offered special invitations to selected social events, such as Corporate Member Appreciation Events.
+* Your company will have the first option for targeted collaborative ventures with Vesterheim for select exhibitions and programs.
 
 Why Join?
 ---------
@@ -58,35 +97,3 @@ Additionally, Vesterheim is active in the Decorah area through:
 * Decorah Torske Klubben
 
 Please join Vesterheim in promoting community and in reaching out to growing audiences.
-
-Benefits of Corporate Membership:
----------------------------------
-{: .heading--large }
-
-### Visibility
-{: .heading--black }
-
-* Your company will be listed on our website with a direct link to your website.
-* Your company will be included in Vesterheim’s _Annual Report_ sent to 6,000 members annually.
-* Your company listed on our “Corporate Members of Vesterheim” poster proudly displayed at all Vesterheim locations.
-
-### Recognition
-{: .heading--black }
-
-* Your company’s support as a Corporate Member is published annually in the _Decorah Newspaper_.
-* Your company will receive a Vesterheim decal to show that you are a valued partner in our community.
-* Your company’s contribution accrues toward Vesterheim’s donor recognition program, _Kroneklubben_.
-
-### Opportunity
-{: .heading--black }
-
-*   Your company will receive _Vesterheim_, our full-color bi-annual magazine.
-*   Your company will receive ten guest passes to the museum’s facilities. Use them for employees or hand them out to your customers/valued guests.
-*   Your company will be offered special invitations to selected social events, such as our annual Corporate Member Appreciation Event.
-*   Your company will have the first option for targeted collaborative ventures with Vesterheim for select exhibitions and programs.
-
-How to Join
------------
-{: .heading--large }
-
-Download the Corporate Membership form, call Vesterheim’s development department at 563-382-9681, or email [info@vesterheim.org](mailto:info@vesterheim.org) for more information.

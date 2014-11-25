@@ -9,6 +9,10 @@ hero:
   image: 16x9/join-give/compassclub_h.jpg
   alt:
   caption:
+
+related:
+  - /join-give/make-a-gift/automated/
+
 navigation:
   order: 20
 pagelist:

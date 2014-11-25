@@ -1,0 +1,92 @@
+{% capture button__cache %}
+
+{% comment %}
+{% include button.html text="" url="" pull="" size="" style="" class="" %}
+{% endcomment %}
+
+{% assign button__display = false %}
+{% assign button__text = include.text | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines %}
+{% assign button__url = include.url %}
+{% assign button__class = include.class %}
+{% assign button__id = include.id %}
+
+{% case include.pull %}
+	{% when 'right' %}
+		{% assign button__pull--class = 'pull-right' %}
+	{% when 'left' %}
+		{% assign button__pull--class = 'pull-left' %}
+	{% else %}
+		{% assign button__pull--class = nil %}
+{% endcase %}
+
+{% comment %} Not Implemented {% endcomment %}
+{% case include.size %}
+	{% when 'x-small' %}
+		{% assign button__size--class = 'button--x-small' %}
+{% comment %}		{% assign button__size--class = nil %}{% endcomment %}
+	{% when 'small' %}
+		{% assign button__size--class = 'button--small' %}
+{% comment %}		{% assign button__size--class = nil %}{% endcomment %}
+	{% when 'large' %}
+		{% assign button__size--class = 'button--large' %}
+{% comment %}		{% assign button__size--class = nil %}{% endcomment %}
+	{% when 'x-large' %}
+		{% assign button__size--class = 'button--x-large' %}
+{% comment %}		{% assign button__size--class = nil %}{% endcomment %}	
+	{% else %}
+		{% assign button__size--class = nil %}
+{% endcase %}
+
+{% comment %} Not Implemented {% endcomment %}
+{% case include.style %}
+	{% when 'primary' %}
+		{% assign button__style--class = 'button--primary' %}
+	{% when 'success' %}
+		{% assign button__style--class = 'button--success' %}
+		{% assign button__style--class = 'button--default' %}
+	{% when 'info' %}
+		{% assign button__style--class = 'button--info' %}
+		{% assign button__style--class = 'button--default' %}
+	{% when 'warning' %}
+		{% assign button__style--class = 'button--warning' %}
+		{% assign button__style--class = 'button--default' %}
+	{% when 'danger' %}
+		{% assign button__style--class = 'button--danger' %}
+		{% assign button__style--class = 'button--default' %}
+	{% when 'link' %}
+		{% assign button__style--class = 'button--link' %}
+		{% assign button__style--class = 'button--default' %}
+	{% else %}
+		{% assign button__style--class = 'button--default' %}
+{% endcase %}
+
+{% assign button__classes = 'button' %}
+{% if button__style--class %}
+	{% assign button__classes = button__classes | append: '  ' | append: button__style--class %}
+{% endif %}
+{% if button__size--class %}
+	{% assign button__classes = button__classes | append: '  ' | append: button__size--class %}
+{% endif %}
+{% if button__pull--class %}
+	{% assign button__classes = button__classes | append: '  ' | append: 'button--' | append: button__pull--class %}
+	{% assign button__classes = button__classes | append: '  ' | append: button__pull--class %}
+{% endif %}
+{% if button__class %}
+	{% assign button__classes = button__classes | append: '  ' | append: button__class %}
+{% endif %}
+
+{% if button__text != nil and button__url != nil %}
+	{% assign button__display = true %}
+{% else %}
+	{% assign button__display = true %}
+{% endif %}
+{% endcapture %}{% assign button__cache = nil %}{% if button__display %}<a {% if button__id %}id="{{ button__id }}" {% endif %}class="{{ button__classes }}" href="{{ button__url }}">{{ button__text }}</a>{% endif %}{% capture button__cache %}
+{% assign button__display = nil %}
+{% assign button__text = nil %}
+{% assign button__url = nil %}
+{% assign button__class = nil %}
+{% assign button__pull--class = nil %}
+{% assign button__size--class = nil %}
+{% assign button__style--class = nil %}
+{% assign button__classes = nil %}
+{% endcapture %}{% assign button__cache = nil %}

@@ -62,6 +62,7 @@ _After hours is anything outside of museum hours, e.g. later than 5 p.m. $25/hr 
 
 Bridal Crown to Rent for Weddings
 ---------------------------------
+{% include image--lead.html image="events/rentals/rental-bridal-crown.jpg" alt="Bridal Crown" caption="Bridal Crown available to rent" pull="left" ratio="golden" %}
 Vesterheim’s rental bridal crown is a copy of an historic one in the museum’s collections. The original was made in Trondheim in the early 1800s from silver-plated copper. The copy is sterling silver and the diamond-shaped dangles are gold-plated silver. The crown is 5 inches tall, 5 inches wide at the bottom and flares to 7 1/2 inches at the top. Also included are ribbons of multi-color brocade. Traditionally these stream down the back and two can be used to tie on the crown. The crown may also be attached by being set on a firm bun on top of the head. Vesterheim usually sends the crown three weeks before the wedding so the bride can create her hairstyle and practice walking in the crown.
 
 ### Rate

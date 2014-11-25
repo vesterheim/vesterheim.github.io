@@ -4,13 +4,15 @@ layout: page
 title: "Textile Study Tour: North Norway"
 subtitle: May 12-24, 2015 (Sold Out)
 meta_title: "Textile Study Tour: North Norway -- Sold Out"
-meta_description:  # Used in HTML head and as the description for some search engines
+meta_description: Vesterheim's seventh Textile Study Tour will focus on the textiles and traditions of both coastal Norway and the _Sámi_ people. 
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
   image: 16x9/norway-tours/north-norway.jpg
   alt: 
   caption:
 related:
+  - /norway-tours/upcoming/coastal-voyage/
+  - /norway-tours/about/
 
 navigation:
   title: Textile Study Tour

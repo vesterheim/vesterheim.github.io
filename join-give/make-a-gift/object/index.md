@@ -23,7 +23,13 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-Thank you for your interest in donating objects, books, or archival materials to Vesterheim. Every year, new things are added to the collection through the generosity of individuals and organizations. These donations help Vesterheim fulfill its mission of sharing the Norwegian-American experience. If you think you have something that will enhance Vesterheim’s collection, please contact the museum’s collections manager, Alison Dwyer at adwyer@vesterheim.org, or 563-382-9681 to discuss the donation.
+Vesterheim appreciates your interest in donating items to the museum. 
 
-* Find [Vesterheim’s Collecting Policy](/join-give/make-a-gift/object/policy/) here.
-* Find [Frequently Asked Questions about Donations](/join-give/make-a-gift/object/faq/) to the Collections here.
+Item Donated for Museum Use
+---------------------------
+Vesterheim accepts donated objects for use on the museum campus, or for fundraising purposes. Examples of museum use items include tools and supplies to help in museum up-keep. Examples of fundraising items include artwork for raffles, or services for auction packages. To discuss your gift, contact Stephanie Johnson at 563-382-9681, ext. 107, or email at [snjohnson@vesterheim.org](mailto:sgrinna@vesterheim.org).
+
+Items Donated to Vesterheim's Collection
+----------------------------------------
+Every year, new objects, books, or archival materials are added to the collection through the generosity of individuals and organizations. These donations help Vesterheim fulfill its mission of sharing the Norwegian-American experience. If you think you have something that will enhance Vesterheim’s collection, please contact the museum’s collections manager, Alison Dwyer at 563-382-9681, ext. 118, or [adwyer@vesterheim.org](mailto:adwyer@vesterheim.org) to discuss the donation.
+

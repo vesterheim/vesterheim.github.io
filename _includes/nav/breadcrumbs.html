@@ -21,7 +21,7 @@
 		{% assign node = site.data.auto_nav | where: 'url', ancestor | first %}
 		{% endcomment %}
 		{% assign node = site.data.auto_nav_hash[ancestor] %}
-		{% assign title = node.title | markdownify | remove: '<p>' | remove: '</p>'  %}
+		{% assign title = node.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines %}
 		{% assign url = node.url %}
 	{% endif %}
 	{% assign item_classes = item_classes_default %}
@@ -40,7 +40,7 @@
 {% assign item_classes = item_classes_default %}
 {% assign link_classes = link_classes_default %}
 {% assign item_classes = item_classes | append: '  breadcrumbs__item--last' %}
-{% capture item %}<li class="{{ item_classes }}">{{ page.title | markdownify | remove: '<p>' | remove: '</p>' }}</li>{% endcapture %}
+{% capture item %}<li class="{{ item_classes }}">{{ page.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}</li>{% endcapture %}
 {% assign output = output | append: item %}
 {% assign output = output | append: '</ul>' %}
 

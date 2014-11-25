@@ -6,10 +6,11 @@ meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-  image:
+  image: 16x9/buildings/front_building_flags.jpg
   alt:
   caption:
 related:
+  - /join-give/make-a-gift/donate/
 
 navigation:
   order: 30
@@ -28,6 +29,18 @@ What is the Annual Fund?
 The Annual Fund allows Vesterheim to open its doors to visitors; turn on the lights; care for its extensive collection; offer exhibitions, events, and educational programs; perform research; and serve both members and visitors throughout the world. Annually, it costs nearly $2 million to operate the museum. Some of this expense is defrayed by income from admissions, events, membership, store sales, class tuition, and tours, but as with most museums, contributions to Vesterhemi's Annual Fund is absolutely crucial. Your contribution to this fund goes to work immediately to keep Vesterheim vital for generations to come and allows this institution to carry out its mission each and every day.
 
 Thanks to you and people like you who give to Vesterheim’s Annual Fund, we are able to offer the world class exhibits, programs, and publications to which you have become accustomed.
+
+Help secure the future of this unique place which preserves a heritage and connects us all. 
+
+{% include button.html text="Make Your Gift Now" url="https://vesterheim.wufoo.com/forms/m1ufzvni19c3srk/" style="primary" %} 
+
+To donate by mail, please print a donation form (pdf) and send the form, along with your check or credit card information to: <br />
+Development Department<br />
+Vesterheim Museum<br />
+P.O. Box 379<br />
+Decorah, IA 52101
+
+For questions regarding your donation, contact Steve Grinna at 563-382-9681, ext. 109, or email at [sgrinna@vesterheim.org](mailto:sgrinna@vesterheim.org).
 
 How Does the Annual Fund Help?
 ------------------------------
@@ -54,5 +67,3 @@ Education
 Stewardship
 * On any day, museum staff manages financial and human resources.
 * On any day, buildings and equipment are maintained and technology is updated to facilitate security, record-keeping, and communication.
-
-Help secure the future of this unique place which preserves a heritage and connects us all. **Please give today by donating online here, calling (563) 382-9681, or emailing [info@vesterheim.org](mailto:info@vesterheim.org).**
