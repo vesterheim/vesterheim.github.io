@@ -98,6 +98,9 @@ module Jekyll
       EOS
       self.data = {
           'layout' => @layout,
+          'navigation' => {
+            'exclude' => true
+          },
           'type' => 'archive',
           'title' => "Monthly archive for #{@year}/#{@month}",
           'posts' => posts,
