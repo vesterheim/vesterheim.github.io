@@ -16,30 +16,30 @@ navigation:
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
-  image:         # Defaults to cropped page hero image
+  image: 46x21/exhibitions/special/national_exhibition_woodcarving.jpg
   alt:
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-2013 Knifemaking
+2014 Knifemaking
 ================
 
 ### Best of Show
 {: .heading--black--mixed-case }
 
-* Catherine Latané, Pepin, Wisconsin, knife with filed blade
+* Gene Tokheim Dawson, Minn., _Stavkniv_ knife with silver trim
 
 ### People’s Choice
 {: .heading--black--mixed-case }
 
-* John Drewes, Red Wing, Minnesota, Viking-Age Jarl’s knife
+* Robert Shervey, Barrett, Minn., Sister knives with reindeer antler and birch handle
 
 ### Gold Medals
 {: .heading--black--mixed-case }
 
-None
+John Drewes, Red Wing, Minn.
 
 ### Blue Ribbons
 {: .heading--black--mixed-case }
@@ -49,36 +49,38 @@ None
 ### Red Ribbon
 {: .heading--black--mixed-case }
 
-* Catherine Latané, Pepin, Wisconsin, knife with filed blade
+* John Drewes, Red Wing, Minn., Utility knife with Osage Orange, and bronze handle
 
-### White Ribbon
+### White Ribbons
 {: .heading--black--mixed-case }
 
-* John Drewes, Red Wing, Minnesota, utility knife
+* John Drewes, Red Wing, Minn., Seax with antler and birch burl handle
+* Steven Ruud, Anoka, Minn., Knife with Masur Birch handle
 
 ### Honorable Mentions
 {: .heading--black--mixed-case }
 
-* John Drewes, Red Wing, Minnesota,Viking-Age Jarl’s knife
+* Ben Tokheim, Pullman, Wash., Work knife with birch handle
+* Luke Tokheim, Seattle, Wash., Knife with birch bark sheath
 
-Rosemaling
+2014 Rosemaling
 ==========
 
-### Best of Show
+### Best of Show (tie)
 {: .heading--black--mixed-case }
 
-* Judy Ritger (Gold Medalist), River Falls, Wisconsin, Gudbrandsdal-style bowl
+* JoSonja Jansen, Eureka, Cal., “Samson and the Lion” Telemark-style box
+* Nancy Schmidt, Waukesha, Wis., Gudbrandsdal-style cake _tine_
 
 ### People’s Choice (tie)
 {: .heading--black--mixed-case }
 
-* Andrea Herkert, Belleville, Wisconsin, Gudbrandsdal-style cake box
-* Ruth Green (Gold Medalist), Decorah, Iowa, Rogaland-style plate
+* Karen Hankee, Viroqua Wis., Telemark style _kubbestol_
 
 ### Gold Medal
 {: .heading--black--mixed-case }
 
-* Andrea Herkert, Belleville, Wisconsin
+* Teresa McCue, Westminster, Col.
 
 ### Blue Ribbons
 {: .heading--black--mixed-case }
@@ -88,184 +90,165 @@ None
 ### Red Ribbons
 {: .heading--black--mixed-case }
 
-* Andrea Herkert, Belleville, Wisconsin, Gudbrandsdal-style bowl
-* Jan Norsetter, Verona, Wisconsin, Valdres-style plate
+* Amy Lysbeth Ahrens, Madison, Wis, Telemark-style plate
+* Jeaneen Staples, Star Prairie, Wis, Telemark-style _ambar_
 
 ### White Ribbons
 {: .heading--black--mixed-case }
 
-* Andrea Herkert, Belleville, Wisconsin, Gudbrandsdal-style _tine_
-* Lise Lorentzen, Bel Air, Maryland, Hallingdal-style lap desk
+* Astrid Fisher, Oceanside, Cal., Os-style cheese box
+* Lise A. Lorentzen, Bel Air, M.D., Hallingdal-style trunk
+* Teresa Ann McCue, Westminster, Col., Telemark-style plate
 
 ### Honorable Mentions
 {: .heading--black--mixed-case }
 
-* Joyce Fulford, LaCrosse, Wisconsin, Rogaland-style plate
-* Louise Bath, Centennial, Colorado, Telemark-style pedestal bowl
-* Louise Bath, Centennial, Colorado, Hallingdal-style ale bowl
-* Linda Miller, Middlebury, Connecticut, Gudbrandsdal-style bowl
+* Louise Bath, Centennial, Col, Hallingdal-style cupboard
+* Joyce Fulford, La Crosse, Wis, Rogaland-style bowl
+* Teresa Ann McCue, Westminster, Col, Telemark-style _tine_
+* Linda Miller, Middlebury, Conn., Gudbrandsdal-style tray 
+* Jan Norsetter, Verona, Wis, Valdres-style plate
 
-Weaving
+1024 Weaving
 =======
 
 ### Best of Show
 {: .heading--black--mixed-case }
 
-* Jane Connett, Roseville, Minnesota, bookmarks in _krokbragd_ technique
+* Jan Mostrom, Chanhassen, Minn., Folk Dance wall hanging in boundweave technique
 
-### People’s Choice
+### People’s Choice (tie)
 {: .heading--black--mixed-case }
 
-* Donna Laken, Rockford, Illinois, “Crooked Path Blues” rug in _krokbragd_ technique
+* Jan Mostrom, Chanhassen Minn., “Folk Dance” wall hanging in boundweave technique
+* Judy Ness, Eugene Ore., "Inner Lights" wall hanging in _krokbragd_ technique
 
-### Gold Medals
+### Gold Medal
 {: .heading--black--mixed-case }
 
-* Veronna Capone, Brookings, South Dakota
-* Betty Rikansrud Nelson, Decorah, Iowa
+* Judy Ness, Eugene, Ore.
 
-### Blue Ribbon - Traditional Category
+### Blue Ribbons 
 {: .heading--black--mixed-case }
 
-* Sandra Somdahl, Decorah, Iowa, “Fall Morning” wall hanging in _krokbragd_ technique
+* Donna Laken, Rockford, Ill., Table runner in _krokbragd_ techinque
+* Judy Ness, Eugene, Ore., Inner Lights wall hanging in _krokbragd_ technique
 
-### Red Ribbon - Traditional Category
+### Red Ribbon 
 {: .heading--black--mixed-case }
 
-* Donna Laken, Rockford, Illinois, “Crooked Path Blues” rug in _krokbragd_ technique
+* Jane Connett, Roseville, Minn., Card-woven Telemark belt
 
-### White Ribbon - Traditional Category
+### White Ribbons 
 {: .heading--black--mixed-case }
 
-* Betty Rikansrud Nelson, Decorah, Iowa, table runner in doubleweave technique
+* Mary Glock, Decorah, Ia., Wall hanging in _krokbragd_ technique
+* Keith Pierce, Lauderdale, Minn., _Ouroboros_ belt in tablet weaving technique
 
-### Honorable Mentions - Traditional Category
+### Honorable Mentions 
 {: .heading--black--mixed-case }
 
-* Sharon Marquardt, Henning, Minnesota, West Coast-style wall hanging
-* Keith Pierce, Lauderdale, Minnesota, Sámi-style band (wide)
+* Melba Granlund, Minneapolis, Minn., Summer Sizzle wall hanging in _Vestfoldsmett_ technique
+* Marilyn C. Moore, Cedar, Minn., Tablecloth in _Östgötadräll_ technique
 
-### Blue Ribbons - Contemporary Category
-{: .heading--black--mixed-case }
-
-* Jane Connett, Roseville, Minnesota, bookmarks in _krokbragd_ technique
-* Patty Kuebker Johnson, Roberts, Wisconsin, “Exploring Drawloom” wall hanging
-
-### Red Ribbons - Contemporary Category
-{: .heading--black--mixed-case }
-
-* Veronna Capone, Brookings, South Dakota, centerpiece in monksbelt technique
-* Veronna Capone, Brookings, South Dakota, runner in turned monksbelt technique
-
-### White Ribbons - Contemporary Category
-{: .heading--black--mixed-case }
-
-None
-
-### Honorable Mentions - Contemporary Category
-{: .heading--black--mixed-case }
-
-* Nancy Ellison, Zumbrota, Minnesota, “The Farmer’s Sheep” wall hanging in _krokbragd_ and rya techniques
-* Judy Ann Ness, Eugene, Oregon, “Celestial Navigation: The Journey Home” wall hanging in _krokbragd_ technique
-
-Woodworking
+2014 Woodworking
 ===========
 
 ### Best of Show
 {: .heading--black--mixed-case }
 
-* Arnold Bortnem, Sioux Falls, South Dakota, Acanthus-carved _kubbestol_
+* Hans Sandom, Minnetonka, Minn., Acanthus-carved window valance
 
 ### People’s Choice
 {: .heading--black--mixed-case }
 
-* Jimmy Miller, New Richmond, Wisconsin, “Rundlyre Player” carved figure
+* Hans Sandom, Minnetonka, Minn., Acanthus-carved cabinet 
 
-### Gold Medals
+### Gold Medal
 {: .heading--black--mixed-case }
 
-* Jimmy Miller, New Richmond, Wisconsin
-* Mark Staples, Star Prairie, Wisconsin
+* Aaron Swenson, Flom, Minn.
 
 ### Blue Ribbons - Acanthus, Dragon-style Category
 {: .heading--black--mixed-case }
 
-* Russ Biros, Plato, Missouri, dragon-style coat rack
-* Arnold Bortnem, Sioux Falls, South Dakota, relief-carved kubbestol
+None
 
-### Red Ribbon - Acanthus, Dragon-style Category
+### Red Ribbons - Acanthus, Dragon-style Category
 {: .heading--black--mixed-case }
 
-None Awarded
+* Arne Bortnem, Sioux Falls, S.D., Acanthus-carved sewing box
+* Don Rorvig, Stoughton, Wis., Acanthus-carved clock
 
-### White Ribbon - Acanthus, Dragon-style Category
+### White Ribbons - Acanthus, Dragon-style Category
 {: .heading--black--mixed-case }
 
-* Sunhild Muldbakken, Sioux Falls, South Dakota, Acanthus-carved mangle board
+None
 
-### Honorable Mention - Acanthus, Dragon-style Category
+### Honorable Mentions - Acanthus, Dragon-style Category
 {: .heading--black--mixed-case }
 
-* Arnold Bortnem, Sioux Falls, South Dakota, Acanthus-carved clock
+* Terry Brugger, Winona, Minn., Acanthus-carved _kubbestol_ (troll)
+* Sunhild Muldbakken, Sioux Falls, S.D., Acanthus-carved box
 
-### Blue Ribbon - Kolrosing Category
+### Blue Ribbons - Chip Carving and Kolrosing Category
 {: .heading--black--mixed-case }
 
-None Awarded
+None
 
-### Red Ribbon - Kolrosing Category
+### Red Ribbon - Chip Carving and Kolrosing Category
 {: .heading--black--mixed-case }
 
-None Awarded
+* Marty Leenhouts, Garden City, Minn., Chip-carved candle hold
 
-### White Ribbon - Kolrosing Category
+### White Ribbon - Chip Carving and Kolrosing Category
 {: .heading--black--mixed-case }
 
-* Martin Leenhouts, Garden City, Minnesota, chip-carved scoop plate
+* Marty Leenhouts, Garden City, Minn., Chip-carved clock
 
-### Honorable Mention - Kolrosing Category
+### Honorable Mention - Chip Carving and Kolrosing Category
 {: .heading--black--mixed-case }
 
-None Awarded
+* Gerald Trocinski, La Crescent, Minn., “Geometry in Motion” chip-carved plate
 
-### Blue Ribbon - Figure Carving Category
+### Blue Ribbons - Figure Carving Category
 {: .heading--black--mixed-case }
 
-* Jimmy Miller, New Richmond, Wisconsin, “Rundlyre Player” carved figure
+* Todd Pasche, Minneiska, Minn., “Working with Fjords” carved figure
+* Todd Pasche, Minneiska, Minn., “Egg Scramble” carved figure 
 
-### Red Ribbon - Figure Carving Category
+### Red Ribbons - Figure Carving Category
 {: .heading--black--mixed-case }
 
-* Jimmy Miller, New Richmond, Wisconsin, “Torvald Remembers” carved figure
+* Amy Adams-Westin, St. Paul, Minn., “Sniff, Sniff” carved figure
+* David Fowler, New Richmond, Wis., “Shopping Day” carved figure
 
-### White Ribbon - Figure Carving Category
+### White Ribbons - Figure Carving Category
 {: .heading--black--mixed-case }
 
-* Amy Adams-Westin, St. Paul, Minnesota, “Uninvited Guest” carved figure
+None
 
-### Honorable Mentions - Figure Carving Category
+### Honorable Mention - Figure Carving Category
 {: .heading--black--mixed-case }
 
-* David Coates, W. St. Paul, Minnesota, “Hobo” carved figure
-* David Fowler, New Richmond, Wisconsin, “Einer and Sulvic” carved figure
+* David Fowler, New Richmond, Wis., “Remembering” carved figure
 
 ### Blue Ribbon - Open Category
 {: .heading--black--mixed-case }
 
-* Mark Staples, Star Prairie, WI, cherry ambar
+* Aaron Swenson, Flom, Minn., Hand-carved ale bowl
 
 ### Red Ribbon - Open Category
 {: .heading--black--mixed-case }
 
-* Stanley Finholt, Decorah, IA, turned cherry bowl
+* Stanley Finholt, Decorah, Ia., Wet-turned walnut crotch bowl 
 
 ### White Ribbon - Open Category
 {: .heading--black--mixed-case }
 
-* Mike Lusk, Coon Valley, WI, sliding lid compartment box
+* Mike Lusk, Coon Valley, Wis., Trestle table
 
-### Honorable Mentions - Open Category
+### Honorable Mention - Open Category
 {: .heading--black--mixed-case }
 
-* Hal B. Bitzer, Williams, MN, virch vurl cup  
-* Hal B. Bitzer, Williams, MN, birchwood vutter mold
+* Lindsay Lee, Decorah, Ia., Birch bark box

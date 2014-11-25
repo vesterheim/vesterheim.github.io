@@ -23,4 +23,10 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-To plege your contribution to Vesterheim Museum, please complete this form and submit it to Development Office, Vesterheim Museum, P.O. Box 379, Decorah, IA 52101. Or, call the Development Department at (563) 382-9681.
+To pledge your donation to Vesterheim, please print a pledge form (pdf) and send the form, along with your check or credit card information to: <br />
+Development Department<br />
+Vesterheim Museum<br />
+P.O. Box 379<br />
+Decorah, IA 52101
+
+For questions about pledging a gift to Vesterheim, contact Steve Grinna at 563-382-9681, ext. 109, or email at [sgrinna@vesterheim.org](mailto:sgrinna@vesterheim.org).

@@ -15,9 +15,8 @@ related:
 navigation:
   order: 20
 pagelist:
-  exclude: false
   order:         # Defaults to navigation order  
-  image:         # Defaults to cropped page hero image
+  image: 46x21/visit/admissions.jpg
   alt:
   caption:
   title:         # Defaults to navigation title

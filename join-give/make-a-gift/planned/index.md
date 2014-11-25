@@ -10,6 +10,8 @@ hero:
   alt:
   caption:
 related:
+  - /join-give/recognition/valhalla-society/
+  - /join-give/recognition/valhalla-society/profiles/
 
 navigation:
   order: 40
@@ -23,25 +25,21 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-Thank you for your interest in the future of Vesterheim by considering a special kind of gift to the museum. Supporting Vesterheim with planned gifts is vital if we are to maintain the activities and programs so essential to our members and visitors. Planned gifts are instrumental in helping us achieve our goals of providing the highest quality of care to the collection, and preserve and interpret our immigrant heritage for all.
+Planned gifts are instrumental in helping Vesterheim maintain the activities and programs so essential to our members and visitors. These gifts provide a lasting legacy for the future of Vesterheim. Including Vesterheim in your estate plans can be a great way to benefit the museum, while meeting your current income needs and providing for future heirs.
 
-Everyone who makes a planned gift to Vesterheim can become a member of the museum's Valhalla Society. Founded in 1989, the Valhalla Society consists of a special group of donors who have chosen to honor their passion for preservation with planned giving. These gifts provide a lasting legacy for the future of Vesterheim.
+How Do I Establish a Planned Gift?
+----------------------------------
+One of the most common forms of planned gifting is a will or trust bequest. To gift using a bequest is as simple as inserting a few sentences in your will. For example, “I give ($ amount) to Vesterheim Norwegian-American Museum.”
 
-Why Make a Planned Gift?
-------------------------
-While cash contributions to Vesterheim are always appreciated, there are other creative and flexible options that can benefit you and the museum. There are many ways you can help, such as creating a trust while you are living or by including the museum in your will. Including Vesterheim in your estate plans can be a great way to benefit the museum, while meeting your current income needs and providing for future heirs.
+There are also ways you can make a significant future gift while retaining the income you receive from the asset used to make the gift. Two common examples of these types of gifts are: Retained Life Estate and Charitable Remainder Trusts.
 
-What Are the Benefits of Planned Giving?
-----------------------------------------
-* Assure that your family is provided for after your death.
-* Ensure your assets are distributed according to your wishes.
-* Through proper planning, leverage estate tax savings.
-* Leave a legacy in support of an organization that has special meaning to you.
-* Become a member of the Valhalla Society; recognition of Vesterheim members who have made planned gifts. Please click here to read about some of Vesterheim’s Valhalla Society members.
+For details on how to set up planned giving, please contact Steve Grinna at 563-382-9681, ext. 109, or email at [sgrinna@vesterheim.org](mailto:sgrinna@vesterheim.org). Restrictions apply, so consult with your financial adviser to determine how such a gift would affect your overall tax and estate planning, as well as the rules pertaining to your state of residence.
 
-Will My Gift Qualify for Tax Benefits?
---------------------------------------
-Vesterheim is recognized by the IRS as a 501(c)(3) charitable organization, thus your gift may also qualify for tax benefits. Please contact your investment advisor for the benefits available to you.
+If you have already included Vesterheim in your estate plans, please print a Valhalla membership form (pdf) and send the form to: <br />
+Development Department<br />
+Vesterheim Museum<br />
+P.O. Box 379<br />
+Decorah, IA 52101
 
 What Are The Planned Giving Options?
 ------------------------------------
@@ -53,10 +51,16 @@ What Are The Planned Giving Options?
 * Charitable Lead Trusts: This agreement between you and a trustee provides income to Vesterheim for a period of years, at the end of which the trust property typically passes to an heir.
 * Retirement Assets, Life Insurance, and Real Estate: Retirement, life insurance, and real estate assets may all be donated to Vesterheim.
 
-How Do I Establish a Planned Gift?
-----------------------------------
-One of the most common forms of planned gifting is a will or trust bequest. To gift using a bequest is as simple as inserting a few sentences in your will. For example, “I give ($ amount) to Vesterheim Norwegian-American Museum.”
+What Are the Benefits of Planned Giving?
+----------------------------------------
+Everyone who makes a planned gift to Vesterheim and notifies Vesterheim that this gift is coming becomes a member of the museum's Valhalla Society. Founded in 1989, the Valhalla Society consists of a special group of donors who have chosen to honor their passion for preservation with planned giving. 
 
-There are also ways you can make a significant future gift while retaining the income you receive from the asset used to make the gift. Two common examples of these types of gifts are: Retained Life Estate and Charitable Remainder Trusts.
+Other benefits of planned giving include:
+* Assure that your family is provided for after your death.
+* Ensure your assets are distributed according to your wishes.
+* Through proper planning, leverage estate tax savings.
+* Leave a legacy in support of an organization that has special meaning to you.
 
-For details please call Steve Grinna at 563-382-9681, ext. 109, or email at [sgrinna@vesterheim.org](mailto:sgrinna@vesterheim.org). Restrictions apply, so consult with your financial adviser to determine how such a gift would affect your overall tax and estate planning, as well as the rules pertaining to your state of residence.
+Will My Gift Qualify for Tax Benefits?
+--------------------------------------
+Vesterheim is recognized by the IRS as a 501(c)(3) charitable organization, thus your gift may also qualify for tax benefits. Please contact your investment advisor for the benefits available to you.

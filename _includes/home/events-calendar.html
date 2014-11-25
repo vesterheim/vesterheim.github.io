@@ -92,7 +92,7 @@
 		<figure class="panel-calendar__event__photo  u-photo">
 		{% picture tile {{ event_src }} alt="{{ event_alt }}" %}
 		</figure>
-		<h1 class="title  panel-calendar__event__title  p-name">{{ event.title | markdownify | remove: '<p>' | remove: '</p>' }}</h1>
+		<h1 class="title  panel-calendar__event__title  p-name">{{ event.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}</h1>
 		<h2 class="subtitle  panel-calendar__event__date">{{ event_date_display }}</h2>
 		<div class="panel-calendar__event__time">{{ event_time_display }}</div>
 		<p class="more  panel-calendar__event__more">Read more</p>

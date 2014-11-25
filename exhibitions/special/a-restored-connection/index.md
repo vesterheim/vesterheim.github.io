@@ -23,8 +23,6 @@ pagelist:
   subtitle: false      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-There will be an opening receptionon September 12 from 5:00 to 7:00 p.m., with a gallery talk by guest curators and Norwegian-born artists, Line Anda Dalmar and Regina Osbakk at 5:30 p.m.
-
 Through still and moving images, _A Restored Connection_ explores how we define ourselves and the environment around us. Although it features Norwegian Americans, visitors of all backgrounds will easily relate to the exhibition and its message of connection.
 
 This exhibition started as a research project called “Hypernative” in 2011 by Regina Osbakk and Line Anda Dalmar. Through the project, they examined how national identity occurs and how it is inherited and transformed through generations. Their research translated into three artworks that show how attachment to a particular culture appears in a multicultural society.

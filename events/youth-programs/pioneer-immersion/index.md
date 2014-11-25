@@ -22,9 +22,13 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description    
 ---
-**Program in the schools: February 20-May 18** <br />
-**Exhibition of Projects: May 12-May 18** <br />
-**Open House: May 15 from 4:30-6:30 p.m., free admission, everyone invited.**
+**Program in the schools:** February 20-May 8, 2015 <br />
+**Exhibition of Projects:** May 11-17, 2015 <br />
+**Open House:** May 14, 2015, from 4:30-6:30 p.m., free admission, everyone invited.
+
+Exhibition of Projects and Open House
+-------------------------------------
+The pioneer projects and journals that each student makes during the program form a special exhibition so that parents, friends, relatives, and the community can view the student’s work. Everyone is invited to view this fantastic show. The students are always so proud to see their work in a real museum exhibition.
 
 The Program
 -----------
@@ -45,7 +49,3 @@ Iowa school districts that have participated in the program in the past include 
 For more information about the Vesterheim Pioneer Immersion Program and how your school can participate, please contact Vesterheim at 563-382-9681, or [info@vesterheim.org](mailto:info@vesterheim.org).
 
 The program will be fully funded through 2014, thanks to the generosity of Bonnie and Dan Huebner, Decorah, Iowa.
-
-Exhibition of Projects and Open House
--------------------------------------
-The pioneer projects and journals that each student makes during the program form a special exhibition so that parents, friends, relatives, and the community can view the student’s work. Everyone is invited to view this fantastic show. The students are always so proud to see their work in a real museum exhibition.

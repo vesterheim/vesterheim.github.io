@@ -2,12 +2,12 @@
 published: true
 layout: page
 title: Folk Art Benefit Auction
-subtitle: Bidding is Open!
+subtitle: 
 meta_title: Vesterheim Folk Art Benefit Auction
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-  image: 16x9/join-give/auction/pillows.jpg
+  image: 16x9/join-give/auction/rosemaling.jpg
   alt: 
   caption:
 
@@ -25,16 +25,12 @@ pagelist:
   teaser:  One-of-a-kind folk-art pieces of rosemaling, woodworking, fiber arts, and more by the best artists working in the Norwegian tradition are available only at Vesterheim’s Folk Art Benefit Auction.
 
 ---
-This year’s auction will be completely online. View auction items [here](https://www.biddingforgood.com/auction/auctionhome.action?vhost=VEST-2014).
+The 2014 Folk Art Benefit Auction, which ran through the month of October, was completely online at Bidding For Good, and it was a great success. We want to thank all of the bidders and especially the folk artists for donating such wonderful and sought-after pieces!
 
-You can bid from anywhere in the world! The auction went live at noon on Oct. 1 and bidding will end at 9:00 p.m. on Oct. 29 (CST).
+This auction provided people from all over the country with the chance to bid on items they love. We were excited and proud that pieces by these folk artists received worldwide exposure and were bid on by folk-art fans far and wide. Winning bidders came from California, Nevada, Utah, New Jersey, Connecticut, New York, North Dakota, and Kansas, just to name a few. During the auction, there were 739 separate bids on the 67 items.
 
-These one-of-a-kind folk-art pieces of rosemaling, woodworking, fiber arts, and more are by the best artists working in the Norwegian tradition and will be available only in Vesterheim’s Folk Art Benefit Auction.
+The auction is one of our biggest fundraising events. All proceeds go to projects directly related to Vesterheim’s Folk Art School. Proceeds this year totaled $23,086.
 
-Make sure to view the valuable collectors pieces from legendary rosemaling painters Sigmund Aarseth, Addie Pittelkow, Ethel Kvalheim, and Gyda Mahlum. There are also pieces by Norwegian rosemaling instructors Gunnar Bø, Turid Helle Fatland, and Bergljot Lunde.
-
-Additional artwork is by Vesterheim’s Gold Medalists and other talented artists, including unforgettable rosemaling, Hardanger embroidery, beautiful weavings, acanthus carving, figure carving, woodturning, baskets, and a fantastic handmade knife. What a wonderful way to start, or add to, your very own folk art collection and support Vesterheim Museum at the same time. Vesterheim is very grateful to all of these artists, who have donated their work to this auction.
-
-The auction is one of our biggest fundraising events and we are excited to share it. All proceeds go to projects directly related to Vesterheim’s Folk Art School. Please help support Vesterheim Museum, so that we can help keep these wonderful Norwegian folk-art traditions alive.
+Check the final bids here.
 
 Contact Michelle Whitehill at 563-382-9681, or [mwhitehill@vesterheim.org](mailto:mwhitehill@vesterheim.org), with questions.

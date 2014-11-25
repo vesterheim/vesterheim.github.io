@@ -17,22 +17,22 @@ navigation:
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
-  image:         # Defaults to cropped page hero image
+  image: 46x21/exhibitions/special/national_exhibition_weaving.jpg
   alt:
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-**Please read carefully.** <br /> **The following rules apply to all of the folk-art categories.** Call the museum at (563) 382-9681 with questions.
+**Please read carefully.** <br /> **The following rules apply to all of the folk-art categories.** Contact Laurann Gilbertson at (563) 382-9681, or lgilbertson@vesterheim.org](mailto:lgilbertson@vesterheim.org) with questions.
 
 Entry Dates
 ===========
-May 1 through May 23. Paperwork must be received by May 16 for pieces arriving between May 17 and 23. **No entry arriving after 5:00 p.m. on May 23 will be considered for judging or exhibition.**
+May 4 through May 24, 2015. **No entry arriving after 5:00 p.m. on May 24, 2015, will be considered for judging or exhibition.**
 
 Place Of Exhibition
 ===================
-The exhibition is in Vesterheim’s Main Building at 520 W. Water St., and open 9:00 a.m.-5:00 p.m., June 10 - July 26. Ribbons will be placed next to winning entries on Thursday, July 24, at 9:00 a.m.
+The exhibition is in Vesterheim’s Main Building at 520 W. Water St., and open 9:00 a.m.-5:00 p.m., June 12 - July 25, 2015. Ribbons will be placed next to winning entries on Thursday, July 23, 2015, at 9:00 a.m.
 
 Who May Enter
 =============
@@ -79,13 +79,13 @@ For each category there will be two or three judges, including specialists in ea
 
 Sales
 =====
-If you so indicate on the registration form, your exhibition piece(s) may be sold. Vesterheim Museum retains 20% of the sale price. The remaining 80% will be mailed to you about three weeks after the exhibition. Iowa sales tax will be collected from the buyer and paid by Vesterheim to the state. Sales will be in the form of a silent auction. The price you indicate on the registration form will be the starting bid amount. Bids must be made in person and will be accepted on pieces from 9:00 a.m. Thurs., July 24, until 4:00 p.m. Sat., July 26. Any entries that were marked “for sale,” but did not receive any bids, can be purchased for the starting bid amount from 9:00 a.m.-11:00 a.m. Sun., July 27.
+If you so indicate on the registration form, your exhibition piece(s) may be sold. Vesterheim Museum retains 20% of the sale price. The remaining 80% will be mailed to you about three weeks after the exhibition. Iowa sales tax will be collected from the buyer and paid by Vesterheim to the state. Sales will be in the form of a silent auction. The price you indicate on the registration form will be the starting bid amount. Bids must be made in person and will be accepted on pieces from 9:00 a.m. Thurs., July 23, until 4:00 p.m. Sat., July 25, 2015. Any entries that were marked “for sale,” but did not receive any bids, can be purchased for the starting bid amount from 9:00 a.m.-11:00 a.m. Sun., July 26, 2015.
 
 _**Very important: If you indicate that an entry is not for sale (NFS), you still must declare a value on the entry form for insurance purposes.**_
 
 Return Of Objects
 =================
-No entry may be removed from the exhibition before 5:00 p.m., Saturday, July 26. Objects may be picked up by the artist between 5:00-7:00 p.m., Saturday, July 26, or 9:00-11:00 a.m. Sunday, July 27, in the exhibition area in the museum’s Main Building, or during the following week between 9:00 a.m. and 5:00 p.m. in the museum’s Main Building. If you want your entry to be shipped back to you, you must include funds for insured return shipping with the entry. Exhibited objects that are not picked up and for which no return funds are included, will be returned by UPS or other appropriate service and you will be billed for shipping and insurance costs. For pieces that are sold, the purchaser will be responsible for picking up the object or arranging for shipment.
+No entry may be removed from the exhibition before 5:00 p.m., Saturday, July 25, 2015. Objects may be picked up by the artist between 5:00-7:00 p.m., Saturday, July 25, or 9:00-11:00 a.m. Sunday, July 26, 2015, in the exhibition area in the museum’s Main Building, or during the following week between 9:00 a.m. and 5:00 p.m. in the museum’s Main Building. If you want your entry to be shipped back to you, you must include funds for insured return shipping with the entry. Exhibited objects that are not picked up and for which no return funds are included, will be returned by UPS or other appropriate service and you will be billed for shipping and insurance costs. For pieces that are sold, the purchaser will be responsible for picking up the object or arranging for shipment.
 
 How to Enter
 ============

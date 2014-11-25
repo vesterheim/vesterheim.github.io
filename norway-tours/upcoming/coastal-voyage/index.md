@@ -10,7 +10,10 @@ hero:
   image: 16x9/norway-tours/coastal-tour-houses.jpg
   alt: 
   caption:
-related:
+related: 
+  - /norway-tours/upcoming/textile/
+  - /norway-tours/about/
+  - /norway-tours/forms/  
 
 navigation:
   title: Norwegian Coastal Voyage
@@ -30,6 +33,8 @@ This tour is so popular it's being offered twice in 2015!
 - [Itinerary for July 2-16, 2015 ($6,395)](/norway-tours/upcoming/coastal-voyage/itinerary/201507/)
 - [Itinerary for August 26-September 9, 2015 ($6,095)](/norway-tours/upcoming/coastal-voyage/itinerary/201508/)
 
+{% include button.html text="Register Now" url="/norway-tours/forms/" style="primary" %} 
+
 **Tour Guide: Knut Werner-Hagen** <br />
 **Tour Leader: Michelle Whitehill**
 
@@ -42,3 +47,5 @@ Vesterheim gives its special touch to the Hurtigruten’s classic Norwegian coas
 Place Your Tour Deposit
 -----------------------
 Fill out a "[Registration Form](/norway-tours/forms/documents/RegForm.pdf)" and send it, with a $500 deposit per person, to Vesterheim. Deposits are accepted on a first come, first-served basis. As soon as the price and itinerary are finalized, you will receive more information. You must formalize your reservation by November 15, 2014. The deposit is fully refundable until November 15, 2014. For a printed copy of the "[Tour Registration Form](/norway-tours/forms/documents/RegForm.pdf)," or more information contact Michelle Whitehill at 563-382-9681, ext. 240, or [mwhitehill@vesterheim.org](mailto:mwhitehill@vesterheim.org).
+
+{% include button.html text="Register Now" url="/norway-tours/forms/" style="primary" %} 

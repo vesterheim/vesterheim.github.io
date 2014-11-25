@@ -10,6 +10,9 @@ hero:
   alt:
   caption:
 
+related:
+  - /join-give/recognition/compass-club/
+
 navigation:
   order: 30
 pagelist:
@@ -24,7 +27,9 @@ pagelist:
 ---
 Join Vesterheim’s Compass Club!
 -------------------------------
-Compass Club members make donations through automatic monthly deductions from checking or savings accounts. Automatic payments are safe, convenient, and tax-deductible. They can be easily monitored through your regular bank statement, and, as a rule, Compass Club members don’t receive additional Annual Fund solicitations during the year!
+Compass Club members make donations through automatic monthly deductions from checking or savings accounts. Automatic payments are safe, convenient, and tax-deductible. They can be easily monitored through your regular bank statement, and, as a rule, Compass Club members don’t receive additional Annual Fund solicitations during the year! 
+
+To join the Compass Club, contact Peggy Sersland at 563-382-9681, ext. 112, or email at [psersland@vesterheim.org](mailto:sgrinna@vesterheim.org). 
 
 The consistency of automated donations helps Vesterheim:
 {: .no-margin-bottom }

@@ -19,7 +19,7 @@ module Jekyll
 			pagelist_hash = create_pagelist_hash(navigable_nodes)
 			site.data['pagelist_hash'] = pagelist_hash
 
-			# Navigable nodes excluding navigation['exclude'] == true
+			# Navigable nodes excluding pagelist['exclude'] == true
 			# that should not appear in menu
 			pagelist_nodes = nodes.select do |node| 
 				pagelist = node['pagelist'] || {}
@@ -48,7 +48,9 @@ module Jekyll
 					'subtitle' => get_pagelist_subtitle(page),
 					'teaser' => get_pagelist_teaser(page),
 					'url' => page['url'],
-					'order' => pagelist['order'] || navigation['order'] || 1000
+					'order' => pagelist['order'] || navigation['order'] || 1000,
+					'dtstart' =>  pagelist['dtstart'] || page['dtstart'] || nil,
+					'dtend' =>  pagelist['dtend'] || page['dtend'] || nil
 				}
 				node.merge!get_pagelist_image(page)
 				node.merge!VesterUtils.create_geneology_hash(page, pages)
@@ -99,7 +101,7 @@ module Jekyll
 
 		def get_pagelist_teaser(page)
 			pagelist = page['pagelist'] || {}
-			pagelist['teaser'] || page['meta_description']
+			pagelist['teaser'] || page['meta_description'] || page['excerpt']
 		end
 
 		def get_pagelist_title(page)

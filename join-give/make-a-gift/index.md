@@ -16,7 +16,7 @@ navigation:
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
-  image:         # Defaults to cropped page hero image
+  image: 46x21/join-give/farmers_merchants_make_gift.jpg
   alt:
   caption:
   title:         # Defaults to navigation title
@@ -26,7 +26,7 @@ pagelist:
 Your Support Makes A Difference
 -------------------------------
 {: .heading--black--large }
-Vesterheim depends upon the generosity of its members and patrons. Thousands of devoted Vesterheim friends across the country recognize that their contributions, large and small, are vital to the museum’s future. Whether they are supporting the important Annual Giving Program, investing in specific projects, or building an endowment, donations are tax-deductible and assist Vesterheim in preserving and sharing a treasured heritage.
+Vesterheim depends upon the generosity of its members and patrons. Thousands of devoted Vesterheim friends across the country recognize that their contributions, large and small, are vital to the museum’s future. Whether they are supporting the important Annual Giving Program, investing in specific projects, or building an endowment, donations are tax-deductible and assist Vesterheim in preserving and sharing a treasured heritage. For more information about any of the following ways to give, contact Steve Grinna at 563-382-9681, ext. 109, or email at [sgrinna@vesterheim.org](mailto:sgrinna@vesterheim.org).
 
 Opportunities for Giving:
 -------------------------
@@ -34,23 +34,39 @@ Opportunities for Giving:
 
 ### Donate Now Online
 
-Make a gift right now. Gifts at all levels are important to Vesterheim.
+[Make a gift right now](https://vesterheim.wufoo.com/forms/m1ufzvni19c3srk/). Gifts at all levels are important to Vesterheim.
+
+{% include button.html text="Make Your Gift Now" url="https://vesterheim.wufoo.com/forms/m1ufzvni19c3srk/" style="primary" %} 
 
 ### Pledge Your Support 
 
-Make a pledge in support of Vesterheim and stretch your payments over a period of months or years. 
+[Make a pledge](/join-give/make-a-gift/pledge/) in support of Vesterheim and stretch your payments over a period of months or years. 
+
+{% include button.html text="Learn how to Pledge" url="/join-give/make-a-gift/pledge/" style="primary" %} 
 
 ### Join Compass Club—Automated Giving
 
-Become a Vesterheim Compass Club member with the convenience of automated giving (automatic deductions for the Annual Fund). Automated giving provides Vesterheim with a steady flow of dependable support and we save on postage, processing, and many other expenses. Compass Club members receive special recognition and benefits. 
+[Become a Vesterheim Compass Club member](/join-give/make-a-gift/automated/) with the convenience of automated giving (automatic deductions for the Annual Fund). Automated giving provides Vesterheim with a steady flow of dependable support and we save on postage, processing, and many other expenses. Compass Club members receive special recognition and benefits. 
+
+{% include button.html text="Learn about Automated Giving" url="/join-give/make-a-gift/automated/" style="primary" %} 
 
 ### Non-Cash Gifts
 
-Consider donating time, objects, transfers of stock, etc.
+Consider donating [time](/join-give/volunteer/), [objects](/join-give/make-a-gift/object/), transfers of stock, etc.
+
+
+{% include button.html text="Volunteer" url="/join-give/volunteer/" style="primary" %} 
+
+
+{% include button.html text="Learn how to Donate an Object" url="/join-give/make-a-gift/automated/" style="primary" %} 
+
 
 ### Planned Giving 
 
 Naming Vesterheim in your will, charitable remainder trusts, charitable lead trusts, retained life estates, retirement plan designations, life insurance beneficiary designations, or bequests is an excellent way to give to Vesterheim, and may benefit you, too.
+
+{% include button.html text="Learn about Planned Giving" url="/join-give/make-a-gift/planned/" style="primary" %} 
+
 
 ### Double, or Even Triple, Your Gift with Employer matching
 
@@ -64,13 +80,18 @@ An easy, convenient way for eligible members of Thrivent Financial for Lutherans
 
 Help secure the future of the museum by providing Vesterheim with a permanent source of income through an endowed fund. Give to an existing fund or start a fund of your own.
 
+{% include button.html text="Learn about Endowed Funds" url="/join-give/endowed-funds/" style="primary" %} 
+
 ### Corporate Giving
 
-Vesterheim depends upon the support of its local, regional, and national corporate members. Please join Vesterheim in promoting community and in reaching out to growing audiences.
+Vesterheim depends upon the support of its local, regional, and national [corporate members](/join-give/membership/corporate/list/). Please join Vesterheim in promoting community and in reaching out to growing audiences.
+
+{% include button.html text="Learn about Corporate Giving" url="/join-give/membership/corporate/" style="primary" %} 
 
 ### The Good Ol’-Fashioned Way
 
-To send your donation by check, please mail it to: <br />
+To send your donation by check, please mail it to:
+
 Vesterheim Museum <br />
 Development Department <br />
 PO Box 379 <br />

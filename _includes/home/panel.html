@@ -89,19 +89,19 @@
             {% assign panel_output = panel_output | append: '<div class="panel__body">' %}
             {% assign panel_output = panel_output | append: '<header class="home-block__header">' %}
             {% assign panel_output = panel_output | append: '<h1 class="p-name  title  title--main">' %}
-            {% capture panel_capture %}{{ panel_title | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
+            {% capture panel_capture %}{{ panel_title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}{% endcapture %}
             {% assign panel_output = panel_output | append: panel_capture %}
             {% assign panel_output = panel_output | append: '</h1>' %}
             {% if panel_subtitle %}
                 {% assign panel_output = panel_output | append: '<h2 class="subtitle  subtitle--main">' %}
-                {% capture panel_capture %}{{ panel_subtitle | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
+                {% capture panel_capture %}{{ panel_subtitle | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}{% endcapture %}
                 {% assign panel_output = panel_output | append: panel_capture %}
                 {% assign panel_output = panel_output | append: '</h2>' %}
             {% endif %}
             {% assign panel_output = panel_output | append: '</header>' %}
             {% if panel_teaser %}
                 {% assign panel_output = panel_output | append: '<p class="p-summary  summary  text  main-content">' %}
-                {% capture panel_capture %}{{ panel_teaser | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
+                {% capture panel_capture %}{{ panel_teaser | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}{% endcapture %}
                 {% assign panel_output = panel_output | append: panel_capture %}
                 {% assign panel_output = panel_output | append: '</p>' %}
             {% endif %}

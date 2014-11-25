@@ -2,6 +2,7 @@
 published: true
 layout: page
 title: Donate Now
+subtitle: Make a Gift Today
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
@@ -23,18 +24,22 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-Make a gift today:
-------------------
-{: .heading--black--large }
-
-### Online
-
+Online
+------
 Your secure, online contribution allows your donation to go to work at once. Your gift will be acknowledged via email or regular mail. 
 
-### Mail
+{% include button.html text="Make Your Gift Now" url="https://vesterheim.wufoo.com/forms/m1ufzvni19c3srk/" style="primary" %} 
 
-Complete this form with your credit card number or check payable to Vesterheim Museum. Mail to Vesterheim Museum, Development Department, PO Box 379, Decorah, IA 52101
+Mail
+----
+Please print a donation form (pdf) and send the form, along with your check or credit card information to: <br />
+Development Department<br />
+Vesterheim Museum<br />
+P.O. Box 379<br />
+Decorah, IA 52101
 
-### Phone
-
+Phone
+-----
 Call the Development Department at (563) 382-9681.
+
+For questions regarding your donation, contact Steve Grinna at 563-382-9681, ext. 109, or email at [sgrinna@vesterheim.org](mailto:sgrinna@vesterheim.org).

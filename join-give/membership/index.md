@@ -6,7 +6,7 @@ meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-  image:
+  image: 16x9/kids/kids_flags.jpg
   alt:
   caption:
 related:
@@ -26,9 +26,19 @@ pagelist:
 Join over 6,000 others from all 50 states and several foreign countries who support Vesterheim as members.
 {: .lead }
 
+{% include button.html text="Join, give or renew a membership" url="https://vesterheim.wufoo.com/forms/w3h863c0xax0mc/" style="primary" %} 
+
 Membership Levels
 -----------------
-Memberships are renewed annually.
+{: .heading--black--large }
+
+Memberships are renewed annually. For questions regarding membership contact Peggy Sersland at 563-382-9681, ext. 112, or email at [psersland@vesterheim.org](mailto:sgrinna@vesterheim.org).
+
+To join by mail, please print a membership form (pdf) and send the form, along with your check or credit card information to: <br />
+Membership<br />
+Vesterheim Museum<br />
+P.O. Box 379<br />
+Decorah, IA 52101
 
 ### Basic Membership Categories
 
@@ -55,9 +65,9 @@ For an additional fee, members can subscribe to the _Rosemaling Letter_, which i
 *   Discount on space rental of Vesterheim’s Bethania Church.
 *   Benefits at over 200 museums across the USA through the Time Travelers program.
 
-Philanthropic Membership Categories
------------------------------------
-{: .heading--black--large }
+{% include button.html text="Join, give or renew a membership" url="https://vesterheim.wufoo.com/forms/w3h863c0xax0mc/" style="primary" %} 
+
+### Philanthropic Membership Categories
 
 Philanthropic levels include two adults at the same address and children under 18.
 
@@ -83,3 +93,5 @@ For an additional fee, philanthropic members can subscribe to the _Rosemaling Le
 
 * _Rosemaling Letter_—within the United States: $15.00
 * _Rosemaling Letter_—international: $25.00
+
+{% include button.html text="Join, give or renew a membership" url="https://vesterheim.wufoo.com/forms/w3h863c0xax0mc/" style="primary" %} 

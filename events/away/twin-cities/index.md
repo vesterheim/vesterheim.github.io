@@ -5,6 +5,10 @@ title: Nordic Celebration and Marketplace - Twin Cities
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+hero:
+  image: 16x9/events/twin-cities-event.jpg
+  alt: 
+caption: 
 
 navigation:
   order: 20
@@ -18,10 +22,8 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description   
 ---
-April 12, 2014 <br />
-40th Anniversary Nordic Celebration and Marketplace
+Celebrate Norwegian heritage at the annual Nordic Celebration and Marketplace on Saturday, April 18, 2015, at the Minneapolis Marriott Southwest in Minneapolis, Minnesota. Hosted by the Twin Cities Area Friends of Vesterheim, this annual event is a benefit for Vesterheim.
 
-(Formerly Nordic Brunch.) <br />
-Sponsored by the Twin Cities Friends of Vesterheim at the Minneapolis Marriott Southwest in Minneapolis, Minnesota.
+The marketplace will feature Nordic vendors with wonderful Scandinavian items for sale. The program includes a special presentation, silent auction, raffle drawing, and update from Vesterheim. A delectable meal is served with a special menu for school-age children, 12 and under. 
 
-Contact Stephanie Johnson at snjohnson@vesterheim.org, or 563-382-9681 for more information.
+Contact Stephanie Johnson at [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org), or 563-382-9681 for more information.

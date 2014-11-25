@@ -23,26 +23,12 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-When
-: 10:00 a.m. the second Wednesday of each month.
+Vesterheim invites all pre-school-aged children and their parents or caregivers to explore art and history with museum tours, hands-on art projects, and snacks during _Barnetimen_ (Children's Hour). Join us at 10:00 a.m. the third Tuesday of each month. The program will be lead by ArtHaus directors Jenni & Eric Petersen-Brant.
 
-Where
-: Meet first at ArtHaus Studio at 516 W. Water St., visit the museum first and then head back to ArtHaus for an art project and snacks.
+_Barnetimen_ is free of charge and no previous sign-up is necessary—come to one session or all of them. The program is geared toward 3-5 year olds, but all ages are welcome. Meet first at ArtHaus Studio at 516 W. Water St., visit the museum first and then head back to ArtHaus for an art project. 
 
-Who
-: Preschoolers and ther caregivers.
-
-Cost
-: Free 
-
-Vesterheim invites all pre-school-aged children and their parents or caregivers to to see like an artist, think like an artist, and create like an artist during _Barnetimen_ (Children’s Hour) this school year. Join Lea Lovelace from ArtHaus at 10:00 a.m. the second Wednesday of each month to explore the lives of immigrants revealed through artwork in the museum’s collections.
-
-_Barnetimen_ is free of charge and no previous sign-up is necessary—come to one session or all of them.
-
-Each month we’ll learn about our ancestor’s daily lives as we investigate colors, shapes, patterns, and stories in all types of artwork. The museum’s collections include everything— paintings, sculptures, carvings, and weavings. 
-
-A Decorah native and a Luther College graduate, Lovelace has worked in the field of Art Education for over a decade and has her Master of Arts Degree in Art Education from the School of the Art Institute of Chicago. She has taught art with diverse populations of varied ages, directed programs for a not-for-profit community art school, and managed teacher programs at the Museum of Contemporary Art in Chicago. She co-founded [ArtHaus](http://www.arthausdecorah.org) in Decorah in 2008 with theater professional Kristen Underwood and teaches art classes there each year.
+Jenni & Eric Petersen-Brant are co-directors of ArtHaus, downtown Decorah's home for the arts. Having recently relocated to Decorah from eastern Nebraska, both Jenni and Eric are practicing studio artists with extensive experience in arts administration and arts education. Jenni holds an MFA from the University of Nebraska-Lincoln and a BFA from the University of Wisconsin-Whitewater and has worked as the Executive Director of the Kimmel Harding Nelson Center for the Arts and Education Director for LUX Center for the Arts. Largely a self-taught artist, Eric holds a BS from the University of Nebraska-Lincoln and extensive post-graduate education in the arts. He has taught with LUX Center for the Arts, Doane College, and independently, while also being studio assistant to artist Eddie Dominguez.
 
 For information about _Barnetimen_, please contact Jennifer Kovarik, Vesterheim Youth Educator, at 563-382-9681 or [jkovarik@vesterheim.org](mailto:jkovarik@vesterheim.org). 
 
-Sponsored by Keith and Amy Bruening of Decorah, David and Brenda Carlson of Decorah, and Bank of the West.
+Sponsored by David and Brenda Carlson, Keith and Amy Bruening, Norwegian Mutual Ins. Assoc., Farmers & Merchants Savings Bank, and Sons of Norway - Valdres Lodge.

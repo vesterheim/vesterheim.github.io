@@ -1,0 +1,79 @@
+{% capture related__cache %}
+	{% assign related__urls = page.related %}
+	{% if related__urls != nil %}
+		{% assign related__display = true %}
+	{% else %}
+		{% assign related__display = false %}
+	{% endif %}
+	{% if related__display %}
+		{% assign related__output = '<section class="layout__page-listings__wrapper page-listings__wrapper  page-listings--related">' %}
+		{% assign related__output = related__output | append: '<h1 class="title  subtitle  page-listings--title">Related</h1>' %}
+		{% for related__url in related__urls %}
+			{% assign related__page = site.data.pagelist_hash[related__url] %}
+			{% if related__page %}
+
+				{% assign related__page__url = related__page.url %}
+				{% assign related__page__title = related__page.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines %}
+				{% if related__page.subtitle %}
+					{% assign related__page__subtitle = related__page.subtitle | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines %}
+				{% else %}
+					{% assign related__page__subtitle = false %}
+				{% endif %}
+				{% if related__page.teaser %}
+					{% assign related__page__teaser = related__page.teaser | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines %}
+				{% else %}
+					{% assign related__page__teaser = nil %}
+				{% endif %}			
+				{% assign related__page__image__src = related__page.image %}
+				{% if related__page.alt %}
+					{% assign related__page__image__alt = related__page.alt | markdownify | strip_html | strip_newlines %}
+				{% else %}
+					{% assign related__page__image__alt = nil %}
+				{% endif %}				
+				{% capture related__page__picture__output %}{% picture tile  {{ related__page__image__src }} alt="{{ related__page__image__alt }}" %}{% endcapture %}
+
+	{% capture related__output__cache %}
+	{{ related__url | debug }}
+	{{ related__page | debug }}
+	{{ site.data.pagelist_hash | debug }}
+	{% endcapture %}
+
+				{% assign related__output = related__output | append: '<article class="layout__media page-listing">' %}
+			    {% assign related__output = related__output | append: '<a class="page-listing__lining  page-listing__lining--padding-bottom" href="' | append: related__page__url | append: '">' %}
+			    {% assign related__output = related__output | append: '<div class="layout__media__image  page-listing__image  page-listing__image--one-half">' %}
+			    {% assign related__output = related__output | append: '<div class="page-listing__image__lining">' %}
+				{% assign related__output = related__output | append:related__page__picture__output %}
+			    {% assign related__output = related__output | append: '</div>' %}
+			    {% assign related__output = related__output | append: '</div>' %}
+			    {% assign related__output = related__output | append: '<div class="layout__media__body page-listing__body  page-listing__body--constrained">' %}
+			    {% assign related__output = related__output | append: '<header class="page-listing__header">' %}
+			    {% assign related__output = related__output | append: '<h1 class="title  page-listing__title">' | append: related__page__title | append: '</h1>' %}
+			    {% if related__page__subtitle %}
+			    	{% assign related__output = related__output | append: '<h2 class="subtitle  page-listing__subtitle">' | append: related__page__subtitle | append: '</h2>' %}
+			    {% endif %}
+			    {% assign related__output = related__output | append: '</header>' %}
+		    	{% assign related__output = related__output | append: '<p class="summary  text  main-content  page-listing__summary">' | append: related__page__teaser | append: '</p>' %}			    
+			    {% assign related__output = related__output | append: '<p class="more">Read More</p>' %}
+			    {% assign related__output = related__output | append: '</div>' %}
+			    {% assign related__output = related__output | append: '</a>' %}
+			    {% assign related__output = related__output | append: '</article>' %}
+
+			{% endif %}
+		{% endfor %}
+		{% assign related__output = related__output | append: '</section>' %}
+		{% assign related__related__urls = nil %}
+		{% assign related__related__url = nil %}
+		{% assign related__page = nil %}
+		{% assign related__page__url = nil %}
+		{% assign related__page__title = nil %}
+		{% assign related__page__subtitle = nil %}
+		{% assign related__page__teaser = nil %}
+		{% assign related__page__image__src = nil %}
+		{% assign related__page__image__alt = nil %}
+	{% endif %}
+{% endcapture %}{% assign related__cache = nil %}{% if related__display %}
+{{ related__output }}
+{% endif %}{% capture related__cache %}
+	{% assign related__display = nil %}
+	{% assign related__output = nil %}
+{% endcapture %}{% assign related__cache = nil %}                

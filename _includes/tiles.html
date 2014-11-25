@@ -5,7 +5,7 @@
 
 {% for tile in tiles %}
 	{% assign tile_url = tile.url %}
-	{% assign tile_title = tile.title | markdownify | remove: '<p>' | remove: '</p>' %}
+	{% assign tile_title = tile.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines %}
 	{% assign tile_page = site.pages | where: 'url', tile_url | first %}
 	{% if tile_page.tile.image %}
 		{% assign tile_src =  tile_page.tile.image %}
