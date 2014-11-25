@@ -1,7 +1,7 @@
 ---
 published: true
 layout: page
-title: Donor Profiles
+title: Member Profiles
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 
@@ -24,9 +24,9 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-All contributors and donors to the museum are treasured members of the Vesterheim family. Vesterheim endeavors to recognize donors of all levels with programs, donor lists, and special events throughout the year.
+Vesterheim values all of its members, some of whom, like the generous people profiled here, opt to make their annual membership contributions at the higher philanthropic levels of Friend ($125), Supporter ($250), Sponsor ($500), and Sustaining ($1000). These Vesterheim members deserve special thanks for going that extra mile in helping us preserve and promote etnhic immigrant culture in America.
 
-Learn more about these Vesterheim donors:
+Learn more about these Vesterheim members:
 
 * [Steven and Solveig Storvick Pollei](/join-give/recognition/profiles/storvick-pollei--steven-and-solveig/)
 * [Muriel Stone](/join-give/recognition/profiles/stone--muriel/)

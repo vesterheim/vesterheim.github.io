@@ -30,6 +30,18 @@ The Annual Fund allows Vesterheim to open its doors to visitors; turn on the lig
 
 Thanks to you and people like you who give to Vesterheim’s Annual Fund, we are able to offer the world class exhibits, programs, and publications to which you have become accustomed.
 
+Help secure the future of this unique place which preserves a heritage and connects us all. 
+
+{% include button.html text="Make Your Gift Now" url="https://vesterheim.wufoo.com/forms/m1ufzvni19c3srk/" style="primary" %} 
+
+To donate by mail, please print a donation form (pdf) and send the form, along with your check or credit card information to: <br />
+Development Department<br />
+Vesterheim Museum<br />
+P.O. Box 379<br />
+Decorah, IA 52101
+
+For questions regarding your donation, contact Steve Grinna at 563-382-9681, ext. 109, or email at [sgrinna@vesterheim.org](mailto:sgrinna@vesterheim.org).
+
 How Does the Annual Fund Help?
 ------------------------------
 Below are the highlighted ways in which your dollars provide for a little bit of everything.
@@ -55,5 +67,3 @@ Education
 Stewardship
 * On any day, museum staff manages financial and human resources.
 * On any day, buildings and equipment are maintained and technology is updated to facilitate security, record-keeping, and communication.
-
-Help secure the future of this unique place which preserves a heritage and connects us all. **Please give today by donating online here, calling (563) 382-9681, or emailing [info@vesterheim.org](mailto:info@vesterheim.org).**

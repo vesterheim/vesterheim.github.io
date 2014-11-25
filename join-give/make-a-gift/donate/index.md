@@ -32,8 +32,14 @@ Your secure, online contribution allows your donation to go to work at once. You
 
 Mail
 ----
-Complete this form with your credit card number or check payable to Vesterheim Museum. Mail to Vesterheim Museum, Development Department, PO Box 379, Decorah, IA 52101
+Please print a donation form (pdf) and send the form, along with your check or credit card information to: <br />
+Development Department<br />
+Vesterheim Museum<br />
+P.O. Box 379<br />
+Decorah, IA 52101
 
 Phone
 -----
 Call the Development Department at (563) 382-9681.
+
+For questions regarding your donation, contact Steve Grinna at 563-382-9681, ext. 109, or email at [sgrinna@vesterheim.org](mailto:sgrinna@vesterheim.org).

@@ -26,7 +26,7 @@ pagelist:
 Your Support Makes A Difference
 -------------------------------
 {: .heading--black--large }
-Vesterheim depends upon the generosity of its members and patrons. Thousands of devoted Vesterheim friends across the country recognize that their contributions, large and small, are vital to the museum’s future. Whether they are supporting the important Annual Giving Program, investing in specific projects, or building an endowment, donations are tax-deductible and assist Vesterheim in preserving and sharing a treasured heritage.
+Vesterheim depends upon the generosity of its members and patrons. Thousands of devoted Vesterheim friends across the country recognize that their contributions, large and small, are vital to the museum’s future. Whether they are supporting the important Annual Giving Program, investing in specific projects, or building an endowment, donations are tax-deductible and assist Vesterheim in preserving and sharing a treasured heritage. For more information about any of the following ways to give, contact Steve Grinna at 563-382-9681, ext. 109, or email at [sgrinna@vesterheim.org](mailto:sgrinna@vesterheim.org).
 
 Opportunities for Giving:
 -------------------------

@@ -32,7 +32,13 @@ Membership Levels
 -----------------
 {: .heading--black--large }
 
-Memberships are renewed annually.
+Memberships are renewed annually. For questions regarding membership contact Peggy Sersland at 563-382-9681, ext. 112, or email at [psersland@vesterheim.org](mailto:sgrinna@vesterheim.org).
+
+To join by mail, please print a membership form (pdf) and send the form, along with your check or credit card information to: <br />
+Membership<br />
+Vesterheim Museum<br />
+P.O. Box 379<br />
+Decorah, IA 52101
 
 ### Basic Membership Categories
 
