@@ -23,13 +23,19 @@ pagelist:
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
-  teaser:        # Defaults to page meta-description
+  teaser: Join Compass Club! Compass Club members make donations through automatic monthly deductions from checking or savings accounts. The convenience of automated giving is a great benefit for both you and Vesterheim.
 ---
 Join Vesterheim’s Compass Club!
 -------------------------------
 Compass Club members make donations through automatic monthly deductions from checking or savings accounts. Automatic payments are safe, convenient, and tax-deductible. They can be easily monitored through your regular bank statement, and, as a rule, Compass Club members don’t receive additional Annual Fund solicitations during the year! 
 
-To join the Compass Club, contact Peggy Sersland at 563-382-9681, ext. 112, or email at [psersland@vesterheim.org](mailto:sgrinna@vesterheim.org). 
+To join the Compass Club, please print a Compass Club [form](/join-give/make-a-gift/automated/forms/compass_club.pdf) (pdf) and send the form, along with your voided check or deposit slip to: <br />
+Development Department<br />
+Vesterheim Museum<br />
+P.O. Box 379<br />
+Decorah, IA 52101
+
+For questions regarding Compass Club, contact Peggy Sersland at 563-382-9681, ext. 112, or email at [psersland@vesterheim.org](mailto:sgrinna@vesterheim.org). 
 
 The consistency of automated donations helps Vesterheim:
 {: .no-margin-bottom }

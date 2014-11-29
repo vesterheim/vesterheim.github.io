@@ -42,7 +42,7 @@ You can contribute any amount to any of the listed endowed funds, or create your
 
 What are Vesterheim’s established endowed funds?
 ------------------------------------------------
-See a list of Vesterheim’s endowed funds here.
+See a list of Vesterheim’s endowed funds [here](/join-give/endowed-funds/list/).
 
 How do I learn more about Vesterheim’s endowed funds?
 -----------------------------------------------------

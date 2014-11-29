@@ -23,9 +23,9 @@ pagelist:
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
-  teaser:        # Defaults to page meta-description
+  teaser: Vesterheim thanks these Compass Club members for their consistent support through automated giving.
 ---
-Vesterheim thanks these people for their consistent support through automated giving.
+Vesterheim thanks these Compass Club members for their consistent support through automated giving.
 
 * Howard and Marlene Amundson
 * A. Norman Arntzen and A. Eldrid Arntzen

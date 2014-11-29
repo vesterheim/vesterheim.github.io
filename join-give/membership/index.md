@@ -21,7 +21,7 @@ pagelist:
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
-  teaser:        # Defaults to page meta-description
+  teaser: Join over 6,000 others from all 50 states and several foreign countries who support Vesterheim as members.
 ---
 Join over 6,000 others from all 50 states and several foreign countries who support Vesterheim as members.
 {: .lead }
@@ -34,7 +34,7 @@ Membership Levels
 
 Memberships are renewed annually. For questions regarding membership contact Peggy Sersland at 563-382-9681, ext. 112, or email at [psersland@vesterheim.org](mailto:sgrinna@vesterheim.org).
 
-To join by mail, please print a membership form (pdf) and send the form, along with your check or credit card information to: <br />
+To join by mail, please print a membership [form](/join-give/membership/forms-pdf/membership.pdf) (pdf) and send the form, along with your check or credit card information to: <br />
 Membership<br />
 Vesterheim Museum<br />
 P.O. Box 379<br />

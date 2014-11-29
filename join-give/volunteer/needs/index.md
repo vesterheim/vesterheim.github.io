@@ -23,6 +23,8 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
+Below is a list of volunteer tasks that we currently need at Vesterheim.
+
 * **Guides** (all year, trainings in fall and spring) - Lead group tours in the Main Building and the Open Air Division.
 * **Pioneer Immersion Program** (spring) Lead nineteenth-century pioneer activities (churning butter, hand-washing clothes, etc.) for fourth-grade school groups
 * **Nordic Fest** (spring/summer) - Greet visitors, host galleries, and more

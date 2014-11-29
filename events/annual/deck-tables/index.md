@@ -26,3 +26,5 @@ pagelist:
 A fabulous community event showcasing the talents of area residents and retailers who create beautiful table settings to spark holiday decorating ideas.
 
 This annual event in November includes an open house at the Hotel Winneshiek and other fantastic activities. Beautiful tables spark your holiday decorating ideas and a Holiday Home Décor Showcase features goods and services to help make your holiday celebrations festive and joyful. There are fabulous door prizes, raffles, auction packages, music, and treats.
+
+View pictures from previous Deck the Tables on the Deck the Tables Facebook page [here](https://www.facebook.com/media/set/?set=a.360902364084181.1073741840.178163039024782&type=1).
