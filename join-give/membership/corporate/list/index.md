@@ -203,7 +203,7 @@ We thank our Corporate Members for their support and ask that you consider suppo
 [Viking River Cruises, Inc.](https://www.vikingrivercruises.com/?refcd=GO20120430223917100211s_viking_river_cruises&amp;tsacr=GO11872645970&amp;refsrcprg=sem&amp;utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=brand)
 : Join Viking River Cruises as they usher in a new era of ocean cruising by taking the innovative thinking behind award-winning river cruises and bringing it to the epic setting of the sea.
 
-[Viking State Bank &amp; Trust](http://vikingstatebank.com/contentdisplay.asp?id=&amp;level=2)
+[Viking State Bank &amp; Trust](https://www.vikingstatebank.com/)
 : Providing a complete line of high quality bank products to fit your needs, whether borrowing or establishing a deposit account relationship. 
 
 [Voltmer, Inc.](http://www.voltmerelectric.com/)
