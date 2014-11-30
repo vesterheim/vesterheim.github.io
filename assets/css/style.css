@@ -25,20 +25,20 @@
  */
 @font-face {
   font-family: 'FranKlein';
-  src: url('../fonts/frankleinmedium-webfont.eot?1413902386');
-  src: url('../fonts/frankleinmedium-webfont.eot?&1413902386#iefix') format("embedded-opentype"), url('../fonts/frankleinmedium-webfont.woff2?1413902386') format("woff2"), url('../fonts/frankleinmedium-webfont.woff?1413902386') format("woff"), url('../fonts/frankleinmedium-webfont.ttf?1413902386') format("truetype"), url('../fonts/frankleinmedium-webfont.svg?1413902386#frankleinmediumregular') format("svg");
+  src: url('../fonts/frankleinmedium-webfont.eot?1417372964');
+  src: url('../fonts/frankleinmedium-webfont.eot?&1417372964#iefix') format("embedded-opentype"), url('../fonts/frankleinmedium-webfont.woff2?1417372964') format("woff2"), url('../fonts/frankleinmedium-webfont.woff?1417372964') format("woff"), url('../fonts/frankleinmedium-webfont.ttf?1417372964') format("truetype"), url('../fonts/frankleinmedium-webfont.svg?1417372964#frankleinmediumregular') format("svg");
   font-weight: 400;
   font-style: normal; }
 @font-face {
   font-family: 'FranKlein';
-  src: url('../fonts/frankleinbold-webfont.eot?1413902386');
-  src: url('../fonts/frankleinbold-webfont.eot?&1413902386#iefix') format("embedded-opentype"), url('../fonts/frankleinbold-webfont.woff2?1413902388') format("woff2"), url('../fonts/frankleinbold-webfont.woff?1413902388') format("woff"), url('../fonts/frankleinbold-webfont.ttf?1413902388') format("truetype"), url('../fonts/frankleinbold-webfont.svg?1413902386#frankleinboldregular') format("svg");
+  src: url('../fonts/frankleinbold-webfont.eot?1417372964');
+  src: url('../fonts/frankleinbold-webfont.eot?&1417372964#iefix') format("embedded-opentype"), url('../fonts/frankleinbold-webfont.woff2?1417372964') format("woff2"), url('../fonts/frankleinbold-webfont.woff?1417372964') format("woff"), url('../fonts/frankleinbold-webfont.ttf?1417372964') format("truetype"), url('../fonts/frankleinbold-webfont.svg?1417372964#frankleinboldregular') format("svg");
   font-weight: 700;
   font-style: normal; }
 @font-face {
   font-family: 'FranKlein';
-  src: url('../fonts/frankleinbook-webfont.eot?1413902388');
-  src: url('../fonts/frankleinbook-webfont.eot?&1413902388#iefix') format("embedded-opentype"), url('../fonts/frankleinbook-webfont.woff2?1413902388') format("woff2"), url('../fonts/frankleinbook-webfont.woff?1413902388') format("woff"), url('../fonts/frankleinbook-webfont.ttf?1413902388') format("truetype"), url('../fonts/frankleinbook-webfont.svg?1413902388#frankleinbookregular') format("svg");
+  src: url('../fonts/frankleinbook-webfont.eot?1417372964');
+  src: url('../fonts/frankleinbook-webfont.eot?&1417372964#iefix') format("embedded-opentype"), url('../fonts/frankleinbook-webfont.woff2?1417372964') format("woff2"), url('../fonts/frankleinbook-webfont.woff?1417372964') format("woff"), url('../fonts/frankleinbook-webfont.ttf?1417372964') format("truetype"), url('../fonts/frankleinbook-webfont.svg?1417372964#frankleinbookregular') format("svg");
   font-weight: 100;
   font-style: normal; }
 /** MODIFIED: http://meyerweb.com/eric/tools/css/reset/ v2.0 | 20110126
@@ -822,6 +822,8 @@ a {
     padding-bottom: 3.75em;
     padding-bottom: 3.75rem;
     padding-left: 0;
+    position: relative;
+    /* Remove for Nicolas Gallagher Method to replace One True Layout Method */
     width: 100%; } }
   @media screen and (min-width: 40em) and (min-width: 48em) {
     /* line 1, sass/objects/_main.scss */
@@ -830,23 +832,23 @@ a {
       margin-left: -16.0625rem;
       /* The size of the fixed block. */ } }
 
-/* line 17, sass/objects/_main.scss */
+/* line 18, sass/objects/_main.scss */
 .layout__main {
   padding-top: 3em;
   padding-top: 3rem; }
   @media screen and (min-width: 40em) {
-    /* line 17, sass/objects/_main.scss */
+    /* line 18, sass/objects/_main.scss */
     .layout__main {
       margin-left: 33.9%;
       /* The size of the fixed block. */ } }
   @media screen and (min-width: 40em) and (min-width: 48em) {
-    /* line 17, sass/objects/_main.scss */
+    /* line 18, sass/objects/_main.scss */
     .layout__main {
       margin-left: 16em;
       margin-left: 16rem;
       /* The size of the fixed block. */ } }
 
-/* line 28, sass/objects/_main.scss */
+/* line 29, sass/objects/_main.scss */
 .main-content {
   font-size: 1.125em;
   font-size: 1.125rem;
@@ -854,19 +856,19 @@ a {
   line-height: 1.5rem; }
 
 @media screen and (min-width: 48em) {
-  /* line 33, sass/objects/_main.scss */
+  /* line 34, sass/objects/_main.scss */
   .layout__main--constrained {
     padding-left: 0.55556em;
     padding-left: 0.625rem;
     width: 82.57373%; } }
 
 @media screen and (min-width: 48em) {
-  /* line 40, sass/objects/_main.scss */
+  /* line 41, sass/objects/_main.scss */
   .layout__main--constrained__width {
     width: 82.57373%; } }
 
 @media screen and (min-width: 48em) {
-  /* line 46, sass/objects/_main.scss */
+  /* line 47, sass/objects/_main.scss */
   .layout__main--constrained__padding {
     padding-left: 0.55556em;
     padding-left: 0.625rem; } }
@@ -1180,12 +1182,10 @@ a {
   /* line 1, sass/objects/_auxiliary.scss */
   .layout__auxiliary {
     float: left;
-    margin-bottom: -999em;
     padding: 0;
     padding-top: 3.75em;
     padding-top: 3.75rem;
     padding-right: 1.3%;
-    padding-bottom: 999em;
     padding-left: 1.3%;
     position: relative;
     width: 29%;
@@ -1201,31 +1201,58 @@ a {
       width: 13.3125rem;
       /* The size of the fixed block. */ } }
 
+/* Remove for Nicolas Gallagher Method to replace One True Layout Method */
+/*
+.auxiliary {
+  @include respond-min($media__iphone-4) {
+    @include single-box-shadow(0, 0, 1em, 0, $gray-dark); 
+  }
+}
+*/
+/* Faux column */
 @media screen and (min-width: 40em) {
-  /* line 26, sass/objects/_auxiliary.scss */
-  .auxiliary {
+  /* line 35, sass/objects/_auxiliary.scss */
+  .layout__main__wrapper:before {
     -moz-box-shadow: 0 0 1em 0 #444;
     -webkit-box-shadow: 0 0 1em 0 #444;
-    box-shadow: 0 0 1em 0 #444; } }
+    box-shadow: 0 0 1em 0 #444;
+    bottom: 0;
+    content: "";
+    left: 0;
+    padding-right: 1.3%;
+    padding-left: 1.3%;
+    position: absolute;
+    top: 0;
+    width: 29%; } }
+  @media screen and (min-width: 40em) and (min-width: 48em) {
+    /* line 35, sass/objects/_auxiliary.scss */
+    .layout__main__wrapper:before {
+      padding-right: 0.625em;
+      padding-right: 0.625rem;
+      padding-left: 0.625em;
+      padding-left: 0.625rem;
+      width: 13.3125em;
+      width: 13.3125rem;
+      /* The size of the fixed block. */ } }
 
-/* line 32, sass/objects/_auxiliary.scss */
+/* line 55, sass/objects/_auxiliary.scss */
 .layout__auxiliary__lining {
   display: table;
   width: 100%; }
 
-/* line 37, sass/objects/_auxiliary.scss */
+/* line 60, sass/objects/_auxiliary.scss */
 .layout__nav--section {
   display: table-cell; }
 
-/* line 42, sass/objects/_auxiliary.scss */
+/* line 65, sass/objects/_auxiliary.scss */
 .layout__calendar-grid {
   display: table-header-group; }
 
-/* line 46, sass/objects/_auxiliary.scss */
+/* line 69, sass/objects/_auxiliary.scss */
 .layout__auxiliary__content {
   display: table-footer-group; }
 
-/* line 51, sass/objects/_auxiliary.scss */
+/* line 74, sass/objects/_auxiliary.scss */
 .layout__auxilary--constrained {
   overflow: hidden; }
 
@@ -1769,7 +1796,7 @@ a {
     */ } }
 /* line 1, sass/partials/_site-logo.scss */
 .site-logo--image-replacement {
-  background-image: url('../img/png/logo/vesterheim-logo--194x42--white-on-orange.png?1391627714');
+  background-image: url('../img/png/logo/vesterheim-logo--194x42--white-on-orange.png?1417372964');
   background-repeat: no-repeat;
   background-position: 0 0;
   position: absolute;
@@ -1780,11 +1807,11 @@ a {
   @media screen and (min-width: 40em) and (max-width: 59.9375em) {
     /* line 1, sass/partials/_site-logo.scss */
     .site-logo--image-replacement {
-      background-image: url('../img/png/logo/vesterheim-logo--254x55--white-on-orange.png?1391627714'); } }
+      background-image: url('../img/png/logo/vesterheim-logo--254x55--white-on-orange.png?1417372964'); } }
   @media screen and (min-width: 60em) {
     /* line 1, sass/partials/_site-logo.scss */
     .site-logo--image-replacement {
-      background-image: url('../img/png/logo/vesterheim-logo--332x72--white-on-orange.png?1391627714'); } }
+      background-image: url('../img/png/logo/vesterheim-logo--332x72--white-on-orange.png?1417372964'); } }
 
 /* line 20, sass/partials/_site-logo.scss */
 .site-logo__link {
@@ -2024,7 +2051,7 @@ a {
       color: #DD5D2D; }
     /* line 78, sass/partials/_nav-menu.scss */
     body:not(:target) .layout__body .nav--menu .site-search__submit__icon {
-      background-image: url('../img/png/heading/icon__search--white.png?1391627714'); }
+      background-image: url('../img/png/heading/icon__search--white.png?1417372964'); }
     /* line 82, sass/partials/_nav-menu.scss */
     body:not(:target) .layout__body .nav--menu:target {
       border-top-width: 1px;
@@ -2592,7 +2619,7 @@ a {
 
 /* line 87, sass/partials/_site-search.scss */
 .site-search__submit__icon {
-  background-image: url('../img/png/heading/icon__search--blue.png?1391627714');
+  background-image: url('../img/png/heading/icon__search--blue.png?1417372964');
   background-repeat: no-repeat;
   display: block;
   margin: 0;
@@ -4476,15 +4503,15 @@ input[type="button"].btn-block {
       color: #fff; } }
   /* line 14, sass/themes/_folk-art-classy-hack.scss */
   .theme--folk-art .site-logo--image-replacement {
-    background-image: url('../img/png/logo/vesterheim-logo--194x42--white-on-blue.png?1391627714'); }
+    background-image: url('../img/png/logo/vesterheim-logo--194x42--white-on-blue.png?1417372964'); }
     @media screen and (min-width: 30em) and (max-width: 59.9375em) {
       /* line 14, sass/themes/_folk-art-classy-hack.scss */
       .theme--folk-art .site-logo--image-replacement {
-        background-image: url('../img/png/logo/vesterheim-logo--254x55--white-on-blue.png?1391627714'); } }
+        background-image: url('../img/png/logo/vesterheim-logo--254x55--white-on-blue.png?1417372964'); } }
     @media screen and (min-width: 60em) {
       /* line 14, sass/themes/_folk-art-classy-hack.scss */
       .theme--folk-art .site-logo--image-replacement {
-        background-image: url('../img/png/logo/vesterheim-logo--332x72--white-on-blue.png?1391627714'); } }
+        background-image: url('../img/png/logo/vesterheim-logo--332x72--white-on-blue.png?1417372964'); } }
   @media screen and (min-width: 18em) and (max-width: 47.9375em) {
     /* line 26, sass/themes/_folk-art-classy-hack.scss */
     .theme--folk-art .nav--skip {
@@ -4612,7 +4639,7 @@ input[type="button"].btn-block {
       color: #fff; }
     /* line 157, sass/themes/_folk-art-classy-hack.scss */
     .theme--folk-art .site-search__submit__icon {
-      background-image: url('../img/png/heading/icon__search--white.png?1391627714'); } }
+      background-image: url('../img/png/heading/icon__search--white.png?1417372964'); } }
 
 /* line 47, sass/style.scss */
 abbr[title] {
@@ -4981,7 +5008,7 @@ INTERNET EXPLORER 8 and below
   margin-bottom: 4.5em;
   margin-bottom: 4.5rem; }
 
-/* line 335, sass/style.scss */
+/* line 336, sass/style.scss */
 .social-sharing-bar__heading {
   color: #999;
   font-family: FranKlein, Arial, "Helvetica Neue", Helvetica, sans-serif;
@@ -4991,7 +5018,7 @@ INTERNET EXPLORER 8 and below
   line-height: 2.25rem;
   text-transform: uppercase; }
 
-/* line 342, sass/style.scss */
+/* line 343, sass/style.scss */
 .social-sharing-bar__item {
   display: inline-block;
   display: inline-block;
@@ -5004,11 +5031,11 @@ INTERNET EXPLORER 8 and below
   -webkit-transition: opacity 0.3s;
   transition: opacity 0.3s; }
 
-/* line 347, sass/style.scss */
+/* line 348, sass/style.scss */
 .social-sharing-bar:hover .social-sharing-bar__item:not(:hover) {
   opacity: 0.9; }
 
-/* line 351, sass/style.scss */
+/* line 352, sass/style.scss */
 .social-icon {
   background-repeat: no-repeat;
   display: block;
@@ -5018,7 +5045,7 @@ INTERNET EXPLORER 8 and below
   white-space: nowrap;
   width: 48px; }
 
-/* line 361, sass/style.scss */
+/* line 362, sass/style.scss */
 .group {
   *zoom: 1; }
   /* line 38, ../../../../../../../../.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-core-1.0.1/stylesheets/compass/utilities/general/_clearfix.scss */
