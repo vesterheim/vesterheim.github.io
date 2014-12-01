@@ -32,7 +32,7 @@ Thanks to you and people like you who give to Vesterheim’s Annual Fund, we are
 
 Help secure the future of this unique place which preserves a heritage and connects us all. 
 
-{% include button.html text="Make Your Gift Now" url="https://vesterheim.wufoo.com/forms/m1ufzvni19c3srk/" style="primary" %} 
+{% include button.html text="Make Your Gift Now" url="/join-give/make-a-gift/donate/form/" style="primary" %} 
 
 To donate by mail, please print a donation form (pdf) and send the form, along with your check or credit card information to: <br />
 Development Department<br />
