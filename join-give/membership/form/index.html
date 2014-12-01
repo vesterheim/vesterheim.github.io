@@ -38,5 +38,7 @@ s.onload = s.onreadystatechange = function() {
 var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
 try { w3h863c0xax0mc = new WufooForm();w3h863c0xax0mc.initialize(options);w3h863c0xax0mc.display(); } catch (e) {}};
 var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+var header = document.querySelector('header.header');
+header.parentNode.removeChild(header);
 })(document, 'script');</script>
 

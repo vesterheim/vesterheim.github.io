@@ -22,7 +22,9 @@ pagelist:
 <div id="wufoo-m1ufzvni19c3srk">
 Fill out our <a href="https://vesterheim.wufoo.com/forms/m1ufzvni19c3srk">online giving form</a>.
 </div>
-<script type="text/javascript">var m1ufzvni19c3srk;(function(d, t) {
+<script type="text/javascript">
+(function(d,g){d[g]||(d[g]=function(g){return this.querySelectorAll("."+g)},Element.prototype[g]=d[g])})(document,"getElementsByClassName");
+var m1ufzvni19c3srk;(function(d, t) {
 var s = d.createElement(t), options = {
 'userName':'vesterheim',
 'formHash':'m1ufzvni19c3srk',
@@ -37,6 +39,8 @@ s.onload = s.onreadystatechange = function() {
 var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
 try { m1ufzvni19c3srk = new WufooForm();m1ufzvni19c3srk.initialize(options);m1ufzvni19c3srk.display(); } catch (e) {}};
 var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+var header = document.querySelector('header.header');
+header.parentNode.removeChild(header);
 })(document, 'script');</script>
 
 
