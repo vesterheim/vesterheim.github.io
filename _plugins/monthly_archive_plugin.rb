@@ -40,12 +40,6 @@ module Jekyll
     def posts_group_by_year_and_month(site)
       posts_hash = Hash.new { |hash, key| hash[key] = [] }
       date_range = Date.new(2013, 01, 01)..Date.new(2015, 12, 31)
-      #TODO: for each date in range run through posts and see if it falls on that day
-      #      you will have to look to see if the post.data.st_date and post data end_date
-      #      are on either side of the date of current loop
-      #or: for each post if st_date and end_date then set each key to this post between range
-      # then for each date in date_list set key with value post
-      # and if neither of those set post date itself
       months_in_range = date_range.select {|d| d.day == 1}
       months_in_range.each do |date|
         site.posts.each do |post|
@@ -79,7 +73,8 @@ module Jekyll
       year,
       month,
       date,
-      content
+      content,
+      current_month_url
     ]
 
     def initialize(site, dir, year, month, posts)
@@ -87,6 +82,7 @@ module Jekyll
       @dir = dir
       @year = year
       @month = month
+      @current_month_url = '#current-month-url'
       @archive_dir_name = '%04d/%02d' % [year, month]
       @date = Date.new(@year, @month)
       @layout =  site.config['monthly_archive'] && site.config['monthly_archive']['layout'] || 'monthly_archive'
@@ -104,6 +100,7 @@ module Jekyll
           'type' => 'archive',
           'title' => "Monthly archive for #{@year}/#{@month}",
           'posts' => posts,
+          'current_month_url' => @current_month_url,
           'url' => File.join('/',
                      MonthlyArchiveUtil.archive_base(site),
                      @archive_dir_name, 'index.html')

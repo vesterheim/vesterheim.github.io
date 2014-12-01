@@ -1,5 +1,5 @@
 {% capture social_sharing_bar__cache %}
-	{% assign social_sharing_bar__title = page.title | uri_escape %}
+	{% if page.title %}{% assign social_sharing_bar__title = page.title | uri_escape %}{% endif %}
 	{% assign social_sharing_bar__url = site.url | append: page.url | cgi_escape %}
 	{% assign social_sharing_bar__pinterest__display = false %}
 	{% if page.pinterest.display == false %}
