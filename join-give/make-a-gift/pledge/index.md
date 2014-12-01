@@ -6,7 +6,7 @@ meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-  image: 16x9/kids/nordic_dancers.jpg
+  image: 16x9/artifacts/1979.002.001.jpg
   alt:
   caption:
 related:
@@ -16,13 +16,15 @@ navigation:
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
-  image: 46x21/kids/nordic_dancers.jpg
+  image: 46x21/artifacts/1979.002.001.jpg
   alt:
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
   teaser: Make a pledge in support of Vesterheim and stretch your payments over a period of months or years. 
 ---
+Pledging a gift to Vesterheim allows you to stretch your payments over a period of months or years. 
+
 To pledge your donation to Vesterheim, please print a pledge form (pdf) and send the form, along with your check or credit card information to: <br />
 Development Department<br />
 Vesterheim Museum<br />

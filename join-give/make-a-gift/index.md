@@ -16,7 +16,7 @@ navigation:
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
-  image: 46x21/join-give/farmers_merchants_make_gift.jpg
+  image: 46x21/join-give/bruening-donation.jpg
   alt:
   caption:
   title:         # Defaults to navigation title
