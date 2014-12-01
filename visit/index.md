@@ -9,4 +9,5 @@ show_pagelist_menu: true
 
 navigation:
   order: 10
+  site_root: true  
 ---

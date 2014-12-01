@@ -6,4 +6,5 @@ redirect_to:
    - http://store.vesterheim.org/
 navigation:
   order: 70
+  site_root: true  
 ---

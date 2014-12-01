@@ -10,4 +10,5 @@ show_pagelist_menu: true
 
 navigation:
   order: 40
+  site_root: true  
 ---
