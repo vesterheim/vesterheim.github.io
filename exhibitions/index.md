@@ -16,6 +16,7 @@ show_pagelist_menu: true
 
 navigation:
   order: 20
+  site_root: true  
 pagelist:
   order:         # Defaults to navigation order
   image: 46x21/exhibitions/special/flora-metamorphicae.jpg

@@ -26,7 +26,7 @@ pagelist:
 Join over 6,000 others from all 50 states and several foreign countries who support Vesterheim as members.
 {: .lead }
 
-{% include button.html text="Join, give or renew a membership" url="https://vesterheim.wufoo.com/forms/w3h863c0xax0mc/" style="primary" %} 
+{% include button.html text="Join, give or renew a membership" url="/join-give/membership/form/" style="primary" %} 
 
 Membership Levels
 -----------------
@@ -65,7 +65,7 @@ For an additional fee, members can subscribe to the _Rosemaling Letter_, which i
 *   Discount on space rental of Vesterheim’s Bethania Church.
 *   Benefits at over 200 museums across the USA through the Time Travelers program.
 
-{% include button.html text="Join, give or renew a membership" url="https://vesterheim.wufoo.com/forms/w3h863c0xax0mc/" style="primary" %} 
+{% include button.html text="Join, give or renew a membership" url="/join-give/membership/form/" style="primary" %} 
 
 ### Philanthropic Membership Categories
 
@@ -94,4 +94,4 @@ For an additional fee, philanthropic members can subscribe to the _Rosemaling Le
 * _Rosemaling Letter_—within the United States: $15.00
 * _Rosemaling Letter_—international: $25.00
 
-{% include button.html text="Join, give or renew a membership" url="https://vesterheim.wufoo.com/forms/w3h863c0xax0mc/" style="primary" %} 
+{% include button.html text="Join, give or renew a membership" url="/join-give/membership/form/" style="primary" %} 
