@@ -2,6 +2,7 @@
 published: true
 layout: page
 title: About Vesterheim
+short_title: About
 meta_title: "About Vesterheim: The National Norwegian-American Museum & Heritage Center"
 meta_description: ~
 
