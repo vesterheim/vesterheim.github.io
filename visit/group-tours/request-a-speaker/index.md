@@ -46,7 +46,7 @@ If speakers travel outside of Decorah, hosting groups are required to pay round-
 Presentations
 -------------
 {: .heading--x-large }
-Download a PDF of the following list.
+Print the following list of presentations [here](/visit/group-tours/documents/speeches.pdf) (PDF).
 
 ### Hva Skjer? What's On at Vesterheim
 {: .heading--black--large }

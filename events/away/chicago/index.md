@@ -24,6 +24,6 @@ pagelist:
 ---
 Celebrate Norwegian heritage and discover more about Norwegian traditions at the Nordic Marketplace and Luncheon on Saturday, April 25, 2015, at the Park Ridge Country Club, Park Ridge, Illinois. Hosted by the Chicago Area Friends of Vesterheim, this annual event is a benefit for Vesterheim.
 
-The marketplace will feature Nordic vendors with wonderful Scandinavian items for sale. The program includes a special presentation, silent auction, raffle drawing, and update from Vesterheim. A delectable luncheon is served with a special menu for school-age children, 12 and under. 
+The marketplace will feature folk-art demonstrators and Nordic vendors with wonderful Scandinavian items for sale. The program includes a special presentation, silent auction, raffle drawing, and update from Vesterheim. A delectable luncheon is served with a special menu for school-age children, 12 and under. 
 
-Contact Stephanie Johnson at [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org), or 563-382-9681 for more information.
+Contact Stephanie Johnson at [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org), or 563-382-9681 for more information, or to receive an invitation to this great event.

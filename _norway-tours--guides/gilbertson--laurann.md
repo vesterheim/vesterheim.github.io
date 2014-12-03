@@ -1,7 +1,7 @@
 ---
 name: Laurann Gilbertson
 lead:
-  image: ~
+  image: 1x1/norway-tours/laurann_gilbertson.jpg
   alt: ~
   caption: ~
 ---

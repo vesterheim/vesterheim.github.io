@@ -52,7 +52,7 @@ Opportunities for Giving:
 
 ### Non-Cash Gifts
 
-Consider donating [time](/join-give/volunteer/), [objects](/join-give/make-a-gift/object/), transfers of stock, etc.
+Consider donating [time](/join-give/volunteer/), [objects](/join-give/make-a-gift/object/), [transfers of stock,](mailto:sgrinna@vesterheim.org) etc.
 
 
 {% include button.html text="Volunteer" url="/join-give/volunteer/" style="primary" %} 

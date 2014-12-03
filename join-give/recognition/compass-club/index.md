@@ -47,16 +47,15 @@ Vesterheim thanks these Compass Club members for their consistent support throug
 * Marilyn Istad
 * Cynthia Jacobson 
 * Stan and Fran Jeffers 
-* Dr. and Mrs. Rolf D. Knapp 
+* Russell and Ingrid Keune 
 * Janice and A.T. Kraabel
+* Cynthia and David LeMieux 
 * Martha Y. and James W. Limburg 
 * David M. and Ann Preus
 * Donald Ristad 
 * Robert and Lucille Rosholt
 * T. Eileen Russell 
-* Mike Schmidt
+* James Skurdall
 * Robert Sween 
 * Carol Thompson 
-* Dan and Mary Ann Thurmer 
 * Troy and Michelle Whitehill 
-* Marwin Wrolstad
