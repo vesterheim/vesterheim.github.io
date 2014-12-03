@@ -30,11 +30,24 @@ module Jekyll
     def generate(site)
       posts_group_by_year_and_month(site).each do |ym, list|
         site.pages << MonthlyArchivePage.new(site, MonthlyArchiveUtil.archive_base(site),
-                                             ym[0], ym[1], list)
+                                             ym[0], ym[1], list[0]['post'],
+                                             list[0]['previous-month'],
+                                             list[0]['current-month'],
+                                             list[0]['next-month'])
       end
       rescue => exception
         puts exception.backtrace
         raise exception
+    end
+
+    def get_next_previous_month(year, month)
+        if month == 12 
+          {'next-month' => {'year' => year+1, 'month' => 1}, 'previous-month' => {'year' => year, 'month' => month-1}}
+        elsif month == 1 
+          {'next-month' => {'year' => year, 'month' => month+1}, 'previous-month' => {'year' => year-1, 'month' => 12}}
+        else 
+          {'next-month' => {'year' => year, 'month' => month+1}, 'previous-month' => {'year' => year, 'month' => month-1}}
+        end
     end
 
     def posts_group_by_year_and_month(site)
@@ -42,12 +55,17 @@ module Jekyll
       date_range = Date.new(2013, 01, 01)..Date.new(2015, 12, 31)
       months_in_range = date_range.select {|d| d.day == 1}
       months_in_range.each do |date|
+        current_month = {'year' => date.year, 'month' => date.month}
         site.posts.each do |post|
           if post.data['dt_start'] and post.data['dt_end'] then
             start_date = Date.parse(post.data['dt_start'].to_s)
             end_date = Date.parse(post.data['dt_end'].to_s)
             date_range = start_date..end_date
-            posts_hash[[date.year, date.month]] << post if date_range === date
+            nxt_previous_months = get_next_previous_month(date.year, date.month)
+            posts_hash[[date.year, date.month]] << {'post' => [post], 
+                                                    'previous-month' => nxt_previous_months['previous-month'],
+                                                    'current-month' => current_month,
+                                                    'next-month' => nxt_previous_months['next-month'] } if date_range === date
           end
         end
       end
@@ -55,10 +73,20 @@ module Jekyll
         unless post.data['dt_start'] and post.data['dt_end']
           if post.data['occurrences'] then
             post.data['occurrences'].each do |occurrence|
-              posts_hash[[occurrence['date'].year, occurrence['date'].month]] << post
+              nxt_previous_months = get_next_previous_month(occurrence['date'].year, occurrence['date'].month)
+              current_month = {'year' => occurrence['date'].year, 'month' => occurrence['date'].month}
+              posts_hash[[occurrence['date'].year, occurrence['date'].month]] << {'post' => [post],
+                                                                                  'previous-month' => nxt_previous_months['previous-month'],
+                                                                                  'current-month' => current_month,
+                                                                                  'next-month' => nxt_previous_months['next-month'] }
             end
           else
-            posts_hash[[post.date.year, post.date.month]] << post
+            nxt_previous_months = get_next_previous_month(post.date.year, post.date.month)
+            current_month = {'year' => post.date.year, 'month' => post.date.month}
+            posts_hash[[post.date.year, post.date.month]] << {'post' => [post],
+                                                              'previous-month' => nxt_previous_months['previous-month'],
+                                                              'current-month' => current_month,
+                                                              'next-month' => nxt_previous_months['next-month'] }
           end
         end
       end
@@ -73,16 +101,17 @@ module Jekyll
       year,
       month,
       date,
-      content,
-      current_month_url
+      content
     ]
 
-    def initialize(site, dir, year, month, posts)
+    def initialize(site, dir, year, month, posts, previous_month, current_month, nxt_month)
       @site = site
       @dir = dir
       @year = year
       @month = month
-      @current_month_url = '#current-month-url'
+      @previous_month = previous_month
+      @current_month = current_month
+      @next_month = nxt_month
       @archive_dir_name = '%04d/%02d' % [year, month]
       @date = Date.new(@year, @month)
       @layout =  site.config['monthly_archive'] && site.config['monthly_archive']['layout'] || 'monthly_archive'
@@ -100,7 +129,9 @@ module Jekyll
           'type' => 'archive',
           'title' => "Monthly archive for #{@year}/#{@month}",
           'posts' => posts,
-          'current_month_url' => @current_month_url,
+          'previous_month' => @previous_month,
+          'current_month' => @current_month,
+          'next_month' => @next_month,
           'url' => File.join('/',
                      MonthlyArchiveUtil.archive_base(site),
                      @archive_dir_name, 'index.html')
