@@ -52,17 +52,30 @@ module Jekyll
 
     def posts_group_by_year_and_month(site)
       posts_hash = Hash.new { |hash, key| hash[key] = [] }
-      #date_range = Date.new(2013, 01, 01)..Date.new(2015, 12, 31)
-      #months_in_range = date_range.select {|d| d.day == 1}
       site.posts.each do |post|
         if post.data['occurrences'] then
           post.data['occurrences'].each do |occurrence|
-            nxt_previous_months = get_next_previous_month(occurrence['start-date'].year, occurrence['start-date'].month)
-            current_month = {'year' => occurrence['start-date'].year, 'month' => '%02d' % [occurrence['start-date'].month]}
-            posts_hash[[occurrence['start-date'].year, occurrence['start-date'].month]] << {'post' => [post],
-                                                                                'previous-month' => nxt_previous_months['previous-month'],
-                                                                                'current-month' => current_month,
-                                                                                'next-month' => nxt_previous_months['next-month'] }
+            if occurrence['start-date'].to_date != occurrence['end-date'].to_date then
+              # in case an event does not fall on the first day of the month it should still be in that month's events list, by removing the days
+              # we're making sure each month is included.
+              date_range = Date.new(occurrence['start-date'].year, occurrence['start-date'].month)..Date.new(occurrence['end-date'].year, occurrence['end-date'].month)
+              months_in_range = date_range.select {|d| d.day == 1}
+              months_in_range.each do |month|
+                nxt_previous_months = get_next_previous_month(month.year, month.month)
+                current_month = {'year' => month.year, 'month' => '%02d' % [month.month]}
+                posts_hash[[month.year, month.month]] << {'post' => [post],
+                                                          'previous-month' => nxt_previous_months['previous-month'],
+                                                          'current-month' => current_month,
+                                                          'next-month' => nxt_previous_months['next-month'] }
+              end
+            else
+              nxt_previous_months = get_next_previous_month(occurrence['start-date'].year, occurrence['start-date'].month)
+              current_month = {'year' => occurrence['start-date'].year, 'month' => '%02d' % [occurrence['start-date'].month]}
+              posts_hash[[occurrence['start-date'].year, occurrence['start-date'].month]] << {'post' => [post],
+                                                                                  'previous-month' => nxt_previous_months['previous-month'],
+                                                                                  'current-month' => current_month,
+                                                                                  'next-month' => nxt_previous_months['next-month'] }
+            end
           end
         end
       end
