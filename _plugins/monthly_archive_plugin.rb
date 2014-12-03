@@ -42,51 +42,27 @@ module Jekyll
 
     def get_next_previous_month(year, month)
         if month == 12 
-          {'next-month' => {'year' => year+1, 'month' => 1}, 'previous-month' => {'year' => year, 'month' => month-1}}
+          {'next-month' => {'year' => year+1, 'month' => '01'}, 'previous-month' => {'year' => year, 'month' => '%02d' % [month-1]}}
         elsif month == 1 
-          {'next-month' => {'year' => year, 'month' => month+1}, 'previous-month' => {'year' => year-1, 'month' => 12}}
+          {'next-month' => {'year' => year, 'month' => '%02d' % [month+1] }, 'previous-month' => {'year' => year-1, 'month' => '12'}}
         else 
-          {'next-month' => {'year' => year, 'month' => month+1}, 'previous-month' => {'year' => year, 'month' => month-1}}
+          {'next-month' => {'year' => year, 'month' => '%02d' % [month+1] }, 'previous-month' => {'year' => year, 'month' => '%02d' % [month-1]}}
         end
     end
 
     def posts_group_by_year_and_month(site)
       posts_hash = Hash.new { |hash, key| hash[key] = [] }
-      date_range = Date.new(2013, 01, 01)..Date.new(2015, 12, 31)
-      months_in_range = date_range.select {|d| d.day == 1}
-      months_in_range.each do |date|
-        current_month = {'year' => date.year, 'month' => date.month}
-        site.posts.each do |post|
-          if post.data['dt_start'] and post.data['dt_end'] then
-            start_date = Date.parse(post.data['dt_start'].to_s)
-            end_date = Date.parse(post.data['dt_end'].to_s)
-            date_range = start_date..end_date
-            nxt_previous_months = get_next_previous_month(date.year, date.month)
-            posts_hash[[date.year, date.month]] << {'post' => [post], 
-                                                    'previous-month' => nxt_previous_months['previous-month'],
-                                                    'current-month' => current_month,
-                                                    'next-month' => nxt_previous_months['next-month'] } if date_range === date
-          end
-        end
-      end
+      #date_range = Date.new(2013, 01, 01)..Date.new(2015, 12, 31)
+      #months_in_range = date_range.select {|d| d.day == 1}
       site.posts.each do |post|
-        unless post.data['dt_start'] and post.data['dt_end']
-          if post.data['occurrences'] then
-            post.data['occurrences'].each do |occurrence|
-              nxt_previous_months = get_next_previous_month(occurrence['date'].year, occurrence['date'].month)
-              current_month = {'year' => occurrence['date'].year, 'month' => occurrence['date'].month}
-              posts_hash[[occurrence['date'].year, occurrence['date'].month]] << {'post' => [post],
-                                                                                  'previous-month' => nxt_previous_months['previous-month'],
-                                                                                  'current-month' => current_month,
-                                                                                  'next-month' => nxt_previous_months['next-month'] }
-            end
-          else
-            nxt_previous_months = get_next_previous_month(post.date.year, post.date.month)
-            current_month = {'year' => post.date.year, 'month' => post.date.month}
-            posts_hash[[post.date.year, post.date.month]] << {'post' => [post],
-                                                              'previous-month' => nxt_previous_months['previous-month'],
-                                                              'current-month' => current_month,
-                                                              'next-month' => nxt_previous_months['next-month'] }
+        if post.data['occurrences'] then
+          post.data['occurrences'].each do |occurrence|
+            nxt_previous_months = get_next_previous_month(occurrence['start-date'].year, occurrence['start-date'].month)
+            current_month = {'year' => occurrence['start-date'].year, 'month' => '%02d' % [occurrence['start-date'].month]}
+            posts_hash[[occurrence['start-date'].year, occurrence['start-date'].month]] << {'post' => [post],
+                                                                                'previous-month' => nxt_previous_months['previous-month'],
+                                                                                'current-month' => current_month,
+                                                                                'next-month' => nxt_previous_months['next-month'] }
           end
         end
       end
