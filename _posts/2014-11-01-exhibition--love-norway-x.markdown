@@ -1,8 +1,10 @@
 ---
 published: true
 #all_day: false # If true, ignore times?
-dt_start: 2014-11-01 10:00:00 # datetime the event starts
-dt_end: 2015-03-30 16:00:00 # datetime the event ends
+occurrences:
+  -
+    start-date: 2014-11-01 10:00:00 # datetime the event starts
+    end-date: 2015-03-30 16:00:00 # datetime the event ends
 title:  "Love Norway X"
 subtitle: November 1, 2014 - March 2015
 meta_title:        # Appears on bookmarks, search results, etc...

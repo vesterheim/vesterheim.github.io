@@ -1,7 +1,10 @@
 ---
 published: true
 title:  "Exhibition Lecture—*Less is More, More or Less: The Roots of Mid-Century Modern Design* by Roy Behrens"
-date:   2015-03-29 14:00:00 -5:00
+occurrences:
+  -
+    start-date: 2015-03-29 14:00:00 -5:00
+    end-date: 2015-03-29 14:00:00 -5:00
 
 tags: lecture free
 ---

@@ -1,8 +1,10 @@
 ---
 published: true
 #all_day: false # If true, ignore times?
-dt_start: 2014-09-12 09:00:00 # datetime the event starts
-dt_end: 2015-04-12 17:00:00 # datetime the event ends
+occurrences:
+  -
+    start-date: 2014-09-12 09:00:00
+    end-date: 2015-04-12 17:00:00
 title: "A Restored Connection: A Dream of a Cultural Identity" # event name (or title)
 subtitle: September 12, 2014 - April 12, 2015
 meta_title:        # Appears on bookmarks, search results, etc...

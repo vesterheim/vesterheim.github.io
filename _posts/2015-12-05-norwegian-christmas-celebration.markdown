@@ -3,8 +3,10 @@ published: true
 
 title: Norwegian Christmas Celebration
 
-dt_start: 2015-12-05 09:00:00 -5:00
-dt_end: 2015-12-05 16:00:00 -5:00
+occurrences:
+  -
+    start-date: 2015-12-05 09:00:00 -5:00
+    end-date: 2015-12-05 16:00:00 -5:00
 all_day: true
 
 home:

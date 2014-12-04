@@ -1,7 +1,10 @@
 ---
 published: true
 title:  "The Significance of Ole Rølvaag for Today"
-date:   2014-10-02 13:30:00
+occurrences:
+  -
+   start-date: 2014-10-02 13:30:00
+   end-date: 2014-10-02 13:30:00
 
 tags: free lecture
 ---

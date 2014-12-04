@@ -1,7 +1,10 @@
 ---
 published: true
 title: "Exhibition Lecture—Danish Modern: Design for Living"
-date: 2014-10-26 14:00:00
+occurrences:
+  -
+    start-date: 2014-10-26 14:00:00
+    end-date: 2014-10-26 14:00:00
 hero:
   image: 
   alt: 

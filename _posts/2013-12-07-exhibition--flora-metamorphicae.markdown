@@ -1,4 +1,4 @@
----
+--
 published: true
 #all_day: false # If true, ignore times?
 dt_start: 2013-12-07 10:00:00 # datetime the event starts
