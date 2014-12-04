@@ -1,4 +1,4 @@
-# Jekyll Module to create daily archive pages
+# Jekyll Module to create monthly archive pages
 #
 # Shigeya Suzuki, November 2013
 # Copyright notice (MIT License) attached at the end of this file
@@ -12,7 +12,7 @@
 #
 
 #
-# Archive will be written as #{archive_path}/#{year}/#{month}/#{day}/index.html
+# Archive will be written as #{archive_path}/#{year}/#{month}/index.html
 # archive_path can be configured in 'path' key in 'monthly_archive' of
 # site configuration file. 'path' is default null.
 #
@@ -28,16 +28,34 @@ module Jekyll
   # Generator class invoked from Jekyll
   class DailyArchiveGenerator < Generator
     def generate(site)
-      posts_group_by_year_month_day(site).each do |ym, list|
+      posts_group_by_year_month_day(site).each do |ymd, list|
         site.pages << DailyArchivePage.new(site, DailyArchiveUtil.archive_base(site),
-                                             ym[0], ym[1], ym[2], list)
+                                             ymd[0], ymd[1], ymd[2], list)
       end
+      rescue => exception
+        puts exception.backtrace
+        raise exception
     end
 
     def posts_group_by_year_month_day(site)
-      site.posts.each.group_by { |post| [post.date.year, post.date.month, post.date.day] }
+      posts_hash = Hash.new { |hash, key| hash[key] = [] }
+      site.posts.each do |post|
+        if post.data['occurrences'] then
+          post.data['occurrences'].each do |occurrence|
+            if occurrence['start-date'].to_date != occurrence['end-date'].to_date then
+              date_range = Date.new(occurrence['start-date'].year, occurrence['start-date'].month, occurrence['start-date'].day)..
+                           Date.new(occurrence['end-date'].year, occurrence['end-date'].month, occurrence['end-date'].day)
+              date_range.each do |date|
+                posts_hash[[date.year, date.month, date.day]] << post
+              end
+            else
+              posts_hash[[occurrence['start-date'].year, occurrence['start-date'].month, occurrence['start-date'].day]] << post
+            end
+          end
+        end
+      end
+      posts_hash
     end
-
   end
 
   # Actual page instances
@@ -46,7 +64,6 @@ module Jekyll
     ATTRIBUTES_FOR_LIQUID = %w[
       year,
       month,
-      day,
       date,
       content
     ]
@@ -58,8 +75,13 @@ module Jekyll
       @month = month
       @day = day
       @archive_dir_name = '%04d/%02d/%02d' % [year, month, day]
-      @date = Date.new(@year, @month, @day)
+      @date = Date.new(@year, @month)
       @layout =  site.config['daily_archive'] && site.config['daily_archive']['layout'] || 'daily_archive'
+      nxt_previous_months = get_next_previous_month(year, month)
+      @previous_month = nxt_previous_months['previous-month']
+      @current_month = {'year' => year, 'month' => '%02d' % [month]}
+      @next_month = nxt_previous_months['next-month']
+      # Full featured
       self.ext = '.html'
       self.basename = 'index'
       self.content = <<-EOS
@@ -70,14 +92,27 @@ module Jekyll
           'layout' => @layout,
           'navigation' => {
             'exclude' => true
-          },          
+          },
           'type' => 'archive',
-          'title' => "Daily archive for #{@year}/#{@month}/#{@day}",
+          'title' => "Daily archive for #{@year}/#{@month}",
           'posts' => posts,
+          'previous_month' => @previous_month,
+          'current_month' => @current_month,
+          'next_month' => @next_month,
           'url' => File.join('/',
                      DailyArchiveUtil.archive_base(site),
                      @archive_dir_name, 'index.html')
       }
+    end
+
+    def get_next_previous_month(year, month)
+        if month == 12 
+          {'next-month' => {'year' => year+1, 'month' => '01'}, 'previous-month' => {'year' => year, 'month' => '%02d' % [month-1]}}
+        elsif month == 1 
+          {'next-month' => {'year' => year, 'month' => '%02d' % [month+1] }, 'previous-month' => {'year' => year-1, 'month' => '12'}}
+        else 
+          {'next-month' => {'year' => year, 'month' => '%02d' % [month+1] }, 'previous-month' => {'year' => year, 'month' => '%02d' % [month-1]}}
+        end
     end
 
     def render(layouts, site_payload)
@@ -93,8 +128,7 @@ module Jekyll
                                'content' => self.content,
                                'date' => @date,
                                'month' => @month,
-                               'year' => @year,
-                               'day' => @day
+                               'year' => @year
                            })
     end
 
