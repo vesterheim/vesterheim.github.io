@@ -18,6 +18,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-{% assign instructors = site.data.pagelist | where: 'parent', page.url | sort: 'name' %}
+{% assign instructors = site.data.pagelist | where: 'parent', page.url | sort: 'url' %}
 {% for instructor in instructors %}
 - [{{ instructor.title }}]({{ instructor.url }}){% endfor %}
