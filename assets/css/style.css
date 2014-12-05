@@ -14,33 +14,6 @@
  * With thanks to @lar_zzz, @paranoida, @rowanmanning and ultimately
  * @thierrylemoulec for refining and improving my initial mixin.
  */
-/**
- * Simple Terms of Use
- *
- * Manfred’s fonts are free for private and charity use. 
- * They are even free for commercial use – but if there’s 
- * any profit, pls make a donation to organizations like 
- * Doctors Without Borders.
- *
- */
-@font-face {
-  font-family: 'FranKlein';
-  src: url('../fonts/frankleinmedium-webfont.eot?1417372964');
-  src: url('../fonts/frankleinmedium-webfont.eot?&1417372964#iefix') format("embedded-opentype"), url('../fonts/frankleinmedium-webfont.woff2?1417372964') format("woff2"), url('../fonts/frankleinmedium-webfont.woff?1417372964') format("woff"), url('../fonts/frankleinmedium-webfont.ttf?1417372964') format("truetype"), url('../fonts/frankleinmedium-webfont.svg?1417372964#frankleinmediumregular') format("svg");
-  font-weight: 400;
-  font-style: normal; }
-@font-face {
-  font-family: 'FranKlein';
-  src: url('../fonts/frankleinbold-webfont.eot?1417372964');
-  src: url('../fonts/frankleinbold-webfont.eot?&1417372964#iefix') format("embedded-opentype"), url('../fonts/frankleinbold-webfont.woff2?1417372964') format("woff2"), url('../fonts/frankleinbold-webfont.woff?1417372964') format("woff"), url('../fonts/frankleinbold-webfont.ttf?1417372964') format("truetype"), url('../fonts/frankleinbold-webfont.svg?1417372964#frankleinboldregular') format("svg");
-  font-weight: 700;
-  font-style: normal; }
-@font-face {
-  font-family: 'FranKlein';
-  src: url('../fonts/frankleinbook-webfont.eot?1417372964');
-  src: url('../fonts/frankleinbook-webfont.eot?&1417372964#iefix') format("embedded-opentype"), url('../fonts/frankleinbook-webfont.woff2?1417372964') format("woff2"), url('../fonts/frankleinbook-webfont.woff?1417372964') format("woff"), url('../fonts/frankleinbook-webfont.ttf?1417372964') format("truetype"), url('../fonts/frankleinbook-webfont.svg?1417372964#frankleinbookregular') format("svg");
-  font-weight: 100;
-  font-style: normal; }
 /** MODIFIED: http://meyerweb.com/eric/tools/css/reset/ v2.0 | 20110126
  * Get rid of background, borders, font-sizes, margins, 
  * outlines, padding, etc... Set it where you need it 
