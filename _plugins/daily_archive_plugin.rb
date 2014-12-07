@@ -17,6 +17,8 @@
 # site configuration file. 'path' is default null.
 #
 
+require 'active_support/time'
+
 module Jekyll
 
   module DailyArchiveUtil
@@ -81,6 +83,7 @@ module Jekyll
       @previous_month = nxt_previous_months['previous-month']
       @current_month = {'year' => year, 'month' => '%02d' % [month]}
       @next_month = nxt_previous_months['next-month']
+      weeks = build_month_calendar(year, month)
       # Full featured
       self.ext = '.html'
       self.basename = 'index'
@@ -98,11 +101,33 @@ module Jekyll
           'posts' => posts,
           'previous_month' => @previous_month,
           'current_month' => @current_month,
+          'current_month_name' => Date::MONTHNAMES[@month],
           'next_month' => @next_month,
+          'calendar' => weeks,
           'url' => File.join('/',
                      DailyArchiveUtil.archive_base(site),
                      @archive_dir_name, 'index.html')
       }
+    end
+
+    def build_month_calendar(year, month)
+        month = Date.new(year, month)
+        month_range = month.all_month
+        first_week = month_range.begin.all_week(:sunday)
+        last_week = month_range.end.all_week(:sunday)
+        month_range = first_week.begin..last_week.end
+        weeks = []
+        month_range.each_slice(7) do |day1, day2, day3, day4, day5, day6, day7| 
+            weeks << [{'year'=>day1.strftime('%Y'), 'month'=>day1.strftime('%m'), 'day'=>day1.strftime('%d')}, 
+                      {'year'=>day2.strftime('%Y'), 'month'=>day2.strftime('%m'), 'day'=>day2.strftime('%d')}, 
+                      {'year'=>day3.strftime('%Y'), 'month'=>day3.strftime('%m'), 'day'=>day3.strftime('%d')}, 
+                      {'year'=>day4.strftime('%Y'), 'month'=>day4.strftime('%m'), 'day'=>day4.strftime('%d')}, 
+                      {'year'=>day5.strftime('%Y'), 'month'=>day5.strftime('%m'), 'day'=>day5.strftime('%d')}, 
+                      {'year'=>day6.strftime('%Y'), 'month'=>day6.strftime('%m'), 'day'=>day6.strftime('%d')}, 
+                      {'year'=>day7.strftime('%Y'), 'month'=>day7.strftime('%m'), 'day'=>day7.strftime('%d')}
+                     ]
+        end
+        weeks
     end
 
     def get_next_previous_month(year, month)

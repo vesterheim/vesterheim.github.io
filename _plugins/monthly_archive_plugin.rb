@@ -101,6 +101,7 @@ module Jekyll
           'posts' => posts,
           'previous_month' => @previous_month,
           'current_month' => @current_month,
+          'current_month_name' => Date::MONTHNAMES[@month],
           'next_month' => @next_month,
           'calendar' => weeks,
           'url' => File.join('/',
