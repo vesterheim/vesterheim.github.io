@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+gem 'activesupport', '~> 4.1.5'
 gem 'github-pages'
 gem "mini_magick"
 gem 'octopress-hooks', '~> 2.2'
