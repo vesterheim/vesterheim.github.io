@@ -10,20 +10,30 @@ navigation:
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
-  image:         # Defaults to cropped page hero image
+  image: 46x21/folk-art-school/painting.jpg
   alt:
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-Supplies and Class Info
------------------------
-Class instruction is held from 9:00 a.m. to 5:00 p.m. unless otherwise noted, unless otherwise noted in the class description. Most classes allow for extra work time in the evenings. All Vesterheim classes are limited in size to assure a quality learning experience.
+Registration
+-------------
+To register for classes, please print a class registration [form](/folk-art-school/registration/forms/class-reg-form.pdf) (pdf) and send the form, along with your class payment to: <br />
+Darlene Fossum-Martin<br />
+Vesterheim Museum<br />
+P.O. Box 379<br />
+Decorah, IA 52101
 
+For more information, contact Darlene Fossum-Martin at 563-382-9681, ext. 215, or email at [dfossum-martin@vesterheim.org](mailto:dfossum-martin@vesterheim.org).
+
+Class Time and Size
+---------------------
+Class instruction is held from 9:00 a.m. to 5:00 p.m. unless otherwise noted in the class description. Most classes allow for extra work time in the evenings. All Vesterheim classes are limited in size to assure a quality learning experience.
+
+Supplies 
+---------
 Before each class begins, all students will receive supply lists and handouts from their instructors, a detailed class schedule, and a list of any special equipment needed for the class. The supply list may include a materials fee for specific items required for the class. Vesterheim can provide rosemalers with paints, brush cleaner, and painting medium for a palette fee. These supplies must be ordered in advance. Students might want to bring additional equipment for their own personal needs, such as a swinging arm lamp for extra lighting.
-
-Vesterheim does not allow videotaping during classes, or auditing a class. Vesterheim is not responsible for the security of property belonging to students and instructors. Smoking is not permitted inside any building at Vesterheim Museum. Alcohol is not permitted in classrooms and workshops with exception of some cooking classes. The use of illegal drugs is prohibited.
 
 Deposit, Payment, and Cancelations
 ----------------------------------
@@ -37,7 +47,7 @@ Age Policy and Youth Discounts
 ------------------------------
 All classes at Vesterheim are open to adults 18 years and older. Vesterheim strongly believes in the importance of keeping our Scandinavian traditions alive by passing them down to our children and nurturing inter-generational learning. Therefore, some courses are open to students under the age of 18, provided they are accompanied by a fully enrolled adult in the same class. Minimum age requirements are determined by the individual instructors and are included in the course descriptions.
 
-Youth tuition will be discounted 25% when youth are accompanied by a fully enrolled adult in the same class. Tuition for Luther students is discounted 25%.
+Youth tuition will be discounted 25% when youth are accompanied by a fully enrolled adult in the same class. Tuition for Luther College students is discounted 25%.
 
 Local Resident Discounts
 ------------------------
@@ -50,3 +60,7 @@ Students must make their own housing and dining arrangements.
 For information about Decorah’s housing and food options check with the [Winneshiek County Convention &amp; Visitors Bureau](http://www.decoraharea.com/lodging.html).
 
 If you have trouble finding housing, please call Vesterheim at (563) 382-9681 for assistance. There may be other options for accommodations in the area, including private housing. A variety of moderately priced restaurants are within walking distance. The Westby-Torgerson Education Center has a student lounge located on the third floor. Facilities include a refrigerator, microwave, stove, sink, coffee maker, pop machine, and tables and chairs.
+
+Policies
+---------
+Vesterheim does not allow videotaping during classes, or auditing a class. Vesterheim is not responsible for the security of property belonging to students and instructors. Smoking is not permitted inside any building at Vesterheim Museum. Alcohol is not permitted in classrooms and workshops with exception of some cooking classes. The use of illegal drugs is prohibited.

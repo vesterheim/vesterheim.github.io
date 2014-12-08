@@ -29,6 +29,6 @@ Below is a list of volunteer tasks that we currently need at Vesterheim.
 * **Pioneer Immersion Program** (spring) Lead nineteenth-century pioneer activities (churning butter, hand-washing clothes, etc.) for fourth-grade school groups
 * **Nordic Fest** (spring/summer) - Greet visitors, host galleries, and more
 * **WOW (Window on the World ) Farm Program** (fall) - Lead nineteenth-century agricultural activities (pressing apples, threshing grain, etc.) for third-grade school groups
-* **Norwegian Christmas Celebration** (fall) - Greet visitors, host galleries, lead craft programs, help with the coffee shop, and more
+* **Norwegian Christmas Celebration** (winter) - Greet visitors, host galleries, lead craft programs, help with the coffee shop, and more
 * **Mailings** (all year) - Stuff and label envelopes.
 * **Outreach Event Representatives** (all year) - Promote Vesterheim at events around the country.

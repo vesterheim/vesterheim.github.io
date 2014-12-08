@@ -56,6 +56,7 @@ What Are the Benefits of Planned Giving?
 Everyone who makes a planned gift to Vesterheim and notifies Vesterheim that this gift is coming becomes a member of the museum's Valhalla Society. Founded in 1989, the Valhalla Society consists of a special group of donors who have chosen to honor their passion for preservation with planned giving. There is no planned gift minimum for the Valhalla Society. 
 
 Other benefits of planned giving include:
+
 * Assure that your family is provided for after your death.
 * Ensure your assets are distributed according to your wishes.
 * Through proper planning, leverage estate tax savings.

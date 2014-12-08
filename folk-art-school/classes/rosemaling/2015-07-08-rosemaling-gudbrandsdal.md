@@ -1,7 +1,7 @@
 ---
 published: true
 title: Rosemaling in the Gudbrandsdal Style 
-subtitle: JJuly 8-12, 2015, with Andrea Herkert 
+subtitle: July 8-12, 2015, with Andrea Herkert 
 meta_description:  # Used in HTML head and as the description for some search engines
 
 location: ~
