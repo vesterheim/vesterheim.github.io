@@ -9,6 +9,9 @@ hero:
   image: 16x9/artifacts/LC0746.jpg
   alt:
   caption:
+
+redirect_to:
+   - //omeka-2.2.2.vesterheim.org/
   
 navigation:
   order: 30
