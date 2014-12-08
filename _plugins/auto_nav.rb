@@ -117,13 +117,14 @@ module Jekyll
 			hash = {}
 			pages.each do |page|
 				next unless VesterUtils.is_navigable?(page)
+				redirect_to = page['redirect_to'] || Array.new
 				navigation = page['navigation'] || {}
 				node = {
 					'title' => VesterUtils.get_nav_title(page),
 					'short_title' => get_nav_short_title(page),
 					'page_title' => page['title'] || VesterUtils.get_nav_title(page),
 					'breadcrumb' => get_breadcrumb_hash(page),
-					'url' => page['url'],
+					'url' => redirect_to.first || page['url'],
 					'order' => navigation['order'] || 1000
 				}
 				node.merge!VesterUtils.create_geneology_hash(page, pages)

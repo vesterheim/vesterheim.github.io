@@ -38,6 +38,7 @@ module Jekyll
 			hash = {}
 			pages.each do |page|
 				next unless VesterUtils.is_navigable?(page)
+				redirect_to = page['redirect_to'] || Array.new
 				navigation = page['navigation'] || {}
 				pagelist   = page['pagelist'] || {}
 
@@ -47,7 +48,7 @@ module Jekyll
 					'short_title' => get_pagelist_short_title(page),
 					'subtitle' => get_pagelist_subtitle(page),
 					'teaser' => get_pagelist_teaser(page),
-					'url' => page['url'],
+					'url' => redirect_to.first || page['url'],
 					'order' => pagelist['order'] || navigation['order'] || 1000,
 					'dtstart' =>  pagelist['dtstart'] || page['dtstart'] || nil,
 					'dtend' =>  pagelist['dtend'] || page['dtend'] || nil

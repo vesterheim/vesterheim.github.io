@@ -3,7 +3,7 @@ published: true
 layout: page
 title: Store
 redirect_to:
-   - http://store.vesterheim.org/
+   - //store.vesterheim.org/
 navigation:
   order: 70
   site_root: true  
