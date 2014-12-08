@@ -27,4 +27,4 @@ _Syttende Mai_, May 17, is the day Norway ratified its constitution in 1814 at E
 
 Now, Norwegians celebrate their independence with excited crowds especially  children marching through the streets waving flags, singing songs, and celebrating their nation’s independence.
 
-_Syttende Mai_ at Vesterheim is a great opportunity to celebrate freedom wherever it occurs and we observe Norwegian Constitution Day with free admission to the museum all day, a children's parade through Decorah, an evening street dance with the Scandinavian-American band Foot-Notes, and other family activities.
+_Syttende Mai_ at Vesterheim is a great opportunity to celebrate freedom wherever it occurs. Past celebrations have included free admission to the museum all day, a children's parade through Decorah, a Foot-Notes dance, musical performances, gallery talks, and other family activities. Check back for detailed information about this year's event.

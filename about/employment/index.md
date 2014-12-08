@@ -15,7 +15,7 @@ navigation:
   order: 30
 pagelist:
   order:         # Defaults to navigation order
-  image: 
+  image: 46x21/people/store-employment.jpg
   alt: 
   caption:
   title:         # Defaults to navigation title

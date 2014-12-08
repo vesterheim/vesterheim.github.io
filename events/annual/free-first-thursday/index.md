@@ -23,6 +23,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-Vesterheim offers free admission to the museum and a special event the first Thursday of every month.
+Vesterheim offers free admission to the museum the first Thursday of every month. Free First Thursday is always a great time to see what's new at Vesterheim!
 
-With programs like scholarly presentations, gallery talks, music events, crafts, and poetry readings, Free First Thursday is always a great time to see what's new at Vesterheim! Check out our calendar to learn about scheduled programs.
+Also, we offer an occasional Free First Thursday event, like scholarly presentations, gallery talks, music events, crafts, films, and poetry readings. Check the calendar for future programs. 

@@ -24,7 +24,7 @@ Discover immigrant America at Vesterheim Museum!
 ------------------------------------------------
 Vesterheim is committed to providing fun and educational experiences for youth. In addition to offering guided tours of the museum’s Main Building and historic buildings in the Open Air Division, we can provide special activities to enhance your curriculum or program. These special activities may be combined with regular guided tours.
 
-Vesterheim staff may also be able to visit your classroom to give presentations. Please inquire. Contact Vesterheim at 563-382-9681 or info@vesterheim.org  for more information or to schedule your visit.
+Vesterheim staff may also be able to visit your classroom to give presentations. Please inquire. Contact Vesterheim at 563-382-9681 or [info@vesterheim.org](mailto:info@vesterheim.org) for more information or to schedule your visit.
 
 Find important information to know before your group visit here.
 

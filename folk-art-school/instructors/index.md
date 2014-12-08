@@ -21,3 +21,11 @@ pagelist:
 {% assign instructors = site.data.pagelist | where: 'parent', page.url | sort: 'url' %}
 {% for instructor in instructors %}
 - [{{ instructor.title }}]({{ instructor.url }}){% endfor %}
+
+To register for classes, please print a class registration [form](/folk-art-school/registration/forms/class-reg-form.pdf) (pdf) and send the form, along with your class payment to: <br />
+Darlene Fossum-Martin<br />
+Vesterheim Museum<br />
+P.O. Box 379<br />
+Decorah, IA 52101
+
+For more information, contact Darlene Fossum-Martin at 563-382-9681, ext. 215, or email at [dfossum-martin@vesterheim.org](mailto:dfossum-martin@vesterheim.org).

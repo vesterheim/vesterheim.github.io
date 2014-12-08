@@ -15,7 +15,7 @@ navigation:
   order: 60
 pagelist:
   order:         # Defaults to navigation order
-  image: 46x21/contact/staff.jpg
+  image: 46x21/visit/main-building.jpg
   alt: 
   caption:
   title:         # Defaults to navigation title

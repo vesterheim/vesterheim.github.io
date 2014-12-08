@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: page
 title: Vesterheim - Rosemaling
 meta_title:        # Appears on bookmarks, search results, etc...

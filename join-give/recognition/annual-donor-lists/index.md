@@ -26,5 +26,5 @@ pagelist:
 Your contributions provide the financial support that keeps Vesterheim strong and all are deeply appreciated. It is with sincere thanks and humble gratitude that we recognize every person and organization on these donor lists.
 
 *[pdf]: Portable Document Format
-* [Annual Report January 1-December 31, 2012 (pdf)](/join-give/recognition/annual-donor-lists/documents/2012_donor_list.pdf)
-* [Annual Report January 1-December 31, 2013 (pdf)](/join-give/recognition/annual-donor-lists/documents/2013_donor_list.pdf)
+* [Annual Donor List January 1-December 31, 2012 (pdf)](/join-give/recognition/annual-donor-lists/documents/2012_donor_list.pdf)
+* [Annual Donor List January 1-December 31, 2013 (pdf)](/join-give/recognition/annual-donor-lists/documents/2013_donor_list.pdf)
