@@ -97,7 +97,7 @@ module Jekyll
             'exclude' => true
           },
           'type' => 'archive',
-          'title' => "Events for #{Date::MONTHNAMES[@month]} #{@year}",
+          'title' => '%02d' % [day],
           'posts' => posts,
           'previous_month' => @previous_month,
           'current_month' => @current_month,

@@ -21,39 +21,39 @@ require 'active_support/time'
 
 module Jekyll
 
-  module MonthlyArchiveUtil
+  module YearlyArchiveUtil
     def self.archive_base(site)
-      site.config['monthly_archive'] && site.config['monthly_archive']['path'] || ''
+      site.config['yearly_archive'] && site.config['yearly_archive']['path'] || ''
     end
   end
 
   # Generator class invoked from Jekyll
-  class MonthlyArchiveGenerator < Generator
+  class YearlyArchiveGenerator < Generator
     def generate(site)
-      posts_group_by_year_and_month(site).each do |ym, list|
-        site.pages << MonthlyArchivePage.new(site, MonthlyArchiveUtil.archive_base(site),
-                                             ym[0], ym[1], list)
+      posts_group_by_year(site).each do |y, list|
+        site.pages << YearlyArchivePage.new(site, YearlyArchiveUtil.archive_base(site),
+                                             y[0], list)
       end
       rescue => exception
         puts exception.backtrace
         raise exception
     end
 
-    def posts_group_by_year_and_month(site)
+    def posts_group_by_year(site)
       posts_hash = Hash.new { |hash, key| hash[key] = [] }
       site.posts.each do |post|
         if post.data['occurrences'] then
           post.data['occurrences'].each do |occurrence|
             if occurrence['start-date'].to_date != occurrence['end-date'].to_date then
-              # in case an event does not fall on the first day of the month it should still be in that month's events list, by removing the days
-              # we're making sure each month is included.
-              date_range = Date.new(occurrence['start-date'].year, occurrence['start-date'].month)..Date.new(occurrence['end-date'].year, occurrence['end-date'].month)
-              months_in_range = date_range.select {|d| d.day == 1}
-              months_in_range.each do |month|
-                posts_hash[[month.year, month.month]] << post
+              # in case an event does not fall on the first day of the year it should still be in that year's events list, by removing the months and days
+              # we're making sure each year is included.
+              date_range = Date.new(occurrence['start-date'].year)..Date.new(occurrence['end-date'].year)
+              years_in_range = date_range.select {|d| d.month == 1 && d.day == 1}
+              years_in_range.each do |year|
+                posts_hash[[year.year]] << post
               end
             else
-              posts_hash[[occurrence['start-date'].year, occurrence['start-date'].month]] << post
+              posts_hash[[occurrence['start-date'].year]] << post
             end
           end
         end
@@ -63,7 +63,7 @@ module Jekyll
   end
 
   # Actual page instances
-  class MonthlyArchivePage < Page
+  class YearlyArchivePage < Page
 
     ATTRIBUTES_FOR_LIQUID = %w[
       year,
@@ -72,19 +72,18 @@ module Jekyll
       content
     ]
 
-    def initialize(site, dir, year, month, posts)
+    def initialize(site, dir, year, posts)
       @site = site
       @dir = dir
       @year = year
-      @month = month
-      @archive_dir_name = '%04d/%02d' % [year, month]
-      @date = Date.new(@year, @month)
-      @layout =  site.config['monthly_archive'] && site.config['monthly_archive']['layout'] || 'monthly_archive'
-      nxt_previous_months = get_next_previous_month(year, month)
+      @archive_dir_name = '%04d' % [year]
+      @date = Date.new(@year)
+      @layout =  site.config['yearly_archive'] && site.config['yearly_archive']['layout'] || 'yearly_archive'
+      nxt_previous_months = get_next_previous_month(year, 1)
       @previous_month = nxt_previous_months['previous-month']
-      @current_month = {'year' => year, 'month' => '%02d' % [month]}
+      @current_month = {'year' => year, 'month' => '%02d' % [1]}
       @next_month = nxt_previous_months['next-month']
-      weeks = build_month_calendar(year, month)
+      weeks = build_month_calendar(year, 1)
       self.ext = '.html'
       self.basename = 'index'
       self.content = <<-EOS
@@ -97,15 +96,15 @@ module Jekyll
             'exclude' => true
           },
           'type' => 'archive',
-          'title' => '%02d' % [month],
+          'title' => "#{@year}",
           'posts' => posts,
           'previous_month' => @previous_month,
           'current_month' => @current_month,
-          'current_month_name' => Date::MONTHNAMES[@month],
+          'current_month_name' => Date::MONTHNAMES[1],
           'next_month' => @next_month,
           'calendar' => weeks,
           'url' => File.join('/',
-                     MonthlyArchiveUtil.archive_base(site),
+                     YearlyArchiveUtil.archive_base(site),
                      @archive_dir_name, 'index.html')
       }
     end
