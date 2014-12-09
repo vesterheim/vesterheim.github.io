@@ -1,6 +1,6 @@
                     <div class="layout__auxiliary__content">
                     </div>  
-                    <div class="layout__calendar-grid">
+					{% if page.calendar__include == true %}<div class="layout__calendar-grid">
 {% include events-calendar.html %}
-                    </div>                                           
+                    </div>{% endif %}
 {% include nav/section.html %}

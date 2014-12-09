@@ -42,8 +42,14 @@ defaults:
 #      permalink: /events/calendar/:year/:month/:day/:title/ # I wish this worked as I had expected as a default
       categories: events calendar # Ugly hack: don't touch!
       layout: post
+      calendar__include: true
       navigation:
         exclude: true
+  -
+    scope:
+      path: events/calendar
+    values:
+      calendar__include: true
   -
     scope:
       path: folk-art-school
