@@ -117,17 +117,19 @@ module Jekyll
 			hash = {}
 			pages.each do |page|
 				next unless VesterUtils.is_navigable?(page)
+				redirect_to = page['redirect_to'] || Array.new
 				navigation = page['navigation'] || {}
 				node = {
 					'title' => VesterUtils.get_nav_title(page),
 					'short_title' => get_nav_short_title(page),
 					'page_title' => page['title'] || VesterUtils.get_nav_title(page),
 					'breadcrumb' => get_breadcrumb_hash(page),
-					'url' => page['url'],
+					'url' => redirect_to.first || page['url'],
 					'order' => navigation['order'] || 1000
 				}
 				node.merge!VesterUtils.create_geneology_hash(page, pages)
 				node['level'] = node['ancestors'].size
+				node['site_root'] = navigation['site_root'] if navigation['site_root']
 				node['handle'] = VesterUtils.generate_handle(node)
 				node['id'] = VesterUtils.generate_id(node)
 				hash[page['url']] = node
@@ -189,7 +191,10 @@ module Jekyll
 
 		def create_auto_nav_site_array(auto_nav_array)
 			auto_nav_array.
-				select { |n| n['level'] == 1 }.
+				select { |n| 
+					n['level'] == 1 &&
+					n['site_root'] == true
+				}.
 				map { |n| n.clone }.
 				each do |n| 
 					n['sub_depth'] = 0

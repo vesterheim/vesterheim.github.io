@@ -5,7 +5,8 @@ title: Our Unique History
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
-
+related:
+ - /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/
 
 navigation:
   order: 50
@@ -28,4 +29,12 @@ The rest is history. A vast number of students are now instructors teaching thro
 
 Vesterheim’s study tours to Norway offer folk artists a unique learning opportunity based on the museum’s ties and relationships with the artists and institutions of Norway. Participants learn from leading Norwegian artists, surrounded by the beauty and traditions of this inspiring place.
 
-The folk-art experience at Vesterheim doesn’t end with classes. Vesterheim continues to support artists by offering _The National Exhibition of Folk Art in the Norwegian Tradition_. Through this exhibition Vesterheim sets the standard of excellence as an artist in the Norwegian folk-art traditions. This program is vital for promoting folk artists and serves to ensure that these beautiful age-old traditions and skills are preserved.
+The folk-art experience at Vesterheim doesn’t end with classes. [_The National Exhibition of Folk Art in the Norwegian Tradition_.](/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/) Through this exhibition Vesterheim sets the standard of excellence as an artist in the Norwegian folk-art traditions. This program is vital for promoting folk artists and serves to ensure that these beautiful age-old traditions and skills are preserved.
+
+To register for classes, please print a class registration [form](/folk-art-school/registration/forms/class-reg-form.pdf) (pdf) and send the form, along with your class payment to: <br />
+Darlene Fossum-Martin<br />
+Vesterheim Museum<br />
+P.O. Box 379<br />
+Decorah, IA 52101
+
+For more information, contact Darlene Fossum-Martin at 563-382-9681, ext. 215, or email at [dfossum-martin@vesterheim.org](mailto:dfossum-martin@vesterheim.org).

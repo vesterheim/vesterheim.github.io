@@ -33,4 +33,4 @@ Another significant activity was an annual art exhibition. Vesterheim will displ
 
 The clubhouse, dedicated July 4, 1917, was designed by the firm Giaver and Dinkelberg. The Vesterheim exhibition shows furnishings from the clubhouse, many of which were designed by club members who were artists. The massive "high seat," complete with carved dragon-head bench ends, a mural depicting Leif Erickson's discovery of America, and coats of arms of Norwegian cites, have been recreated in the gallery.
 
-The exhibition is sponsored by Chicago Area Friends of Vesterheim Evy and Rob Alsaker with additional support.
+The exhibition is sponsored by Chicago Area Friends of Vesterheim and Rob and Evy Alsaker.

@@ -31,6 +31,6 @@ This auction provided people from all over the country with the chance to bid on
 
 The auction is one of our biggest fundraising events. All proceeds go to projects directly related to Vesterheim’s Folk Art School. Proceeds this year totaled $23,086.
 
-Check the final bids here.
+Check the final bids [here](https://www.biddingforgood.com/auction/auctionhome.action?auctionId=219191486).
 
-Contact Michelle Whitehill at 563-382-9681, or [mwhitehill@vesterheim.org](mailto:mwhitehill@vesterheim.org), with questions.
+Vesterheim is making plans for the next online auction to be held in October 2015. Watch for details. Contact Michelle Whitehill at 563-382-9681, or [mwhitehill@vesterheim.org](mailto:mwhitehill@vesterheim.org), with auction questions.

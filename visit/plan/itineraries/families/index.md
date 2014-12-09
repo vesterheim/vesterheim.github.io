@@ -23,7 +23,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-Vesterheim is a great place to visit with kids. You can share the immigrant story and your own family history. Best of all, Vesterheim is a place you can step into your own imagination! Touring the museum with children can average anywhere from ½ hour to three hours.
+Vesterheim is a great place to visit with kids. You can share with them your own family history as you explore the immigrant story. Best of all, Vesterheim is a place you can step into your own imagination! Touring the museum with children can average anywhere from ½ hour to three hours.
 
 Entrance
 -----------------
@@ -33,38 +33,38 @@ First Floor
 -----------------
 Moving into the museum, they put on the traditional Norwegian costumes hanging next to their “native” Norwegian house on the first floor. They like to imagine their family life in Norway and why they might need to go to America. 
 
-Next, they wander through the ship room and pretend to take the long journey in a boat over the ocean. They climb into the tiny bunks and climb the stairs to look out over the sea with binoculars.
+Next, they wander through the ship room and pretend to take the long journey in a boat over the ocean. They clamber into the tiny bunks and climb the stairs to look out over the sea with binoculars.
 
 Second Floor
 -----------------
 Upstairs, they enter their log cabin in America and marvel over their good fortune of finding a new home. 
 
-They like to color rosemaling trunks at the coloring station and “choose” which trunk artifact would have been theirs. Of course, they take their picture next to the life-size wood carving of “”.
+They like to color rosemaling trunks at the coloring station and “choose” which trunk artifact would have been theirs. Of course, they take their picture next to the life-size wood carving of “Ed”.
 
 Third Floor
 -----------------
-They love traveling up the elevator to the third floor, looking over the balcony on down into the ship gallery, and exploring the interesting special exhibitions.
+They love traveling up the elevator to the third floor, to look over the balcony down into the ship gallery, to explore the interesting special exhibitions.
 
 Basement
 -----------------
-Another elevator ride brings them to the basement, where they love sneaking through the stone-walled hallway. They check out the nisse statues, the old-time children’s toys, and the open storage of intriguing artifacts and artworks. Sometimes they pretend there’s a wedding in the church gallery.
+Another elevator ride brings them to the basement, where they love sneaking through the stone-walled hallway. They check out the _nisse_ statue, the old-time children’s toys, and the open storage of intriguing artifacts and artworks. Sometimes they pretend there’s a wedding in the church gallery.
 
 Open Air Division
 -----------------
-Their visit wouldn’t be complete without a walk outside through the Open Air Division of 12 historic buildings. Even when the buildings aren’t open, they love to peek through the windows and imagine life in times past.
+Their visit wouldn’t be complete without a walk outside through the Open Air Division of 12 historic buildings when they are open. Even when the buildings are closed, they love to peek through the windows and imagine life in times past.
 
 Decorah
 -----------------
 Since they are in Decorah, they have to visit some of the town’s great parks, like Phelps Park and Dunning Springs, or take a bike ride on the 11-mile Trout Run Trail. 
 
-These kids love to roam through old-time-yet-modern downtown shops, play on the hilly lawn surrounding the historic courthouse, and visit the Porter House Museum’s stonewall where they look in the secret stone crevices for pennies. 
+These kids love to roam through old-time-yet-modern downtown shops, play on the hilly lawn surrounding the historic courthouse, and visit the Porter House Museum’s stonewall, where they look in the secret stone crevices for pennies. 
 
 Food
 -----------------
-When it comes time to eat, they recommend Magpie Coffeehouse for breakfast, The Oneota Community Food Coop for lunch, and T-Bocks Sports Bar and Grill for supper. 
+When it comes time to eat, they recommend Magpie Coffeehouse for breakfast, the Oneota Community Food Coop for lunch, and T-Bocks Sports Bar and Grill for supper. 
 
 Lodging
 -----------------
-If you spend the night, they love camping at Decorah’s award-winning Pulpit Rock Campground, right outside of town on the scenic Upper Iowa River, or checking into one of Decorah’ great hotels, two of which have indoor swimming pools.
+If you spend the night, they love camping at Decorah’s award-winning Pulpit Rock Campground, right outside of town on the scenic Upper Iowa River, or checking into one of Decorah’ great hotels, two of which have indoor swimming pools. But they are especially excited about staying at the Hotel Winneshiek, where the historic setting and fancy décor allow them to continue to use their imaginations and make their own histories.
 
 Vesterheim in Decorah is a perfect family get-away any time of year.

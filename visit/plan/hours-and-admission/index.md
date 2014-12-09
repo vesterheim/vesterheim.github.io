@@ -41,7 +41,7 @@ Prices
 *   Ages 7-18 - $5
 *   Seniors 65+ - $8
 *   Museum members - free
-*   First Thursday of each month - free admission and a special event
+*   First Thursday of each month - free admission 
 
 Take your time and tour Vesterheim's Main Building at your own pace. There is a lot to see. If you want to see it all, we'd advise a full day. Don't have that long? Check out What to See in a Limited Time.
 

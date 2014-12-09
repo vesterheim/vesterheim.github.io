@@ -10,14 +10,14 @@ hero:
   alt:
   caption:
 related:
-
+ - /join-give/membership/profiles/
 
 navigation:
   order: 10
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
-  image:         # Defaults to cropped page hero image
+  image: 46x21/join-give/member_profile_stone.jpg
   alt:
   caption:
   title:         # Defaults to navigation title

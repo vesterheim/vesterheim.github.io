@@ -6,27 +6,25 @@ meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 
 hero:
-  image:
+  image: 16x9/join-give/valhallawebart_h.jpg
   alt:
   caption:
 related:
-
+ - /join-give/make-a-gift/planned/
 
 navigation:
   order: 30
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
-  image:         # Defaults to cropped page hero image
+  image: 46x21/join-give/valhallawebart_m.jpg
   alt:
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
-  teaser:        # Defaults to page meta-description
+  teaser: Vesterheim thanks these Valhalla Society members, who have chosen to honor their passion for preservation with planned giving.
 ---
-Founded in 1989, the Valhalla Society consists of a special group of donors who have chosen to honor their passion for preservation with planned giving. Their gifts provide a lasting legacy for the future of Vesterheim. 
-
-There is no planned gift minimum for the Valhalla Society. By including the museum in your estate plans and notifying Vesterheim of your plan, you will be honored as a member of the Valhalla Society. If you have already established a planned gift that includes Vesterheim, please let us know by contacting Steve Grinna at 563-382-9681, ext. 109, or sgrinna@vesterheim.org. Once Vesterheim is informed of your plans, you will become a member of the Valhalla Society. 
+Founded in 1989, the Valhalla Society consists of a special group of donors who have chosen to honor their passion for preservation with planned giving. These gifts provide a lasting legacy for the future of Vesterheim.  
 
 ### Valhalla Members
 

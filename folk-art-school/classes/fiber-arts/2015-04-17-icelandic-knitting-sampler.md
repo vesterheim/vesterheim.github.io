@@ -19,7 +19,7 @@ materials_fee: ~
 materials: ~
 
 lead:
-  image: folk-art-school/classes/2015/icelandic-knitting-sampler--magnússon-hélène.jpg
+  image: folk-art-school/classes/2015/icelandic-knitting-sampler--magnússon-hélène.jpg
   alt: ~
   caption: ~
   pull: right

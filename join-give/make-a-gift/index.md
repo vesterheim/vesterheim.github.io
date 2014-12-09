@@ -16,7 +16,7 @@ navigation:
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
-  image: 46x21/join-give/farmers_merchants_make_gift.jpg
+  image: 46x21/join-give/bruening-donation.jpg
   alt:
   caption:
   title:         # Defaults to navigation title
@@ -36,7 +36,7 @@ Opportunities for Giving:
 
 [Make a gift right now](https://vesterheim.wufoo.com/forms/m1ufzvni19c3srk/). Gifts at all levels are important to Vesterheim.
 
-{% include button.html text="Make Your Gift Now" url="https://vesterheim.wufoo.com/forms/m1ufzvni19c3srk/" style="primary" %} 
+{% include button.html text="Make Your Gift Now" url="/join-give/make-a-gift/donate/form/" style="primary" %} 
 
 ### Pledge Your Support 
 
@@ -52,7 +52,7 @@ Opportunities for Giving:
 
 ### Non-Cash Gifts
 
-Consider donating [time](/join-give/volunteer/), [objects](/join-give/make-a-gift/object/), transfers of stock, etc.
+Consider donating [time](/join-give/volunteer/), [objects](/join-give/make-a-gift/object/), [transfers of stock,](mailto:sgrinna@vesterheim.org) etc.
 
 
 {% include button.html text="Volunteer" url="/join-give/volunteer/" style="primary" %} 

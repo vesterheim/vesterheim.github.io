@@ -10,7 +10,6 @@ hero:
   alt:
   caption:
 related:
-  - /join-give/membership/corporate/list/
 
 navigation:
   order: 10
@@ -30,7 +29,7 @@ How to Join
 -----------
 {: .heading--large }
 
-Please print a corporate membership form (pdf) and send the form, along with your check or credit card information to: <br />
+Please print a corporate membership [form](/join-give/membership/forms-pdf/corporate-membership.pdf) (pdf) and send the form, along with your check or credit card information to: <br />
 Corporate Membership<br />
 Vesterheim Museum<br />
 P.O. Box 379<br />
@@ -85,13 +84,12 @@ Vesterheim is a proud partner in the Decorah community. We are pleased to join f
 Additionally, Vesterheim is active in the Decorah area through:
 
 * The Decorah Area Chamber of Commerce
-* The Downtown Betterment Association
+* The Downtown Decorah Betterment Association
 * Winneshiek County Convention and Visitor Bureau
 * Winneshiek County Preservation Commission
 * Winneshiek County Historical and Genealogical Societies
 * The Nordic Fest Board
 * The Retail Association
-* Decorah Rotary Club
 * Supporting and working in cooperation with other local cultural organizations and groups
 * Buying from and supporting local businesses
 * Decorah Torske Klubben

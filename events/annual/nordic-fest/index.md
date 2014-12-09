@@ -23,6 +23,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-Vikings, folk-art, theater productions, storytellers, art demonstrations, and more—Vesterheim is always a center of activity during Decorah’s Annual Nordic Fest.
+Vikings, folk-art, storytellers, art demonstrations, and more—Vesterheim is always a center of activity during Decorah’s Annual Nordic Fest.
 
 Nordic Fest is a celebration of the spirit of Scandinavia, and includes fun activities for the whole family. The city-wide festival is held each year on the last full weekend in July. Traditions new and old abound throughout the weekend. There is always lively dancing, challenging sporting events, delicious food, and lots of other entertainment. To learn more about other aspects of the fest, call the “troll-free” hotline at 1-800-382-FEST, or visit [Nordic Fest](http://www.nordicfest.com/).

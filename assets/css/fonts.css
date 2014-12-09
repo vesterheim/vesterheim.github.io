@@ -1,0 +1,27 @@
+/**
+ * Simple Terms of Use
+ *
+ * Manfred’s fonts are free for private and charity use. 
+ * They are even free for commercial use – but if there’s 
+ * any profit, pls make a donation to organizations like 
+ * Doctors Without Borders.
+ *
+ */
+@font-face {
+  font-family: 'FranKlein';
+  src: url('//vesterheim.org/assets/fonts/frankleinmedium-webfont.eot');
+  src: url('//vesterheim.org/assets/fonts/frankleinmedium-webfont.eot?&1417372964#iefix') format("embedded-opentype"), url('//vesterheim.org/assets/fonts/frankleinmedium-webfont.woff2') format("woff2"), url('//vesterheim.org/assets/fonts/frankleinmedium-webfont.woff') format("woff"), url('//vesterheim.org/assets/fonts/frankleinmedium-webfont.ttf') format("truetype"), url('//vesterheim.org/assets/fonts/frankleinmedium-webfont.svg#frankleinmediumregular') format("svg");
+  font-weight: 400;
+  font-style: normal; }
+@font-face {
+  font-family: 'FranKlein';
+  src: url('//vesterheim.org/assets/fonts/frankleinbold-webfont.eot');
+  src: url('//vesterheim.org/assets/fonts/frankleinbold-webfont.eot?&1417372964#iefix') format("embedded-opentype"), url('//vesterheim.org/assets/fonts/frankleinbold-webfont.woff2') format("woff2"), url('//vesterheim.org/assets/fonts/frankleinbold-webfont.woff') format("woff"), url('//vesterheim.org/assets/fonts/frankleinbold-webfont.ttf') format("truetype"), url('//vesterheim.org/assets/fonts/frankleinbold-webfont.svg#frankleinboldregular') format("svg");
+  font-weight: 700;
+  font-style: normal; }
+@font-face {
+  font-family: 'FranKlein';
+  src: url('//vesterheim.org/assets/fonts/frankleinbook-webfont.eot');
+  src: url('//vesterheim.org/assets/fonts/frankleinbook-webfont.eot?&1417372964#iefix') format("embedded-opentype"), url('//vesterheim.org/assets/fonts/frankleinbook-webfont.woff2') format("woff2"), url('//vesterheim.org/assets/fonts/frankleinbook-webfont.woff') format("woff"), url('//vesterheim.org/assets/fonts/frankleinbook-webfont.ttf') format("truetype"), url('//vesterheim.org/assets/fonts/frankleinbook-webfont.svg#frankleinbookregular') format("svg");
+  font-weight: 100;
+  font-style: normal; }

@@ -11,6 +11,7 @@ show_pagelist_menu: true
 
 navigation:
   order: 50
+  site_root: true  
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  

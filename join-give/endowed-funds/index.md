@@ -24,7 +24,7 @@ pagelist:
 ---
 Preserving Heritage for Future Generations
 ------------------------------------------
-Vesterheim is fortunate to have friends who are eager to express their generosity by supporting its future with charitable gifts. Our list of Endowed Funds illustrates how private contributions make a difference. This compilation of endowed funds established at Vesterheim from its beginning in 1877 to the present reflects a history of philanthropy at the nation’s most comprehensive museum dedicated to a single immigrant group.
+Vesterheim is fortunate to have friends who are eager to express their generosity by supporting its future with charitable gifts. Our list of endowed funds illustrates how private contributions make a difference. This compilation of endowed funds established at Vesterheim from its beginning in 1877 to the present reflects a history of philanthropy at the nation’s most comprehensive museum dedicated to a single immigrant group.
 
 What is an endowed fund?
 ------------------------
@@ -34,7 +34,7 @@ Why establish an endowed fund?
 ------------------------------
 There is a growing need for the museum to secure long-term financial stability in order to deliver reliable service despite changes in the economy. Building endowments is one of the most important ways to ensure Vesterheim’s financial health. Each gift is an investment in the future of Vesterheim, one of America’s most treasured cultural resources.
 
-Donors are encouraged to name the endowment in a way meaningful to them (i.e., Johnson Family Fund, John Johnson Fund for Excellence, etc.)
+Donors are encouraged to name the endowment in a way meaningful to them (i.e., Johnson Family Fund, John Johnson Fund for Excellence, etc.).
 
 What is the minimum amount necessary to establish an endowed fund at Vesterheim?
 --------------------------------------------------------------------------------
@@ -42,7 +42,7 @@ You can contribute any amount to any of the listed endowed funds, or create your
 
 What are Vesterheim’s established endowed funds?
 ------------------------------------------------
-See a list of Vesterheim’s endowed funds here.
+See a list of Vesterheim’s endowed funds [here](/join-give/endowed-funds/list/).
 
 How do I learn more about Vesterheim’s endowed funds?
 -----------------------------------------------------

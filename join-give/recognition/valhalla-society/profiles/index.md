@@ -10,18 +10,19 @@ hero:
   alt:
   caption:
 related:
-
+ - /join-give/make-a-gift/planned/
+ 
 navigation:
   order: 10
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
-  image:         # Defaults to cropped page hero image
+  image: 46x21/join-give/valhallawebart_m.jpg
   alt:
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
-  teaser:        # Defaults to page meta-description
+  teaser: See what these planned giving donors have to say about their Vesterheim connections.
 ---
 A planned gift is a great way to ensure the continuation of the outstanding work that is being done at the museum. See what these planned giving donors have to say about their Vesterheim connections.
 

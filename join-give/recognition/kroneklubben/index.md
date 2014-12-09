@@ -278,8 +278,8 @@ Kroneklubben Members
 - Pearl Husby
 - IBM Corporation
 - Connie Jacobson*
-- Jay L. and Sandra O. Jensen
 - Jerry and Jo Sonja Jansen
+- Jay L. and Sandra O. Jensen
 - The John R. Cross Fund of The Saint Paul Foundation
 - Darold E. and Carol O. Johnson
 - Dennis and Carole Johnson

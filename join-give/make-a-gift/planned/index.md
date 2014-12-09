@@ -18,24 +18,24 @@ navigation:
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
-  image:         # Defaults to cropped page hero image
+  image: 46x21/join-give/valhallawebart_m.jpg
   alt:
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
-  teaser:        # Defaults to page meta-description
+  teaser: Join the Valhalla Society. Including Vesterheim in your estate plans can be a great way to benefit the museum and leave a lasting legacy.
 ---
 Planned gifts are instrumental in helping Vesterheim maintain the activities and programs so essential to our members and visitors. These gifts provide a lasting legacy for the future of Vesterheim. Including Vesterheim in your estate plans can be a great way to benefit the museum, while meeting your current income needs and providing for future heirs.
 
 How Do I Establish a Planned Gift?
 ----------------------------------
-One of the most common forms of planned gifting is a will or trust bequest. To gift using a bequest is as simple as inserting a few sentences in your will. For example, “I give ($ amount) to Vesterheim Norwegian-American Museum.”
+One of the most common forms of planned gifting is a will or trust bequest. To gift using a bequest is as simple as inserting a few sentences in your will. For example, “I give ($ amount) to Vesterheim Norwegian-American Museum.” 
 
 There are also ways you can make a significant future gift while retaining the income you receive from the asset used to make the gift. Two common examples of these types of gifts are: Retained Life Estate and Charitable Remainder Trusts.
 
 For details on how to set up planned giving, please contact Steve Grinna at 563-382-9681, ext. 109, or email at [sgrinna@vesterheim.org](mailto:sgrinna@vesterheim.org). Restrictions apply, so consult with your financial adviser to determine how such a gift would affect your overall tax and estate planning, as well as the rules pertaining to your state of residence.
 
-If you have already included Vesterheim in your estate plans, please print a Valhalla membership form (pdf) and send the form to: <br />
+If you have already included Vesterheim in your estate plans, please print a Valhalla membership [form](/join-give/recognition/valhalla-society/forms/valhalla.pdf) (pdf) and send the form to: <br />
 Development Department<br />
 Vesterheim Museum<br />
 P.O. Box 379<br />
@@ -53,9 +53,10 @@ What Are The Planned Giving Options?
 
 What Are the Benefits of Planned Giving?
 ----------------------------------------
-Everyone who makes a planned gift to Vesterheim and notifies Vesterheim that this gift is coming becomes a member of the museum's Valhalla Society. Founded in 1989, the Valhalla Society consists of a special group of donors who have chosen to honor their passion for preservation with planned giving. 
+Everyone who makes a planned gift to Vesterheim and notifies Vesterheim that this gift is coming becomes a member of the museum's Valhalla Society. Founded in 1989, the Valhalla Society consists of a special group of donors who have chosen to honor their passion for preservation with planned giving. There is no planned gift minimum for the Valhalla Society. 
 
 Other benefits of planned giving include:
+
 * Assure that your family is provided for after your death.
 * Ensure your assets are distributed according to your wishes.
 * Through proper planning, leverage estate tax savings.
