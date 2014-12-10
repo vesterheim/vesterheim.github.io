@@ -7,6 +7,11 @@ url: "http://vesterheim.github.io"
 twitter_username: jekyllrb
 github_username:  jekyll
 
+google_analytics:
+  id: UA-1653553-1
+  domain: .vesterheim.org
+production: false
+
 timezone: America/Chicago
 exclude: 
   - Gemfile
