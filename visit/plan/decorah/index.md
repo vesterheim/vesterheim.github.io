@@ -29,7 +29,7 @@ More than just a diversion, the Decorah area, or “Bluff Country,” is nestled
 
 Thriving, quaint shops fill the downtown area, four-star restaurants tempt the palate, cultural and historic venues entertain, and recreational opportunities blanket the entire region. Whatever the season—your stay is sure to be unforgettable!
 
-{% include image--full-width.html image="16x9/decorah/fish-hatchery.jpg" alt="Seiwer's Springs is the site of Decorah's fish hatchery, Trout Run Trail, and eagle nest." caption="Seiwer's Springs is the site of Decorah's fish hatchery, Trout Run Trail, and eagle nest." %}
+{% include images/full-width.html image="16x9/decorah/fish-hatchery.jpg" alt="Seiwer's Springs is the site of Decorah's fish hatchery, Trout Run Trail, and eagle nest." caption="Seiwer's Springs is the site of Decorah's fish hatchery, Trout Run Trail, and eagle nest." %}
 
 * Link to [Visit Decorah](http://www.visitdecorah.com/)
 * Link to [Northeast Iowa](http://visitiowa.org/)

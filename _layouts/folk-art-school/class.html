@@ -57,7 +57,7 @@ layout: page
 	{% for class__instructor__page in class__instructor__pages %}
 	<div style="clear: both;">
 		{% if class__instructor__pages.size > 1 %}<h3>{{ class__instructor__page.title | xml_escape }}</h3>{% endif %}
-		{% if class__instructor__page.lead.image %}{% include image--lead.html image=class__instructor__page.lead.image alt=class__instructor__page.lead.alt caption=class__instructor__page.lead.caption ratio="fourth" %}{% endif %}
+		{% if class__instructor__page.lead.image %}{% include images/lead.html image=class__instructor__page.lead.image alt=class__instructor__page.lead.alt caption=class__instructor__page.lead.caption ratio="fourth" %}{% endif %}
 		{{ class__instructor__page.content | markdownify }}
 	</div>
 	{% endfor %}

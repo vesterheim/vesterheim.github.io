@@ -28,7 +28,7 @@ Online
 ------
 Your secure, online contribution allows your donation to go to work at once. Your gift will be acknowledged via email or regular mail. 
 
-{% include button.html text="Make Your Gift Now" url="/join-give/make-a-gift/donate/form/" style="primary" %} 
+{% include components/button.html text="Make Your Gift Now" url="/join-give/make-a-gift/donate/form/" style="primary" %} 
 
 Mail
 ----

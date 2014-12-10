@@ -7,7 +7,7 @@
 	{% if norway_tours_guides__guide %}
 		{% assign norway_tours_guides__display = true %}
 		{% assign norway_tours_guides__output = '<div class="group  x-paragraph-margins">' %}
-		{% capture norway_tours_guides__image %}{% include image--lead.html ratio='fourth' image=norway_tours_guides__guide.lead.image alt=norway_tours_guides__guide.lead.alt caption=norway_tours_guides__guide.lead.caption %}{% endcapture %}
+		{% capture norway_tours_guides__image %}{% include images/lead.html ratio='fourth' image=norway_tours_guides__guide.lead.image alt=norway_tours_guides__guide.lead.alt caption=norway_tours_guides__guide.lead.caption %}{% endcapture %}
 		{% assign norway_tours_guides__output = norway_tours_guides__output | append: norway_tours_guides__image %}
 		{% assign norway_tours_guides__output = norway_tours_guides__output | append: norway_tours_guides__guide.output %}
 		{% assign norway_tours_guides__output = norway_tours_guides__output | append: '</div>' %}		
