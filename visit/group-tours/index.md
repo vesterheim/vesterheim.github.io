@@ -47,7 +47,7 @@ Bus Parking
 -----------
 For your convenience, disembark at the Bruening Visitor Center on the corner of Water Street and Mechanic Street. Motorcoach parking is located on Mill Street between Water Street and Heivly Street.
 
-{% include image--full-width.html image="16x9/maps/campus-map.png" alt="Vesterheim Campus Map." caption="Disembarking locations for group tours and bus parking." %}
+{% include images/full-width.html image="16x9/maps/campus-map.png" alt="Vesterheim Campus Map." caption="Disembarking locations for group tours and bus parking." %}
 
 Accessibility
 -------------
