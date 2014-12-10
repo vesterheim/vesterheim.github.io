@@ -1,8 +1,5 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<html class="no-js" lang="en">
 {% include global/head.html %}
 <body{% if page.css_theme %} class="{{ page.css_theme }}"{% endif %}>
 
@@ -18,6 +15,6 @@
 {% include global/footer.html %}
     </div>
 {% include global/javascript--foot.html %}
-{% if site.production == false %}{{ site.time | date_to_rfc822 }}{% endif %}
+{% if site.production != true %}{{ site.time | date_to_rfc822 }}{% endif %}
 </body>
 </html>
