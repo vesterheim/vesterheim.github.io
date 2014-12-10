@@ -53,14 +53,14 @@ defaults:
     scope:
       path: folk-art-school/instructors
     values:
-      layout: instructor
+      layout: folk-art-school/instructor
       navigation:
         exclude: true
   -
     scope:
       path: folk-art-school/classes
     values:
-      layout: class
+      layout: folk-art-school/class
       navigation:
         exclude: true
 # The scoping is correct, but see about about setting the navigation hash
