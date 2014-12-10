@@ -39,7 +39,7 @@ Decorah was featured in _Smithsonian Magazine’s_ annual list of the 20 best sm
 
 Whatever the season—your stay is sure to be unforgettable!
 
-{% include image--full-width.html image="16x9/decorah/fish-hatchery.jpg" alt="Seiwer's Springs is the site of Decorah's fish hatchery, Trout Run Trail, and eagle nest." caption="Seiwer's Springs is the site of Decorah's fish hatchery, Trout Run Trail, and eagle nest." %}
+{% include images/full-width.html image="16x9/decorah/fish-hatchery.jpg" alt="Seiwer's Springs is the site of Decorah's fish hatchery, Trout Run Trail, and eagle nest." caption="Seiwer's Springs is the site of Decorah's fish hatchery, Trout Run Trail, and eagle nest." %}
 
 * Link to [Visit Decorah](http://www.visitdecorah.com/)
 * Link to [Northeast Iowa](http://visitiowa.org/)
