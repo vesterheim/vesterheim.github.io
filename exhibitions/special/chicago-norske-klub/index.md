@@ -25,7 +25,7 @@ pagelist:
 ---
 The Chicago Norske Klub was a center in Chicago for Norwegian-American social, cultural, and artistic activities from 1911 to 1971. This exhibition shares the history of the club, as well as artworks and furnishings from the clubhouse.
 
-The club aimed to preserve Norwegian cultural heritage and promote sociability among members. Social activities were varied and interesting—men’s chorus, dramatic society, art exhibitions, banquets, and women’s auxiliary. Over the years the club hosted prominent visitors, such as explorers Fritjof Nansen and Roald Amundsen, authors Ole Rolvaag and Johan Bojer, the King and Queen of Romania, and many Norwegian dignitaries including the King and Queen of Norway.
+The club aimed to preserve Norwegian cultural heritage and promote sociability among members. Social activities were varied and interesting—men’s chorus, dramatic society, art exhibitions, banquets, and women’s auxiliary. Over the years the club hosted prominent visitors, such as explorers Fridtjof Nansen and Roald Amundsen, authors Ole Rolvaag and Johan Bojer, the King and Queen of Romania, and many Norwegian dignitaries including the King and Queen of Norway.
 
 The club often hosted benefits for American and Norwegian causes. For example, they raised $65,000 for the organization American Relief for Norway during World War II. During both world wars, the women’s auxiliary formed Red Cross chapters
 

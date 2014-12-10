@@ -68,6 +68,6 @@ Vesterheim’s rental bridal crown is a copy of an historic one in the museum’
 ### Rate
 {: .heading--black--mixed-case }
 
-Cost to rent the crown is $75. Vesterheim requires a separate check for $200 as a security deposit. The deposit check will be returned after the crown is returned in good condition. Borrowers must also pay for insured round-trip shipping unless they transport it by hand. Borrowers are required to sign a loan form to show they accept responsibility and will cover the insurance ($1,000) value while in their possession.
+Cost to rent the crown is $100. Vesterheim requires a separate check for $500 as a security deposit. The deposit check will be returned after the crown is returned in good condition. Borrowers must also pay for insured round-trip shipping unless they transport it by hand. Borrowers are required to sign a loan form to show they accept responsibility and will cover the insurance ($1,000) value while in their possession.
 
 **For information or to make a reservation, email [Laurann Gilbertson](mailto:lgilbertson@vesterheim.org), Chief Curator, or contact her at Vesterheim Museum, 502 W. Water St., Decorah, IA 52101, or 563-382-9681.**

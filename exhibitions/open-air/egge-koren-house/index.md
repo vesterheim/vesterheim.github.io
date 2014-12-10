@@ -23,4 +23,4 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-A typical first home built by immigrants of the husmann, or tenant farmer, class in Norway. It has been preserved in part because the owners, the Egge family, hosted a newly arrived Norwegian pastor, U.V. Koren, and his wife Elisabeth over the winter of 1853-54. U.V. Koren eventually established congregations and a legacy of service in a large geographic area out from Decorah. Elisabeth’s diary, available in Vesterheim’s Museum Store, describes the house and recounts local pioneer life in detail.
+A typical first home built by immigrants of the _husmann,_ or tenant farmer class, in Norway. It has been preserved in part because the owners, the Egge family, hosted a newly arrived Norwegian pastor, U.V. Koren, and his wife Elisabeth over the winter of 1853-54. U.V. Koren eventually established congregations and a legacy of service in a large geographic area out from Decorah. Elisabeth’s diary, available in Vesterheim’s Museum Store, describes the house and recounts local pioneer life in detail.

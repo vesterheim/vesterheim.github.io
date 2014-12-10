@@ -43,7 +43,7 @@ Prices
 *   Museum members - free
 *   First Thursday of each month - free admission 
 
-Take your time and tour Vesterheim's Main Building at your own pace. There is a lot to see. If you want to see it all, we'd advise a full day. Don't have that long? Check out What to See in a Limited Time.
+Take your time and tour Vesterheim's Main Building at your own pace. There is a lot to see. If you want to see it all, we'd advise a full day. Don't have that long? Check out [What to See in a Limited Time](/visit/plan/itineraries/one-hour/).
 
 Guided tours of the museum’s Open Air Division are included with admission price and scheduled at 1:30 p.m. daily May 1 through Oct. 31. (Tours occasionally take place at different times. Please confirm tour time with a desk attendant upon your arrival, or call ahead.)
 

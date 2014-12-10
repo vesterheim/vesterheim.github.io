@@ -23,12 +23,12 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description    
 ---
-The WOW Program, which developed in partnership between Vesterheim and the Decorah Community Schools, helps students understand change over time through the history of agriculture. The program is geared toward third-graders and includes information, historic photographs, and local history as a basis for social studies curriculum.
+The WOW Program, which developed in partnership between Vesterheim and the Decorah Community Schools, helps students understand change over time through agricultural tools and technology. The program is geared toward third-graders and includes guided exploration, hands-on activities, and access to historic photographs as a basis for social studies curriculum.
 
 A highlight of the program is a visit to Vesterheim when students and their parent or grandparent guests use nineteenth-century agricultural technology and machinery to press apples, make rope, shell corn, hand-thresh grain, and more.
 
-The program is funded through 2019 by Gundersen Lutheran Health System.
+The program is funded through 2019 by Gundersen Health System.
 
-Gundersen Lutheran’s support of this program is significant because the funding ensures that over 600 area third graders will have access to meaningful and fun learning experiences that support and enhance the school curriculum. 
+Gundersen’s support of this program is significant because the funding ensures that each year over 150 area third graders will have access to meaningful and fun learning experiences that support and enhance the school curriculum. 
 
 For more information about the Vesterheim WOW Program and how your school can participate, please contact Vesterheim at 563-382-9681 or [info@vesterheim.org](mailto:info@vesterheim.org).

@@ -12,7 +12,7 @@ hero:
 related:
 
 navigation:
-  order: 100
+  order: 20
 pagelist:
   order:         # Defaults to navigation order
   image: 46x21/contact/staff.jpg

@@ -28,15 +28,15 @@ pagelist:
 
 Exhibition of Projects and Open House
 -------------------------------------
-The pioneer projects and journals that each student makes during the program form a special exhibition so that parents, friends, relatives, and the community can view the student’s work. Everyone is invited to view this fantastic show. The students are always so proud to see their work in a real museum exhibition.
+The pioneer projects and journals that local fourth graders make during the program form a special exhibition so that parents, friends, relatives, and the community can view the student’s work. Everyone is invited to view and celebrate this fantastic show. The students are always so proud to see their work in a real museum exhibition.
 
 The Program
 -----------
 Vesterheim’s Pioneer Immersion Program is an innovative cooperative effort between the museum and area schools.
 
-The Immersion Program uses the Norwegian-American experience as a case study and jumping-off point for exploring the experiences of other immigrant groups during the time period. Students use artifacts, archival materials, and hands-on activities to gain a better understanding of what it meant for immigrants to journey from their homelands and establish new lives in America.
+The Immersion Program uses the Norwegian-American experience as a jumping-off point for exploring the experiences of other immigrant groups during the nineteenth and twentieth centuries. Students use artifacts, archival materials, and hands-on activities to gain a better understanding of what it meant for immigrants to journey from their homelands and establish new lives in America.
 
-The program includes instruction in the school classrooms and a series of Vesterheim visits in which students tour the museum and participate in several pioneer activities.
+The program includes instruction in the school classrooms and a series of Vesterheim visits in which students explore the museum and participate in several pioneer activities.
 
 “Students look forward to the Vesterheim Immersion Program every year,” Karen Van Der Maaten, fourth-grade teacher at Carrie Lee Elementary School in Decorah, said. “It gives them an opportunity to experience what life was like as an immigrant in the nineteenth and twentieth centuries. The hands-on activities and projects make history come alive for the students,” she explained.
 

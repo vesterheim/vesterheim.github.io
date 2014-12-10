@@ -12,10 +12,10 @@ hero:
 related:
 
 navigation:
-  order: 20
+  order: 40
 pagelist:
   order:         # Defaults to navigation order
-  image: ~
+  image: 46x21/about/annualreport.jpg
   alt: 
   caption:
   title:         # Defaults to navigation title

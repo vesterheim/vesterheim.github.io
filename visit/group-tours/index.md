@@ -47,6 +47,8 @@ Bus Parking
 -----------
 For your convenience, disembark at the Bruening Visitor Center on the corner of Water Street and Mechanic Street. Motorcoach parking is located on Mill Street between Water Street and Heivly Street.
 
+{% include image--full-width.html image="16x9/maps/campus-map.png" alt="Vesterheim Campus Map." caption="Disembarking locations for group tours and bus parking." %}
+
 Accessibility
 -------------
 All areas of the Main Building, Westby-Torgerson Education Center, Amdal-Odland Heritage Center, and the Bethania Church are wheelchair accessible, but some of the buildings in the Open Air Division are not. We apologize for any inconvenience. Please let us know if any member of your party requires special accommodation or assistance.
