@@ -2,23 +2,23 @@
 {% if page.url != '/' %}        
             <div class="layout__page  layout__page--padded--xs-m  layout__page--padded--m-xl  layout__breadcrumbs  breadcrumbs__wrapper">
                 <div class="layout__breadcrumbs__lining  layout__main--constrained__padding">
-{% include nav/breadcrumbs.html %}
+{% include navigation/breadcrumbs.html %}
                 </div>
             </div>
 {% endif %}            
             <div class="layout__nav--menu  nav--menu" id="menu">
                 <div class="layout__nav--site  layout__nav--page-head  nav--site__wrapper">
-{% include nav/site.html %}
+{% include navigation/site.html %}
                 </div>
 
                 <div class="layout__nav--page-head  layout__nav--meta  nav--meta__wrapper">
-{% include nav/meta.html %}
+{% include navigation/meta.html %}
                 </div>
 
                 <div class="layout__nav--featured  layout__nav--page-head">
-{% include nav/featured.html %}
+{% include navigation/featured.html %}
                 </div> 
 
-{% include nav/top-link.html%}          
+{% include navigation/top-link.html%}          
             </div>
         </nav> 
