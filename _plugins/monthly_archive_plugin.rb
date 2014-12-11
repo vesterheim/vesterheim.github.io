@@ -30,9 +30,12 @@ module Jekyll
   # Generator class invoked from Jekyll
   class MonthlyArchiveGenerator < Generator
     def generate(site)
-      posts_group_by_year_and_month(site).each do |ym, list|
+      posts = posts_group_by_year_and_month(site)
+      first_post =  posts.min_by { |k,v| Date.new(k[0], k[1]) }
+      last_post =  posts.max_by { |k,v| Date.new(k[0], k[1]) }
+      posts.each do |ym, list|
         site.pages << MonthlyArchivePage.new(site, MonthlyArchiveUtil.archive_base(site),
-                                             ym[0], ym[1], list)
+                                             ym[0], ym[1], list, Date.new(first_post[0][0], first_post[0][1]), Date.new(last_post[0][0], last_post[0][1]))
       end
       rescue => exception
         puts exception.backtrace
@@ -72,18 +75,24 @@ module Jekyll
       content
     ]
 
-    def initialize(site, dir, year, month, posts)
+    def initialize(site, dir, year, month, posts, first_month, last_month)
       @site = site
       @dir = dir
       @year = year
       @month = month
-      @archive_dir_name = '%04d/%02d' % [year, month]
+      @archive_dir_name = '%04d/%d' % [year, month]
       @date = Date.new(@year, @month)
       @layout =  site.config['monthly_archive'] && site.config['monthly_archive']['layout'] || 'monthly_archive'
       nxt_previous_months = get_next_previous_month(year, month)
+      @current_month = {'year' => year, 'month' => '%d' % [month]}
       @previous_month = nxt_previous_months['previous-month']
-      @current_month = {'year' => year, 'month' => '%02d' % [month]}
       @next_month = nxt_previous_months['next-month']
+      if Date.new(@previous_month['year'], @previous_month['month']) < first_month then
+          @previous_month = {'year' => nil, 'month' => nil}
+      end
+      if Date.new(@next_month['year'], @next_month['month']) > last_month then
+          @next_month = {'year' => nil, 'month' => nil}
+      end
       weeks = build_month_calendar(year, month)
       self.ext = '.html'
       self.basename = 'index'
@@ -97,7 +106,7 @@ module Jekyll
             'exclude' => true
           },
           'type' => 'archive',
-          'title' => '%02d' % [month],
+          'title' => '%d' % [month],
           'posts' => posts,
           'previous_month' => @previous_month,
           'current_month' => @current_month,
@@ -135,11 +144,11 @@ module Jekyll
 
     def get_next_previous_month(year, month)
         if month == 12 
-          {'next-month' => {'year' => year+1, 'month' => '01'}, 'previous-month' => {'year' => year, 'month' => '%02d' % [month-1]}}
+          {'next-month' => {'year' => year+1, 'month' => 1}, 'previous-month' => {'year' => year, 'month' => month-1}}
         elsif month == 1 
-          {'next-month' => {'year' => year, 'month' => '%02d' % [month+1] }, 'previous-month' => {'year' => year-1, 'month' => '12'}}
+          {'next-month' => {'year' => year, 'month' => month+1 }, 'previous-month' => {'year' => year-1, 'month' => 12}}
         else 
-          {'next-month' => {'year' => year, 'month' => '%02d' % [month+1] }, 'previous-month' => {'year' => year, 'month' => '%02d' % [month-1]}}
+          {'next-month' => {'year' => year, 'month' => month+1 }, 'previous-month' => {'year' => year, 'month' => month-1}}
         end
     end
 

@@ -30,9 +30,12 @@ module Jekyll
   # Generator class invoked from Jekyll
   class YearlyArchiveGenerator < Generator
     def generate(site)
-      posts_group_by_year(site).each do |y, list|
+      posts = posts_group_by_year(site)
+      first_post =  posts.min_by { |k,v| Date.new(k[0], k[1]) }
+      last_post =  posts.max_by { |k,v| Date.new(k[0], k[1]) }
+      posts.each do |y, list|
         site.pages << YearlyArchivePage.new(site, YearlyArchiveUtil.archive_base(site),
-                                             y[0], list)
+                                             y[0], list, Date.new(first_post[0][0], first_post[0][1]), Date.new(last_post[0][0], last_post[0][1]))
       end
       rescue => exception
         puts exception.backtrace
@@ -50,10 +53,10 @@ module Jekyll
               date_range = Date.new(occurrence['start-date'].year)..Date.new(occurrence['end-date'].year)
               years_in_range = date_range.select {|d| d.month == 1 && d.day == 1}
               years_in_range.each do |year|
-                posts_hash[[year.year]] << post
+                posts_hash[[year.year, year.month]] << post
               end
             else
-              posts_hash[[occurrence['start-date'].year]] << post
+              posts_hash[[occurrence['start-date'].year, occurrence['start-date'].month]] << post
             end
           end
         end
@@ -72,7 +75,7 @@ module Jekyll
       content
     ]
 
-    def initialize(site, dir, year, posts)
+    def initialize(site, dir, year, posts, first_month, last_month)
       @site = site
       @dir = dir
       @year = year
@@ -81,8 +84,14 @@ module Jekyll
       @layout =  site.config['yearly_archive'] && site.config['yearly_archive']['layout'] || 'yearly_archive'
       nxt_previous_months = get_next_previous_month(year, 1)
       @previous_month = nxt_previous_months['previous-month']
-      @current_month = {'year' => year, 'month' => '%02d' % [1]}
+      @current_month = {'year' => year, 'month' => 1}
       @next_month = nxt_previous_months['next-month']
+      if Date.new(@previous_month['year'], @previous_month['month']) < first_month then
+          @previous_month = {'year' => nil, 'month' => nil}
+      end
+      if Date.new(@next_month['year'], @next_month['month']) > last_month then
+          @next_month = {'year' => nil, 'month' => nil}
+      end
       weeks = build_month_calendar(year, 1)
       self.ext = '.html'
       self.basename = 'index'
@@ -134,11 +143,11 @@ module Jekyll
 
     def get_next_previous_month(year, month)
         if month == 12 
-          {'next-month' => {'year' => year+1, 'month' => '01'}, 'previous-month' => {'year' => year, 'month' => '%02d' % [month-1]}}
+          {'next-month' => {'year' => year+1, 'month' => 1}, 'previous-month' => {'year' => year, 'month' => month-1}}
         elsif month == 1 
-          {'next-month' => {'year' => year, 'month' => '%02d' % [month+1] }, 'previous-month' => {'year' => year-1, 'month' => '12'}}
+          {'next-month' => {'year' => year, 'month' => month+1 }, 'previous-month' => {'year' => year-1, 'month' => 12}}
         else 
-          {'next-month' => {'year' => year, 'month' => '%02d' % [month+1] }, 'previous-month' => {'year' => year, 'month' => '%02d' % [month-1]}}
+          {'next-month' => {'year' => year, 'month' => month+1 }, 'previous-month' => {'year' => year, 'month' => month-1}}
         end
     end
 
