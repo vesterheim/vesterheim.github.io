@@ -40,6 +40,9 @@ module Jekyll
     end
 
     def posts_group_by_year_month_day(site)
+      site.data['closed'].each do |closed_date|
+         closed_date
+      end
       posts_hash = Hash.new { |hash, key| hash[key] = [] }
       site.posts.each do |post|
         if post.data['occurrences'] then
@@ -48,10 +51,14 @@ module Jekyll
               date_range = Date.new(occurrence['start-date'].year, occurrence['start-date'].month, occurrence['start-date'].day)..
                            Date.new(occurrence['end-date'].year, occurrence['end-date'].month, occurrence['end-date'].day)
               date_range.each do |date|
-                posts_hash[[date.year, date.month, date.day]] << post
+                unless site.data['closed']['dates'].include? date
+                    posts_hash[[date.year, date.month, date.day]] << post
+                end 
               end
             else
-              posts_hash[[occurrence['start-date'].year, occurrence['start-date'].month, occurrence['start-date'].day]] << post
+              unless site.data['closed']['dates'].include? occurrence['start-date'] 
+                  posts_hash[[occurrence['start-date'].year, occurrence['start-date'].month, occurrence['start-date'].day]] << post
+              end 
             end
           end
         end
