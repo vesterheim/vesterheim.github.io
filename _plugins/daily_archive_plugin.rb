@@ -43,9 +43,6 @@ module Jekyll
     end
 
     def posts_group_by_year_month_day(site)
-      site.data['closed'].each do |closed_date|
-         closed_date
-      end
       posts_hash = Hash.new { |hash, key| hash[key] = [] }
       site.posts.each do |post|
         if post.data['occurrences'] then
@@ -72,6 +69,14 @@ module Jekyll
 
   # Actual page instances
   class ClosedPage < Page
+    
+      ATTRIBUTES_FOR_LIQUID = %w[
+        year,
+        month,
+        date,
+        content
+      ]
+
       def initialize(site, dir, year, month, day)
         @site = site
         @dir = dir
@@ -156,7 +161,7 @@ module Jekyll
       self.ext = '.html'
       self.basename = 'index'
       self.content = <<-EOS
-{% for post in page.posts %}<li><a href="{% if post.edirecte_to %}{{ post.redirect_to }}{% else %}{{ post.url }}{% endif %}"><span>{{ post.title }}</span></a></li>
+{% for post in page.posts %}<li><a href="{% if post.redirect_to %}{{ post.redirect_to }}{% else %}{{ post.url }}{% endif %}"><span>{{ post.title }}</span></a></li>
 {% endfor %}
       EOS
       self.data = {
