@@ -9,7 +9,7 @@ meta_description:  # Used in HTML head and as the description for some search en
 hero:
   image: 16x9/maps/decorah-map.jpg
   alt: Heat map of Decorah attractions
-  caption:
+  caption: Use the color key on the right to get an idea of everything there is to do in Decorah! Vesterheim is located right downtown, in the heart of all the activity.
 related:
 
 navigation:
@@ -23,13 +23,23 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-Decorah is a great place to visit. It’s a perfect getaway that is close by yet seems far from the hustle and bustle of everyday life.
+Decorah is a great place to visit. It’s a warm and vibrant town that makes a perfect getaway from the hustle and bustle of everyday life.
 
-More than just a diversion, the Decorah area, or “Bluff Country,” is nestled in the midst of towering bluffs and beautiful scenery. Winneshiek County and Decorah offer plenty of things to do, see, and experience.
+The Decorah area, or “Bluff Country,” is nestled in the midst of towering bluffs and beautiful scenery, offering plenty of outdoor recreation. 
 
-Thriving, quaint shops fill the downtown area, four-star restaurants tempt the palate, cultural and historic venues entertain, and recreational opportunities blanket the entire region. Whatever the season—your stay is sure to be unforgettable!
+Some great outdoor attractions include:
+* The Trout Run Trail, an 11-mile biking, walking, and running trail that loops the town
+* The Upper Iowa River with opportunities for canoeing and inner tubing, or just strolling along
+* Numerous scenic parks with streams, springs, and waterfalls; trails for biking, walking, and skiing; and even playground equipment for kids
+* The Decorah Community Prairie that includes a butterfly garden, river access, benches, native prairie plantings, and trails for walking, biking, and cross country skiing
 
-{% include image--full-width.html image="16x9/decorah/fish-hatchery.jpg" alt="Seiwer's Springs is the site of Decorah's fish hatchery, Trout Run Trail, and eagle nest." caption="Seiwer's Springs is the site of Decorah's fish hatchery, Trout Run Trail, and eagle nest." %}
+Decorah also boasts a thriving, charming downtown full of shops, many restaurants to tempt your palate, cultural and historic venues, and numerous cultural events and festivals. 
+
+Decorah was featured in _Smithsonian Magazine’s_ annual list of the 20 best small towns to visit in America, as well as being named in _Forbes_ ”America’s Prettiest Towns” list. 
+
+Whatever the season—your stay is sure to be unforgettable!
+
+{% include images/full-width.html image="16x9/decorah/fish-hatchery.jpg" alt="Seiwer's Springs is the site of Decorah's fish hatchery, Trout Run Trail, and eagle nest." caption="Seiwer's Springs is the site of Decorah's fish hatchery, Trout Run Trail, and eagle nest." %}
 
 * Link to [Visit Decorah](http://www.visitdecorah.com/)
 * Link to [Northeast Iowa](http://visitiowa.org/)

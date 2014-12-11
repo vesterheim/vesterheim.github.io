@@ -1,23 +1,20 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
-{% include head.html %}
+<html class="no-js" lang="en">
+{% include global/head.html %}
 <body{% if page.css_theme %} class="{{ page.css_theme }}"{% endif %}>
 
     <div class="layout__body">
 
-{% include header.html %}
-{% include nav/menu-button.html%} 
+{% include global/header.html %}
+{% include navigation/menu-button.html%} 
 
 {{ content }}
 
-{% include navigation.html %} 
+{% include global/navigation.html %} 
 
-{% include footer.html %}
+{% include global/footer.html %}
     </div>
-{% include javascript--foot.html %}
-{% if site.production == false %}{{ site.time | date_to_rfc822 }}{% endif %}
+{% include global/javascript--foot.html %}
+{% if site.production != true %}{{ site.time | date_to_rfc822 }}{% endif %}
 </body>
 </html>

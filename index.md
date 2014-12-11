@@ -38,7 +38,7 @@ carousel:
       published: false
       start_date:
       stop_date:
-    - image: 25x9/visit/syttende-mai-nordic-dancers.jpg
+    - image: 25x9/visit/syttende-mai-nordic-dancers2.jpg
       alt: Norwegian Festivals
       caption: Plan your visit to Vesterheim.
       link: /visit/what/
@@ -55,7 +55,7 @@ carousel:
     - image: 25x9/visit/norwegian_house.jpg
       alt: Alt for Norge
       caption: Vesterheim has the largest collection of Norwegian-American artifacts in the world!
-      link: /visit/what
+      link: /visit/what/
       published: true
       start_date:
       stop_date:

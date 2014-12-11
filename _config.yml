@@ -1,11 +1,16 @@
 # Site settings
 title: Vesterheim Norwegian-American Museum 
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+#email: your-email@domain.com
+#description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 baseurl: ""
-url: "http://vesterheim.github.io"
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://vesterheim.org"
+
+production: false
+
+google_analytics:
+  id: UA-1653553-1
+  domain: .vesterheim.org
+
 
 timezone: America/Chicago
 exclude: 
@@ -53,14 +58,14 @@ defaults:
     scope:
       path: folk-art-school/instructors
     values:
-      layout: instructor
+      layout: folk-art-school/instructor
       navigation:
         exclude: true
   -
     scope:
       path: folk-art-school/classes
     values:
-      layout: class
+      layout: folk-art-school/class
       navigation:
         exclude: true
 # The scoping is correct, but see about about setting the navigation hash

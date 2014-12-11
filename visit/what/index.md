@@ -28,9 +28,10 @@ But you don’t have to be Norwegian-American to enjoy all the beauty and wonder
 
 Museum History
 --------------
-In 1877, Norwegian Americans began collecting and preserving objects at Luther College in Decorah, Iowa, documenting their chapter of the immigrant story, making them pioneers in the preservation of cultural diversity in America.
-That early collection has grown into one of the most comprehensive museums in the United States dedicated to a single immigrant group—--Vesterheim Norwegian-American Museum, now an independent not-for-profit organization accredited by the American Alliance of Museums (AAM).
+In 1877, Norwegian Americans began collecting and preserving objects at [Luther College](https://www.luther.edu) in Decorah, Iowa, documenting their chapter of the immigrant story, making them pioneers in the preservation of cultural diversity in America.
+
+That early collection has grown into one of the most comprehensive museums in the United States dedicated to a single immigrant group—Vesterheim Norwegian-American Museum, now an independent not-for-profit organization accredited by the American Alliance of Museums (AAM).
 
 Folk Art School
 ---------------
-Vesterheim offers a wide range of courses in rosemaling, woodcarving & woodworking, textile arts, knifemaking, and food traditions. For more information and a complete list of classes, visit here.
+Vesterheim offers a wide range of courses in rosemaling, woodcarving & woodworking, textile arts, knifemaking, and food traditions. More information about Vesterheim's Folk Art School and a complete list of classes is available [here](/folk-art-school/).

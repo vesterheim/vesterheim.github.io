@@ -31,7 +31,7 @@ The exhibition is divided into four themes based on the functions of the symbols
 1. Symbols that attracted good forces, good luck, or good blessings—solar and rayed motifs, seasonal and rotating motifs.
 2. Symbols that promoted fertility of the family, the flocks, and the fields—“fertile field” with seeds, hooked rhombs, lozenges, horns, and spirals.
 3. Symbols that protected the family, the farm, farm animals, and farm products—zigzags, knots, locks, chains of opposites.
-4. Symbols that linked people to the spirit world, deities, and the sky/earth—trees of Life, equal-armed crosses, goddesses, birds, horses, deer.
+4. Symbols that linked people to the spirit world, deities, and the sky/earth—trees of life, equal-armed crosses, goddesses, birds, horses, deer.
 
 This traveling exhibition is based on one at Vesterheim that was curated by Mary B. Kelly. Support for the traveling exhibition is provided by Ed Hemphill and from Walmart.
 

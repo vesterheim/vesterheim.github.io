@@ -23,4 +23,4 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-This building type, a storehouse placed on pedestals to deter pests, was a symbol of wealth in Norway. Having surplus agricultural products to store defined success and survival. This is a rare example because they were seldom found on Norwegian-American farms. A building of this type was seldom found on a Norwegian immigrant farm. However, the _stabbur_-style of storehouse was common on more substantial Norwegian farms and in fact announced one’s status.
+This building type, a storehouse placed on pedestals to deter pests, was a symbol of wealth in Norway. Having surplus agricultural products to store defined success and survival. This is a rare example because they were seldom found on Norwegian-American farms. However, the _stabbur_-style of storehouse was common on more substantial Norwegian farms and in fact announced one’s status.

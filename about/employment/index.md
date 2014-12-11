@@ -12,7 +12,7 @@ hero:
 related:
 
 navigation:
-  order: 30
+  order: 50
 pagelist:
   order:         # Defaults to navigation order
   image: 46x21/people/store-employment.jpg

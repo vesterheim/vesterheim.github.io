@@ -38,7 +38,8 @@ Furnishings (numbering approximately 7,000 items)
 Objects chosen or custom-made to furnish public and private environments:
 
 * Home: furniture, table wares, household textiles
-* Church: altar paintings and surrounds, pulpits, baptismal fonts, pews, serving wares, paraments* Educational Institutions: desks, samplers, teaching aids
+* Church: altar paintings and surrounds, pulpits, baptismal fonts, pews, serving wares, paraments
+* Educational Institutions: desks, samplers, teaching aids
 * Cultural Organizations: furnishings and ceremonial artifacts from organizations like the Chicago Norske Klub, Bygdelags, Sons of Norway and others
 * Business: desks, shop signs, display units
 
@@ -82,9 +83,7 @@ Norwegian and Norwegian-American garments for everyday, special occasions, and o
 
 Architecture (number 12 historic structures)
 --------------------------------------------
-Buildings that exemplify or contrast Norwegian and Norwegian-American construction methods and forms.
-
-* Click HERE for OAD
+Buildings that exemplify or contrast Norwegian and Norwegian-American construction methods and forms. Find more information about the historic buildings in Vesterheim's Open Air Division [here.](/exhibitions/open-air/) 
 
 Archives (numbering approximately 14,000)
 -----------------------------------------

@@ -22,7 +22,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-Vesterheim has lent objects to many institutions around the country, including Mingei International Museum, San Diego, California; Haydon Art Center, Lincoln, Nebraska; the Carnegie Library Museum in Perry, Iowa; and the Apron Museum in Iuka, Mississippi.
+Vesterheim has lent objects to many institutions around the country, including Mingei International Museum, San Diego, California; Haydon Art Center, Lincoln, Nebraska; Ellis Island, New York; Mint Museum, Charlotte, North Carolina; and the Apron Museum in Iuka, Mississippi.
 
 Current Locations
 -----------------
@@ -35,12 +35,13 @@ Exhibition _Norsk Kultur: Inspiration for 'Frozen'_
 
 Twenty-one items, which include bentwood boxes, a tankard, a horse harness, ale bowls, and a _kubbestol_ (a chair made from a solid log), are on view in the Norway Pavilion until sometime in 2016.
 
-### The International Arts and Artists
+### The Mint Museum
 {: .heading--black--mixed-case }
 
-Washington, D. C.
+Charlotte North Carolina<br />
+Exhibition _Connecting the World: The Panama Canal at 100_
 
-This company, which has a traveling exhibition service, has borrowed an East Telemark bridal costume, a pair of shoes, a blouse, and brooches. These items are part of an exhibit that is traveling to the Museum of Design in Atlanta, Georgia, the Appleton Museum of Art in Ocala, Florida, and the Michele and Michael D’Amour Museum of Fine Arts in Springfield, Massachusetts. 
+The exhibition includes three prints from Vesterheim by Norwegian-born artist Jonas Lie that record the building of the Panama Canal. The scenes, done in 1913, are titled _Toil,_ _Heavenly Hoist,_ and _Gates of Pedro Miguel._ 
 
 ### The Dwight D. Eisenhower Library and Museum
 {: .heading--black--mixed-case }

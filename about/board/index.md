@@ -15,7 +15,7 @@ navigation:
   order: 10
 pagelist:
   order:         # Defaults to navigation order
-  image: 
+  image: 46x21/about/board.jpg
   alt: 
   caption:
   title:         # Defaults to navigation title

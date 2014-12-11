@@ -23,4 +23,4 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-Mikkel and Hage Sinnes came from Telemark, Norway in 1849, finally stettling in Minnesota in 1853. Two years later, Mikkel erected this building, a blend of Norwegian and American vernacular architecture. It is typical in form to blacksmith shops found on farms in Norway, but uses the efficient pioneer method of log construction with dovetail notching. It served for about a year as both a working forge and living quarters for the blacksmith and his wife.
+Mikkel and Hage Sinnes came from Telemark, Norway in 1849, finally settling in Minnesota in 1853. Two years later, Mikkel erected this building, a blend of Norwegian and American vernacular architecture. It is typical in form to blacksmith shops found on farms in Norway, but uses the efficient pioneer method of log construction with dovetail notching. It served for about a year as both a working forge and living quarters for the blacksmith and his wife.

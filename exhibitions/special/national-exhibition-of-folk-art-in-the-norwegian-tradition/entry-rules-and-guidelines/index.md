@@ -89,7 +89,9 @@ No entry may be removed from the exhibition before 5:00 p.m., Saturday, July 25,
 
 How to Enter
 ============
-Completely fill out a registration form and identification label for each entry. Write a check for entry fees and add sufficient funds for shipping and insurance if you wish the object to be shipped back to you after the exhibition. _**Pack carefully**_—UPS guidelines suggest two-inch, non-slip packing materials in all directions between object and box. The identification label must be attached to the object. In the case of weavings, the label must be lightly sewn to the back (no pins or staples please). Please mark your shipping box “Folk Art Exhibition.” Send entries with forms and check for entry fee and return shipping, to:
+Please print a registration [form](/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/entry-rules-and-guidelines/forms/exhibit-registration-2015.pdf) (pdf) and completely fill it out with an identification label for each entry. Write a check for entry fees and add sufficient funds for shipping and insurance if you wish the object to be shipped back to you after the exhibition. _**Pack carefully**_—UPS guidelines suggest two-inch, non-slip packing materials in all directions between object and box. The identification label must be attached to the object. In the case of weavings, the label must be lightly sewn to the back (no pins or staples please). Please mark your shipping box “Folk Art Exhibition.” 
+
+Send entries with forms and check for entry fee and return shipping, to:
 
 **_Vesterheim Norwegian-American Museum_** <br />
 _**502 W. Water St., Decorah, IA 52101**_
