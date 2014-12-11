@@ -34,4 +34,4 @@ That early collection has grown into one of the most comprehensive museums in th
 
 Folk Art School
 ---------------
-Vesterheim offers a wide range of courses in rosemaling, woodcarving & woodworking, textile arts, knifemaking, and food traditions. More information about Vesterheim's Folk Art School and a complete list of classes is available [here](/folk-art-school/).
+Vesterheim offers a wide range of courses in rosemaling, woodcarving and woodworking, textile arts, knifemaking, and food traditions. More information about Vesterheim's Folk Art School and a complete list of classes is available [here](/folk-art-school/).

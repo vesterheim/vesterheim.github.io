@@ -22,3 +22,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
+Steven Johnson, Vesterheim’s Executive Director, Announces Retirement
+-----------------------------------------------------------------------
+
+Steven Johnson, Executive Director of Vesterheim, has announced his intention to retire in September 2016. Johnson has been with Vesterheim in multiple capacities since 1977 and has served as the museum’s Executive Director since 2009. Read [more](/about/news/2014/johnson-retirement/).

@@ -25,7 +25,7 @@ pagelist:
 ---
 It could easily take a whole day or more to see everything at Vesterheim.
 
-If you can't schedule a full day, here are some highlights that you won't want to miss. You can view these objects within one hour.
+If you are short on time, you won't want to miss these standouts on any Vesterheim tour, but fair warning—there will be a lot of other wonderful things on the way that may distract you. You can view these objects within one hour.
 
 First Floor
 -----------

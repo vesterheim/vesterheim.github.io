@@ -16,7 +16,7 @@ tuition:
   nonmembers: $306
   note: ~
 materials_fee: 
-materials: Patterns and palettes (both oil and acrylic) will be provided. The class will be taught in oils, but acrylic painters are welcome.
+materials: Patterns and palettes (both oil and acrylic) will be provided. The class will be taught in oils, but acrylic painters are welcome. The woodenware piece will be available for purchase through the Museum Store. 
 
 lead:
   image: folk-art-school/classes/2015/rogaland-rosemaling-green.jpg
@@ -34,5 +34,4 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description 
 ---
-This will be a project painting class. The project will be a small chest with a hinged cover and a unique closure on the front. The top is flat and approximately 12½ by 19 inches. The chest is approximately 11 inches high, including the feet. Item pictured here is not the class project.
-An additional smaller project will also be available. 
+This will be a project painting class. The project will be a small cabinet with a shelf and two pull-out drawers on the inside. The overall dimensions of the piece are 11 inches wide, approximately 15 inches high, and 10 1/2 inches deep. The painting surfaces are the door (9 x 12 inches) and the sides (10 x 13 1/2 inches). Students may paint on practice surfaces or a piece of their choice that would be the appropriate size for the design areas. Item pictured here is not the class project (a picture of the actual project will be availabe in February).

@@ -25,23 +25,36 @@ pagelist:
 ---
 Decorah is a great place to visit. It’s a warm and vibrant town that makes a perfect getaway from the hustle and bustle of everyday life.
 
+Decorah was featured in _Smithsonian Magazine’s_ annual list of the 20 best small towns to visit in America, as well as being named in _Forbes_ ”America’s Prettiest Towns” list.
+
+Find complete information about everything Winneshiek County and Decorah have to offer at [Visit Decorah](http://www.visitdecorah.com/). Learn more about the whole Northeast Iowa area at [Northeast Iowa](http://visitiowa.org/).
+
 The Decorah area, or “Bluff Country,” is nestled in the midst of towering bluffs and beautiful scenery, offering plenty of outdoor recreation. 
 
 Some great outdoor attractions include:
-* The Trout Run Trail, an 11-mile biking, walking, and running trail that loops the town
-* The Upper Iowa River with opportunities for canoeing and inner tubing, or just strolling along
+
+* [The Trout Run Trail](http://troutruntrail.com/), an 11-mile biking, walking, and running trail that loops the town
+* The Upper Iowa River, with opportunities for canoeing and inner tubing, or just strolling along
 * Numerous scenic parks with streams, springs, and waterfalls; trails for biking, walking, and skiing; and even playground equipment for kids
-* The Decorah Community Prairie that includes a butterfly garden, river access, benches, native prairie plantings, and trails for walking, biking, and cross country skiing
+* Decorah Fish Hatchery, home of Decorah's famous eagles
+* The Decorah Community Prairie, which includes a butterfly garden, river access, benches, native prairie plantings, and trails for walking, biking, and cross country skiing
 
-Decorah also boasts a thriving, charming downtown full of shops, many restaurants to tempt your palate, cultural and historic venues, and numerous cultural events and festivals. 
+Decorah also boasts cultural and historic venues with numerous cultural events and festivals, plus a thriving artist community. Extend your visit to Vesterheim and tour the area's many great attractions, including:
 
-Decorah was featured in _Smithsonian Magazine’s_ annual list of the 20 best small towns to visit in America, as well as being named in _Forbes_ ”America’s Prettiest Towns” list. 
+* [Bily Clocks Museum & Antonin Dvorak Exhibit](http://www.bilyclocks.org/)
+* [Laura Ingalls Wilder Park & Museum](http://www.lauraingallswilder.us/) 
+* [Porter House Museum](http://www.porterhousemuseum.org/)
+* [Seed Savers Exchange](http://www.seedsavers.org/)
+* [Iowa's Dairy Center](http://www.iowadairycenter.com/)
+* [Fort Atkinson Preserve](http://www.iowadnr.gov/Destinations/StateParksRecAreas/IowasStateParks/ParkDetails.aspx?ParkID=4&idAdminBoundary=229)
+* Decorah's Historic Architecture Area
+* Fantastic art galleries throughout the county
+* Many venues for lots of live music 
+
+Be sure to come for [Nordic Fest](http://www.nordicfest.com/), celebrating all the wonderful community spirit of Decorah and its Scandinavian heritage, held each year on the last full weekend in July!
+
+Round out your visit to Vesterheim with a stroll through Decorah's thriving and charming downtown, a delicious meal at one of the area's wonderful restaurants, and a stay in Decorah's historic or modern hotels and B & Bs.
 
 Whatever the season—your stay is sure to be unforgettable!
 
 {% include images/full-width.html image="16x9/decorah/fish-hatchery.jpg" alt="Seiwer's Springs is the site of Decorah's fish hatchery, Trout Run Trail, and eagle nest." caption="Seiwer's Springs is the site of Decorah's fish hatchery, Trout Run Trail, and eagle nest." %}
-
-* Link to [Visit Decorah](http://www.visitdecorah.com/)
-* Link to [Northeast Iowa](http://visitiowa.org/)
-* Link to bike trail video
-* Link to any other Decorah sites or videos

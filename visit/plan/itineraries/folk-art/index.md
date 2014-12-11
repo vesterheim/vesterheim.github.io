@@ -2,13 +2,14 @@
 published: true
 layout: page
 title: Vesterheim and Decorah - Folk Art
+subtitle: Created by Patti Goke
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-  image:
+  image: 16x9/artifacts/1987.069.001.jpg
   alt:
-  caption:
+  caption: One of Patti's favorite artifacts (Vesterheim 1987.069.001), on display in the second floor gallery, "Wood and Its Decoration." 
 related:
 
 navigation:
@@ -16,7 +17,7 @@ navigation:
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
-  image:         # Defaults to cropped page hero image
+  image: 46x21/artifacts/1987.069.001.jpg
   alt:
   caption:
   title:         # Defaults to navigation title

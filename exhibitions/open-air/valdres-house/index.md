@@ -2,13 +2,14 @@
 published: true
 layout: page
 title: Valdres House
+subtitle: Øystre Slidre, Valdres, Norway (1795)
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
   image: 16x9/buildings/valdres-house.jpg
   alt:
-  caption: Øystre Slidre, Valdres, Norway (1795)
+  caption:
 related:
 
 navigation:

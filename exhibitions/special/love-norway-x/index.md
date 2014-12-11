@@ -11,9 +11,10 @@ hero:
   alt:
   caption:
 related:
+- /visit/plan/
 
 navigation:
-  order: 50
+  order: 70
 pagelist:
   order:         # Defaults to navigation order
   image: 

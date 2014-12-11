@@ -10,10 +10,11 @@ hero:
   image: 16x9/exhibitions/special/norske_klub_color.jpg
   alt:
   caption:
-related:
+related: 
+- /visit/plan/
 
 navigation:
-  order: 50
+  order: 30
 pagelist:
   order:         # Defaults to navigation order
   image: 46x21/exhibitions/special/norske_klub_color.jpg
@@ -21,7 +22,7 @@ pagelist:
   caption: 
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
-  teaser:        # Defaults to page meta-description
+  teaser: On view through November 15, 2015, be sure to visit the museum for a look at the social, culatural, and artistic activities from 1911 to 1971 of this cultural center in Chicago.
 ---
 The Chicago Norske Klub was a center in Chicago for Norwegian-American social, cultural, and artistic activities from 1911 to 1971. This exhibition shares the history of the club, as well as artworks and furnishings from the clubhouse.
 

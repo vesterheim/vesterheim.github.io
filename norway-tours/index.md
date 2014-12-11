@@ -20,5 +20,5 @@ pagelist:
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
-  teaser:        # Defaults to page meta-description  
+  teaser: Vesterheim's tours to Norway offer unique opportunities based on the museum’s ties and relationships with the artists and institutions of Norway.   
 ---

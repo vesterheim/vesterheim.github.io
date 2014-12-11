@@ -1,11 +1,11 @@
 ---
 published: true
 title: Kolrosing—Wood Incising 
-subtitle: September 20, 2015, with Judy Ritger 
+subtitle: September 20, 2015, with Darlene Fossum-Martin 
 meta_description:  # Used in HTML head and as the description for some search engines
 
 location: ~
-instructor: Judy Ritger 
+instructor: Darlene Fossum-Martin 
 sessions: "September 20, 2015, 9:00 a.m.–5:00 p.m."
 dtstart: 2015-09-20 9:00:00 -5:00
 dtend: 2015-09-20 17:00:00 -5:00
@@ -17,7 +17,7 @@ tuition:
   nonmembers: $84
   note: ~
 materials_fee: ~
-materials: Practice boards will be supplied. Additional project pieces can be purchased from the Museum Store, or you can bring something of your own to decorate. Bring your own knife, Judy will supply the rest.
+materials: Practice boards will be supplied. Additional project pieces can be purchased from the Museum Store, or you can bring something of your own to decorate. Bring your own knife, Darlene will supply the rest.
 
 lead:
   image: folk-art-school/classes/2015/kolrosing-ritger.jpg
