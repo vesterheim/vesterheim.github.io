@@ -31,14 +31,26 @@ module Jekyll
   class DailyArchiveGenerator < Generator
     def generate(site)
       posts = posts_group_by_year_month_day(site)
-      first_post =  posts.min_by { |k,v| Date.new(k[0], k[1]) }
-      last_post =  posts.max_by { |k,v| Date.new(k[0], k[1]) }
+      first_post =  posts.min_by { |k,v| Date.new(k[0], k[1], k[2]) }
+      last_post =  posts.max_by { |k,v| Date.new(k[0], k[1], k[2]) }
       posts.each do |ymd, list|
         site.pages << DailyArchivePage.new(site, DailyArchiveUtil.archive_base(site),
                                              ymd[0], ymd[1], ymd[2], list, Date.new(first_post[0][0], first_post[0][1]), Date.new(last_post[0][0], last_post[0][1]))
       end
+      # get the range of possible days for the first and last months including the beginning and end days potentially in the preceding/following months
+      first_post_date = Date.new(first_post[0][0], first_post[0][1], first_post[0][2])
+      last_post_date = Date.new(last_post[0][0], last_post[0][1], last_post[0][2])
+      post_range = first_post_date.all_month.begin.all_week(:sunday).begin..last_post_date.all_month.end.all_week(:sunday).end
+      message = "No events exist for the chosen day."
+      post_range.each do |potential_date|
+          # if posts doesn't have a key for a day in the range create an empty page for that day
+          unless posts.has_key?([potential_date.year, potential_date.month, potential_date.day])
+              site.pages << MessagePage.new(site, DailyArchiveUtil.archive_base(site), message, potential_date.year, potential_date.month, potential_date.day, Date.new(first_post[0][0], first_post[0][1]), Date.new(last_post[0][0], last_post[0][1]))
+          end
+      end
+      message = "The museum is closed."
       site.data['closed']['dates'].each do |closed_day|
-          site.pages << ClosedPage.new(site, DailyArchiveUtil.archive_base(site), closed_day.year, closed_day.month, closed_day.day, Date.new(first_post[0][0], first_post[0][1]), Date.new(last_post[0][0], last_post[0][1]))
+          site.pages << MessagePage.new(site, DailyArchiveUtil.archive_base(site), message, closed_day.year, closed_day.month, closed_day.day, Date.new(first_post[0][0], first_post[0][1]), Date.new(last_post[0][0], last_post[0][1]))
       end
       rescue => exception
         puts exception.backtrace
@@ -71,7 +83,7 @@ module Jekyll
   end
 
   # Actual page instances
-  class ClosedPage < Page
+  class MessagePage < Page
     
       ATTRIBUTES_FOR_LIQUID = %w[
         year,
@@ -80,7 +92,7 @@ module Jekyll
         content
       ]
 
-      def initialize(site, dir, year, month, day, first_month, last_month)
+      def initialize(site, dir, message, year, month, day, first_month, last_month)
         @site = site
         @dir = dir
         @year = year
@@ -102,7 +114,7 @@ module Jekyll
         self.ext = '.html'
         self.basename = 'index'
         self.content = <<-EOS
-<p>The museum is closed.</p>
+<p>#{message}</p>
         EOS
         self.data = {
             'layout' => @layout,
