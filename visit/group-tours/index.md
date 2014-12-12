@@ -8,7 +8,7 @@ meta_description:  # Used in HTML head and as the description for some search en
 hero:
   image: 16x9/tours/norhouse_weldon_h.jpg
   alt: 
-  caption: Seiwer's Springs is the site of Decorah's fish hatchery, Trout Run Trail, and eagle nest.
+  caption:
 related:
 
 navigation:
@@ -45,13 +45,13 @@ Special group tours include general admission to the museum for the entire day. 
 
 Bus Parking
 -----------
-For your convenience, disembark at the Bruening Visitor Center on the corner of Water Street and Mechanic Street. Motorcoach parking is located on Mill Street between Water Street and Heivly Street.
+For your convenience, disembark at the Bruening Visitor Center on the corner of Water and Mechanic Streets. Motorcoach parking is located on Mill Street between Water Street and Heivly Street.
 
-{% include images/full-width.html image="16x9/maps/campus-map.png" alt="Vesterheim Campus Map." caption="Disembarking locations for group tours and bus parking." %}
+{% include images/full-width.html image="16x9/maps/campus-map.png" alt="Vesterheim Campus Map." caption="Group tour bus parking and locations to disembark." %}
 
 Accessibility
 -------------
-All areas of the Main Building, Westby-Torgerson Education Center, Amdal-Odland Heritage Center, and the Bethania Church are wheelchair accessible, but some of the buildings in the Open Air Division are not. We apologize for any inconvenience. Please let us know if any member of your party requires special accommodation or assistance.
+All areas of the Main Building, Westby-Torgerson Education Center, Amdal-Odland Heritage Center, and the Bethania Church are wheelchair accessible, but some of the historic buildings in the Open Air Division are not. We apologize for any inconvenience. Please let us know if any member of your party requires special accommodation or assistance.
 
 Photography
 -----------

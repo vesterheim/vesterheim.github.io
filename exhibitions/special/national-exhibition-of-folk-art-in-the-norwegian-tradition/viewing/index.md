@@ -10,6 +10,7 @@ hero:
   alt:
   caption:
 related:
+- /visit/plan/
 
 navigation:
   order: 10 

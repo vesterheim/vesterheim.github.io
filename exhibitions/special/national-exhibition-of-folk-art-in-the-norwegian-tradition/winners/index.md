@@ -29,19 +29,19 @@ pagelist:
 ### Best of Show
 {: .heading--black--mixed-case }
 
-* Gene Tokheim Dawson, Minn., _Stavkniv_ knife with silver trim
+* Gene Tokheim, Gold Medalist, Dawson, Minn., _Stavkniv_ knife with silver trim
 
 ### People’s Choice
 {: .heading--black--mixed-case }
 
-* Robert Shervey, Barrett, Minn., Sister knives with reindeer antler and birch handle
+* Robert Shervey, Gold Medalist, Barrett, Minn., Sister knives with reindeer antler and birch handle
 
-### Gold Medals
+### Gold Medal
 {: .heading--black--mixed-case }
 
 John Drewes, Red Wing, Minn.
 
-### Blue Ribbons
+### Blue Ribbon
 {: .heading--black--mixed-case }
 
 None
@@ -69,10 +69,10 @@ None
 ### Best of Show (tie)
 {: .heading--black--mixed-case }
 
-* JoSonja Jansen, Eureka, Cal., “Samson and the Lion” Telemark-style box
-* Nancy Schmidt, Waukesha, Wis., Gudbrandsdal-style cake _tine_
+* JoSonja Jansen, Gold Medalist, Eureka, Cal., “Samson and the Lion” Telemark-style box
+* Nancy Schmidt, Gold Medalist, Waukesha, Wis., Gudbrandsdal-style cake _tine_
 
-### People’s Choice (tie)
+### People’s Choice
 {: .heading--black--mixed-case }
 
 * Karen Hankee, Viroqua Wis., Telemark style _kubbestol_
@@ -80,14 +80,14 @@ None
 ### Gold Medal
 {: .heading--black--mixed-case }
 
-* Teresa McCue, Westminster, Col.
+* Teresa Ann McCue, Westminster, Col.
 
 ### Blue Ribbons
 {: .heading--black--mixed-case }
 
 None
 
-### Red Ribbons
+### Red Ribbon
 {: .heading--black--mixed-case }
 
 * Amy Lysbeth Ahrens, Madison, Wis, Telemark-style plate
@@ -115,12 +115,12 @@ None
 ### Best of Show
 {: .heading--black--mixed-case }
 
-* Jan Mostrom, Chanhassen, Minn., Folk Dance wall hanging in boundweave technique
+* Jan Mostrom, Gold Medalist, Chanhassen, Minn., Folk Dance wall hanging in boundweave technique
 
 ### People’s Choice (tie)
 {: .heading--black--mixed-case }
 
-* Jan Mostrom, Chanhassen Minn., “Folk Dance” wall hanging in boundweave technique
+* Jan Mostrom, Gold Medalist, Chanhassen Minn., “Folk Dance” wall hanging in boundweave technique
 * Judy Ness, Eugene Ore., "Inner Lights" wall hanging in _krokbragd_ technique
 
 ### Gold Medal
@@ -157,19 +157,19 @@ None
 ### Best of Show
 {: .heading--black--mixed-case }
 
-* Hans Sandom, Minnetonka, Minn., Acanthus-carved window valance
+* Hans Sandom, Gold Medalist, Minnetonka, Minn., Acanthus-carved window valance
 
 ### People’s Choice
 {: .heading--black--mixed-case }
 
-* Hans Sandom, Minnetonka, Minn., Acanthus-carved cabinet 
+* Hans Sandom, Gold Medalist, Minnetonka, Minn., Acanthus-carved cabinet 
 
 ### Gold Medal
 {: .heading--black--mixed-case }
 
 * Aaron Swenson, Flom, Minn.
 
-### Blue Ribbons - Acanthus, Dragon-style Category
+### Blue Ribbon - Acanthus, Dragon-style Category
 {: .heading--black--mixed-case }
 
 None
@@ -180,7 +180,7 @@ None
 * Arne Bortnem, Sioux Falls, S.D., Acanthus-carved sewing box
 * Don Rorvig, Stoughton, Wis., Acanthus-carved clock
 
-### White Ribbons - Acanthus, Dragon-style Category
+### White Ribbon - Acanthus, Dragon-style Category
 {: .heading--black--mixed-case }
 
 None
@@ -191,7 +191,7 @@ None
 * Terry Brugger, Winona, Minn., Acanthus-carved _kubbestol_ (troll)
 * Sunhild Muldbakken, Sioux Falls, S.D., Acanthus-carved box
 
-### Blue Ribbons - Chip Carving and Kolrosing Category
+### Blue Ribbon - Chip Carving and Kolrosing Category
 {: .heading--black--mixed-case }
 
 None
@@ -223,7 +223,7 @@ None
 * Amy Adams-Westin, St. Paul, Minn., “Sniff, Sniff” carved figure
 * David Fowler, New Richmond, Wis., “Shopping Day” carved figure
 
-### White Ribbons - Figure Carving Category
+### White Ribbon - Figure Carving Category
 {: .heading--black--mixed-case }
 
 None

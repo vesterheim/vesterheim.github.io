@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: page
 title: The Current
 meta_title:        # Appears on bookmarks, search results, etc...
@@ -22,3 +22,4 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
+Stay up-to-date on Vesterheim news, exhibitions, events, and store products by signing up for _The Current,_ the museum's email newsletter. Just enter your email address here.

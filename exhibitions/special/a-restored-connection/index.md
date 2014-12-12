@@ -11,9 +11,10 @@ hero:
   alt:
   caption:
 related:
+- /visit/plan/
 
 navigation:
-  order: 50
+  order: 20
 pagelist:
   order:         # Defaults to navigation order
   image: 
@@ -21,7 +22,7 @@ pagelist:
   caption: 
   title:         # Defaults to navigation title
   subtitle: false      # Defaults to page subtitle
-  teaser:        # Defaults to page meta-description
+  teaser: Through still and moving images, this exhibition explores how we define ourselves and the environment around us. Although it features Norwegian Americans, visitors of all backgrounds will relate to its message of connection. On view through April 12, 2015.
 ---
 Through still and moving images, _A Restored Connection_ explores how we define ourselves and the environment around us. Although it features Norwegian Americans, visitors of all backgrounds will easily relate to the exhibition and its message of connection.
 

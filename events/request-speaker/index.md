@@ -82,7 +82,7 @@ Some of Vesterheim’s most spectacular examples of folk art were sent as gifts 
 {: .subtitle }
 
 Laurann Gilbertson <br/>
-Learn about the history of different types and styles of Norwegian sweaters, including Setesdal, Fana, Marius, and Olympic. Gilbertson will also talk about the symbolism behind some of the patterns and colors on sweaters made today. Be sure to invite your audience to wear their favorite sweater. Or look more broadly at _Nordic knitting in A History of Norwegian Knitting_.
+Learn about the history of different types and styles of Norwegian sweaters, including Setesdal, Fana, Marius, and Olympic. Gilbertson will also talk about the symbolism behind some of the patterns and colors on sweaters made today. Be sure to invite your audience to wear their favorite sweater. Or look more broadly at Nordic knitting in _A History of Norwegian Knitting_.
 
 #### Patterns of the New World: Quilts from the Vesterheim Collection  
 {: .subtitle }

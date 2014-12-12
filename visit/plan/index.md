@@ -18,5 +18,5 @@ pagelist:
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
-  teaser:        # Defaults to page meta-description
+  teaser: Find everything you need to plan your visit to Vesterheim—hours, admissions, directions, museum maps, and more.
 ---
