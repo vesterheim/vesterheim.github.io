@@ -175,8 +175,10 @@ module Jekyll
       # Full featured
       self.ext = '.html'
       self.basename = 'index'
-      self.content = <<-EOS
-{% for post in page.posts %}<li><a href="{% if post.redirect_to %}{{ post.redirect_to }}{% else %}{{ post.url }}{% endif %}"><span>{{ post.title }}</span></a></li>
+      self.content = <<-EOS    
+{% for post in page.posts %}
+{% assign event__post = site.data.pagelist_hash[post.url] %}
+{% include calendar/event--listing.html  url=event__post.url  title=event__post.title  subtitle=event__post.subtitle  image__src=event__post.image  image__alt=event__post.alt  teaser=event__post.teaser %}
 {% endfor %}
       EOS
       self.data = {
