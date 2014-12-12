@@ -5,9 +5,9 @@ meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 
 lead:
-  image:
-  alt:
-  caption:
+  image: folk-art-school/instructors/evenstad--shirley.jpg
+  alt: Shirley Evenstad
+  caption: Shirley Evenstad
 
 pagelist:
   exclude: false
