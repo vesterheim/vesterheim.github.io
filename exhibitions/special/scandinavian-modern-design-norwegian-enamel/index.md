@@ -11,9 +11,10 @@ hero:
   alt:
   caption:
 related:
+- /visit/plan/
 
 navigation:
-  order: 50
+  order: 10
 pagelist:
   order:         # Defaults to navigation order
   image: 46x21/exhibitions/special/enamel.jpg
@@ -21,7 +22,7 @@ pagelist:
   caption: 
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
-  teaser:        # Defaults to page meta-description
+  teaser: Vesterheim has turned its spotlight on Norway’s contributions to mid-century design. The exhibition, on view through April 19, 2015, features Grete Prytz Kittelsen, known as the “Queen of Scandinavian Design.
 ---
 “Mid-Century Modern” is the hot buzzword in today’s retro-design trend. Vesterheim has turned its spotlight on Norway’s contributions to mid-century design in the exhibition, _Scandinavian Modern Design: Norwegian Enamel_.
 

@@ -49,7 +49,7 @@ Ideal for Grades Pre-K to 12 <br />
 25 minutes -- 1½ hours, depending upon students’ ages and group’s interests <br />
 Cost: Free with museum admission ($2 per student). Reservations required.
 
-Journey from the Old World to the New and discover the history of immigrant America through the Norwegian-American experience. The Main Building is a visual delight of objects from Norway and those that were made or used by Norwegian immigrants in the United States. Students can step into an authentically furnished Norwegian house, listen to recorded dramatizations of immigrant experiences recounted in letters and diaries, climb into a recreated ship’s bunk outside of the famed sailboat _The TradeWind_, and learn about traditions through beautiful examples of historic and contemporary folk art, furnishings, and jewelry created in Norway and the U.S. Tours may be tailored to specific topics upon request. Check here for temporary exhibitions currently on view at Vesterheim.
+Journey from the Old World to the New and explore the history of immigrant America through the Norwegian-American experience. The Main Building is a visual delight, filled with objects from Norway and those that were made or used by Norwegian immigrants in the United States. Students can step into an authentically furnished Norwegian house, listen to recorded dramatizations of immigrant experiences recounted in letters and diaries, climb into a recreated ship’s bunk outside of the famed sailboat _The TradeWind_, and learn about traditions through beautiful examples of historic and contemporary folk art, furnishings, and jewelry created in Norway and the U.S. Tours may be tailored to specific topics upon request. Check here for temporary exhibitions currently on view at Vesterheim.
 
 ### Vesterheim’s Open Air Division
 {: .subtitle }
@@ -59,7 +59,7 @@ Ideal for Grades Pre-K to 12 <br />
 10-15 minutes per building <br />
 Cost: Free with museum admission ($2 per student). Reservations required.
 
-There are various historic buildings in the museum’s Open Air Division that are available to visit on guided tours. Arrangements may be made to visit just a few of the buildings, or to visit all of the buildings. Please note that these buildings are accessible by steps and are not climate-controlled. Check here to learn more about the buildings in the Open Air Division.
+There are various historic buildings in the museum’s Open Air Division that are available to visit on guided tours. Arrangements may be made to visit just a few of the buildings, or to visit all of the buildings. Please note that these historic buildings are accessible by steps and are not climate-controlled. Check here to learn more about the buildings in the Open Air Division.
 
 Special Activities For School and Youth Groups
 ----------------------------------------------
@@ -72,7 +72,7 @@ Ideal for Grades 2 to 5 <br />
 1-hour school experience <br />
 Cost: $35 per class (does not include museum admission)
 
-Experience education from an earlier time. A schoolmaster will lead students through lessons in the museum’s one-room schoolhouse. Students will use slate boards, with chalk for writing and leather scraps for erasers, and can wear aprons or shirts that are reminiscent of clothing worn by children in the nineteenth and early twentieth centuries. Students will learn more about the history of this one-room schoolhouse, practice counting in Norwegian, sample sorghum sandwiches, and end the session playing recess games (weather permitting). This program is available in fall, spring, and summer only. Please note that the school house is accessible by stairs only and is not climate-controlled.
+Experience education from an earlier time. A schoolmaster will lead students through lessons in the museum’s one-room schoolhouse. Students will use slate boards, with chalk for writing and leather scraps for erasers, and can wear aprons or shirts that are reminiscent of clothing worn by children in the nineteenth and early twentieth centuries. Students will learn more about the history of this one-room schoolhouse, practice counting in Norwegian, sample sorghum sandwiches, and end the session playing nineteenth-century recess games (weather permitting). This program is available in fall, spring, and summer only. Please note that the school house is accessible by steps only and is not climate-controlled.
 
 ### Immigrant Trunk
 {: .subtitle }
@@ -81,7 +81,7 @@ Ideal for Grades 3 to 5  <br />
 1-hour presentation <br />
 Cost: $25 per class, $2 per student admission
 
-What did immigrants bring with them to America in the nineteenth and early twentieth centuries? Why did they bring certain items and leave others behind? Students will visit Vesterheim’s Norwegian House where they will answer these questions through guided exploration of an immigrant’s trunk. Students will touch and examine both real artifacts and authentic reproductions. Additional information about transportation and shipboard life will be shared. At the end of the session students will climb into a recreated ship’s bunk to experience travel and sleeping conditions. 
+What did immigrants bring with them to America in the nineteenth and early twentieth centuries? Why did they bring certain items and leave others behind? Students will visit Vesterheim’s Norwegian House, where they will answer these questions through guided exploration of an immigrant’s trunk. Students will touch and examine both real artifacts and authentic reproductions. Additional information about transportation and shipboard life will be shared. At the end of the session students will climb into a recreated ship’s bunk to experience travel and sleeping conditions. 
 
 ### Log Homes
 {: .subtitle }

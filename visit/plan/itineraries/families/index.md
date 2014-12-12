@@ -2,13 +2,14 @@
 published: true
 layout: page
 title: Vesterheim and Decorah - Families
+subtitle: Created by Johanna, Claudia, and Ruby
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
   image: 16x9/kids/ship_gallery.jpg
   alt:
-  caption:
+  caption: Johanna and Ruby enjoy the gallery, "The Atlantic Crossing."
 related:
 
 navigation:
@@ -23,7 +24,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-Vesterheim is a great place to visit with kids. You can share with them your own family history as you explore the immigrant story. Best of all, Vesterheim is a place you can step into your own imagination! Touring the museum with children can average anywhere from ½ hour to three hours.
+Vesterheim is a great place to visit with kids. You can share with them your own family history as you explore the immigrant story. Best of all, Vesterheim is a place you can step into your own imagination! Touring the museum with children on average can take anywhere from ½ hour to three hours.
 
 Entrance
 -----------------
@@ -39,11 +40,11 @@ Second Floor
 -----------------
 Upstairs, they enter their log cabin in America and marvel over their good fortune of finding a new home. 
 
-They like to color rosemaling trunks at the coloring station and “choose” which trunk artifact would have been theirs. Of course, they take their picture next to the life-size wood carving of “Ed”.
+They like to color rosemaling trunks at the coloring station and “choose” which trunk artifact would have been theirs. Of course, they take their picture next to the life-size wood carving of “Ed.”
 
 Third Floor
 -----------------
-They love traveling up the elevator to the third floor, to look over the balcony down into the ship gallery, to explore the interesting special exhibitions.
+They love traveling up the elevator to the third floor, looking over the balcony down into the ship gallery and exploring the interesting special exhibitions.
 
 Basement
 -----------------
@@ -55,9 +56,9 @@ Their visit wouldn’t be complete without a walk outside through the Open Air D
 
 Decorah
 -----------------
-Since they are in Decorah, they have to visit some of the town’s great parks, like Phelps Park and Dunning Springs, or take a bike ride on the 11-mile Trout Run Trail. 
+Since they are in Decorah, they have to visit some of the town’s great parks, like Phelps Park or Dunning Springs, where there's a wonderful waterfall. Or they take a bike ride on the 11-mile Trout Run Trail. 
 
-These kids love to roam through old-time-yet-modern downtown shops, play on the hilly lawn surrounding the historic courthouse, and visit the Porter House Museum’s stonewall, where they look in the secret stone crevices for pennies. 
+These kids love to roam through old-time-yet-modern downtown shops, play on the hilly lawn surrounding the historic courthouse, and visit the Porter House Museum’s stone wall, where they look in the secret stone crevices for pennies. 
 
 Food
 -----------------

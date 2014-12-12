@@ -1,14 +1,12 @@
 ---
 published: true
-title: Band Loom Carving and Bandweaving (Classes for Couples)
-subtitle: February 14-15, 2015 with Reggie Delarm & Roger Abrahamson
-meta_title: Band Loom Carving and Bandweaving, Classes for Couples with Reggie Delarm & Roger Abrahamson
+title: Band Loom Carving (carving segment of class for couples)
+subtitle: February 14-15, 2015 with Roger Abrahamson
+meta_title: Band Loom Carving (carving segment of class for couples)
 meta_description:  # Used in HTML head and as the description for some search engines
 
 location: ~
-instructor: 
-  - Reggie Delarm
-  - Roger Abrahamson
+instructor: Roger Abrahamson
 sessions: "February 14–15, 2015, 9:00 a.m.–5:00 p.m."
 dtstart: 2015-02-14 9:00:00 -5:00
 dtend: 2015-02-15 17:00:00 -5:00 

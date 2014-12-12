@@ -11,9 +11,10 @@ hero:
   alt:
   caption:
 related:
+- /visit/plan/
 
 navigation:
-  order: 50
+  order: 60
 pagelist:
   order:         # Defaults to navigation order
   image: 46x21/exhibitions/special/alt-for-norge.jpg

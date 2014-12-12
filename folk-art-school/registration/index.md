@@ -33,7 +33,7 @@ Class instruction is held from 9:00 a.m. to 5:00 p.m. unless otherwise noted in 
 
 Supplies 
 ---------
-Before each class begins, all students will receive supply lists and handouts from their instructors, a detailed class schedule, and a list of any special equipment needed for the class. The supply list may include a materials fee for specific items required for the class. Vesterheim can provide rosemalers with paints, brush cleaner, and painting medium for a palette fee. These supplies must be ordered in advance. Students might want to bring additional equipment for their own personal needs, such as a swinging arm lamp for extra lighting.
+Before each class begins, all students will receive supply lists and handouts from their instructors, a detailed class schedule, and a list of any special equipment needed for the class. The supply list may include a materials fee for specific items required for the class. Vesterheim can provide rosemalers with paints, brush cleaner, and painting medium for a palette fee and one set of basic acanthus carving tools for a rental fee. These supplies must be ordered in advance. Students might want to bring additional equipment for their own personal needs, such as a swinging arm lamp for extra lighting.
 
 Deposit, Payment, and Cancelations
 ----------------------------------
@@ -51,13 +51,13 @@ Youth tuition will be discounted 25% when youth are accompanied by a fully enrol
 
 Local Resident Discounts
 ------------------------
-Vesterheim offers a 50% discount for class tuition on a space-available, stand-by basis to any legal year-round resident of Winneshiek County, Iowa. Students will be notified about availability of an opening in the class one week before the starting date of the class. Discounts do not include materials fee. If local area residents want a guaranteed place in a class they must pay regular class tuition. Proof of legal residency (Iowa ID or Iowa driver’s license) is required.
+Vesterheim offers a 50% discount for class tuition on a space-available, stand-by basis to any legal year-round resident of Winneshiek County, Iowa and full time Luther College students. Students will be notified about availability of an opening in the class one week before the starting date of the class. Discounts do not include materials fee. If local area residents want a guaranteed place in a class they must pay regular class tuition. Proof of legal residency (Iowa ID or Iowa driver’s license) is required.
 
 Housing and Food
 ----------------
 Students must make their own housing and dining arrangements.
 
-For information about Decorah’s housing and food options check with the [Winneshiek County Convention &amp; Visitors Bureau](http://www.decoraharea.com/lodging.html).
+For information about Decorah’s housing and food options check with the [Winneshiek County Convention &amp; Visitors Bureau](http://visitdecorah.com/) and [The Decorah Area Chamber of Commerce](http://decorahareachamber.com/).
 
 If you have trouble finding housing, please call Vesterheim at (563) 382-9681 for assistance. There may be other options for accommodations in the area, including private housing. A variety of moderately priced restaurants are within walking distance. The Westby-Torgerson Education Center has a student lounge located on the third floor. Facilities include a refrigerator, microwave, stove, sink, coffee maker, pop machine, and tables and chairs.
 

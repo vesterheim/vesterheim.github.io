@@ -47,13 +47,13 @@ The church is equipped with a lift for accessibility.
 {: .heading--black--mixed-case }
 
 Museum member rate
-: Downstairs (+ kitchen) only $100
-  Entire church/upstairs $175
+: Downstairs (+ kitchen) only $100<br />
+  Entire church/upstairs $175<br />
   After Hours* $25/hour
 
 Non Member rate
-: Downstairs (+ kitchen) only $150
-  Entire church/upstairs $225
+: Downstairs (+ kitchen) only $150<br />
+  Entire church/upstairs $225<br />
   After Hours* $25/hour
 
 _After hours is anything outside of museum hours, e.g. later than 5 p.m. $25/hr fee is in addition to rental price._

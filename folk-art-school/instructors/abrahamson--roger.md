@@ -7,7 +7,7 @@ meta_description:  # Used in HTML head and as the description for some search en
 lead:
   image: folk-art-school/instructors/abrahamson--roger.jpg
   alt: Roger Abrahamson
-  caption: Roger Abrahamson
+  caption: Roger Abrahamson working with a spring pole lathe.
 
 pagelist:
   exclude: false
