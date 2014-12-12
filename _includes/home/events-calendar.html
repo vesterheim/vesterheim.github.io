@@ -1,3 +1,4 @@
+
 {% assign current_time =  site.time | date: "%s" %}
 {% assign current_year =  site.time | date: "%Y" %}
 {% assign current_month =  site.time | date: "%Y%m" %}
@@ -5,6 +6,7 @@
 {% assign events_displayed = 0 %}
 
 {% for event in site.posts reversed %}
+	{% capture events_calendar__cache %}
 	{% assign event_date =  event.date | date: "%s" %}
 	{% assign event_start =  nil %}
 	{% assign event_end = nil %}
@@ -81,12 +83,7 @@
 				{% capture event_time_display %}9:00AM–5:00PM{% endcapture %}
 			{% endif%}
 		{% endif %}
-
-
-	
-	
-
-
+{% capture events_calendar__output %}
 <article class="panel-calendar__event  h-event">
 	<a class="panel-calendar__event__link  u-url" href="{{ event.url }}">
 		<figure class="panel-calendar__event__photo  u-photo">
@@ -97,7 +94,8 @@
 		<div class="panel-calendar__event__time">{{ event_time_display }}</div>
 		<p class="more  panel-calendar__event__more">Read more</p>
 	</a>
-</article>		
+</article>
+{% endcapture %}	
 	{% endif %}
 	{% assign event_src = nil %}
 	{% assign event_alt = nil %}
@@ -107,6 +105,7 @@
 
 	{% assign event_date_display = nil %}
 	{% assign event_time_display = nil %}
+	{% endcapture %}{% assign events_calendar__cache = nil %}{{ events_calendar__output }}{% assign events_calendar__output = nil %}
 {% endfor %}
 {% assign events_displayed = nil %}
 {% comment %}
