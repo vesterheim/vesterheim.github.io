@@ -1,26 +1,40 @@
-<p>Events Calendar</p>
-<ul>
-  <li><a href="/events/calendar/{{ page.current_month.year }}/{{ page.current_month.month }}">{{ page.current_month_name }}</a></li>
-  <li>{% if page.previous_month.year %}<a href="/events/calendar/{{ page.previous_month.year }}/{{ page.previous_month.month }}">&lt;</a>{% else %}&lt;{% endif %}</li>
-  <li>{% if page.next_month.year %}<a href="/events/calendar/{{ page.next_month.year }}/{{ page.next_month.month }}">&gt;</a>{% else %}&gt;{% endif %}</li>
-</ul>
-<div>
-<table>
-<tr>
-  <th>Su</th>
-  <th>M</th>
-  <th>Tu</th>
-  <th>W</th>
-  <th>Th</th>
-  <th>F</th>
-  <th>Sa</th>
-</tr>
-{% for week in page.calendar %}
-    <tr>
-    {% for day in week %}
-      <td><a href='/events/calendar/{{ day.year }}/{{ day.month }}/{{ day.day }}/'>{{ day.day }}</a></td>
-    {% endfor %}
-    </tr>
-{% endfor %}
-</table>
+{% if page.calendar %}
+{% comment %}
+todo
+====
+- add classes for active day
+- remove link for active day
+- remove link to days that don't have pages
+- remove other links to self (month view if we are on the month view)
+{% endcomment%}
+{% assign calendar-grid__today = site.time | date: "%Y%m%d" %}
+<div class="calendar-grid__wrapper">
+  <table class="calendar-grid">
+   <caption class="calendar-grid__month--label"><a class="calendar-grid__month--label__link" href="/events/calendar/{{ page.current_month.year }}/{{ page.current_month.month }}" title="View Events by Month">{{ page.current_month_name }}</a></caption>
+    <thead class="calendar-grid__head">
+      <tr>
+        <th class="calendar-grid__head__item" scope="col"><abbr title="Sunday">S</abbr></th>
+        <th class="calendar-grid__head__item" scope="col"><abbr title="Monday">M</abbr></th>
+        <th class="calendar-grid__head__item" scope="col"><abbr title="Tuesday">T</abbr></th>
+        <th class="calendar-grid__head__item" scope="col"><abbr title="Wednesday">W</abbr></th>
+        <th class="calendar-grid__head__item" scope="col"><abbr title="Thursday">R</abbr></th>
+        <th class="calendar-grid__head__item" scope="col"><abbr title="Friday">F</abbr></th>
+        <th class="calendar-grid__head__item" scope="col"><abbr title="Saturday">S</abbr></th>
+      </tr>
+    </thead>
+    <tbody class="calendar-grid__body">
+      {% for calendar__week in page.calendar %}
+      <tr class="calendar-grid__week">
+        {% for calendar__day in calendar__week %}
+        {% assign calendar__day__compare = calendar__day.year | append: calendar__day.month | append: calendar__day.day %}
+        <td class="calendar-grid__day{% if calendar-grid__today == calendar__day__compare %}  calendar-grid__day--current{% endif %}">{% if calendar__day.month == page.current_month.month %}<a class="calendar-grid__day__link{% if calendar-grid__today == calendar__day__compare %}  calendar-grid__day__link--current{% endif %}" href="/events/calendar/{{ calendar__day.year }}/{{ calendar__day.month }}/{{ calendar__day.day }}/">{{ calendar__day.day | plus:'0' }}</a>{% endif %}</td>{% endfor %}
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  <ul class="calendar-grid__nav">
+    {% if page.previous_month %}<li class="calendar-grid__nav__item"><a class="calendar-grid__nav__item__link" href="/events/calendar/{{ page.previous_month.year }}/{{ page.previous_month.month }}" title="Previous Month">&lt;</a></li>{% endif %}
+    {% if page.next_month %}<li class="calendar-grid__nav__item"><a class="calendar-grid__nav__item__link" href="/events/calendar/{{ page.next_month.year }}/{{ page.next_month.month }}" title="Next Month">&gt;</a></li>{% endif %}
+  </ul>
 </div>
+{% endif %}

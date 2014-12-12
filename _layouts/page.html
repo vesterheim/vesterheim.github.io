@@ -9,10 +9,10 @@ layout: base
                     <div class="main-content">
 {% include components/headline-group.html %}
 {% include images/full-width.html %}
-                        <div class="layout__main--constrained  text">
+                        {% if page.type != 'archive' %}<div class="layout__main--constrained  text">{% endif %}
 {% include images/lead.html %}
 {{ content }}
-                        </div>
+                        {% if page.type != 'archive' %}</div>{% endif %}
 {% if page.show_pagelist_menu %}{% include lists/child-pages--tiles.html %}{% endif %}                      
 {% if page.show_social_sharing_bar %}<div class="layout__main--constrained">{% include components/social-sharing-bar.html %}</div>{% endif %}
 {% if page.related %}{% include lists/related-pages.html %}{% endif %}
