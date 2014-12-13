@@ -28,7 +28,7 @@ The first two classes, held in 1967, were Hardanger embroidery, taught by Carola
 
 The rest is history. A vast number of students are now instructors teaching throughout the United States and other countries. Throughout the years, over 100 gold medals have been awarded in four categories—rosemaling, knifemaking, woodworking, and weaving.
 
-Vesterheim’s [study tours to Norway](norway-tours/upcoming/)offer folk artists a unique learning opportunity based on the museum’s ties and relationships with the artists and institutions of Norway. Participants learn from leading Norwegian artists, surrounded by the beauty and traditions of this inspiring place.
+Vesterheim’s [study tours to Norway](/norway-tours/upcoming/)offer folk artists a unique learning opportunity based on the museum’s ties and relationships with the artists and institutions of Norway. Participants learn from leading Norwegian artists, surrounded by the beauty and traditions of this inspiring place.
 
 The folk-art experience at Vesterheim doesn’t end with classes. [_The National Exhibition of Folk Art in the Norwegian Tradition_.](/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/) Through this exhibition Vesterheim sets the standard of excellence as an artist in the Norwegian folk-art traditions. This program is vital for promoting folk artists and serves to ensure that these beautiful age-old traditions and skills are preserved.
 
