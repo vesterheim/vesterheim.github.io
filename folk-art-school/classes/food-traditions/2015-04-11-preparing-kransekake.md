@@ -1,7 +1,7 @@
 ---
 published: true
 title: Preparing Kransekake From Start to Finish 
-subtitle: November 7, 2015, with Carrie Solberg
+subtitle: April 11, 2015, with Carrie Solberg
 meta_description:  # Used in HTML head and as the description for some search engines
 
 location: ~

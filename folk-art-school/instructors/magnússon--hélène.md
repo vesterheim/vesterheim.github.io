@@ -4,6 +4,11 @@ title: Hélène Magnússon
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 
+lead:
+  image: folk-art-school/instructors/magnússon--hélène.jpg
+  alt: Hélène Magnússon
+  caption: Hélène Magnússon.
+
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  

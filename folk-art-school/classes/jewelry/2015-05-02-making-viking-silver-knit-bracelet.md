@@ -1,7 +1,7 @@
 ---
 published: true
 title: Making a Viking Silver Knit Bracelet 
-subtitle: November 7, 2015, with Liz Bucheit
+subtitle: May 2, 2015, with Liz Bucheit
 meta_description:  # Used in HTML head and as the description for some search engines
 
 location: ~

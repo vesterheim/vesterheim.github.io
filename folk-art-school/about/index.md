@@ -33,6 +33,8 @@ The process of making functional and beautiful objects with our hands expands ou
 
 A unique aspect of taking classes at Vesterheim is studying the museum’s collections, which include early folk art from all areas of Norway, representing many and varied traditions, as well as modern pieces that have been systematically collected for decades. Classes often arrange for the museum’s curatorial staff to give specialized tours of collections storage. People enrolled in a class are welcome to tour the museum at no cost during the time their class is in session. 
 
+{% include images/full-width.html image="16x9/buildings/blc-class.jpg" alt="Bauder-Landsgard Collections Study Center." caption="Bauder-Landsgard Collections Study Center" %}
+
 To register for classes, please print a class registration [form](/folk-art-school/registration/forms/class-reg-form.pdf) (pdf) and send the form, along with your class payment to: <br />
 Darlene Fossum-Martin<br />
 Vesterheim Museum<br />

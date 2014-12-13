@@ -6,8 +6,8 @@ meta_description:  # Used in HTML head and as the description for some search en
 
 lead:
   image: folk-art-school/instructors/bucheit--liz.jpg
-  alt:
-  caption:
+  alt: Liz Bucheit
+  caption: Liz Bucheit.
 
 pagelist:
   exclude: false
