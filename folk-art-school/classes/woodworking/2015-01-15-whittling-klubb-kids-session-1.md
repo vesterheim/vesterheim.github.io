@@ -35,6 +35,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description 
 ---
-Wanted—Kids (ages 10 and up, adults welcome) who want to unplug their electronic devices for awhile and use their nimble finger skills for carving! Create stuff out of wood, while learning the safe and proper use of a carving knife, gouge, and V tools. We’ll also learn how to keep our tools sharp. 
+Wanted—Kids (ages 10 and up, adults welcome) who want to unplug their electronic devices for a while and use their nimble finger skills for carving! Create stuff out of wood, while learning the safe and proper use of a carving knife, gouge, and V tools. We’ll also learn how to keep our tools sharp. 
 
 In Session I, we’ll practice with a knife by making a hook out of a Christmas tree and progress to using gouges and v-tools while carving on a small wooden container. In Session II we’ll carve a Dala horse, and in Session III we’ll make a pumpkin and Santa. Take one or all three sessions. 

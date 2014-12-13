@@ -24,7 +24,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-For more than 30 years, Vesterheim has been providing exciting and educational tours to Norway. These tours offer unique opportunities based on the museum’s ties and relationships with the artists and institutions of Norway.
+For more than 40 years, Vesterheim has been providing exciting and educational tours to Norway. These tours offer unique opportunities based on the museum’s ties and relationships with the artists and institutions of Norway.
 
 Tour guests have the opportunity to benefit from the insight and expertise of Vesterheim’s staff and Norwegian guides. Staff members spend countless hours researching new contacts and locations that will allow us to show you the “behind-the-scenes” areas and people of Norway. We pride ourselves on giving an experience that is exceptional in every way.
 

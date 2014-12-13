@@ -1,7 +1,7 @@
 ---
 published: true
 title: Bunad Camp
-subtitle: April 17-19, 2015 with Sue Sutherland
+subtitle: June 6–9, 2015 with Sue Sutherland
 meta_title: Bunad Camp with Sue Sutherland
 meta_description:  # Used in HTML head and as the description for some search engines
 

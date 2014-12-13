@@ -35,6 +35,8 @@ Supplies
 ---------
 Before each class begins, all students will receive supply lists and handouts from their instructors, a detailed class schedule, and a list of any special equipment needed for the class. The supply list may include a materials fee for specific items required for the class. Vesterheim can provide rosemalers with paints, brush cleaner, and painting medium for a palette fee and one set of basic acanthus carving tools for a rental fee. These supplies must be ordered in advance. Students might want to bring additional equipment for their own personal needs, such as a swinging arm lamp for extra lighting.
 
+All students receive a 20% discount on purchases made in the Museum Store throughout the duration of any class they are attending.
+
 Deposit, Payment, and Cancelations
 ----------------------------------
 **All classes require a $50 deposit to register.** Full tuition is due 21 days prior to the class starting date. A minimum number of registered students is required for a class to be held.  We must meet our minimum number 21 days before class, or the class will be cancelled.

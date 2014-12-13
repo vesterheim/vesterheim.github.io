@@ -25,7 +25,7 @@ pagelist:
 ---
 Pledging a gift to Vesterheim allows you to stretch your payments over a period of months or years. 
 
-To pledge your donation to Vesterheim, please print a pledge form (pdf) and send the form, along with your check or credit card information to: <br />
+To pledge your donation to Vesterheim, please print a pledge [form](/join-give/make-a-gift/pledge/forms/pledge.pdf) (pdf) and send the form, along with your check or credit card information to: <br />
 Development Department<br />
 Vesterheim Museum<br />
 P.O. Box 379<br />

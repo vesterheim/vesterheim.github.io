@@ -1,14 +1,14 @@
 ---
 published: true
 title: Norwegian Stave Container 
-subtitle: February 16-18, 2015, with Owen Christianson 
+subtitle: September 16-20, 2015, with Owen Christianson 
 meta_description:  # Used in HTML head and as the description for some search engines
 
 location: ~
 instructor: Owen Christianson 
-sessions: "February 16-18, 2015, 9:00 a.m.–5:00 p.m."
-dtstart: 2015-02-16 9:00:00 -5:00
-dtend: 2015-02-18 17:00:00 -5:00
+sessions: "September 16-20, 2015, 9:00 a.m.–5:00 p.m."
+dtstart: 2015-09-16 9:00:00 -5:00
+dtend: 2015-09-20 17:00:00 -5:00
 level: All levels. 
   
 participation: Youth ages 14-17 signed up with a participating adult receive a 25% discount.
