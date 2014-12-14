@@ -1,8 +1,6 @@
---
+---
 published: true
 #all_day: false # If true, ignore times?
-dt_start: 2013-12-07 10:00:00 # datetime the event starts
-dt_end: 2014-11-16 16:00:00 # datetime the event ends
 occurrences:
   -
     start-date: 2013-12-07 10:00:00 -0600
