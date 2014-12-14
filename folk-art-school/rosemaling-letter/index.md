@@ -24,4 +24,4 @@ Vesterheim members have the opportunity to purchase the _Rosemaling Letter_, a f
 
 For more membership information or to become a Vesterheim member, contact Peggy Sersland at 563-382-9681, ext. 112, or email at [psersland@vesterheim.org](mailto:psersland@vesterheim.org).
 
-Join online [here.](/join-give/membership/form/) 
+Join online [here.](https://vesterheim.wufoo.com/forms/w3h863c0xax0mc/) 

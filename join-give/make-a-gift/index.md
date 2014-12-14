@@ -36,7 +36,7 @@ Opportunities for Giving:
 
 [Make a gift right now](https://vesterheim.wufoo.com/forms/m1ufzvni19c3srk/). Gifts at all levels are important to Vesterheim.
 
-{% include components/button.html text="Make Your Gift Now" url="/join-give/make-a-gift/donate/form/" style="primary" %} 
+{% include components/button.html text="Make Your Gift Now" url="https://vesterheim.wufoo.com/forms/m1ufzvni19c3srk/" style="primary" %} 
 
 ### Pledge Your Support 
 

@@ -1,0 +1,25 @@
+---
+layout: page
+---
+{{ content }}
+
+{% assign class__pagelist = '' | split: '' %}
+{% assign class__pages = site.pages | where: 'layout', 'class' | sort: 'dtstart' %}
+
+{% for class__page in class__pages %}
+	{% for class__instructor in class__page.instructor %}
+		{% if class__instructor == page.title %}
+			{% assign class__pagelist = class__pagelist | push: site.data.pagelist_hash[class__page.url] %}
+			{% break %}
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+{% assign class__pages = nil %}
+{% assign class__page = nil %}
+{% capture class__pagelist__markdown %}
+{% include folk-art-school/class-list.html %}
+{% endcapture %}
+<div style="clear:both;">
+{{ class__pagelist__markdown | markdownify }}
+</div>
+{% assign assign class__pagelist = nil %}{% assign class__pagelist__markdown = nil %}

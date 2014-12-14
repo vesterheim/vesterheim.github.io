@@ -1,12 +1,12 @@
 ---
 published: true
 title: Chip Carving 
-subtitle: February 16-18, 2015, with Ellen Macdonald 
+subtitle: November 6-8, 2015, with Ellen Macdonald 
 meta_description:  # Used in HTML head and as the description for some search engines
 
 location: ~
 instructor: Ellen Macdonald 
-sessions: "Nov. 6-8 (Fri. 6:00-8:30; Sat. and Sun. 9:00-5:00)"
+sessions: "November 6-8 (Fri. 6:00-8:30; Sat. and Sun. 9:00-5:00)"
 dtstart: 2015-11-06 18:00:00 -5:00
 dtend: 2015-11-08 17:00:00 -5:00
 level: All levels. 

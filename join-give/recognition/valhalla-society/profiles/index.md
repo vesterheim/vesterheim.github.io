@@ -37,6 +37,7 @@ A planned gift is a great way to ensure the continuation of the outstanding work
 - [Phyllis Leseth](/join-give/recognition/valhalla-society/profiles/leseth--phyllis/)
 - [Berit T. Mesarick](/join-give/recognition/valhalla-society/profiles/mesarick--berit-t/)
 - [Helena Naef](/join-give/recognition/valhalla-society/profiles/naef--helena/)
+- [Irene Navarre](/join-give/recognition/valhalla-society/profiles/navarre--irene/)
 - [Betty Rikansrud Nelson](/join-give/recognition/valhalla-society/profiles/nelson--betty-rikansrud/)
 - [Ham and Suzanne Peterson](/join-give/recognition/valhalla-society/profiles/peterson--ham-and-suzanne/)
 - [Jerry Rosholt](/join-give/recognition/valhalla-society/profiles/rosholt--jerry/)

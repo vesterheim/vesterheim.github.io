@@ -30,9 +30,16 @@ Entry Dates
 ===========
 May 4 through May 24, 2015. **No entry arriving after 5:00 p.m. on May 24, 2015, will be considered for judging or exhibition.**
 
-Place Of Exhibition
-===================
-The exhibition is in Vesterheim’s Main Building at 520 W. Water St., and open 9:00 a.m.-5:00 p.m., June 12 - July 25, 2015. Ribbons will be placed next to winning entries on Thursday, July 23, 2015, at 9:00 a.m.
+How to Enter
+============
+Please print a registration [form](/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/entry-rules-and-guidelines/forms/exhibit-registration-2015.pdf) (pdf) and completely fill it out with an identification label for each entry. Write a check for entry fees and add sufficient funds for shipping and insurance if you wish the object to be shipped back to you after the exhibition. _**Pack carefully**_—UPS guidelines suggest two-inch, non-slip packing materials in all directions between object and box. The identification label must be attached to the object. In the case of weavings, the label must be lightly sewn to the back (no pins or staples please). Please mark your shipping box “Folk Art Exhibition.” 
+
+Send entries with forms and check for entry fee and return shipping, to:
+
+**_Vesterheim Norwegian-American Museum_** <br />
+_**502 W. Water St., Decorah, IA 52101**_
+
+Or deliver your entries in person between 9:00 a.m. and 5:00 p.m daily to the Westby-Torgerson Education Center (502 W. Water St., Decorah).
 
 Who May Enter
 =============
@@ -45,6 +52,10 @@ There is a limit of two entries per person in each category (rosemaling, weaving
 Entry Fees
 ==========
 $15 for each judged piece. There is no fee for submissions by Gold Medalists for Best of Show Award.
+
+Place Of Exhibition
+===================
+The exhibition is in Vesterheim’s Main Building at 520 W. Water St., and open 9:00 a.m.-5:00 p.m., June 12 - July 25, 2015. Ribbons will be placed next to winning entries on Thursday, July 23, 2015, at 9:00 a.m.
 
 Awards
 ======
@@ -86,17 +97,6 @@ _**Very important: If you indicate that an entry is not for sale (NFS), you stil
 Return Of Objects
 =================
 No entry may be removed from the exhibition before 5:00 p.m., Saturday, July 25, 2015. Objects may be picked up by the artist between 5:00-7:00 p.m., Saturday, July 25, or 9:00-11:00 a.m. Sunday, July 26, 2015, in the exhibition area in the museum’s Main Building, or during the following week between 9:00 a.m. and 5:00 p.m. in the museum’s Main Building. If you want your entry to be shipped back to you, you must include funds for insured return shipping with the entry. Exhibited objects that are not picked up and for which no return funds are included, will be returned by UPS or other appropriate service and you will be billed for shipping and insurance costs. For pieces that are sold, the purchaser will be responsible for picking up the object or arranging for shipment.
-
-How to Enter
-============
-Please print a registration [form](/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/entry-rules-and-guidelines/forms/exhibit-registration-2015.pdf) (pdf) and completely fill it out with an identification label for each entry. Write a check for entry fees and add sufficient funds for shipping and insurance if you wish the object to be shipped back to you after the exhibition. _**Pack carefully**_—UPS guidelines suggest two-inch, non-slip packing materials in all directions between object and box. The identification label must be attached to the object. In the case of weavings, the label must be lightly sewn to the back (no pins or staples please). Please mark your shipping box “Folk Art Exhibition.” 
-
-Send entries with forms and check for entry fee and return shipping, to:
-
-**_Vesterheim Norwegian-American Museum_** <br />
-_**502 W. Water St., Decorah, IA 52101**_
-
-Or deliver your entries in person between 9:00 a.m. and 5:00 p.m daily to the Westby-Torgerson Education Center (502 W. Water St., Decorah).
 
 Photography
 ===========

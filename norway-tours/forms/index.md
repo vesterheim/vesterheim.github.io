@@ -33,8 +33,8 @@ Before November 15—Fill out a “[Tour Deposit](/norway-tours/forms/documents/
 
 After November 15—Fill out a "[Registration](/norway-tours/forms/documents/RegForm.pdf)" form and send it, with a $500 deposit per person if you have not already made a depost, to Vesterheim.
 
-{% include components/button.html text="Download Registration Form (PDF)" url="/norway-tours/forms/documents/DepositForm.pdf" style="primary" %} 
+{% include components/button.html text="Download Registration Form (PDF)" url="/norway-tours/forms/documents/RegForm.pdf" style="primary" %} 
 
 Be sure to read the "[Terms and Conditions](/norway-tours/forms/documents/TermCond.pdf)" for each tour.
 
-{% include components/button.html text="Download Terms and Conditions (PDF)" url="/norway-tours/forms/documents/DepositForm.pdf" style="primary" %} 
+{% include components/button.html text="Download Terms and Conditions (PDF)" url="/norway-tours/forms/documents/TermCond.pdf" style="primary" %} 
