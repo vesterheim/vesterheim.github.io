@@ -78,7 +78,16 @@ module Jekyll
           end
         end
       end
-      posts_hash
+      # for each post list in posts_hash sort
+      #sorted_posts_hash = Hash.new { |hash, key| hash[key] = [] }
+      sorted_posts_hash = {}
+      posts_hash.each do |k,posts|
+        # TODO: Right now the first occurrences time is used in the sorting, checking to see if the occurrence falls within the range of the key (k)
+        #       could fix this limitation. Leaving this logic out for now as it is more complicated.
+        # use this one for day archive pages - it is with time - sorted_posts_hash[k] << posts.sort_by { |post| DateTime.parse('1990-1-1 '+post['occurrences'][0]['start-date'].strftime('%H:%M:%S %z')) }
+        sorted_posts_hash[k] = posts.sort_by { |post| DateTime.parse('1990-1-1 '+post['occurrences'][0]['start-date'].strftime('%H:%M:%S %z')) }
+      end
+      sorted_posts_hash
     end
   end
 
