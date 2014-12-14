@@ -3,8 +3,8 @@ published: true
 title:  "Knit-In"
 occurrences:
   -
-    start-date: 2014-11-08 00:00:00
-    end-date: 2014-11-08 00:00:00
+    start-date: 2014-11-08 00:00:00 -0600
+    end-date: 2014-11-08 00:00:00 -0600
 home:
   display: false
 ---
