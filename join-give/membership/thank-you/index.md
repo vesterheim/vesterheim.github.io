@@ -13,8 +13,9 @@ related:
 
 navigation:
   order: 10
+  exclude: true  
 pagelist:
-  exclude: false
+  exclude: true
   order:         # Defaults to navigation order  
   image:         # Defaults to cropped page hero image
   alt:
