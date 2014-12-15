@@ -97,3 +97,5 @@ For an additional fee, philanthropic members can subscribe to the _Rosemaling Le
 * _Rosemaling Letter_—international: $25.00
 
 {% include components/button.html text="Join, give or renew a membership" url="https://vesterheim.wufoo.com/forms/w3h863c0xax0mc/" style="primary" %} 
+
+Learn more about Vesterheim with this [video.](https://www.youtube.com/watch?v=S1swuKt7v8o)
