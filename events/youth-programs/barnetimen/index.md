@@ -16,7 +16,7 @@ navigation:
   order: 10
 pagelist:
   order:         # Defaults to navigation order
-  image: 46x21/events/barnetimen--people--kids.jpg
+  image: 46x21/events/barnetimen-kids-2014.jpg
   alt: 
   caption:
   title:         # Defaults to navigation title

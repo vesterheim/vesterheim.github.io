@@ -86,9 +86,9 @@ panels:
     published: false
     start_date: 2014-10-01
     stop_date:
-  - url: /folk-art-school/
+  - url: /folk-art-school/classes/
     file_under:
-    image: /16x9/folk-art-school/weaving.jpg/
+    image: /16x9/folk-art-school/rosemaling-girl-mom.jpg
     alt:
     caption:
     title:
@@ -119,7 +119,7 @@ panels:
     published: false
     start_date: 2014-10-01
     stop_date:
-  - url: /norway-tours/upcoming/coastal-voyage/
+  - url: /norway-tours/upcoming/coastal-voyage
     file_under:
     image: 16x9/norway-tours/coastal-tour-houses.jpg
     alt:
@@ -143,40 +143,40 @@ events:
     start_date: 
     stop_date: 2015-01-20
   - url: /folk-art-school/classes/woodworking/2015-01-15-whittling-klubb-kids-session-1/
-    image:
+    image: /46x21/folk-art-school/whittling-kids-klubb-hanna.jpg
     alt:
     caption:
-    title: Whittling Klubb for Kids—Session with Rebecca Hanna
+    title: Whittling Klubb for Kids—Session I with Rebecca Hanna
     date: January 15, 22, 29, and Feb 5, 2015
     time: 3:35–5:15PM
     published: true
     start_date:
     stop_date: 2015-01-16 
   - url: /folk-art-school/classes/woodworking/2015-01-15-whittling-klubb-kids-session-1/
-    image:
+    image: /46x21/folk-art-school/whittling-kids-klubb-hanna.jpg
     alt:
     caption:
-    title: Whittling Klubb for Kids—Session with Rebecca Hanna
+    title: Whittling Klubb for Kids—Session I with Rebecca Hanna
     date: January 22, 29, and Feb 5, 2015
     time: 3:35–5:15PM
     published: true
     start_date: 2015-01-16
     stop_date: 2015-01-23
   - url: /folk-art-school/classes/woodworking/2015-01-15-whittling-klubb-kids-session-1/
-    image:
+    image: /46x21/folk-art-school/whittling-kids-klubb-hanna.jpg
     alt:
     caption:
-    title: Whittling Klubb for Kids—Session with Rebecca Hanna
+    title: Whittling Klubb for Kids—Session I with Rebecca Hanna
     date: January 29 and Feb 5, 2015
     time: 3:35–5:15PM
     published: true
     start_date: 2015-01-23
     stop_date: 2015-01-30        
   - url: /folk-art-school/classes/woodworking/2015-01-15-whittling-klubb-kids-session-1/
-    image:
+    image: /46x21/folk-art-school/whittling-kids-klubb-hanna.jpg
     alt:
     caption:
-    title: Whittling Klubb for Kids—Session with Rebecca Hanna
+    title: Whittling Klubb for Kids—Session I with Rebecca Hanna
     date: February 5, 2015
     time: 3:35–5:15PM
     published: true
@@ -186,14 +186,14 @@ events:
     image:
     alt:
     caption:
-    title: Barneløpet
+    title: Barneløpet (Children's Ski/Walk Event)
     date: February 7, 2015
     time: 9:40AM
     published: true
     start_date: 
     stop_date: 2015-02-08
   - url: /folk-art-school/classes/fiber-arts/2015-02-14-bandweaving/
-    image:
+    image: /46x21/folk-art-school/bandweaving-couples-delarm.jpg
     alt:
     caption:
     title: Bandweaving with Reggie Delarm
@@ -203,7 +203,7 @@ events:
     start_date: 
     stop_date: 2015-02-16 
   - url: /folk-art-school/classes/woodworking/2015-02-14-band-loom-carving/ 
-    image:
+    image: /46x21/folk-art-school/abrahamson_loom_carving.jpg
     alt:
     caption:
     title: Band Loom Carving with Roger Abrahamson

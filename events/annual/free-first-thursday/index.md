@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: page
 title: Free First Thursdays
 meta_title:        # Appears on bookmarks, search results, etc...
