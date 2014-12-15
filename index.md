@@ -64,28 +64,6 @@ show_social_sharing_bar: false
 
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px      
 panels:
-  - url: /join-give/benefit-auction/
-    file_under:
-    image:
-    alt:
-    caption:
-    title:
-    subtitle:
-    teaser:
-    published: false
-    start_date: 2014-10-01
-    stop_date:
-  - url: /exhibitions/special/flora-metamorphicae/
-    file_under:
-    image:
-    alt:
-    caption:
-    title:
-    subtitle:
-    teaser:
-    published: false
-    start_date: 2014-10-01
-    stop_date:
   - url: /folk-art-school/classes/
     file_under:
     image: /16x9/folk-art-school/rosemaling-girl-mom.jpg
@@ -108,18 +86,7 @@ panels:
     published: true
     start_date: 2014-10-01
     stop_date: 
-  - url: /exhibitions/special/alt-for-norge/
-    file_under:
-    image:
-    alt:
-    caption:
-    title:
-    subtitle:
-    teaser:
-    published: false
-    start_date: 2014-10-01
-    stop_date:
-  - url: /norway-tours/upcoming/coastal-voyage
+  - url: /norway-tours/upcoming/coastal-voyage/
     file_under:
     image: 16x9/norway-tours/coastal-tour-houses.jpg
     alt:
