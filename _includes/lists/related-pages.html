@@ -31,13 +31,13 @@
 					{% assign related__page__image__alt = nil %}
 				{% endif %}				
 				{% capture related__page__picture__output %}{% picture tile  {{ related__page__image__src }} alt="{{ related__page__image__alt }}" %}{% endcapture %}
-
+{% comment %}
 	{% capture related__output__cache %}
 	{{ related__url | debug }}
 	{{ related__page | debug }}
 	{{ site.data.pagelist_hash | debug }}
 	{% endcapture %}
-
+{% endcomment %}
 				{% assign related__output = related__output | append: '<article class="layout__media page-listing">' %}
 			    {% assign related__output = related__output | append: '<a class="page-listing__lining  page-listing__lining--padding-bottom" href="' | append: related__page__url | append: '">' %}
 			    {% assign related__output = related__output | append: '<div class="layout__media__image  page-listing__image  page-listing__image--one-half">' %}

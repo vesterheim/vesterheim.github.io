@@ -49,6 +49,7 @@ module Jekyll
 					'subtitle' => get_pagelist_subtitle(page),
 					'teaser' => get_pagelist_teaser(page),
 					'url' => redirect_to.first || page['url'],
+					'layout' => page['layout'] || nil,
 					'order' => pagelist['order'] || navigation['order'] || 1000,
 					'dtstart' =>  pagelist['dtstart'] || page['dtstart'] || nil,
 					'dtend' =>  pagelist['dtend'] || page['dtend'] || nil

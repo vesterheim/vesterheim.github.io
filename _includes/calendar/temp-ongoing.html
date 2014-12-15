@@ -1,0 +1,98 @@
+{% capture calendar__ongoing__cache %}
+    {% assign current_time =  site.time | date: "%s" %}
+    {% assign start_date = nil %}
+    {% assign stop_date = nil %}
+    {% assign display = true %}
+    {% if calendar__ongoing.published == false %}
+        {% assign display = false %}
+    {% endif %}
+    {% if calendar__ongoing.start_date %}
+        {% assign start_date = calendar__ongoing.start_date | date: "%s" %}
+        {% if start_date > current_time %}
+            {% assign display = false %}
+        {% endif %}
+    {% endif %}
+    {% if calendar__ongoing.stop_date %}
+        {% assign stop_date = calendar__ongoing.stop_date | date: "%s" %}
+        {% if current_time > stop_date %}
+            {% assign display = false %}
+        {% endif %}    
+    {% endif %}
+    {% assign calendar__ongoing__output = '' %}
+    {% if display %}
+        {% assign calendar__ongoing__page = site.pages | where:'url', calendar__ongoing.url | first %}
+        {% if calendar__ongoing__page %}
+
+        
+            {% if calendar__ongoing.image %}
+                {% assign calendar__ongoing__image = calendar__ongoing.image %}
+            {% elsif calendar__ongoing__page.pagelist.image %}
+                {% assign calendar__ongoing__image = calendar__ongoing__page.pagelist.image %} 
+            {% elsif calendar__ongoing__page.hero.image %}
+                {% assign calendar__ongoing__image = calendar__ongoing__page.hero.image %}               
+            {% endif %}
+            {% if calendar__ongoing.image %}
+                {% if calendar__ongoing.alt %}
+                    {% assign calendar__ongoing__alt = calendar__ongoing.alt %}
+                {% elsif calendar__ongoing__page.pagelist.alt %}
+                    {% assign calendar__ongoing__alt = calendar__ongoing__page.pagelist.alt %}
+                {% elsif calendar__ongoing__page.hero.alt %}
+                    {% assign calendar__ongoing__alt = calendar__ongoing__page.hero.alt %}                    
+                {% endif %}
+                {% if calendar__ongoing.caption %}
+                    {% assign calendar__ongoing__caption = calendar__ongoing.caption %}
+                {% elsif calendar__ongoing__page.pagelist.caption %}
+                    {% assign calendar__ongoing__caption = calendar__ongoing__page.pagelist.caption %}  
+                {% elsif calendar__ongoing__page.hero.caption %}
+                    {% assign calendar__ongoing__caption = calendar__ongoing__page.hero.caption %}
+                {% endif %}                
+            {% endif %}
+        
+            {% if calendar__ongoing.title %}
+                {% assign calendar__ongoing__title = calendar__ongoing.title %}
+            {% elsif calendar__ongoing__page.pagelist.title %}
+                {% assign calendar__ongoing__title = calendar__ongoing__page.pagelist.title %}
+            {% elsif calendar__ongoing__page.title %}
+                {% assign calendar__ongoing__title = calendar__ongoing__page.title %}
+            {% endif %}  
+        
+            {% if calendar__ongoing.subtitle == false %}
+                {% assign calendar__ongoing__subtitle = nil %}
+            {% elsif calendar__ongoing.subtitle %}
+                {% assign calendar__ongoing__subtitle = calendar__ongoing.subtitle %}
+            {% elsif calendar__ongoing__page.pagelist.subtitle %}
+                {% assign calendar__ongoing__subtitle = calendar__ongoing__page.pagelist.subtitle %}                
+            {% elsif calendar__ongoing__page.subtitle %}
+                {% assign calendar__ongoing__subtitle = calendar__ongoing__page.subtitle %}
+            {% endif %} 
+        
+            {% if calendar__ongoing.teaser %}
+                {% assign calendar__ongoing__teaser = calendar__ongoing.teaser %}
+            {% elsif calendar__ongoing__page.pagelist.teaser %}
+                {% assign calendar__ongoing__teaser = calendar__ongoing__page.pagelist.teaser %}
+            {% elsif calendar__ongoing__page.teaser %}
+                {% assign calendar__ongoing__teaser = calendar__ongoing__page.teaser %}
+            {% elsif calendar__ongoing__page.meta_description %}
+                {% assign calendar__ongoing__teaser = calendar__ongoing__page.meta_description %}                
+            {% endif %}             
+
+{% capture calendar__ongoing__output %}
+{% include calendar/event--listing.html  url=calendar__ongoing.url  title=calendar__ongoing__title  subtitle=calendar__ongoing__subtitle  image__src=calendar__ongoing__image  image__alt=calendar__ongoing__alt  teaser=calendar__ongoing__teaser %}
+{% endcapture %}
+
+        {% endif %}   
+    {% endif %}
+    {% assign current_time = nil %}
+    {% assign start_date = nil %}
+    {% assign stop_date = nil %}
+    {% assign display = nil %}
+    {% assign calendar__ongoing__page = nil %}
+    {% assign calendar__ongoing__root_url = nil %}
+    {% assign calendar__ongoing__image = nil %}
+    {% assign calendar__ongoing__alt = nil %}
+    {% assign calendar__ongoing__caption = nil %}
+    {% assign calendar__ongoing__title = nil %}
+    {% assign calendar__ongoing__subtitle = nil %}
+    {% assign calendar__ongoing__teaser = nil %}
+    {% assign calendar__ongoing__capture = nil %}
+{% endcapture %}{% assign calendar__ongoing__cache = nil %}{{ calendar__ongoing__output }}{% assign calendar__ongoing__output = nil %}

@@ -1,0 +1,44 @@
+{% capture event__listing__cache %}
+	{% if include.url %}
+		{% assign event__url = include.url %}
+	{% endif %}
+	{% if include.image__src %}
+		{% assign event__image__src = include.image__src %}
+	{% endif %}
+	{% if include.image__alt %}
+		{% assign event__image__alt = include.image__alt | strip_html | xml_escape %}
+	{% endif %}
+	{% if include.title %}
+		{% assign event__title = include.title | markdownify | remove: '<p>' | remove: '</p>' %}
+	{% endif %}
+	{% if include.subtitle %}
+		{% assign event__subtitle = include.subtitle | markdownify | remove: '<p>' | remove: '</p>' %}
+	{% endif %}
+	{% if include.teaser %}
+		{% assign event__teaser = include.teaser | markdownify | remove: '<p>' | remove: '</p>' %}
+	{% endif %}
+{% endcapture %}{% assign event__listing__cache = nil %}<article class="layout__media page-listing">
+	<a class="page-listing__lining  page-listing__lining--padding-bottom" href="{{ event__url }}">
+		<div class="layout__media__image  page-listing__image  page-listing__image--one-third">
+			<div class="page-listing__image__lining">
+				{% picture tile {{ event__image__src }} alt="{{ event__image__alt }}" %}
+			</div>
+		</div>
+		<div class="layout__media__body page-listing__body  page-listing__body--constrained">
+			<header class="page-listing__header">
+				<h1 class="title  page-listing__title">{{ event__title }}</h1>
+			    {% if event__subtitle %}<h2 class="subtitle  page-listing__subtitle">{{ event__subtitle }}</h2>{% endif %}
+			</header>
+		    <p class="summary  text  main-content  page-listing__summary">{{ event__teaser }}</p>			    
+			<p class="more">Read More</p>
+		</div>
+	</a>
+</article>
+{% capture event__listing__cache %}
+	{% assign event__url = nil %}
+	{% assign event__image__src = nil %}
+	{% assign event__image__alt = nil %}
+	{% assign event__title = nil %}
+	{% assign event__subtitle = nil %}
+	{% assign event__teaser = nil %}
+{% endcapture %}{% assign event__listing__cache = nil %}
