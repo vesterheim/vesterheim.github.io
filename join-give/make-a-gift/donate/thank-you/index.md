@@ -24,4 +24,4 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser: Join over 6,000 others from all 50 states and several foreign countries who support Vesterheim as members.
 ---
-Content to be provided by development.
+On behalf of Vesterheim Museum, we would like to offer our most sincere thanks to you for your support. Each and every guest to the museum is a benefactor of your generosity.
