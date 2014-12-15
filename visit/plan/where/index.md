@@ -29,7 +29,7 @@ Decorah is located at the intersection of U.S. Hwy. 52 (north/south) and Iowa Hw
 
 I-90 (east/west) is approximately 60 miles north. I-35 (north/south) is about 90 miles west. I-380 (east/west) is 80 miles south.
 
-Decorah is just under a 3-hour drive from the Minneapolis/St. Paul area and is approximately 60 miles from Rochester, Minnesota; LaCrosse, Wisconsin; and Waterloo, Iowa.
+Decorah is just under a 3-hour drive from the Minneapolis/St. Paul area and is approximately 60 miles from Rochester, Minnesota; La Crosse, Wisconsin; and Waterloo, Iowa.
 <style>
   #map_canvas {
     width: 500px;

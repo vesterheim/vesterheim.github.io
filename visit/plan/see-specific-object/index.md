@@ -24,6 +24,8 @@ pagelist:
 ---
 Is there something you are especially interested in seeing at Vesterheim? With a collection of over 24,000 artifacts, many of Vesterheim's objects are in storage, but we'd like to make sure you have access to your special piece.
 
-Did your family donate something to the museum? Do you have a favorite artifact you would like to see again? Is there a certain folk-art technique you'd like to study?
+* Did your family donate something to the museum? 
+* Do you have a favorite artifact you would like to see again? 
+* Is there a certain folk-art technique you'd like to study?
 
-If you have a specific viewing request, please contact Vesterheim before you visit to assure access to the collection items you would like to see or study most. Viewing requests can be made to the museum’s collections manager, Alison Dwyer, at [adwyer@vesterheim.org](mailto:adwyer@vesterheim.org) or 562-382-9681, ext. 118. Two weeks' notice is preferred.
+If you have a specific viewing request, please contact Vesterheim before you visit to assure access to the collection items you would like to see or study most. Viewing requests can be made to the museum’s collections manager, Alison Dwyer, at [adwyer@vesterheim.org](mailto:adwyer@vesterheim.org) or 563-382-9681, ext. 118. Two weeks notice is preferred.

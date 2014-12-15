@@ -57,7 +57,7 @@ Vesterheim Staff
 
 ### Development and Membership
 - **Steve Grinna**, Director of Development, Ext. 109, [sgrinna@vesterheim.org](mailto:sgrinna@vesterheim.org)
-- **Stephanie Johnson**, Development Assistant, Ext. 103. [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org)
+- **Stephanie Johnson**, Development Assistant, Ext. 103, [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org)
 - **Peggy Sersland**, Membership Manager, Ext. 112, [psersland@vesterheim.org](mailto:psersland@vesterheim.org)
 
 ### Education and Tours to Norway
@@ -75,7 +75,7 @@ Vesterheim Staff
 - **Sandy Bishop**, Sales Staff, Museum Store, Ext. 212
 - **Sharon DelVento**, Sales Staff, Museum Store, Ext. 212
 - **Danette Franzen**, Sales Staff, Museum Store, Ext. 212
-- **Joann Stevenson**, Sales Staff, Museum Store, Ext. 212
+- **JoAn Stevenson**, Sales Staff, Museum Store, Ext. 212
 
 
 ### Publications

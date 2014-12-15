@@ -28,8 +28,8 @@ This exhibition is a special installation of a monumental artwork—a flag sculp
 
 Utilizing an array of quotations, words, symbols, and patterns culled from both the ancient and the modern, the piece in this exhibition reflects mankind's continued hopes and wishes to create the best of all possible worlds—a testament to love.
 
-Stylistic choices for Garlant’s work borrow from Viking runes found in Norway, kufic text from Arabia, horyig seal script from Tibet, and I-Ching hexagrams from China. These methods of writing have crossed over at various points in time: runic graffiti is to be found in the Church of Hagai Sophia in Constantinople, kufic text is to be found on silver coins in Viking graves, and oriental seals and symbols are distributed all along the trades routes used by Vikings, Arabs, and Mongol tribes alike, connecting Northern Europe to the Far East. Garlant combines these together to form a 'tapestry' illustrating a common message that transcends language.
+Stylistic choices for Garlant’s work borrow from Viking runes found in Norway, kufic text from Arabia, horyig seal script from Tibet, and I-Ching hexagrams from China. These methods of writing have crossed over at various points in time: runic graffiti is to be found in the Church of Hagia Sophia in Constantinople, kufic text is to be found on silver coins in Viking graves, and oriental seals and symbols are distributed all along the trades routes used by Vikings, Arabs, and Mongol tribes alike, connecting Northern Europe to the Far East. Garlant combines these together to form a "tapestry" illustrating a common message that transcends language.
 
-Born in 1962 to an English father and Norwegian mother, Garlant left an illustrious career in London’s top fashion houses to dedicate his life to making art full time on Norway’s Hardanger fjord. 
+Born in 1962 to an English father and Norwegian mother, Garlant left an illustrious career in London’s top fashion houses to dedicate his life to making art full-time on Norway’s Hardanger fjord. 
 
 This exhibition was created in partnership with American Swedish Institute.

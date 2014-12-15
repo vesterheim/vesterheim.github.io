@@ -12,7 +12,7 @@ hero:
 related:
 
 navigation:
-  order: 10
+  order: 20
 pagelist:
   order:         # Defaults to navigation order
   image: 46x21/about/board.jpg

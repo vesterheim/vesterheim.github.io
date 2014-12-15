@@ -35,4 +35,4 @@ In the absence of snow, children will walk the course. If in doubt about weather
 
 The entry fee is $3, and participants must provide their own skis. There are a limited number of children's skis for rent at Decorah Bicycles.
 
-For more information about _Barneløpet_ contact Vesterheim at (563) 382-9681. _Barneløpet_ is sponsored by Sons of Norway Valdres Lodge #503 in Decorah, Iowa, Sons of Norway Heimbygda Lodge #376 in Lanesboro, Minnesota, and Sons of Norway Valheim Lodge #364 in Spring Grove, Minnesota, along with Vesterheim.
+For more information about _Barneløpet_ contact Darlene Fossum-Martin at [dfossum-martin@vesterheim.org](mailto:dfossum-martin@vesterheim.org), or (563) 382-9681, ext. 215. _Barneløpet_ is sponsored by Sons of Norway Valdres Lodge #503 in Decorah, Iowa, Sons of Norway Heimbygda Lodge #376 in Lanesboro, Minnesota, and Sons of Norway Valheim Lodge #364 in Spring Grove, Minnesota, along with Vesterheim.

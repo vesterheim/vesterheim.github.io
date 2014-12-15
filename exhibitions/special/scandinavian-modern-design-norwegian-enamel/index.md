@@ -30,7 +30,7 @@ This exhibition focuses on Norwegian enamel design and enamel production (techno
 
 The exhibition features Grete Prytz Kittelsen, known as the “Queen of Scandinavian Design,” through her work for the firms Tostrup and Cathrineholm. With good design, functional forms, inexpensive materials, and efficient manufacturing, especially through her partnership with Cathrineholm, she brought Norwegian enamel design into the forefront in both Scandinavia and the United States.
 
-The exhibition showcases enamel jewelry, cookware, and tableware from Vesterheim’s collection and from individuals. The guest curator for the exhibition is Kate Martinson, Emeritus Professor of Art at Luther College in Decorah, Iowa. Exhibition programing will include gallery talks, presentations, and receptions.
+The exhibition showcases enamel jewelry, cookware, and tableware from Vesterheim’s collection and from individuals. The guest curator for the exhibition is Kate Martinson, professor emeritus of art at Luther College in Decorah, Iowa. Exhibition programing will include gallery talks, presentations, and receptions.
 
 Upcoming lectures in connection with the exhibition include:
 

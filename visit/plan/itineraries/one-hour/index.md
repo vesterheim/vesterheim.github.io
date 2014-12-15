@@ -32,7 +32,7 @@ First Floor
 - **Norwegian House**<br />
   This house is a model of a rural Norwegian home from the mid-1800s in the Telemark region of Norway.
 - **The TradeWind**<br />
-  This 25-foot sailboat, the smallest known sailboat to have crossed the Atlantic Ocean without assistance, was sailed by two brothers who left Kristiansand, Norway, on March 26, 1933, and arrived at the World’s Fair in Chicago on April 29, 1933.
+  This 25-foot sailboat, the smallest known sailboat to have crossed the Atlantic Ocean without assistance, was sailed by two brothers who left Kristiansand, Norway, on March 27, 1933, and arrived at the World’s Fair in Chicago by August 29, 1933.
 
 Second Floor
 ------------
@@ -55,7 +55,7 @@ Basement
 - **Nisse Statue**<br />
   An impish *nisse*, made of concrete, that was made in 1954 by Halvor Landsverk, a well-known wood carver and sculptor from Whalen, Minnesota.
 - **The 99th Infantry Battalion Display**<br />
-  This special battalion, which was activated in 1942, consisted  of 100 Norwegian-Americans who were trained to liberate Norway from Nazi control.
+  This special battalion, which was activated in 1942, consisted  of 1000 Norwegian-Americans who were trained to liberate Norway from Nazi control.
 - **The Lars Christenson Altar**<br />
   Christenson began carving this altar in 1890. Ten years later, when the altar was completed, the congregation for which he carved it did not accept it. One theory is that it varied too much from the more popular style of the time. Interestingly, the church subsequently burned, but the altar did not, since it continued to be stored at Christenson’s farm.
 

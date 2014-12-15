@@ -66,6 +66,6 @@ When it comes time to eat, they recommend Magpie Coffeehouse for breakfast, the 
 
 Lodging
 -----------------
-If you spend the night, they love camping at Decorah’s award-winning Pulpit Rock Campground, right outside of town on the scenic Upper Iowa River, or checking into one of Decorah’ great hotels, two of which have indoor swimming pools. But they are especially excited about staying at the Hotel Winneshiek, where the historic setting and fancy décor allow them to continue to use their imaginations and make their own histories.
+If you spend the night, they love camping at Decorah’s award-winning Pulpit Rock Campground, right outside of town on the scenic Upper Iowa River, or checking into one of Decorah’s great hotels, two of which have indoor swimming pools. But they are especially excited about staying at the Hotel Winneshiek, where the historic setting and fancy décor allow them to continue to use their imaginations and make their own histories.
 
 Vesterheim in Decorah is a perfect family get-away any time of year.

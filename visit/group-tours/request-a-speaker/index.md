@@ -112,7 +112,7 @@ Based on the popular exhibition, this presentation explores the life and work of
 {: .subtitle }
 
 Laurann Gilbertson <br/>
-Norway’s tradition of colorful folk costumes is as old as the Middle Ages, and as young as the 1940s  Learn about the history of costumes from Hardanger, Telemark, Hallingdal, and many other regions of Norway. The forces of politics, fashion, and immigration have left their mark on this important part of Norwegian and Norwegian-American folk culture.
+Norway’s tradition of colorful folk costumes is as old as the Middle Ages, and as young as the 1940s. Learn about the history of costumes from Hardanger, Telemark, Hallingdal, and many other regions of Norway. The forces of politics, fashion, and immigration have left their mark on this important part of Norwegian and Norwegian-American folk culture.
 
 #### The Extraordinary Aprons of Evelina Grimes  
 {: .subtitle }

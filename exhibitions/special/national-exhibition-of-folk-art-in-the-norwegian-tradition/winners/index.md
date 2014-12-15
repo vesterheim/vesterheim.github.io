@@ -109,7 +109,7 @@ None
 * Linda Miller, Middlebury, Conn., Gudbrandsdal-style tray 
 * Jan Norsetter, Verona, Wis, Valdres-style plate
 
-1024 Weaving
+2014 Weaving
 =======
 
 ### Best of Show

@@ -39,7 +39,7 @@ The church is fully climate controlled.
 
 The historic main level of the church can seat approximately 75 to 80 people.
 
-The lower level of the church includes a complete kitchen and can seat up to 54 people at round tables in a spacious dinning area.
+The lower level of the church includes a complete kitchen and can seat up to 54 people at round tables in a spacious dining area.
 
 The church is equipped with a lift for accessibility.
 
@@ -51,12 +51,12 @@ Museum member rate
   Entire church/upstairs $175<br />
   After Hours* $25/hour
 
-Non Member rate
+Non-Member rate
 : Downstairs (+ kitchen) only $150<br />
   Entire church/upstairs $225<br />
   After Hours* $25/hour
 
-_After hours is anything outside of museum hours, e.g. later than 5 p.m. $25/hr fee is in addition to rental price._
+"*"_After hours is anything outside of museum hours, e.g. later than 5 p.m. $25/hr fee is in addition to rental price._
 
 **Please email [Jocelyn Bruening](mailto:jbruening@vesterheim.org), or call (563) 382-9681 for more information or to reserve the space.**
 

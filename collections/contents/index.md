@@ -37,7 +37,7 @@ Furnishings (numbering approximately 7,000 items)
 -------------------------------------------------
 Objects chosen or custom-made to furnish public and private environments:
 
-* Home: furniture, table wares, household textiles
+* Home: furniture, tableware, household textiles
 * Church: altar paintings and surrounds, pulpits, baptismal fonts, pews, serving wares, paraments
 * Educational Institutions: desks, samplers, teaching aids
 * Cultural Organizations: furnishings and ceremonial artifacts from organizations like the Chicago Norske Klub, Bygdelags, Sons of Norway and others
@@ -47,11 +47,11 @@ Fine Art (numbering approximately 3,000 items)
 ----------------------------------------------
 Works of visual art by Norwegian immigrant and Norwegian-American artists: 
 
-* Oil painting
-* Watercolor
-* Drawing
+* Oil paintings
+* Watercolors
+* Drawings
 * Prints
-* Sculpture
+* Sculptures
 
 Tools and Technology (numbering approximately 6,000 items)
 ----------------------------------------------------------
@@ -81,7 +81,7 @@ Norwegian and Norwegian-American garments for everyday, special occasions, and o
 * Hats
 * Purses and wallets
 
-Architecture (number 12 historic structures)
+Architecture (numbering 12 historic structures)
 --------------------------------------------
 Buildings that exemplify or contrast Norwegian and Norwegian-American construction methods and forms. Find more information about the historic buildings in Vesterheim's Open Air Division [here.](/exhibitions/open-air/) 
 

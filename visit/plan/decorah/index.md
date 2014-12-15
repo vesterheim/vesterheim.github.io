@@ -25,7 +25,7 @@ pagelist:
 ---
 Decorah is a great place to visit. It’s a warm and vibrant town that makes a perfect getaway from the hustle and bustle of everyday life.
 
-Decorah was featured in _Smithsonian Magazine’s_ annual list of the 20 best small towns to visit in America, as well as being named in _Forbes_ ”America’s Prettiest Towns” list.
+Decorah was featured in _Smithsonian Magazine’s_ annual list of the 20 best small towns to visit in America, as well as being named in _Forbes_ "America’s Prettiest Towns" list.
 
 Find complete information about everything Winneshiek County and Decorah have to offer at [Visit Decorah](http://www.visitdecorah.com/). Learn more about the whole Northeast Iowa area at [Northeast Iowa](http://visitiowa.org/).
 
@@ -57,4 +57,4 @@ Round out your visit to Vesterheim with a stroll through Decorah's thriving and 
 
 Whatever the season—your stay is sure to be unforgettable!
 
-{% include images/full-width.html image="16x9/decorah/fish-hatchery.jpg" alt="Seiwer's Springs is the site of Decorah's fish hatchery, Trout Run Trail, and eagle nest." caption="Seiwer's Springs is the site of Decorah's fish hatchery, Trout Run Trail, and eagle nest." %}
+{% include images/full-width.html image="16x9/decorah/fish-hatchery.jpg" alt="Siewer's Springs is the site of Decorah's fish hatchery, Trout Run Trail, and eagle nest." caption="Seiwer's Springs is the site of Decorah's fish hatchery, Trout Run Trail, and eagle nest." %}

@@ -30,7 +30,7 @@ Patti Goke is a Gold Medalist rosemaler who comes to Vesterheim to be inspired b
 
 Vesterheim
 -----------------
-For Patti, choosing favorite artifacts to see in the museum is like picking out a favorite child. However, two pieces that she enjoys seeing and studying often are the big Agder trunk and the trunk painted by Sebjørn Kverndalen.  She is always a bit in awe from where inspiration will come from. She can see pieces many times over and yet, when spending time in the presence of the old pieces, there is always something to spark the imagination.
+For Patti, choosing favorite artifacts to see in the museum is like picking out a favorite child. However, two pieces that she enjoys seeing and studying often are the big Agder trunk and the trunk painted by Sebjørn Kverndalen. She is always a bit in awe about where inspiration will come from. She can see pieces many times over and yet, when spending time in the presence of the old pieces, there is always something to spark the imagination.
 
 Getting to Vesterheim
 --------------------------
@@ -43,14 +43,14 @@ Patti is an eagle-holic. She loves watching the Decorah eagles web cam, but seei
 
 She likes to walk along the river on the paved Trout Run Trail. The trail head is on the west end of Main Street, just a few blocks from Vesterheim. It is also a good place to have a picnic. If it is summer, watching the fireflies over the Upper Iowa River or the Decorah Prairie is an absolute must.  
 
-Decorah is known for it’s quaint small-town main street filled with modern fun shops. Patti usually checks out the sale racks at locally-owned Margaret’s Boutique.  She has found unique fashions that she hasn’t seen anywhere else. 
+Decorah is known for its quaint small-town main street filled with modern fun shops. Patti usually checks out the sale racks at locally-owned Margaret’s Boutique. She has found unique fashions that she hasn’t seen anywhere else. 
 
 Food
 ----------
-Decorah hosts the fantastic Winneshiek Farmer's Market that’s open in downtown Decorah on Wednesday afternoons and Saturday mornings from May 1 through November 1. Patti feels lucky when she’s in town during the market and she likes to go there to buy fresh fruits and vegetables, and sometimes lefse. 
+Decorah hosts the fantastic Winneshiek Farmer's Market that’s open in downtown Decorah on Wednesday afternoons and Saturday mornings from May 1 through October 31. Patti feels lucky when she’s in town during the market and she likes to go there to buy fresh fruits and vegetables, and sometimes lefse. 
 
-Patti starts off her mornings in Decorah with a cup of coffee from the Oneota Community Food Co-op. She says to make sure to get a free stamp card to earn a free cup of coffee. Sometimes she treats herself to a chocolate fudge oatmeal bar. If she doesn’t bring food from home, she likes to buy lunch at the Co-op, too. Her favorite wrap is the Turkey Mango Madness. If you’re staying a few days, get yourself a stamp card for wraps and paninis, as well. Their hummus is great as well as many of their deli salads. The Co-op is also a good place for a wi-fi connection.
+Patti starts off her mornings in Decorah with a cup of coffee from the Oneota Community Food Co-op. She says to make sure to get a free stamp card to earn a free cup of coffee. Sometimes she treats herself to a chocolate fudge oatmeal bar. If she doesn’t bring food from home, she likes to buy lunch at the Co-op. Her favorite panini is the Turkey Mango Madness. If you’re staying a few days, get yourself a stamp card for wraps and paninis. Their hummus is great, as well as many of their deli salads. The Co-op is also a good place for a wi-fi connection.
 
-If she is in the mood for pizza, it’s s a hard choice between Mabe's and McCaffrey's Dolce Vita. Mabe's is right downtown, and McCaffrey's is just outside of town past Twin Springs and the pretty ride to get there is worth it. 
+If she is in the mood for pizza, it’s a hard choice between Mabe's and McCaffrey's Dolce Vita. Mabe's is right downtown, and McCaffrey's is just outside of town past Twin Springs and the pretty ride to get there is worth it. 
 
 A new favorite place to eat is the Old Armory BBQ, just across the corner from Vesterheim’s Westby-Torgerson Education Center. Check out their fantastic lunch specials. 
