@@ -36,4 +36,4 @@ Folk Art School
 ---------------
 Vesterheim offers a wide range of courses in rosemaling, woodcarving and woodworking, textile arts, knifemaking, and food traditions. More information about Vesterheim's Folk Art School and a complete list of classes is available [here](/folk-art-school/).
 
-Learn more about Vesterheim with this [video.](https://www.youtube.com/watch?v=S1swuKt7v8o)
+**This colorful short [video](https://www.youtube.com/watch?v=S1swuKt7v8o) explores Vesterheim's history and all we have to offer.**

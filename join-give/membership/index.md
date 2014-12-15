@@ -98,4 +98,4 @@ For an additional fee, philanthropic members can subscribe to the _Rosemaling Le
 
 {% include components/button.html text="Join, give or renew a membership" url="https://vesterheim.wufoo.com/forms/w3h863c0xax0mc/" style="primary" %} 
 
-Learn more about Vesterheim with this [video.](https://www.youtube.com/watch?v=S1swuKt7v8o)
+**This colorful short [video](https://www.youtube.com/watch?v=S1swuKt7v8o) explores Vesterheim's history and all we have to offer.**

@@ -4,7 +4,7 @@ layout: page
 title: Chicago Norske Klub
 subtitle: December 6, 2014 - November 15, 2015
 meta_title:        # Appears on bookmarks, search results, etc...
-meta_description: A center in Chicago for Norwegian-American social, cultural, and artistic activities from 1911 to 1971.
+meta_description: Be sure to visit Vesterheim for a look at the social, cultural, and artistic activities of this Norwegian-American center, which was in Chicago from 1911 to 1971.
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
   image: 16x9/exhibitions/special/norske_klub_color.jpg
@@ -22,7 +22,7 @@ pagelist:
   caption: 
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
-  teaser: On view through November 15, 2015, be sure to visit the museum for a look at the social, cultural, and artistic activities from 1911 to 1971 of this cultural center in Chicago.
+  teaser: Be sure to visit Vesterheim for this look at the social, cultural, and artistic activities from 1911 to 1971 of this cultural center in Chicago.
 ---
 The Chicago Norske Klub was a center in Chicago for Norwegian-American social, cultural, and artistic activities from 1911 to 1971. This exhibition shares the history of the club, as well as artworks and furnishings from the clubhouse.
 

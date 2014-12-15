@@ -19,7 +19,7 @@ carousel:
   slides: 
     - image: 25x9/folk-art-school/classes/woodroom.jpg
       alt: Woodcarving Class
-      caption: Experience the Joy of Making Things at Vesterheim's Folk Art School in 2015!
+      caption: Experience the Joy of Making Things at Vesterheim's Folk Art School!
       link: /folk-art-school/
       published: true
       start_date:
@@ -75,17 +75,6 @@ panels:
     published: false
     start_date: 2014-10-01
     stop_date:
-  - url: /norway-tours/upcoming/coastal-voyage/
-    file_under:
-    image: 16x9/norway-tours/coastal-tour-houses.jpg
-    alt:
-    caption:
-    title:
-    subtitle:
-    teaser:
-    published: true
-    start_date: 2014-10-01
-    stop_date:    
   - url: /exhibitions/special/flora-metamorphicae/
     file_under:
     image:
@@ -97,14 +86,14 @@ panels:
     published: false
     start_date: 2014-10-01
     stop_date:
-  - url: /exhibitions/special/a-restored-connection/
+  - url: /folk-art-school/
     file_under:
-    image:
+    image: /16x9/folk-art-school/weaving.jpg/
     alt:
     caption:
     title:
     subtitle:
-    teaser:
+    teaser: Vesterheim announces the Folk Art School class schedule for 2015. Sign up today!
     published: true
     start_date: 2014-10-01
     stop_date:      
@@ -130,6 +119,17 @@ panels:
     published: false
     start_date: 2014-10-01
     stop_date:
+  - url: /norway-tours/upcoming/coastal-voyage/
+    file_under:
+    image: 16x9/norway-tours/coastal-tour-houses.jpg
+    alt:
+    caption:
+    title:
+    subtitle:
+    teaser: Vesterheim gives its special touch to the Hurtigruten’s classic Norwegian coastal voyage! Every day of this incredible trip will be filled with one-of-a-kind opportunities to explore Norway and see breathtaking scenery. This tour is so popular it’s being offered twice in 2015!
+    published: true
+    start_date: 2014-10-01
+    stop_date: 
 
 events:
   - url: /events/youth-programs/barnetimen/
