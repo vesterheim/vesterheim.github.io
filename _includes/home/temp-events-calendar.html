@@ -1,0 +1,94 @@
+{% assign current_time =  site.time | date: "%s" %}
+{% assign current_year =  site.time | date: "%Y" %}
+{% assign current_month =  site.time | date: "%Y%m" %}
+{% assign current_day =  site.time | date: "%Y%m%d" %}
+{% assign events_displayed = 0 %}
+
+{% for event in page.events %}
+	{% capture events_calendar__cache %}
+
+	{% assign event_date_display = event.date  %}
+	{% assign event_time_display = event.time %}
+
+	{% assign display = true %}
+    {% if event.start_date %}
+        {% assign start_date = event.start_date | date: "%s" %}
+        {% if start_date > current_time %}
+            {% assign display = false %}
+        {% endif %}
+    {% endif %}
+    {% if event.stop_date %}
+        {% assign stop_date = event.stop_date | date: "%s" %}
+        {% if current_time > stop_date %}
+            {% assign display = false %}
+        {% endif %}    
+    {% endif %}
+
+	{% if display %}
+		{% assign events_displayed = events_displayed | plus:1 %}
+		{% assign events__page = site.pages | where:'url', event.url | first %}
+		{% if event.image %}
+			{% assign event_src =  event.image %}
+			{% assign event_alt =  event.alt | strip_html | xml_escape %}		
+		{% elsif events__page.pagelist.image %}
+			{% assign event_src =  events__page.pagelist.image %}
+			{% assign event_alt =  events__page.pagelist.alt | strip_html | xml_escape %}
+		{% elsif events__page.hero.image %}
+			{% assign event_src =  events__page.hero.image %}
+			{% assign event_alt =  events__page.hero.alt | strip_html | xml_escape %}
+		{% else %}
+			{% assign event_src = '46x21/fpo_46x21-368.png' %}
+			{% assign event_alt = '' %}
+		{% endif %}	
+{% capture events_calendar__output %}
+<article class="panel-calendar__event  h-event">
+	<a class="panel-calendar__event__link  u-url" href="{{ event.url }}">
+		<figure class="panel-calendar__event__photo  u-photo">
+		{% picture tile {{ event_src }} alt="{{ event_alt }}" %}
+		</figure>
+		<h1 class="title  panel-calendar__event__title  p-name">{{ event.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}</h1>
+		<h2 class="subtitle  panel-calendar__event__date">{{ event_date_display }}</h2>
+		<div class="panel-calendar__event__time">{{ event_time_display }}</div>
+		<p class="more  panel-calendar__event__more">Read more</p>
+	</a>
+</article>
+{% endcapture %}	
+	{% endif %}
+	{% assign event_src = nil %}
+	{% assign event_alt = nil %}
+	{% assign event_date =  nil %}
+	{% assign event_start =  nil %}
+	{% assign event_end = nil %}
+	{% assign events__page = nil %}
+	{% assign event_date_display = nil %}
+	{% assign event_time_display = nil %}
+	{% endcapture %}{% assign events_calendar__cache = nil %}{{ events_calendar__output }}{% assign events_calendar__output = nil %}
+{% endfor %}
+{% assign events_displayed = nil %}
+{% comment %}
+Set total length to default number or 2 * number of panels
+<article class="panel-calendar__event  h-event">
+	<a class="panel-calendar__event__link  u-url" href="#">
+		<figure class="panel-calendar__event__photo  u-photo">
+		<span data-picture="" data-alt="16x9 Image">
+		    <span data-src="../../images/fpo_16x9-320.png"></span>
+		    <span data-src="../../images/fpo_16x9-640.png" data-media="(min-device-pixel-ratio: 2.0)"></span>
+		    <span data-src="../../images/fpo_16x9-640.png" data-media="(min-width: 320px)"></span>
+		    <span data-src="../../images/fpo_16x9-1280.png" data-media="(min-width: 320px) and (min-device-pixel-ratio: 2.0)"></span>
+		    <span data-src="../../images/fpo_16x9-1280.png" data-media="(min-width: 640px)"><img alt="16x9 Image" src="../../images/fpo_16x9-1280.png"></span>
+		    <span data-src="../../images/fpo_16x9-2560.png" data-media="(min-width: 640px) and (min-device-pixel-ratio: 2.0)"></span>
+			<!--[if (lt IE 9) & (!IEMobile)]>
+				<span data-src="../../images/fpo_16x9-640.png"></span>
+			<![endif]-->
+		    <!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+		    <noscript>
+		        &lt;img src="../../images/fpo_16x9-320.png" alt="16x9 Image"&gt;
+		    </noscript>
+		</span>								</figure>
+		<h1 class="title  panel-calendar__event__title  p-name">Performance by members of the band Bjärv</h1>
+		<h2 class="subtitle  panel-calendar__event__date">June 14, 2013</h2>
+		<div class="panel-calendar__event__time"><time class="dt-start" datetime="2013-06-14 17:00">5:00pm</time> - <time class="dt-start" datetime="2013-06-14 20:00">8:00pm</time></div>
+		<p class="more  panel-calendar__event__more">Reserve a Spot</p>
+	</a>
+</article>
+{% endcomment %}						
