@@ -11,7 +11,7 @@ hero:
 caption: 
 
 navigation:
-  order: 10
+  order: 15
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
