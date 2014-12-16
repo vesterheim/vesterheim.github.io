@@ -2819,6 +2819,124 @@ a {
     .nav--section__headline:before {
       font-size: 0.61111em;
       font-size: 0.6875rem; } }
+/*------------------------------------*\
+    $CALENDAR-GRID
+\*------------------------------------*/
+/** 
+ * Section Navigation Calendar Grid Classes
+ *
+<div class="calendar-grid__wrapper">
+  <table class="calendar-grid">
+   <caption class="calendar-grid__month--label"><a class="calendar-grid__month--label__link" href="/events/calendar/2014/12" title="View Events by Month">December 2014</a></caption>
+    <thead class="calendar-grid__head">
+      <tr>
+        <th class="calendar-grid__head__item" scope="col"><abbr title="Sunday">S</abbr></th>
+        <th class="calendar-grid__head__item" scope="col"><abbr title="Monday">M</abbr></th>
+        <th class="calendar-grid__head__item" scope="col"><abbr title="Tuesday">T</abbr></th>
+        <th class="calendar-grid__head__item" scope="col"><abbr title="Wednesday">W</abbr></th>
+        <th class="calendar-grid__head__item" scope="col"><abbr title="Thursday">R</abbr></th>
+        <th class="calendar-grid__head__item" scope="col"><abbr title="Friday">F</abbr></th>
+        <th class="calendar-grid__head__item" scope="col"><abbr title="Saturday">S</abbr></th>
+      </tr>
+    </thead>
+    <tbody class="calendar-grid__body">
+      <tr class="calendar-grid__week">
+        <td class="calendar-grid__day"></td><td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/01/">1</a></td><td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/02/">2</a></td><td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/03/">3</a></td><td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/04/">4</a></td><td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/05/">5</a></td><td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/06/">6</a></td>
+      </tr>
+      
+      <tr class="calendar-grid__week">
+        <td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/07/">7</a></td><td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/08/">8</a></td><td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/09/">9</a></td><td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/10/">10</a></td><td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/11/">11</a></td><td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/12/">12</a></td><td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/13/">13</a></td>
+      </tr>
+      
+      <tr class="calendar-grid__week">
+        <td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/14/">14</a></td><td class="calendar-grid__day  calendar-grid__day--current"><a class="calendar-grid__day__link  calendar-grid__day__link--current" href="/events/calendar/2014/12/15/">15</a></td><td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/16/">16</a></td><td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/17/">17</a></td><td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/18/">18</a></td><td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/19/">19</a></td><td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/20/">20</a></td>
+      </tr>
+      
+      <tr class="calendar-grid__week">
+        <td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/21/">21</a></td><td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/22/">22</a></td><td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/23/">23</a></td><td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/24/">24</a></td><td class="calendar-grid__day  calendar-grid__day--active"><a class="calendar-grid__day__link  calendar-grid__day__link--active" href="/events/calendar/2014/12/25/">25</a></td><td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/26/">26</a></td><td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/27/">27</a></td>
+      </tr>
+      
+      <tr class="calendar-grid__week">
+        <td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/28/">28</a></td><td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/29/">29</a></td><td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/30/">30</a></td><td class="calendar-grid__day"><a class="calendar-grid__day__link" href="/events/calendar/2014/12/31/">31</a></td><td class="calendar-grid__day"></td><td class="calendar-grid__day"></td><td class="calendar-grid__day"></td>
+      </tr>
+      
+    </tbody>
+  </table>
+  <ul class="calendar-grid__nav">
+    <li class="calendar-grid__nav__item"><a class="calendar-grid__nav__item__link" href="/events/calendar/2014/11" title="Previous Month">&lt;</a></li>
+    <li class="calendar-grid__nav__item"><a class="calendar-grid__nav__item__link" href="/events/calendar/2015/1" title="Next Month">&gt;</a></li>
+  </ul>
+</div>
+ *
+ * @todo 
+ */
+/* line 55, sass/partials/_calendar-grid.scss */
+.calendar-grid__wrapper {
+  position: relative; }
+
+/* line 58, sass/partials/_calendar-grid.scss */
+.calendar-grid {
+  font-size: 0.75em;
+  font-size: 0.75rem;
+  line-height: 2em;
+  line-height: 1.5rem;
+  width: 100%; }
+
+/* line 63, sass/partials/_calendar-grid.scss */
+.calendar-grid__month--label {
+  text-align: left;
+  text-indent: .9em; }
+
+/* line 67, sass/partials/_calendar-grid.scss */
+.calendar-grid__month--label__link {
+  color: #DD5D2D;
+  font-weight: bold; }
+
+/* line 71, sass/partials/_calendar-grid.scss */
+.calendar-grid__head {
+  border-style: solid;
+  border-color: #DAD7D0;
+  border-top-width: 0.16667em;
+  border-top-width: 0.125rem; }
+
+/* line 76, sass/partials/_calendar-grid.scss */
+.calendar-grid__head__item {
+  font-weight: bold;
+  text-align: center; }
+
+/* line 86, sass/partials/_calendar-grid.scss */
+.calendar-grid__day {
+  border-style: solid;
+  border-color: #fff;
+  border-width: 0.16667em;
+  border-width: 0.125rem; }
+
+/* line 92, sass/partials/_calendar-grid.scss */
+.calendar-grid__day__link:link, .calendar-grid__day__link:visited, .calendar-grid__day__link:hover, .calendar-grid__day__link:active, .calendar-grid__day__link:focus {
+  background-color: #EFEEEC;
+  color: #333;
+  display: block;
+  font-weight: bold;
+  text-align: center; }
+
+/* line 109, sass/partials/_calendar-grid.scss */
+.calendar-grid__nav {
+  font-size: 12px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  text-align: center;
+  width: 2.5em; }
+
+/* line 117, sass/partials/_calendar-grid.scss */
+.calendar-grid__nav__item {
+  display: inline; }
+
+/* line 120, sass/partials/_calendar-grid.scss */
+.calendar-grid__nav__item__link {
+  color: #DD5D2D;
+  font-weight: bold; }
+
 /* line 1, sass/partials/_page-foot.scss */
 .layout__page-foot {
   clear: both;
@@ -2941,6 +3059,58 @@ a {
 .page-foot__credit__link {
   color: #7c8081;
   color: rgba(153, 153, 153, 0.76); }
+
+/* line 1, sass/partials/_civil-war.scss */
+.civil-war-search__wrapper {
+  background-color: #FCF1EB;
+  border-color: #D6B29D;
+  border-width: 0.0625em;
+  border-width: 0.0625rem;
+  border-style: solid;
+  padding-top: 1.5em;
+  padding-top: 1.5rem;
+  padding-right: 0.6875em;
+  padding-right: 0.6875rem;
+  padding-bottom: 3em;
+  padding-bottom: 3rem;
+  padding-left: 0.6875em;
+  padding-left: 0.6875rem; }
+  /* line 11, sass/partials/_civil-war.scss */
+  .civil-war-search__wrapper form.gsc-search-box {
+    margin-bottom: 1.5em;
+    margin-bottom: 1.5rem; }
+  /* line 14, sass/partials/_civil-war.scss */
+  .civil-war-search__wrapper input.gsc-search-button, .civil-war-search__wrapper input.gsc-search-button:hover, .civil-war-search__wrapper input.gsc-search-button:focus {
+    background-color: #DD5D2D; }
+
+/* line 18, sass/partials/_civil-war.scss */
+.soldiers-names__first-letters__navigation {
+  *zoom: 1; }
+  /* line 38, ../../../../../../../../.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-core-1.0.1/stylesheets/compass/utilities/general/_clearfix.scss */
+  .soldiers-names__first-letters__navigation:after {
+    content: "";
+    display: table;
+    clear: both; }
+
+/* line 21, sass/partials/_civil-war.scss */
+.soldiers-names__first-letters__navigation__item {
+  float: left; }
+
+/* line 24, sass/partials/_civil-war.scss */
+.soldiers-names__first-letters__navigation__link {
+  color: #444;
+  display: block;
+  line-height: 2.25em;
+  line-height: 2.25rem;
+  padding-right: .3em;
+  padding-left: .3em; }
+
+/* line 31, sass/partials/_civil-war.scss */
+.soldiers-names__first-letters__navigation__link__lining {
+  border-color: #444;
+  border-style: dotted;
+  border-bottom-width: 0.0625em;
+  border-bottom-width: 0.0625rem; }
 
 /* line 5, sass/partials/_tiles.scss */
 .layout__tile {
@@ -4760,11 +4930,11 @@ input[type="button"].btn-block {
     .theme--folk-art .site-search__submit__icon {
       background-image: url('../img/png/heading/icon__search--white.png?1417372964'); } }
 
-/* line 48, sass/style.scss */
+/* line 50, sass/style.scss */
 abbr[title] {
   border-bottom-width: 0px; }
 
-/* line 52, sass/style.scss */
+/* line 54, sass/style.scss */
 .is-vishidden {
   position: absolute !important;
   overflow: hidden;
@@ -4775,55 +4945,55 @@ abbr[title] {
   clip: rect(1px, 1px, 1px, 1px); }
 
 /* Clean View */
-/* line 66, sass/style.scss */
+/* line 68, sass/style.scss */
 .sg-clean .sg-main,
 .sg-main {
   padding: .5rem .5rem 2rem; }
 
-/* line 71, sass/style.scss */
+/* line 73, sass/style.scss */
 .serif {
   font-family: Times, "Times New Roman", Georgia, serif; }
 
-/* line 74, sass/style.scss */
+/* line 76, sass/style.scss */
 .san-serif {
   font-family: FranKlein, Arial, "Helvetica Neue", Helvetica, sans-serif; }
 
-/* line 77, sass/style.scss */
+/* line 79, sass/style.scss */
 b,
 strong {
   font-weight: 700; }
 
-/* line 81, sass/style.scss */
+/* line 83, sass/style.scss */
 .light {
   font-weight: 100; }
 
-/* line 84, sass/style.scss */
+/* line 86, sass/style.scss */
 em,
 i {
   font-style: italic; }
 
-/* line 90, sass/style.scss */
+/* line 92, sass/style.scss */
 .fb_iframe_widget {
   display: block !important; }
 
-/* line 94, sass/style.scss */
+/* line 96, sass/style.scss */
 .fb-like-box iframe {
   width: 100% !important; }
 
-/* line 98, sass/style.scss */
+/* line 100, sass/style.scss */
 .fb-like-box span {
   width: auto !important;
   position: initial !important; }
 
-/* line 102, sass/style.scss */
+/* line 104, sass/style.scss */
 .fb_iframe_widget_fluid span {
   width: 100% !important; }
 
-/* line 105, sass/style.scss */
+/* line 107, sass/style.scss */
 .fb_iframe_widget span {
   position: static !important; }
 
-/* line 110, sass/style.scss */
+/* line 112, sass/style.scss */
 .svg-container {
   display: inline-block;
   position: relative;
@@ -4832,31 +5002,31 @@ i {
   vertical-align: middle;
   overflow: hidden; }
 
-/* line 118, sass/style.scss */
+/* line 120, sass/style.scss */
 .svg-content {
   display: inline-block;
   position: absolute;
   top: 0;
   left: 0; }
 
-/* line 125, sass/style.scss */
+/* line 127, sass/style.scss */
 .tabs {
   margin-top: 1.125em;
   margin-top: 1.125rem;
   margin-bottom: 2.25em;
   margin-bottom: 2.25rem; }
 
-/* line 131, sass/style.scss */
+/* line 133, sass/style.scss */
 .tabs:after {
   clear: both;
   content: '';
   display: table; }
 
-/* line 137, sass/style.scss */
+/* line 139, sass/style.scss */
 .tab {
   display: inline; }
 
-/* line 141, sass/style.scss */
+/* line 143, sass/style.scss */
 .tab-label {
   /* Do we need border-box? Perhaps another wrapper. I have avoided it thus far. */
   -moz-box-sizing: border-box;
@@ -4896,7 +5066,7 @@ i {
   text-transform: uppercase;
   width: 100%; }
   @media screen and (min-width: 40em) {
-    /* line 141, sass/style.scss */
+    /* line 143, sass/style.scss */
     .tab-label {
       /* Do we need border-box? Perhaps another wrapper. I have avoided it thus far. */
       -moz-box-sizing: content-box;
@@ -4913,7 +5083,7 @@ i {
       margin-left: 0.5rem;
       width: auto; } }
 
-/* line 180, sass/style.scss */
+/* line 182, sass/style.scss */
 .tab-label--first {
   border-top-width: 0.09091em;
   border-top-width: 0.0625rem;
@@ -4924,7 +5094,7 @@ i {
   -webkit-border-top-right-radius: 0.5em;
   border-top-right-radius: 0.5em; }
   @media screen and (min-width: 40em) {
-    /* line 180, sass/style.scss */
+    /* line 182, sass/style.scss */
     .tab-label--first {
       -moz-border-radius-topleft: 0;
       -webkit-border-top-left-radius: 0;
@@ -4935,7 +5105,7 @@ i {
       margin-left: 1.63636em;
       margin-left: 1.125rem; } }
 
-/* line 190, sass/style.scss */
+/* line 192, sass/style.scss */
 .tab-label--last {
   -moz-border-radius-bottomleft: 0.5em;
   -webkit-border-bottom-left-radius: 0.5em;
@@ -4944,7 +5114,7 @@ i {
   -webkit-border-bottom-right-radius: 0.5em;
   border-bottom-right-radius: 0.5em; }
   @media screen and (min-width: 40em) {
-    /* line 190, sass/style.scss */
+    /* line 192, sass/style.scss */
     .tab-label--last {
       -moz-border-radius-bottomleft: 0;
       -webkit-border-bottom-left-radius: 0;
@@ -4953,16 +5123,16 @@ i {
       -webkit-border-bottom-right-radius: 0;
       border-bottom-right-radius: 0; } }
 
-/* line 200, sass/style.scss */
+/* line 202, sass/style.scss */
 .tab-radio:checked + .tab-label {
   background: #FCF1EB;
   z-index: 1; }
   @media screen and (min-width: 40em) {
-    /* line 200, sass/style.scss */
+    /* line 202, sass/style.scss */
     .tab-radio:checked + .tab-label {
       border-bottom-color: #FCF1EB; } }
 
-/* line 209, sass/style.scss */
+/* line 211, sass/style.scss */
 .tab-radio:checked + .tab-label--last {
   -moz-border-radius-bottomleft: 0;
   -webkit-border-bottom-left-radius: 0;
@@ -4971,7 +5141,7 @@ i {
   -webkit-border-bottom-right-radius: 0;
   border-bottom-right-radius: 0; }
 
-/* line 213, sass/style.scss */
+/* line 215, sass/style.scss */
 .tab-radio {
   clip: rect(0 0 0 0);
   font-size: 0;
@@ -4981,7 +5151,7 @@ i {
   width: 1px;
   z-index: -1; }
 
-/* line 223, sass/style.scss */
+/* line 225, sass/style.scss */
 .tab-panel {
   display: inline;
   display: inline-block;
@@ -4990,7 +5160,7 @@ i {
   position: relative;
   width: 0; }
 
-/* line 232, sass/style.scss */
+/* line 234, sass/style.scss */
 .tab-content {
   /* Do we need border-box? Perhaps another wrapper. I have avoided it thus far. */
   -moz-box-sizing: border-box;
@@ -5017,7 +5187,7 @@ i {
   padding-left: 0.5rem;
   width: 100%; }
   @media screen and (min-width: 40em) {
-    /* line 232, sass/style.scss */
+    /* line 234, sass/style.scss */
     .tab-content {
       -moz-border-radius-bottomleft: 0;
       -webkit-border-bottom-left-radius: 0;
@@ -5042,7 +5212,7 @@ i {
         box-shadow: #ccc 0 0 0.75em 0;  
       */ } }
 
-/* line 264, sass/style.scss */
+/* line 266, sass/style.scss */
 .tab-content--last {
   -moz-border-radius-bottomleft: 0.5em;
   -webkit-border-bottom-left-radius: 0.5em;
@@ -5051,7 +5221,7 @@ i {
   -webkit-border-bottom-right-radius: 0.5em;
   border-bottom-right-radius: 0.5em; }
   @media screen and (min-width: 40em) {
-    /* line 264, sass/style.scss */
+    /* line 266, sass/style.scss */
     .tab-content--last {
       -moz-border-radius-bottomleft: 0;
       -webkit-border-bottom-left-radius: 0;
@@ -5060,7 +5230,7 @@ i {
       -webkit-border-bottom-right-radius: 0;
       border-bottom-right-radius: 0; } }
 
-/* line 272, sass/style.scss */
+/* line 274, sass/style.scss */
 .tab-radio:checked ~ .tab-panel {
   display: inline; }
 
@@ -5072,19 +5242,19 @@ INTERNET EXPLORER 8 and below
 */
 @media \0screen\,screen\9 {
   /* IE7 and IE6 */
-  /* line 284, sass/style.scss */
+  /* line 286, sass/style.scss */
   .tabs {
     zoom: 1; }
 
   /* IE8 and below */
-  /* line 289, sass/style.scss */
+  /* line 291, sass/style.scss */
   .tabs .tab .tab-radio {
     filter: Alpha(opacity=0);
     position: absolute;
     z-index: -1; }
 
   /* IE7 and IE6 */
-  /* line 296, sass/style.scss */
+  /* line 298, sass/style.scss */
   .tabs .tab .tab-panel {
     display: none;
     height: auto;
@@ -5093,7 +5263,7 @@ INTERNET EXPLORER 8 and below
     width: auto; }
 
   /* IE7 and IE6 */
-  /* line 305, sass/style.scss */
+  /* line 307, sass/style.scss */
   .tabs .tab-content {
     float: none;
     padding-bottom: 1px;
@@ -5101,7 +5271,7 @@ INTERNET EXPLORER 8 and below
     width: auto; }
 
   /* IE8 and below */
-  /* line 313, sass/style.scss */
+  /* line 315, sass/style.scss */
   .tabs .checked label {
     background: white;
     border-bottom-width: 0;
@@ -5109,17 +5279,17 @@ INTERNET EXPLORER 8 and below
     z-index: 1; }
 
   /* IE8 */
-  /* line 321, sass/style.scss */
+  /* line 323, sass/style.scss */
   .tabs .checked .tab-panel {
     display: inline; }
 
   /* IE7 and IE6 */
-  /* line 325, sass/style.scss */
+  /* line 327, sass/style.scss */
   .tabs .checked .tab-panel {
     display: inline;
     float: left;
     width: 100%; } }
-/* line 332, sass/style.scss */
+/* line 334, sass/style.scss */
 .social-sharing-bar__wrapper {
   clear: both;
   margin-top: 4.5em;
@@ -5127,7 +5297,7 @@ INTERNET EXPLORER 8 and below
   margin-bottom: 4.5em;
   margin-bottom: 4.5rem; }
 
-/* line 337, sass/style.scss */
+/* line 339, sass/style.scss */
 .social-sharing-bar__heading {
   color: #999;
   font-family: FranKlein, Arial, "Helvetica Neue", Helvetica, sans-serif;
@@ -5137,7 +5307,7 @@ INTERNET EXPLORER 8 and below
   line-height: 2.25rem;
   text-transform: uppercase; }
 
-/* line 344, sass/style.scss */
+/* line 346, sass/style.scss */
 .social-sharing-bar__item {
   display: inline-block;
   display: inline-block;
@@ -5150,11 +5320,11 @@ INTERNET EXPLORER 8 and below
   -webkit-transition: opacity 0.3s;
   transition: opacity 0.3s; }
 
-/* line 349, sass/style.scss */
+/* line 351, sass/style.scss */
 .social-sharing-bar:hover .social-sharing-bar__item:not(:hover) {
   opacity: 0.9; }
 
-/* line 353, sass/style.scss */
+/* line 355, sass/style.scss */
 .social-icon {
   background-repeat: no-repeat;
   display: block;
@@ -5164,7 +5334,7 @@ INTERNET EXPLORER 8 and below
   white-space: nowrap;
   width: 48px; }
 
-/* line 363, sass/style.scss */
+/* line 365, sass/style.scss */
 .group {
   *zoom: 1; }
   /* line 38, ../../../../../../../../.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-core-1.0.1/stylesheets/compass/utilities/general/_clearfix.scss */
