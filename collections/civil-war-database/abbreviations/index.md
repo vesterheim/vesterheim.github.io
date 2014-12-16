@@ -104,7 +104,7 @@ In cases of men of the same name, the next sorting is by state, using modern pos
     <dd>Texas</dd>
     <dt>US</dt>
     <dd>United States</dd>
-    <dt>Vt</dt>
+    <dt>VT</dt>
     <dd>Vermont</dd>
     <dt>WI</dt>
     <dd>Wisconsin</dd>
@@ -113,7 +113,7 @@ In cases of men of the same name, the next sorting is by state, using modern pos
 Additional abbreviations
 ------------------------
 
-    <dl>      
+   <dl>      
     <dt>Cav</dt>
     <dd>Cavalry</dd>
     <dt>Hv Arty</dt>
