@@ -11,7 +11,7 @@ hero:
   caption:
 
 redirect_to:
-   - //omeka-2.2.2.vesterheim.org/
+   - //collections.vesterheim.org/
   
 navigation:
   order: 30
