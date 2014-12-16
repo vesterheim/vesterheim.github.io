@@ -1,0 +1,6 @@
+# Site settings
+production: true
+
+google_analytics:
+  id: UA-1653553-1
+  domain: .vesterheim.org

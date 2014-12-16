@@ -1,0 +1,13 @@
+# Site settings
+
+exclude: 
+  - Gemfile
+  - Gemfile.lock
+  - Gruntfile.js
+  - node_modules
+  - package.json
+  - .git
+  - .svn  
+keep_files: 
+  - .git
+  - .svn

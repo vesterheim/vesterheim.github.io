@@ -7,11 +7,6 @@ url: "http://vesterheim.org"
 
 production: false
 
-google_analytics:
-  id: UA-1653553-1
-  domain: .vesterheim.org
-
-
 timezone: America/Chicago
 exclude: 
   - Gemfile
@@ -19,6 +14,63 @@ exclude:
   - Gruntfile.js
   - node_modules
   - package.json
+  - a
+  - b
+  - c
+  - d
+  - e
+  - f
+  - g
+  - h
+  - i
+  - j
+  - k
+  - l
+  - m
+  - n
+  - o
+  - p
+  - q
+  - r
+  - s
+  - t
+  - u
+  - v
+  - w
+  - x
+  - y
+  - z
+  - .git
+  - .svn  
+keep_files: 
+  - a
+  - b
+  - c
+  - d
+  - e
+  - f
+  - g
+  - h
+  - i
+  - j
+  - k
+  - l
+  - m
+  - n
+  - o
+  - p
+  - q
+  - r
+  - s
+  - t
+  - u
+  - v
+  - w
+  - x
+  - y
+  - z
+  - .git
+  - .svn
 
 collections:
   norway-tours--guides:
