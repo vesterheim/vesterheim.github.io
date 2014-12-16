@@ -202,6 +202,9 @@ We thank our Corporate Members for their support and ask that you consider suppo
 [Vanberia International Gifts](http://www.vanberiadecorah.com/)
 : A Scandinavian gift/needlework store owned and operated by the Thompson Family.
 
+[Vick's Plumbing and Heating](http://www.vicksheating.com/)
+: In business since 1936, Vick's experienced and licensed installers and technicians are ready to help you make your house a home.
+
 [Viking River Cruises, Inc.](https://www.vikingrivercruises.com/?refcd=GO20120430223917100211s_viking_river_cruises&amp;tsacr=GO11872645970&amp;refsrcprg=sem&amp;utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=brand)
 : Join Viking River Cruises as they usher in a new era of ocean cruising by taking the innovative thinking behind award-winning river cruises and bringing it to the epic setting of the sea.
 
