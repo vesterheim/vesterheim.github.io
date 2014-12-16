@@ -17,7 +17,7 @@
 			return;
 		}
 
-		siteSearch.action='/search/';
+		siteSearch.action='//vesterheim.org/search/';
 		siteSearchCX.value = '005748589984410066710:rpuk4fvq7ak';
 		siteSearchNoJS.parentNode.removeChild(siteSearchNoJS);
 	};
