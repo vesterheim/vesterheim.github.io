@@ -19,7 +19,11 @@ pagelist:
 ---
 Registration
 -------------
-To register for classes, please print a class registration [form](/folk-art-school/registration/forms/class-reg-form.pdf) (pdf) and send the form, along with your class payment to: <br />
+To register for classes, please print a class registration [form](/folk-art-school/registration/forms/class-reg-form.pdf) (pdf)
+
+{% include components/button.html text="Download Registration Form (PDF)" url="/folk-art-school/registration/forms/class-reg-form.pdf" style="primary" %} 
+
+Send the form, along with your class payment to: <br />
 Darlene Fossum-Martin<br />
 Vesterheim Museum<br />
 P.O. Box 379<br />

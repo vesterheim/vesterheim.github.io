@@ -32,7 +32,7 @@ Your secure, online contribution allows your donation to go to work at once. You
 
 Mail
 ----
-Please print a donation form (pdf) and send the form, along with your check or credit card information to: <br />
+Please print a donation [form](/join-give/make-a-gift/donate/forms/donate-form.pdf) (pdf) and send the form, along with your check or credit card information to: <br />
 Development Department<br />
 Vesterheim Museum<br />
 P.O. Box 379<br />

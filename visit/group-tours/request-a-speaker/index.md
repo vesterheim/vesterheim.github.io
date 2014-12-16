@@ -61,7 +61,7 @@ There are always exciting things happening at Vesterheim Norwegian-American Muse
 {: .subtitle }
 
 Jennifer Kovarik <br />
-Learn how Vesterheim is helping kids make sense of history and culture through hands-on, object-based learning experiences. Two innovative programs serve hundreds of third and fourth grade students throughout the school year by immersing them in authentic, meaningful, and fun(!) activities that utilize the museum’s broad collections as a lens through which to view and better understand specific time periods or events in U.S. history as well as the numerous cultures that have contributed to American society. Activities may be adaptable for your community or organization.
+Learn how Vesterheim is helping kids make sense of history and culture through hands-on, object-based learning experiences. Two innovative programs serve hundreds of third and fourth grade students throughout the school year by immersing them in authentic, meaningful, and fun (!) activities that utilize the museum’s broad collections as a lens through which to view and better understand specific time periods or events in U.S. history as well as the numerous cultures that have contributed to American society. Activities may be adaptable for your community or organization.
 
 ### Folk Art and Fine Art
 {: .heading--black--large }
