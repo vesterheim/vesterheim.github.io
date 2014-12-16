@@ -30,7 +30,7 @@ Patti Goke is a Gold Medalist rosemaler who comes to Vesterheim to be inspired b
 
 Vesterheim
 -----------------
-For Patti, choosing favorite artifacts to see in the museum is like picking out a favorite child. However, two pieces that she enjoys seeing and studying often are the big Agder trunk and the trunk painted by Sebjørn Kverndalen. She is always a bit in awe about where inspiration will come from. She can see pieces many times over and yet, when spending time in the presence of the old pieces, there is always something to spark the imagination.
+For Patti, choosing favorite artifacts to see in the museum is like picking out a favorite child. However, two pieces that she enjoys seeing and studying often are the big Agder trunk and the trunk painted by Sebjørn Kverndalen. She is always a bit in awe of where inspiration comes from. She can see pieces many times over and yet, when spending time in the presence of the old pieces, there is always something to spark the imagination.
 
 Getting to Vesterheim
 --------------------------
@@ -38,7 +38,7 @@ Patti travels from Minnesota, south on Highway 52 and, whenever possible, she li
 
 Decorah
 -------------
-Patti is an eagle-holic. She loves watching the Decorah eagles web cam, but seeing them for real is even better! Any time of year, she always drives to the nest just south of Decorah at the Fish Hatchery to see how things are going for two of Decorah’s most well-known denizens. 
+Patti is an eagle-holic. She loves watching the Decorah eagles web cam, but seeing them for real is even better! Any time of year, she drives to the nest just south of Decorah at the Fish Hatchery to see how things are going for two of Decorah’s most well-known denizens. 
 
 
 She likes to walk along the river on the paved Trout Run Trail. The trail head is on the west end of Main Street, just a few blocks from Vesterheim. It is also a good place to have a picnic. If it is summer, watching the fireflies over the Upper Iowa River or the Decorah Prairie is an absolute must.  

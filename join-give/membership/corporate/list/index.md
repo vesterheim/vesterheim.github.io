@@ -179,8 +179,10 @@ We thank our Corporate Members for their support and ask that you consider suppo
 : The highest quality construction and mining equipment available.
 
 [Sons of Norway Lodge - Lauris Norstad Lodge](https://www.sofn.com/lodgeDirectory/prepareReview.do)
+: Sons of Norway promotes and preserves the heritage and culture of Norway, while providing quality insurance and financial products to its members.
 
 [Sons of Norway Lodge - Valdres Lodge](https://www.sofn.com/lodgeDirectory/prepareReview.do?distFromMap=1)
+: Sons of Norway promotes and preserves the heritage and culture of Norway, while providing quality insurance and financial products to its members.
 
 [Stanley Engineered and Fastening (formerly Infastech)](http://www.stanleyengineeredfastening.com/)
 : Anything that is manufactured is touched by Stanley Engineered Fastening.

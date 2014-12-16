@@ -62,7 +62,7 @@ These kids love to roam through old-time-yet-modern downtown shops, play on the 
 
 Food
 -----------------
-When it comes time to eat, they recommend Magpie Coffeehouse for breakfast, the Oneota Community Food Coop for lunch, and T-Bocks Sports Bar and Grill for supper. 
+When it comes time to eat, they recommend Magpie Coffeehouse and T-Bocks Sports Bar and Grill. 
 
 Lodging
 -----------------

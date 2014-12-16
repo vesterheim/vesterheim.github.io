@@ -4,6 +4,11 @@ layout: page
 title: Fiber Arts
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
+hero:
+  image: 16x9/folk-art-school/weaving.jpg
+  alt:
+  caption:
+related:
 
 navigation:
   order: 10

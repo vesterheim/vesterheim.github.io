@@ -45,16 +45,9 @@ carousel:
       published: true
       start_date:
       stop_date:       
-    - image: 25x9/exhibitions/special/alt-for-norge.jpg
-      alt: Alt for Norge
-      caption: Alt for Norge
-      link: /exhibitions/special/alt-for-norge/
-      published: false
-      start_date:
-      stop_date:
     - image: 25x9/visit/norwegian_house.jpg
-      alt: Alt for Norge
-      caption: Vesterheim has the largest collection of Norwegian-American artifacts in the world!
+      alt: Norwegian House
+      caption: _USA Today_ named Vesterheim one of “ten great places in the nation to admire American folk art.”
       link: /visit/what/
       published: true
       start_date:
@@ -66,7 +59,7 @@ show_social_sharing_bar: false
 panels:
   - url: /folk-art-school/classes/
     file_under:
-    image: /16x9/folk-art-school/rosemaling-girl-mom.jpg
+    image: /16x9/folk-art-school/weaving.jpg
     alt:
     caption:
     title:

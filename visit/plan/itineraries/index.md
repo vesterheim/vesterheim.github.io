@@ -12,7 +12,7 @@ navigation:
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
-  image: 46x21/exhibitions/ship.jpg
+  image: 46x21/kids/ship_gallery.jpg
   alt:
   caption:
   title:         # Defaults to navigation title
