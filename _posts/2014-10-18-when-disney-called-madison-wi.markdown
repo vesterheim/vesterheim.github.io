@@ -1,7 +1,10 @@
 ---
 published: true
 title:  "When Disney Called"
-date:   2014-10-18 11:30:00
+occurrences:
+  -
+    start-date: 2014-10-18 11:30:00
+    end-date: 2014-10-18 11:30:00
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
   image: 16x9/exhibitions/objects-on-loan-to-epcot.jpg

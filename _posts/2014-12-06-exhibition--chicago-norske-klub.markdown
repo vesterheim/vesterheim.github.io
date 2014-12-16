@@ -1,8 +1,10 @@
 ---
 published: true
 title:  "Chicago Norske Klub"
-dt_start: 2014-12-06 10:00:00 -5:00 # datetime the event starts
-dt_end: 2015-11-15 16:00:00 -5:00 # datetime the event ends
+occurrences:
+  -
+    start-date: 2014-12-06 10:00:00 -5:00 # datetime the event starts
+    end-date: 2015-11-15 16:00:00 -5:00 # datetime the event ends
 
 home:
   display: false

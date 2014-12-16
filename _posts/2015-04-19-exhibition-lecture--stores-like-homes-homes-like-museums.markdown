@@ -1,7 +1,10 @@
 ---
 published: true
 title:  "Exhibition Lecture—*Stores Like Homes, Homes Like Museums: Traditions in Scandinavian Retailing* by Curt Lund"
-date:   2015-04-19 14:00:00 -5:00
+occurrences:
+  -
+    start-date: 2015-04-19 14:00:00 -5:00
+    end-date: 2015-04-19 14:00:00 -5:00
 
 tags: lecture free
 ---

@@ -1,7 +1,10 @@
 ---
 published: true
 title:  Chicago Friends of Vesterheim Nordic Marketplace & Luncheon
-dt_start: 2015-04-25
+occurrences:
+  -
+    start-date: 2015-04-25 00:00:00
+    end-date: 2015-04-25 00:00:00
 
 tags: event annual friends
 ---

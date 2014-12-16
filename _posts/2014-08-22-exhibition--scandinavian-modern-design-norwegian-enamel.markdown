@@ -3,6 +3,10 @@ published: true
 #all_day: false # If true, ignore times?
 dt_start: 2014-08-22 09:00:00 # datetime the event starts
 dt_end: 2015-04-19 17:00:00 # datetime the event ends
+occurrences:
+  -
+    start-date: 2014-08-22 09:00:00
+    end-date: 2015-04-19 17:00:00
 title: "Scandinavian Modern Design: Norwegian Enamel" # event name (or title)
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines

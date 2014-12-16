@@ -1,9 +1,10 @@
 ---
 published: true
 all_day: false # If true, ignore times?
-dt_start: 2014-10-17 17:00:00 -05:00 # datetime the event starts
-dt_end: 2014-10-17 19:00:00 -05:00 # datetime the event ends
-dt_duration: # duration of the event.  Do we need it?
+occurrences:
+  -
+    start-date: 2014-10-17 17:00:00 -05:00 # datetime the event starts
+    end-date: 2014-10-17 19:00:00 -05:00 # datetime the event ends
 title: _Flora_ Finale # event name (or title)
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines

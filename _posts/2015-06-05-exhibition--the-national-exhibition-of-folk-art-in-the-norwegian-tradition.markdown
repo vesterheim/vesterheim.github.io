@@ -1,8 +1,10 @@
 ---
 published: true
 title:  The National Exhibition of Folk Art in the Norwegian Tradition
-dt_start: 2015-06-05 09:00:00 -5:00 # datetime the event starts
-dt_end: 2015-07-25 17:00:00 -5:00 # datetime the event ends
+occurrences:
+  -
+    start-date: 2015-06-05 09:00:00 -5:00 # datetime the event starts
+    end-date: 2015-07-25 17:00:00 -5:00 # datetime the event ends
 
 
 pagelist:

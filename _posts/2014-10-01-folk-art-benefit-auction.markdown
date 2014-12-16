@@ -1,7 +1,9 @@
 ---
 published: true
-date:   2014-10-01 12:00:00
-end: 2015-09-19 20:30:00
+occurrences:
+  -
+    start-date: 2014-10-01 12:00:00
+    end-date: 2015-09-19 20:30:00
 allday: true 
 title:  Folk Art Benefit Auction
 meta_title:        # Appears on bookmarks, search results, etc...

@@ -1,8 +1,10 @@
 ---
 published: true
 title:  Pioneer Immersion Program Projects
-dt_start: 2015-05-11 09:00:00 -5:00 # datetime the event starts
-dt_end: 2015-05-17 17:00:00 -5:00 # datetime the event ends
+occurrences:
+  -
+    start-date: 2015-05-11 09:00:00 -5:00 # datetime the event starts
+    end-date: 2015-05-17 17:00:00 -5:00 # datetime the event ends
 
 home:
   display: false

@@ -1,7 +1,10 @@
 ---
 published: true
 title:  "Deck the Tables"
-date:   2014-11-07 18:00:00
+occurrences:
+  -
+    start-date: 2014-11-07 18:00:00
+    end-date: 2014-11-07 18:00:00
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
   image: 16x9/events/deck-the-tables.jpg

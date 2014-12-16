@@ -1,0 +1,26 @@
+<p>Events Calendar</p>
+<ul>
+  <li><a href="/events/calendar/{{ page.current_month.year }}/{{ page.current_month.month }}">{{ page.current_month_name }}</a></li>
+  <li>{% if page.previous_month.year %}<a href="/events/calendar/{{ page.previous_month.year }}/{{ page.previous_month.month }}">&lt;</a>{% else %}&lt;{% endif %}</li>
+  <li>{% if page.next_month.year %}<a href="/events/calendar/{{ page.next_month.year }}/{{ page.next_month.month }}">&gt;</a>{% else %}&gt;{% endif %}</li>
+</ul>
+<div>
+<table>
+<tr>
+  <th>Su</th>
+  <th>M</th>
+  <th>Tu</th>
+  <th>W</th>
+  <th>Th</th>
+  <th>F</th>
+  <th>Sa</th>
+</tr>
+{% for week in page.calendar %}
+    <tr>
+    {% for day in week %}
+      <td><a href='/events/calendar/{{ day.year }}/{{ day.month }}/{{ day.day }}/'>{{ day.day }}</a></td>
+    {% endfor %}
+    </tr>
+{% endfor %}
+</table>
+</div>

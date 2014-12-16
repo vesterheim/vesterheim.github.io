@@ -1,8 +1,10 @@
 ---
 published: true
 title:  Textile Study Tour to Northern Norway
-dt_start: 2015-05-12
-dt_end: 2015-05-24
+occurrences:
+  -
+    start-date: 2015-05-12
+    end-date: 2015-05-24
 
 pagelist:
   order:         # Defaults to navigation order

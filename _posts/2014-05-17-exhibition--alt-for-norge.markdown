@@ -1,8 +1,10 @@
 ---
 published: true
 #all_day: false # If true, ignore times?
-dt_start: 2014-05-17 10:00:00 -05:00 # datetime the event starts
-dt_end: 2015-04-16 16:00:00 -05:00 # datetime the event ends
+occurrences:
+  -
+    start-date: 2014-05-17 10:00:00 -0500
+    end-date: 2015-04-16 16:00:00 -0500
 title: "Alt for Norge: Celebrating 200 Years of the Norwegian Constitution" # event name (or title)
 subtitle: May 17, 2014 - April 2015
 meta_title:        # Appears on bookmarks, search results, etc...
