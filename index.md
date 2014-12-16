@@ -19,7 +19,7 @@ carousel:
   slides: 
     - image: 25x9/folk-art-school/classes/woodroom.jpg
       alt: Woodcarving Class
-      caption: Experience the Joy of Making Things at Vesterheim's Folk Art School!
+      caption: Experience the joy of making things at Vesterheim's Folk Art School!
       link: /folk-art-school/
       published: true
       start_date:
