@@ -413,6 +413,137 @@ AddDefaultCharset utf-8
 #     RewriteRule ^ http://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 # </IfModule>
 
+redirect 301 /about/index.php http://vesterheim.org/visit/what/
+redirect 301 /about/contact/index.php http://vesterheim.org/visit/contact/
+redirect 301 /about/hours/index.php http://vesterheim.org/visit/plan/hours-and-admission/
+redirect 301 /about/location/index.php http://vesterheim.org/visit/plan/where/
+redirect 301 /about/tours/ http://vesterheim.org/visit/group-tours/
+redirect 301 /civilwar/names.html http://vesterheim.org/collections/civil-war-database/soldiers-names/
+redirect 301 /civilwar/abbreviations.html http://vesterheim.org/collections/civil-war-database/abbreviations/
+redirect 301 /civilwar/sources.html http://vesterheim.org/collections/civil-war-database/sources/
+redirect 301 /civilwar/acknowledgments.html http://vesterheim.org/collections/civil-war-database/acknowledgments/
+RedirectMatch 301 /civilwar/(.*)$ http://vesterheim.org/collections/civil-war-database/$1
+redirect 301 /CivilWar/names.html http://vesterheim.org/collections/civil-war-database/soldiers-names/
+redirect 301 /CivilWar/abbreviations.html http://vesterheim.org/collections/civil-war-database/abbreviations/
+redirect 301 /CivilWar/sources.html http://vesterheim.org/collections/civil-war-database/sources/
+redirect 301 /CivilWar/acknowledgments.html http://vesterheim.org/collections/civil-war-database/acknowledgments/
+RedirectMatch 301 /CivilWar/(.*)$ http://vesterheim.org/collections/civil-war-database/$1
+redirect 301 /collections/library-and-archives/index.php http://vesterheim.org/visit/plan/fladager-reference-library/
+redirect 301 /events/benefit-auction/ http://vesterheim.org/join-give/benefit-auction/
+redirect 301 /events/festivals/index.php http://vesterheim.org/events/annual/
+redirect 301 /events/festivals/nordic-fest/ http://vesterheim.org/events/annual/nordic-fest/
+redirect 301 /events/festivals/syttende-mai/ http://vesterheim.org/events/annual/syttende-mai/
+redirect 301 /events/friends/index.php http://vesterheim.org/events/away/
+redirect 301 /events/road/index.php http://vesterheim.org/events/away/
+redirect 301 /events/road/speeches.php http://vesterheim.org/events/request-speaker/
+redirect 301 /exhibitions/_old/ongoing/open-air/index.php http://vesterheim.org/exhibitions/open-air/
+redirect 301 /exhibitions/on-the-road/index.php http://vesterheim.org/exhibitions/traveling/
+redirect 301 /exhibitions/ongoing/index.php http://vesterheim.org/visit/plan/map/
+redirect 301 /exhibitions/ongoing/open-air/bridal_crown.php http://vesterheim.org/events/rentals/
+redirect 301 /exhibitions/ongoing/open-air/church_weddings.php http://vesterheim.org/events/rentals/
+redirect 301 /exhibitions/ongoing/open-air/index.php http://vesterheim.org/exhibitions/open-air/
+redirect 301 /exhibitions/special/2011/national-exhibition-of-folk-art-in-the-norwegian-tradition/winners/index.php http://vesterheim.org/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/winners/
+redirect 301 /exhibitions/special/2012/national-exhibition-of-folk-art-in-the-norwegian-tradition/index.php http://vesterheim.org/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/
+redirect 301 /exhibitions/special/2012/national-exhibition-of-folk-art-in-the-norwegian-tradition/rules/index.php http://vesterheim.org/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/entry-rules-and-guidelines/
+redirect 301 /exhibitions/special/2012/national-exhibition-of-folk-art-in-the-norwegian-tradition/rules/weaving/index.php http://vesterheim.org/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/entry-rules-and-guidelines/weaving/
+redirect 301 /exhibitions/special/2012/national-exhibition-of-folk-art-in-the-norwegian-tradition/winners/index.php http://vesterheim.org/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/winners/
+redirect 301 /exhibitions/special/2013/national-exhibition-of-folk-art-in-the-norwegian-tradition/rules/index.php http://vesterheim.org/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/entry-rules-and-guidelines/
+redirect 301 /exhibitions/special/2013/national-exhibition-of-folk-art-in-the-norwegian-tradition/rules/knifemaking/index.php http://vesterheim.org/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/entry-rules-and-guidelines/knifemaking/
+redirect 301 /exhibitions/special/2013/national-exhibition-of-folk-art-in-the-norwegian-tradition/rules/rosemaling/index.php http://vesterheim.org/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/entry-rules-and-guidelines/rosemaling/
+redirect 301 /exhibitions/special/2013/national-exhibition-of-folk-art-in-the-norwegian-tradition/rules/weaving/index.php http://vesterheim.org/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/entry-rules-and-guidelines/weaving/
+redirect 301 /exhibitions/special/2013/national-exhibition-of-folk-art-in-the-norwegian-tradition/rules/woodworking/index.php http://vesterheim.org/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/entry-rules-and-guidelines/woodworking/
+redirect 301 /exhibitions/special/2013/national-exhibition-of-folk-art-in-the-norwegian-tradition/winners/index.php http://vesterheim.org/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/winners/
+redirect 301 /exhibitions/special/2014/AltNorge.php http://vesterheim.org/exhibitions/special/alt-for-norge/
+redirect 301 /exhibitions/special/2014/Chicago Norske Klub.php http://vesterheim.org/exhibitions/special/chicago-norske-klub/
+redirect 301 /exhibitions/special/2014/Enamel_Design.php http://vesterheim.org/exhibitions/special/a-restored-connection/
+redirect 301 /exhibitions/special/2014/Love_Norway_X.php http://vesterheim.org/exhibitions/special/love-norway-x/
+redirect 301 /exhibitions/special/2014/national-exhibition-of-folk-art-in-the-norwegian-tradition/index.php http://vesterheim.org/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/
+redirect 301 /exhibitions/special/2014/national-exhibition-of-folk-art-in-the-norwegian-tradition/rules/index.php http://vesterheim.org/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/entry-rules-and-guidelines/
+redirect 301 /exhibitions/special/2014/national-exhibition-of-folk-art-in-the-norwegian-tradition/rules/knifemaking/index.php http://vesterheim.org/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/entry-rules-and-guidelines/knifemaking/
+redirect 301 /exhibitions/special/2014/national-exhibition-of-folk-art-in-the-norwegian-tradition/rules/rosemaling/index.php http://vesterheim.org/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/entry-rules-and-guidelines/rosemaling/
+redirect 301 /exhibitions/special/2014/national-exhibition-of-folk-art-in-the-norwegian-tradition/rules/weaving/index.php http://vesterheim.org/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/entry-rules-and-guidelines/weaving/
+redirect 301 /exhibitions/special/2014/national-exhibition-of-folk-art-in-the-norwegian-tradition/rules/woodworking/index.php http://vesterheim.org/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/entry-rules-and-guidelines/woodworking/
+redirect 301 /exhibitions/special/2014/national-exhibition-of-folk-art-in-the-norwegian-tradition/winners/index.php http://vesterheim.org/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/winners/
+redirect 301 /exhibitions/special/2014/Restored_Connection.php http://vesterheim.org/exhibitions/special/a-restored-connection/
+redirect 301 /exhibitions/special/index.php http://vesterheim.org/exhibitions/special/
+redirect 301 /giving/ http://vesterheim.org/join-give/
+redirect 301 /giving/annual/ http://vesterheim.org/join-give/annual-fund/
+redirect 301 /giving/endowed/funds/aarseth_endowment.php http://vesterheim.org/join-give/endowed-funds/list/
+redirect 301 /giving/endowed/index.php http://vesterheim.org/join-give/endowed-funds/list/
+redirect 301 /giving/valhalla/barbara-westby/index.php http://vesterheim.org/join-give/recognition/valhalla-society/profiles/westby--barbara/
+redirect 301 /giving/valhalla/berit_mesarick/index.php http://vesterheim.org/join-give/recognition/valhalla-society/profiles/mesarick--berit-t/
+redirect 301 /giving/valhalla/betty_nelson/index.php http://vesterheim.org/join-give/recognition/valhalla-society/profiles/nelson--betty-rikansrud/
+redirect 301 /giving/valhalla/donna-danielson/index.php http://vesterheim.org/join-give/recognition/valhalla-society/profiles/danielson--donna/
+redirect 301 /giving/valhalla/evy-alsaker/index.php http://vesterheim.org/join-give/recognition/valhalla-society/profiles/alsaker--evy/
+redirect 301 /giving/valhalla/Gesmes/index.php http://vesterheim.org/join-give/recognition/valhalla-society/profiles/gesme--dean-and-ann/
+redirect 301 /giving/valhalla/ham-peterson/index.php http://vesterheim.org/join-give/recognition/valhalla-society/profiles/peterson--ham-and-suzanne/
+redirect 301 /giving/valhalla/helen-heitmann/index.php http://vesterheim.org/join-give/recognition/valhalla-society/profiles/heitmann--helen/
+redirect 301 /giving/valhalla/helena-naef/index.php http://vesterheim.org/join-give/recognition/valhalla-society/profiles/naef--helena/
+redirect 301 /giving/valhalla/images/ValhallaForm.pdf http://vesterheim.org/join-give/make-a-gift/planned/
+redirect 301 /giving/valhalla/index.php http://vesterheim.org/join-give/recognition/valhalla-society/
+redirect 301 /giving/valhalla/irene-navarre/index.php http://vesterheim.org
+redirect 301 /giving/valhalla/jerry-rosholt/index.php http://vesterheim.org/join-give/recognition/valhalla-society/profiles/rosholt--jerry/
+redirect 301 /giving/valhalla/marwin-and-june-wrolstad/index.php http://vesterheim.org/join-give/recognition/valhalla-society/profiles/wrolstad--marwin-and-june/
+redirect 301 /giving/valhalla/michael-bovre/index.php http://vesterheim.org/join-give/recognition/valhalla-society/profiles/bovre--michael/
+redirect 301 /giving/valhalla/norman-erickson/index.php http://vesterheim.org/join-give/recognition/valhalla-society/profiles/erickson--norman/
+redirect 301 /giving/valhalla/peter_coffeen/index.php http://vesterheim.org/join-give/recognition/valhalla-society/profiles/coffeen--peter/
+redirect 301 /giving/valhalla/phil-audrey-dybdahl/index.php http://vesterheim.org/join-give/recognition/valhalla-society/profiles/dybdahl--phil-and-audrey/
+redirect 301 /giving/valhalla/phyllis-leseth/index.php http://vesterheim.org/join-give/recognition/valhalla-society/profiles/leseth--phyllis/
+redirect 301 /giving/valhalla/trygve_lonnebotn/index.php http://vesterheim.org
+redirect 301 /learning/ http://vesterheim.org/folk-art-school/
+redirect 301 /learning/_old/Classcat2011.pdf http://vesterheim.org/folk-art-school/classes/
+redirect 301 /learning/_old/classes_cooking.php http://vesterheim.org/folk-art-school/classes/food-traditions/
+redirect 301 /learning/_old/classes_knifemaking.php http://vesterheim.org/folk-art-school/classes/knifemaking/
+redirect 301 /learning/_old/classes_rosemaling.php http://vesterheim.org/folk-art-school/classes/rosemaling/
+redirect 301 /learning/_old/classes_textiles.php http://vesterheim.org/folk-art-school/classes/fiber-arts/
+redirect 301 /learning/_old/classes_woodworking.php http://vesterheim.org/folk-art-school/classes/woodworking/
+redirect 301 /learning/_old/classes_writing.php http://vesterheim.org/folk-art-school/classes/
+redirect 301 /learning/classes/ http://vesterheim.org/folk-art-school/classes/
+redirect 301 /learning/classes/cooking/ http://vesterheim.org/folk-art-school/classes/food-traditions/
+redirect 301 /learning/classes/documents/Classcat2014.pdf http://vesterheim.org/folk-art-school/classes/
+redirect 301 /learning/classes/documents/ClassCatalog2012.pdf http://vesterheim.org/folk-art-school/classes/
+redirect 301 /learning/classes/documents/ClassRegForm14.pdf http://vesterheim.org/folk-art-school/registration/
+redirect 301 /learning/classes/genealogy/index.php http://vesterheim.org/folk-art-school/classes/
+redirect 301 /learning/classes/general/index.php http://vesterheim.org/folk-art-school/classes/
+redirect 301 /learning/classes/jewelry/index.php http://vesterheim.org/folk-art-school/classes/jewelry/
+redirect 301 /learning/classes/knifemaking/index.php http://vesterheim.org/folk-art-school/classes/knifemaking/
+redirect 301 /learning/classes/overview/index.php http://vesterheim.org/folk-art-school/registration/
+redirect 301 /learning/classes/rosemaling/ http://vesterheim.org/folk-art-school/classes/rosemaling/
+redirect 301 /learning/classes/sculpture/index.php http://vesterheim.org/folk-art-school/classes/
+redirect 301 /learning/classes/support/index.php http://vesterheim.org/join-give/make-a-gift/
+redirect 301 /learning/classes/textiles/index.php http://vesterheim.org/folk-art-school/classes/fiber-arts/
+redirect 301 /learning/classes/woodworking/index.php http://vesterheim.org/folk-art-school/classes/woodworking/
+redirect 301 /learning/elderhostel/index.php http://vesterheim.org
+redirect 301 /learning/programs/barnetimen/index.php http://vesterheim.org/events/youth-programs/barnetimen/
+redirect 301 /learning/programs/elf/index.php http://vesterheim.org/events/youth-programs/
+redirect 301 /learning/programs/index.php http://vesterheim.org/events/youth-programs/
+redirect 301 /learning/programs/pioneer-immersion/index.php http://vesterheim.org/events/youth-programs/pioneer-immersion/
+redirect 301 /learning/programs/theatre/index.php http://vesterheim.org/events/youth-programs/
+redirect 301 /learning/programs/window-on-the-world/index.php http://vesterheim.org/events/youth-programs/window-on-the-world/
+redirect 301 /learning/volunteer/index.php http://vesterheim.org/join-give/volunteer/
+redirect 301 /links/ http://vesterheim.org/join-give/membership/corporate/list/
+redirect 301 /membership/ http://vesterheim.org/join-give/membership/
+redirect 301 /membership/corporate/index.php http://vesterheim.org/join-give/membership/corporate/
+redirect 301 /membership/corporate/list/index.php http://vesterheim.org/join-give/membership/corporate/list/
+redirect 301 /membership/individual/ http://vesterheim.org/join-give/membership/
+redirect 301 /membership/individual/compas_club.php http://vesterheim.org/join-give/recognition/compass-club/
+redirect 301 /membership/individual/documents/Compass_Club.pdf http://vesterheim.org/join-give/recognition/compass-club/
+redirect 301 /membership/individual/documents/membform13web.pdf http://vesterheim.org/join-give/membership/
+redirect 301 /membership/individual/time-travelers/index.php http://vesterheim.org/join-give/membership/
+redirect 301 /travel/ http://vesterheim.org/norway-tours/
+redirect 301 /travel/itinerary/2011/documents/terms-and-conditions.pdf http://vesterheim.org/norway-tours/forms/
+redirect 301 /travel/itinerary/2014/Folk Art/images/FolkArtInt14.pdf http://vesterheim.org/norway-tours/forms/
+redirect 301 /travel/itinerary/2014/Sami/images/SamiInt14.pdf http://vesterheim.org/norway-tours/forms/
+redirect 301 /travel/itinerary/2015/CoastalVoyage/images/termcond15.pdf http://vesterheim.org/norway-tours/forms/
+redirect 301 /travel/itinerary/2015/CoastalVoyage/index.php http://vesterheim.org/norway-tours/upcoming/coastal-voyage/
+redirect 301 /travel/itinerary/2015/CoastalVoyageAugust/index.php http://vesterheim.org/norway-tours/upcoming/coastal-voyage/itinerary/201508/
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{HTTPS} !=on
+    RewriteCond %{ENV:REDIRECT_STATUS} !200
+    RewriteRule ^(.*?)/?index.php$ /$1 [R=301,L,NC,QSA]
+</IfModule>
 
 # ######################################################################
 # # SECURITY                                                           #
