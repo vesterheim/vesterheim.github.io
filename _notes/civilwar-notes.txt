@@ -8,3 +8,5 @@ IDS: 008375 008376 008377
 
 Used
 https://mothereff.in/html-entities
+
+Need to create a page that lists all soldier entries to use to create the custom search engine.
