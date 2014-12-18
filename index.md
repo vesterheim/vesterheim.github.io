@@ -90,8 +90,8 @@ panels:
     published: true
     start_date: 2014-10-01
     stop_date: 
-  - url: /about/news/2014/johnson-retirement.md/
-    file_under:
+  - url: /about/news/2014/johnson-retirement/
+    file_under: News
     image: /16x9/about/johnson-steve.jpg
     alt:
     caption:

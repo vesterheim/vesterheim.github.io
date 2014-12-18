@@ -6,7 +6,7 @@ meta_description:  # Used in HTML head and as the description for some search en
 
 location: ~
 instructor: Rebecca Hanna 
-sessions: "March 5, 12, 19, 26, 2015, 3:35–5:15 p.m."
+sessions: "March 5, 12, 19, 26, 2015, 3:15–5:15 p.m."
 dtstart: 2015-03-05 15:15:00 -5:00
 dtend: 2015-03-26 17:15:00 -5:00
 level: All levels. Youth ages 10-17 and adults age 18 and older. 

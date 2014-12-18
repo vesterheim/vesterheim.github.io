@@ -26,4 +26,6 @@ Everyone is invited to join Vesterheim in La Crosse as we share how our museum a
 
 The event will be at the La Crosse Radisson Hotel at 200 Harborview Plaza, on Sunday, February 22, from 11:30 a.m.-1:30 p.m. and the cost is $30 per person. Bring your friends!
 
+The event is sponsored by Alvin and Julia Forde, Julia Nordby, Ron and Frieda Nowland, Dairyland Power, and Gundersen Health System.
+
 Contact Stephanie Johnson at [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org), or 563-382-9681 for more information, or to make reservations.

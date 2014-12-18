@@ -40,6 +40,7 @@ A planned gift is a great way to ensure the continuation of the outstanding work
 - [Irene Navarre](/join-give/recognition/valhalla-society/profiles/navarre--irene/)
 - [Betty Rikansrud Nelson](/join-give/recognition/valhalla-society/profiles/nelson--betty-rikansrud/)
 - [Ham and Suzanne Peterson](/join-give/recognition/valhalla-society/profiles/peterson--ham-and-suzanne/)
+- [Harold Segelstad](/join-give/recognition/valhalla-society/profiles/segelstad--harold/)
 - [Jerry Rosholt](/join-give/recognition/valhalla-society/profiles/rosholt--jerry/)
 - [Barbara Westby](/join-give/recognition/valhalla-society/profiles/westby--barbara/)
 - [Marwin and June Wrolstad](/join-give/recognition/valhalla-society/profiles/wrolstad--marwin-and-june/)
