@@ -7,7 +7,7 @@ meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-  image: 16x9/maps/decorah-map.jpg
+  image: 16x9/maps/decorah-map-new.jpg
   alt: Heat map of Decorah attractions
   caption: Use the color key on the right to get an idea of everything there is to do in Decorah! Vesterheim is located right downtown, in the heart of all the activity.
 related:

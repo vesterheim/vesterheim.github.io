@@ -2,7 +2,7 @@
 (function( window, undefined ) {
 
     // Enable JS strict mode
-    "use strict";
+    'use strict';
 
     // expose the 'enhance' object globally. Use it to expose anything in here that's useful to other parts of your application.
 //  window.enhance = {};
@@ -10,28 +10,28 @@
     // Define some variables to be used throughout this file
     var doc = window.document,
         docElem = doc.documentElement,
-        head = doc.head || doc.getElementsByTagName( "head" )[ 0 ],
+        head = doc.head || doc.getElementsByTagName( 'head' )[ 0 ],
         // this references a meta tag's name whose content attribute should define the path to the full CSS file for the site
-//      fullCSSKey = "fullcss",
+//      fullCSSKey = 'fullcss',
         // this references a meta tag's name whose content attribute should define the path to the enhanced JS file for the site (delivered to qualified browsers)
-        fullJSKey       = "fulljs",
-        swipeJSKey      = "swipejs",
-        fontCSSKey      = "fontcss",
-        svgCSSKey       = "svgcss",
-        pngCSSKey       = "pngcss",
-        fallbackCSSKey  = "fallbackcss";
+        fullJSKey       = 'fulljs',
+        swipeJSKey      = 'swipejs',
+        fontCSSKey      = 'fontcss',
+        svgCSSKey       = 'svgcss',
+        pngCSSKey       = 'pngcss',
+        fallbackCSSKey  = 'fallbackcss';
 
         // this references a meta tag's name whose content attribute should define the path to the custom fonts file for the site (delivered to qualified browsers)
-//      fontsKey = "fonts",
+//      fontsKey = 'fonts',
         // classes to be added to the HTML element in qualified browsers
-//      htmlClasses = [ "enhanced" ];
+//      htmlClasses = [ 'enhanced' ];
 
     /* Some commonly used functions - delete anything you don't need! */
 
     // loadJS: load a JS file asynchronously. Included from https://github.com/filamentgroup/loadJS/
     function loadJS( src ){
-        var ref = window.document.getElementsByTagName( "script" )[ 0 ];
-        var script = window.document.createElement( "script" );
+        var ref = window.document.getElementsByTagName( 'script' )[ 0 ];
+        var script = window.document.createElement( 'script' );
         script.src = src;
         script.async = true;
         ref.parentNode.insertBefore( script, ref );
@@ -50,13 +50,13 @@
         // However, since the order in which stylesheets are referenced matters, you might need a more specific location in your document.
         // If so, pass a different reference element to the `before` argument and it'll insert before that instead
         // note: `insertBefore` is used instead of `appendChild`, for safety re: http://www.paulirish.com/2011/surefire-dom-element-insertion/
-        var ss = window.document.createElement( "link" );
-        var ref = before || window.document.getElementsByTagName( "script" )[ 0 ];
+        var ss = window.document.createElement( 'link' );
+        var ref = before || window.document.getElementsByTagName( 'script' )[ 0 ];
         var sheets = window.document.styleSheets;
-        ss.rel = "stylesheet";
+        ss.rel = 'stylesheet';
         ss.href = href;
         // temporarily, set media to something non-matching to ensure it'll fetch without blocking render
-        ss.media = "only x";
+        ss.media = 'only x';
         // inject link
         ref.parentNode.insertBefore( ss, ref );
         // This function sets the link's media back to `all` so that the stylesheet applies once it loads
@@ -69,7 +69,7 @@
                 }
             }
             if( defined ){
-                ss.media = media || "all";
+                ss.media = media || 'all';
             }
             else {
                 setTimeout( toggleMedia );
@@ -86,7 +86,7 @@
     // getMeta function: get a meta tag by name
     // NOTE: meta tag must be in the HTML source before this script is included in order to guarantee it'll be found
     function getMeta( metaname ){
-        var metas = window.document.getElementsByTagName( "meta" );
+        var metas = window.document.getElementsByTagName( 'meta' );
         var meta;
         for( var i = 0; i < metas.length; i ++ ){
             if( metas[ i ].name && metas[ i ].name === metaname ){
@@ -104,10 +104,10 @@
 //  function cookie( name, value, days ){
         // if value is undefined, get the cookie value
 //      if( value === undefined ){
-//          var cookiestring = "; " + window.document.cookie;
-//          var cookies = cookiestring.split( "; " + name + "=" );
+//          var cookiestring = '; ' + window.document.cookie;
+//          var cookies = cookiestring.split( '; ' + name + '=' );
 //          if ( cookies.length == 2 ){
-//              return cookies.pop().split( ";" ).shift();
+//              return cookies.pop().split( ';' ).shift();
 //          }
 //          return null;
 //      }
@@ -119,12 +119,12 @@
 //          if ( days ) {
 //              var date = new Date();
 //              date.setTime( date.getTime() + ( days * 24 * 60 * 60 * 1000 ) );
-//              var expires = "; expires="+date.toGMTString();
+//              var expires = '; expires='+date.toGMTString();
 //          }
 //          else {
-//              var expires = "";
+//              var expires = ';
 //          }
-//          window.document.cookie = name + "=" + value + expires + "; path=/";
+//          window.document.cookie = name + '=' + value + expires + '; path=/';
 //      }
 //  }
 
@@ -143,7 +143,7 @@
 //  if( fullCSS && !cookie( fullCSSKey ) ){
 //      loadCSS( fullCSS.content );
         // set cookie to mark this file fetched
-//      cookie( fullCSSKey, "true", 7 );
+//      cookie( fullCSSKey, 'true', 7 );
 //  }
     var fontCSS = getMeta( fontCSSKey );
     if( fontCSS ){
@@ -153,11 +153,11 @@
     /* grunticon Stylesheet Loader | https://github.com/filamentgroup/grunticon | (c) 2012 Scott Jehl, Filament Group, Inc. | MIT license. */
     function grunticon( e ){
         if (e && 3 === e.length) {
-            var n = !(!doc.createElementNS||!doc.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect||!document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image","1.1")||window.opera&&-1===navigator.userAgent.indexOf("Chrome")||-1!==navigator.userAgent.indexOf("Series40")),
+            var n = !(!doc.createElementNS||!doc.createElementNS('http://www.w3.org/2000/svg','svg').createSVGRect||!document.implementation.hasFeature('http://www.w3.org/TR/SVG11/feature#Image','1.1')||window.opera&&-1===navigator.userAgent.indexOf('Chrome')||-1!==navigator.userAgent.indexOf('Series40')),
                 o = function( o ){
-                    var r = doc.createElement("link"),
-                        a = doc.getElementsByTagName("script")[0];
-                    r.rel = "stylesheet", r.href = e[o && n ? 0 : o ? 1 : 2], a.parentNode.insertBefore(r, a)
+                    var r = doc.createElement('link'),
+                        a = doc.getElementsByTagName('script')[0];
+                    r.rel = 'stylesheet', r.href = e[o && n ? 0 : o ? 1 : 2], a.parentNode.insertBefore(r, a)
                 },
                 r = new window.Image;
             r.onerror = function() {
@@ -166,7 +166,7 @@
             r.onload = function() {
                 o(1 === r.width && 1 === r.height)
             }, 
-            r.src = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="
+            r.src = 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=='
         }
     }
     
@@ -188,7 +188,7 @@
         For example, you might choose to only enhance browsers that support document.querySelector (IE8+, etc).
         Use case will vary.
         */
-    if( !( "querySelector" in doc ) ){
+    if( !( 'querySelector' in doc ) ){
         // basic browsers: last stop here!
         return;
     }

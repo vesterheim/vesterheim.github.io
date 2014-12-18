@@ -19,4 +19,4 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-Heather Torgenrud of Arlee, Montana, is the author of *Norwegian Pick-up Bandweaving* (newly published in 2014). She has been weaving for over 40 years and enjoys teaching bandweaving classes.
+Heather Torgenrud of Arlee, Montana, is the author of *Norwegian Pick-up Bandweaving* (newly published in 2014) and has written several articles for the magazine _Handwoven_. She has been weaving for over 40 years and enjoys teaching bandweaving classes.
