@@ -133,4 +133,4 @@ Soldiers were to be paid every other month (and sometimes were) and company cler
 Websites
 --------
 
-Vesterheim Norwegian-American Museum’s website includes an extensive listing of Scandinavian immigrants in American wars. Research continues and this listing is updated periodically. <[http://www.vesterheim.org/](http://www.vesterheim.org/)>
+Vesterheim Norwegian-American Museum’s website includes an extensive listing of Scandinavian immigrants in American wars. Research continues and this listing is updated periodically.

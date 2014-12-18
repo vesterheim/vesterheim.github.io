@@ -1,0 +1,12 @@
+Needed to quote 'YES' index to avoid:
+
+/Users/faust/Sites/_clients/Vesterheim/jekyll/civilwar.vesterheim.org/_plugins/vester_utils.rb:116:in `sort': comparison of Hash with Hash failed (ArgumentError)
+	from /Users/faust/Sites/_clients/Vesterheim/jekyll/civilwar.vesterheim.org/_plugins/vester_utils.rb:116:in `block in sort_nodes_array'
+
+also need to mannually update the OVE to encoded form
+IDS: 008375 008376 008377
+
+Used
+https://mothereff.in/html-entities
+
+Need to create a page that lists all soldier entries to use to create the custom search engine.
