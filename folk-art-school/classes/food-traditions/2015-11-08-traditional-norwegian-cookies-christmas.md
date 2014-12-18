@@ -19,7 +19,7 @@ materials_fee: There will be a Taster’s Fee.
 materials: ~ 
 
 lead:
-  image: folk-art-school/classes/2015/norwegian-cookies-fossum-martin.jpg
+  image: folk-art-school/classes/2015/norwegian-cookies-fossum-martin2.jpg
   alt: ~
   caption: ~
   pull: right

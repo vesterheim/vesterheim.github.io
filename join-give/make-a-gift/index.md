@@ -50,23 +50,19 @@ Opportunities for Giving:
 
 {% include components/button.html text="Learn about Automated Giving" url="/join-give/make-a-gift/automated/" style="primary" %} 
 
-### Non-Cash Gifts
-
-Consider donating [time](/join-give/volunteer/), [objects](/join-give/make-a-gift/object/), [transfers of stock,](mailto:sgrinna@vesterheim.org) etc.
-
-
-{% include components/button.html text="Volunteer" url="/join-give/volunteer/" style="primary" %} 
-
-
-{% include components/button.html text="Learn how to Donate an Object" url="/join-give/make-a-gift/automated/" style="primary" %} 
-
-
 ### Planned Giving 
 
 Naming Vesterheim in your will, charitable remainder trusts, charitable lead trusts, retained life estates, retirement plan designations, life insurance beneficiary designations, or bequests is an excellent way to give to Vesterheim, and may benefit you, too.
 
 {% include components/button.html text="Learn about Planned Giving" url="/join-give/make-a-gift/planned/" style="primary" %} 
 
+### Non-Cash Gifts
+
+Consider donating [time](/join-give/volunteer/), [objects](/join-give/make-a-gift/object/), [transfers of stock,](mailto:sgrinna@vesterheim.org) etc.
+
+{% include components/button.html text="Volunteer" url="/join-give/volunteer/" style="primary" %} 
+
+{% include components/button.html text="Learn how to Donate an Object" url="/join-give/make-a-gift/automated/" style="primary" %} 
 
 ### Double, or Even Triple, Your Gift with Employer matching
 

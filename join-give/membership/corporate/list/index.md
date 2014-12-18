@@ -21,7 +21,7 @@ pagelist:
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
-  teaser:        # Defaults to page meta-description
+  teaser: We thank our Corporate Members for their support and ask that you consider supporting them!
 ---
 We thank our Corporate Members for their support and ask that you consider supporting them!
 
@@ -170,10 +170,10 @@ We thank our Corporate Members for their support and ask that you consider suppo
 : Providing smart communications and aviation electronics solutions to the world’s leading aerospace and defense companies.
 
 [Rockweiler Appliance &amp; TV](http://www.rockweilerappltv.com/)
-: Guarantees the lowest price on any merchandise within the tri-state area, but also provide quality service and special no-interest financing.
+: Guarantees the lowest price on any merchandise within the tri-state area, but also provides quality service and special no-interest financing.
 
 [Rubaiyat Restaurant](http://www.rubaiyatrestaurant.com/)
-: Simply but skillfully prepared ingredient—driven dishes that reveal a commitment to using the highest quality products, in season, and local when available.
+: Simply but skillfully prepared ingredient-driven dishes that reveal a commitment to using the highest quality products, in season, and local when available.
 
 [Ruffridge-Johnson Equipment Co., Inc.](http://www.rjequip.com/)
 : The highest quality construction and mining equipment available.

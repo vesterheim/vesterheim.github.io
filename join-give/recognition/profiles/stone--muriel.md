@@ -44,6 +44,6 @@ The education for adults. I really like the Vesterheim journal that comes out qu
 
 **What would you tell others to encourage them to become Sustaining Members?**
 
-If it’s at all feasible for you to make a gift at that level to very seriously consider it and arrange it. I know there will be a lot of organizations making asks of them, but Vesterheim is very unique and it’s important for us to support the work there.
+If it’s at all feasible for you to make a gift at that level to very seriously consider it and arrange it. I know there will be a lot of organizations making requests of them, but Vesterheim is very unique and it’s important for us to support the work there.
 
-I think Vesterheim is extremely important—not only to Iowa, not only for Norwegians, but as a national organization. It’s probably world-class museum in ethnic studies.
+I think Vesterheim is extremely important—not only to Iowa, not only for Norwegians, but as a national organization. It’s probably a world-class museum in ethnic studies.

@@ -7,19 +7,19 @@ meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-  image:
+  image: 16x9/norway-tours/textile-study-tour-reine.jpg
   alt:
   caption:
 related:
   - /norway-tours/upcoming/coastal-voyage/
-  - /norway-tours/upcoming/textile/
-  - /norway-tours/about/
+  - /norway-tours/forms/
+  - /norway-tours/contact/
 
 navigation:
   exclude: true
 pagelist:
   order:         # Defaults to navigation order
-  image: 16x9/norway-tours/north-norway.jpg
+  image: 46x21/norway-tours/textile-study-tour-sami.jpg
   alt:
  
   caption:   

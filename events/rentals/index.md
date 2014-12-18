@@ -13,7 +13,7 @@ caption:
 related:
 
 navigation:
-  order: 40
+  order: 60
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  

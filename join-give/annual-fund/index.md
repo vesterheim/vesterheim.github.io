@@ -34,7 +34,7 @@ Help secure the future of this unique place which preserves a heritage and conne
 
 {% include components/button.html text="Make Your Gift Now" url="https://vesterheim.wufoo.com/forms/m1ufzvni19c3srk/" style="primary" %} 
 
-To donate by mail, please print a donation form (pdf) and send the form, along with your check or credit card information to: <br />
+To donate by mail, please print a donation [form](/join-give/make-a-gift/donate/forms/donate-form.pdf) (pdf) and send the form, along with your check or credit card information to: <br />
 Development Department<br />
 Vesterheim Museum<br />
 P.O. Box 379<br />
@@ -49,9 +49,9 @@ Below are highlights of the ways in which your dollars provide for a little bit 
 ### Collections and Research
 {: .heading--black--mixed-case }
 
-* On any day, curatorial staff preserves and care for the museum’s collection of over 24,000 artifacts—the very heart of Vesterheim—in secure, environmentally controlled conditions.
+* On any day, curatorial staff preserves and cares for the museum’s collection of over 24,000 artifacts—the very heart of Vesterheim—in secure, environmentally controlled conditions.
 * On any day, curatorial staff creates exciting, informative exhibitions and related programming.
-* On any day, curatorial staff work with donors, researchers, and students, and arrange for the transfer of artifacts to Vesterheim.
+* On any day, curatorial staff works with donors, researchers, and students, and arranges for the transfer of artifacts to Vesterheim.
 * On any day, the Registrar/Librarian catalogs objects, books, and periodicals to make them more accessible and easier to use.
 * On any day, curatorial staff conducts research using artifacts and documents in the collection.
 
@@ -66,7 +66,7 @@ Below are highlights of the ways in which your dollars provide for a little bit 
 {: .heading--black--mixed-case }
 
 * On any day, the museum communicates with an international audience through its web site, with a calendar of events, a class schedule, virtual galleries, membership and development opportunities, secure online shopping, and more.
-* On any day, Publications Department staff work to create the museum’s full-color magazine, _Vesterheim_; catalogs for the Museum Store and folk-art classes; _Rosemaling Letter_; the museum’s e-newsletter, Vesterheim _Current_; and brochures for exhibitions, tours to Norway, and events.
+* On any day, Publications Department staff works to create the museum’s full-color magazine, _Vesterheim_; catalogs for the Museum Store and folk-art classes; _Rosemaling Letter_; the museum’s e-newsletter, Vesterheim _Current_; and brochures for exhibitions, tours to Norway, and events.
 
 ### Stewardship
 {: .heading--black--mixed-case }

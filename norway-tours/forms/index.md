@@ -12,7 +12,7 @@ hero:
 related:
   - /norway-tours/upcoming/coastal-voyage/
   - /norway-tours/upcoming/textile/
-  - /norway-tours/about/
+  - /norway-tours/contact/
 
 navigation:
   order: 40
@@ -38,3 +38,5 @@ After November 15—Fill out a "[Registration](/norway-tours/forms/documents/Reg
 Be sure to read the "[Terms and Conditions](/norway-tours/forms/documents/TermCond.pdf)" for each tour.
 
 {% include components/button.html text="Download Terms and Conditions (PDF)" url="/norway-tours/forms/documents/TermCond.pdf" style="primary" %} 
+
+For more information: Michelle Whitehill at 563-382-9681, ext. 240, or [mwhitehill@vesterheim.org](mailto:mwhitehill@vesterheim.org).

@@ -12,6 +12,8 @@ hero:
 related:
   - /norway-tours/upcoming/coastal-voyage/
   - /norway-tours/upcoming/textile/
+  - /norway-tours/forms/
+  - /norway-tours/contact/
 
 navigation:
   order: 10

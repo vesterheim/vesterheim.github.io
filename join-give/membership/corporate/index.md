@@ -58,7 +58,7 @@ Benefits of Corporate Membership:
 ### Opportunity
 {: .heading--black }
 
-* Your company will receive _Vesterheim_, our full-color bi-annual magazine.
+* Your company will receive _Vesterheim_, our full-color biannual magazine.
 * Your company will receive ten guest passes to the museum’s facilities. Use them for employees or hand them out to your customers/valued guests.
 * Your company will be offered special invitations to selected social events, such as Corporate Member Appreciation Events.
 * Your company will have the first option for targeted collaborative ventures with Vesterheim for select exhibitions and programs.

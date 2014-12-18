@@ -23,7 +23,7 @@ pagelist:
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
-  teaser:        # Defaults to page meta-description  
+  teaser: Enjoy this peek at some of our outstanding artifacts and make plans to see your favorites in person with a visit to Vesterheim. 
 ---
 To make more of Vesterheim’s collections accessible, we are offering this sample of artifact images. Enjoy this peek at some of Vesterheim's outstanding artifacts.
 

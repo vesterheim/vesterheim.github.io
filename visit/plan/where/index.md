@@ -21,7 +21,7 @@ pagelist:
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
-  teaser:        # Defaults to page meta-description   
+  teaser: Vesterheim is located in downtown Decorah, Iowa, nestled in the bluffs of scenic Northeast Iowa.   
 ---
 Vesterheim is located in downtown Decorah, Iowa.
 

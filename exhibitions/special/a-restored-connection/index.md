@@ -7,7 +7,7 @@ meta_title:        # Appears on bookmarks, search results, etc...
 meta_description: Through still and moving images, _A Restored Connection_ explores how we define ourselves and the environment around us.
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-  image: 16x9/exhibitions/special/a-restored-connection.jpg
+  image: 16x9/exhibitions/special/restored-connection-wall-photos.jpg
   alt:
   caption:
 related:
@@ -17,7 +17,7 @@ navigation:
   order: 20
 pagelist:
   order:         # Defaults to navigation order
-  image: 
+  image: 46x21/exhibitions/special/restored-connection-wall-photos.jpg
   alt:
   caption: 
   title:         # Defaults to navigation title

@@ -10,7 +10,9 @@ hero:
   alt:
   caption:
 related:
-
+ - /about/magazine/
+ - /folk-art-school/rosemaling-letter/
+ 
 navigation:
   order: 10
 pagelist:

@@ -19,7 +19,7 @@ navigation:
   order: 30  
 pagelist:
   order:         # Defaults to navigation order
-  image: 46x21/norway-tours/textile-study-tour.jpg
+  image: 46x21/norway-tours/textile-study-tour-sami.jpg
   alt: 
   caption:   
   title: Textile Study Tour

@@ -51,7 +51,7 @@ By becoming a Vesterheim Compass Club member, you receive special recognition an
 {: .no-margin-bottom }
 
 * easy automatic tax-deductible donations.
-* a Family Membership to the museum, which includes the full-color magazine Vesterheim, catalogs, and regular discounts on classes and purchases.
+* a Family Membership to the museum, which includes the full-color magazine _Vesterheim,_ catalogs, and regular discounts on classes and purchases.
 * recognition in Vesterheim’s _Annual Report_.
 * 10 guest passes.
 * one scheduled “Behind the Scenes” tour each year.

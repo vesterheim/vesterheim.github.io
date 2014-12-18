@@ -24,7 +24,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-Vesterheim values all of its members, some of whom, like the generous people profiled here, opt to make their annual membership contributions at the higher philanthropic levels of Friend ($125), Supporter ($250), Sponsor ($500), and Sustaining ($1000). These Vesterheim members deserve special thanks for going that extra mile in helping us preserve and promote etnhic immigrant culture in America.
+Vesterheim values all of its members, some of whom, like the generous people profiled here, opt to make their annual membership contributions at the higher philanthropic levels of Friend ($125), Supporter ($250), Sponsor ($500), and Sustaining ($1000). These Vesterheim members deserve special thanks for going that extra mile in helping us preserve and promote ethnic immigrant culture in America.
 
 Learn more about these Vesterheim members:
 

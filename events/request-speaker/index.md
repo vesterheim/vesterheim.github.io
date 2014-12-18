@@ -12,7 +12,7 @@ hero:
 
 
 navigation:
-  order: 10
+  order: 50
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  

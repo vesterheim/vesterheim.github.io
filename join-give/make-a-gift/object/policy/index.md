@@ -23,7 +23,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-For its collection, Vesterheim Museum considers gifts of objects, library materials, and archives materials related to Norwegian and Norwegian-American culture or history, including:
+For its collection, Vesterheim Museum considers gifts of objects, library materials, and archive materials related to Norwegian and Norwegian-American culture or history, including:
 
 * Objects brought by Norwegian immigrants.
 * Objects made or used by Norwegian immigrants in the United States.

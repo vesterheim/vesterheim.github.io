@@ -10,6 +10,9 @@ hero:
   alt:
   caption:
 related:
+  - /norway-tours/upcoming/coastal-voyage/
+  - /norway-tours/forms/
+  - /norway-tours/contact/
 
 show_pagelist_menu: true
 

@@ -41,7 +41,7 @@ Vesterheim Museum does not accept long-term loans unless an item is required for
 
 Does it cost anything to donate materials to Vesterheim Museum?
 ---------------------------------------------------------------
-There is no fee to donate artifacts; however, there are many ongoing costs associated with the preservation and care of the collection. These include:  professional staff, climate control, archival storage supplies, insurance, conservation, equipment, collections database. You can support your donation by becoming a Vesterheim member and by making a donation to the care of the collections. Learn about opportunities for donating to Vesterheim here. Donate today here.
+There is no fee to donate artifacts; however, there are many ongoing costs associated with the preservation and care of the collection. These include: professional staff, climate control, archival storage supplies, insurance, conservation, equipment, collections database. You can support your donation by becoming a Vesterheim member and by making a donation to the care of the collections. Join Vesterheim [here](https://vesterheim.wufoo.com/forms/w3h863c0xax0mc/). Donate today [here](https://vesterheim.wufoo.com/forms/m1ufzvni19c3srk/).
 
 Does Vesterheim Museum purchase items for the collection?
 ---------------------------------------------------------

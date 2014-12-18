@@ -90,6 +90,17 @@ panels:
     published: true
     start_date: 2014-10-01
     stop_date: 
+  - url: /about/news/2014/johnson-retirement.md/
+    file_under:
+    image: /16x9/about/johnson-steve.jpg
+    alt:
+    caption:
+    title:
+    subtitle:
+    teaser: Steven Johnson, Executive Director of Vesterheim has announced his intention to retire in September 2016.
+    published: true
+    start_date: 2014-10-01
+    stop_date:  
 
 events:
   - url: /events/youth-programs/barnetimen/

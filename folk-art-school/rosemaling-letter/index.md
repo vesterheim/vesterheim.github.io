@@ -5,8 +5,10 @@ title: Rosemaling Letter
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+related:
+ - /join-give/membership/
 
- navigation:
+navigation:
   order: 80
 pagelist:
   exclude: false
@@ -16,7 +18,7 @@ pagelist:
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
-  teaser:        # Defaults to page meta-description  
+  teaser: Vesterheim members can purchase the _Rosemaling Letter_, a full-color magazine that includes articles by other rosemalers, rosemaling designs, pictures of rosemaling pieces, and information about Vesterheim events and artifacts.
 ---
 <figure class="pull-left  content-photo  content-photo--golden-ratio--pull-left  content-photo--golden-ratio"><div class="content-photo__lining">{% picture golden folk-art-school/rosemaling-letter.jpg alt="Rosemaling Letter" %}</div></figure>
 
