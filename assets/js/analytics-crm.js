@@ -6,10 +6,10 @@
 // data from the __utmz cookie
 //
 function _uGC(l,n,s) {
- if (!l || l=="" || !n || n=="" || !s || s=="") return "-";
+ if (!l || l==='' || !n || n==='' || !s || s==='') return "-";
  var i,i2,i3,c="-";
  i=l.indexOf(n);
- i3=n.indexOf("=")+1;
+ i3=n.indexOf('=')+1;
  if (i > -1) {
   i2=l.indexOf(s,i); if (i2 < 0) { i2=l.length; }
   c=l.substring((i+i3),i2);
@@ -48,14 +48,14 @@ var gclid   = _uGC(z, 'utmgclid=', '|');
 // populate some other variables that would normally 
 // be left blank. 
 // 
-if (gclid !="-") { 
+if (gclid !== "-") { 
       source = 'google'; 
       medium = 'cpc'; 
 } 
 // Data from the custom segmentation cookie can also be passed 
 // back to your server via a hidden form field 
 var csegment = _uGC(document.cookie, '__utmv=', ';'); 
-if (csegment != '-') { 
+if (csegment !== '-') { 
       var csegmentex = /[1-9]*?\.(.*)/;
       csegment    = csegment.match(csegmentex); 
       csegment    = csegment[1]; 
@@ -69,7 +69,7 @@ if (csegment != '-') {
 // has generated.  It's also stored in a cookie, the __utma cookis
 // 
 var a = _uGC(document.cookie, '__utma=', ';');
-var aParts = a.split(".");
+var aParts = a.split('.');
 var nVisits = aParts[5];
 
 
@@ -85,7 +85,7 @@ var nVisits = aParts[5];
 
 
 
-
+/*
 390	source
 394	medium
 393	content
@@ -97,3 +97,4 @@ var nVisits = aParts[5];
 {entry:EntryId}
 {entry:TransactionId}
 {entry:PurchaseTotal}
+*/

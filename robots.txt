@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /awstats/
+Disallow: /cgi-bin/
+Disallow: /Library/
+Disallow: /mint/
+Disallow: /mt2.661-static/
+Disallow: /opencart/
+Disallow: /reports/
+Disallow: /stats/
+Disallow: /Templates/

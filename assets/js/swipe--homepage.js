@@ -1,7 +1,7 @@
 (function( w ){
 
   // Enable strict mode
-  "use strict";   
+  'use strict';
 
     w.setupCarousel = function() {  
 
@@ -82,7 +82,7 @@
        },
        transitionEnd: function(index, element) {}
     });
-  }
+  };
 
     w.positionCarouselControlls = function() {  
 
@@ -121,34 +121,34 @@
 //    w.setStyle(bullets, 'top', (imageHeight - 24) + 'px');
     w.setStyle(controls, 'height', imageHeight + 'px');
     w.setStyle(imageWrappers, 'minHeight', imageHeight + 'px');   
-  }
+  };
 
   w.setStyle = function(els, st, val) {
     for (var i = 0, il = els.length; i < il; i++) {
-      if (val == 'auto' && els[i].style[st] != '' && els[i].style[st] != 'auto') {
+      if (val === 'auto' && els[i].style[st] !== '' && els[i].style[st] !== 'auto') {
             els[i].style[st] = val;        
           }
           else {
             els[i].style[st] = val;
           }
     }   
-  } 
+  };
 
   // Run on domready (w.load as a fallback)
   if( w.addEventListener ){
-    w.addEventListener( "resize", w.positionCarouselControlls, false );
-    w.addEventListener( "DOMContentLoaded", function(){
+    w.addEventListener( 'resize', w.positionCarouselControlls, false );
+    w.addEventListener( 'DOMContentLoaded', function(){
       w.setupCarousel();
       w.positionCarouselControlls();
       // Run once only
-      w.removeEventListener( "load", w.setupCarousel, false );
-      w.removeEventListener( "load", w.positionCarouselControlls, false );
+      w.removeEventListener( 'load', w.setupCarousel, false );
+      w.removeEventListener( 'load', w.positionCarouselControlls, false );
     }, false );
-    w.addEventListener( "load", w.setupCarousel, false );
-    w.addEventListener( "load", w.positionCarouselControlls, false );
+    w.addEventListener( 'load', w.setupCarousel, false );
+    w.addEventListener( 'load', w.positionCarouselControlls, false );
   }
   else if( w.attachEvent ){
-    w.attachEvent( "onload", w.setupCarousel );
-    w.attachEvent( "onload", w.positionCarouselControlls );
+    w.attachEvent( 'onload', w.setupCarousel );
+    w.attachEvent( 'onload', w.positionCarouselControlls );
   }
 }(this));

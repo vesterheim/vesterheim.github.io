@@ -5,7 +5,7 @@ var parseQueryString = function( queryString ) {
     var params = {}, queries, temp, i, l;
  
     // Split into key/value pairs
-    queries = queryString.split("&");
+    queries = queryString.split('&');
  
     // Convert the array of strings into an object
     for ( i = 0, l = queries.length; i < l; i++ ) {
@@ -20,10 +20,10 @@ var parseMembershipItem = function( levelString, typeString, renewString ) {
   params.level = levelString.substring(0, levelString.indexOf('(') + - 1 );
   params.cost = parseFloat(levelString.substring(levelString.indexOf('$') + 1 ).replace(/[$,]/g, ''));
   params.category = 'Membership';
-  if (typeString == 'Gift') {
+  if (typeString === 'Gift') {
     params.category = 'Gift Membership';
   }
-  if (renewString == 'Renew') {
+  if (renewString === 'Renew') {
     params.category = 'Renewal ' + params.category;
   }
   else {
