@@ -57,6 +57,28 @@ show_social_sharing_bar: false
 
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px      
 panels:
+  - url: /visit/plan/hours-and-admission/
+    file_under:
+    image: 16x9/events/julenisse--christmas--kids.jpg
+    alt:
+    caption:
+    title: Museum and Store Closed
+    subtitle: "December 25, 2014 & January 1, 2015"
+    teaser: The museum and store are closed Christmas Day and New Year’s Day.
+    published: false
+#    start_date: 2014-12-20
+#    stop_date:  2014-12-26 
+  - url: /visit/plan/hours-and-admission/
+    file_under:
+    image: 16x9/events/julenisse--christmas--kids.jpg
+    alt:
+    caption:
+    title: Museum and Store Closed
+    subtitle: January 1, 2015
+    teaser: The museum and store are closed New Year’s Day.
+    published: false
+#    start_date: 2014-12-20
+#    stop_date:  2015-01-02    
   - url: /folk-art-school/classes/
     file_under:
     image: /16x9/folk-art-school/weaving.jpg
@@ -103,6 +125,28 @@ panels:
     stop_date:  
 
 events:
+  - url: /visit/plan/hours-and-admission/
+    file_under:
+    image: 46x21/events/christmas--kids.jpg
+    alt:
+    caption:
+    title: Museum and Store Closed
+    date: "December 25, 2014 & January 1, 2015"
+    time: All Day
+    published: true
+    start_date: 2014-12-20
+    stop_date:  2014-12-26 
+  - url: /visit/plan/hours-and-admission/
+    file_under:
+    image: 46x21/events/deck-the-tables.jpg
+    alt:
+    caption:
+    title: Museum and Store Closed
+    date: January 1, 2015
+    time: All Day
+    published: true
+    start_date: 2014-12-26
+    stop_date:  2015-01-02     
   - url: /events/youth-programs/barnetimen/
     image:
     alt:
