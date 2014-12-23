@@ -19,4 +19,4 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-Trudy Peach is a Vesterheim Gold Medal winner and is a Certified Decorative Artist with the Society of Decorative Painters. She studies old pieces of rosemaling to influence her designs in Rogaland and Os styles. Trudy shares these ideas with students to help them develop an awareness of how to interpret designs. She has taught rosemaling throughout the United States.
+Trudy Peach is a Vesterheim Gold Medal winner and is a Certified Decorative Artist with the Society of Decorative Painters. She studies old pieces of rosemaling to influence her designs in Rogaland, Os, and Vest Agder styles. Trudy shares these ideas with students to help them develop an awareness of how to interpret designs. She earned her Gold Medal in 1986 and has taught rosemaling throughout the United States.

@@ -59,7 +59,7 @@ Museum Store
 - **Sandy Bishop**, Sales Staff, Museum Store, Ext. 212
 - **Sharon DelVento**, Sales Staff, Museum Store, Ext. 212
 - **Danette Franzen**, Sales Staff, Museum Store, Ext. 212
-- **Joann Stevenson**, Sales Staff, Museum Store, Ext. 212
+- **JoAn Stevenson**, Sales Staff, Museum Store, Ext. 212
 
 Publications
 ------------

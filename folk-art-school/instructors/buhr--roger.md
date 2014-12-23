@@ -19,4 +19,4 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-Roger Buhr, Decorah, Iowa, has stitched _hedebosøm_ for 17 years and has taught courses at Vesterheim and the John C. Campbell Folk School in Basstown, North Carolina.
+Roger Buhr, Decorah, Iowa, has stitched _hedebosøm_ for over 18 years and has taught courses at Vesterheim and the John C. Campbell Folk School in Basstown, North Carolina. When he first saw a piece of _hedebo,_ he was intrigued by the technique used to make this needle lace.   He is a retired Lutheran pastor who served parishes in Iowa and Minnesota. He enjoys gardening, photography, calligraphy, singing and liturgical art.

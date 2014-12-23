@@ -28,6 +28,6 @@ Gundersen Health System of La Crosse, Wisconsin, has renewed their five-year com
 
 Over the past five years (2010-2014), Gundersen’s sponsorship has doubled the numbers served. “Vesterheim is extremely grateful for Gundersen’s consistent support to make this educational and engaging program free for all participants,” Steve Johnson, Vesterheim’s Executive Director, said.
  
-During the program, students can invite an adult family member or friend to accompanying them on a visit to Vesterheim, where they try their hands at apple pressing, making rope, shelling and grinding corn, and flailing or hand-threshing grain using tools and machines from the past.
+During the program, students can invite an adult family member or friend to accompany them on a visit to Vesterheim, where they try their hands at apple pressing, making rope, shelling and grinding corn, and flailing or hand-threshing grain using tools and machines from the past.
  
 In 2014, apples were provided by the Luster Heights Work Camp, oats were provided by Michael Bergan, and corn was provided by Roger Bergan. Many Vesterheim and RSVP volunteers assisted with the activities.

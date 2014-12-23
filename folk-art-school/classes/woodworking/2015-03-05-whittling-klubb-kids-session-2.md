@@ -16,7 +16,7 @@ tuition:
   members: $25
   nonmembers: $25
   note: ~
-materials_fee: 
+materials_fee: There will be a minimal materials fee for wood.
 materials: Tools and safety supplies will be provided.
 
 lead:
