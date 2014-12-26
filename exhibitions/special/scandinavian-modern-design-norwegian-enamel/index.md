@@ -2,7 +2,7 @@
 published: true
 layout: page
 title: "Scandinavian Modern Design: Norwegian Enamel"
-sustitle: August 22, 2014 – April 19, 2015
+subtitle: August 22, 2014 – April 19, 2015
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description: Norway’s greatest, though least remembered, contributions to the Scandinavian Modern Design movement of the mid-twentieth century.
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
