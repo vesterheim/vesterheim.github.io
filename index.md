@@ -138,7 +138,7 @@ events:
     stop_date:  2014-12-26 
   - url: /visit/plan/hours-and-admission/
     file_under:
-    image: 46x21/events/deck-the-tables.jpg
+    image: 46x21/events/christmas--kids.jpg
     alt:
     caption:
     title: Museum and Store Closed
@@ -147,6 +147,16 @@ events:
     published: true
     start_date: 2014-12-26
     stop_date:  2015-01-02     
+  - url: /visit/plan/hours-and-admission/
+    image: /46x21/exhibitions/rosemalinggallery1_M./
+    alt:
+    caption:
+    title: Free First Thursday 
+    date: January 8, 2015
+    time: 10:00AM-4:00PM
+    published: true
+    start_date: 
+    stop_date: 2015-01-09
   - url: /events/youth-programs/barnetimen/
     image:
     alt:
