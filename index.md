@@ -148,7 +148,7 @@ events:
     start_date: 2014-12-26
     stop_date:  2015-01-02     
   - url: /visit/plan/hours-and-admission/
-    image: /46x21/exhibitions/rosemalinggallery1_M./
+    image: /46x21/exhibitions/rosemalinggallery1_M.jpg
     alt:
     caption:
     title: Free First Thursday 
