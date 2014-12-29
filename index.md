@@ -2,9 +2,9 @@
 published: true
 layout: home
 title: Vesterheim
-subtitle: The National Norwegain-American Museum & Hertiage Center
+subtitle: The National Norwegian-American Museum & Hertiage Center
 short_title: Vesterheim
-meta_title: "Vesterheim: The National Norwegain-American Museum & Hertiage Center"
+meta_title: "Vesterheim: The National Norwegian-American Museum & Hertiage Center"
 meta_description:  # Used in HTML head and as the description for some search engines
 navigation:
   order: 0
