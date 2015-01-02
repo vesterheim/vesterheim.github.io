@@ -509,13 +509,17 @@ window.matchMedia || (window.matchMedia = function() {
     w.enhanceSiteSearch = function() {
         var siteSearch = document.getElementById("site-search");
         var siteSearchCX = document.getElementById("site-search__cx");
+        var siteSearchIE = document.getElementById("site-search__ie");
         var siteSearchNoJS = document.getElementById("site-search__nojs");
         if (siteSearch === null || siteSearchCX === null || siteSearchNoJS === null) {
             return;
         }
         siteSearch.action = "//vesterheim.org/search/";
-        siteSearchCX.value = "005748589984410066710:rpuk4fvq7ak";
+        siteSearchCX.parentNode.removeChild(siteSearchCX);
         siteSearchNoJS.parentNode.removeChild(siteSearchNoJS);
+        if (siteSearchIE !== null) {
+            siteSearchIE.parentNode.removeChild(siteSearchIE);
+        }
     };
     if (w.addEventListener) {
         w.addEventListener("DOMContentLoaded", function() {
