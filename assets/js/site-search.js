@@ -10,6 +10,7 @@
 		// Get items to change
 		var siteSearch = document.getElementById('site-search');
 		var siteSearchCX = document.getElementById('site-search__cx');
+		var siteSearchIE = document.getElementById('site-search__ie');
 		var siteSearchNoJS = document.getElementById('site-search__nojs');
 
 		// If we can't get all of the items, quit.
@@ -18,8 +19,12 @@
 		}
 
 		siteSearch.action='//vesterheim.org/search/';
-		siteSearchCX.value = '005748589984410066710:rpuk4fvq7ak';
+
+		siteSearchCX.parentNode.removeChild(siteSearchCX);
 		siteSearchNoJS.parentNode.removeChild(siteSearchNoJS);
+		if (siteSearchIE !== null) {
+			siteSearchIE.parentNode.removeChild(siteSearchIE);
+		}		
 	};
 
 	// Run on resize and domready (w.load as a fallback)
