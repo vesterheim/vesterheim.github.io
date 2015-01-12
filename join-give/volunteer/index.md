@@ -23,7 +23,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-Volunteers of all ages and abilities are involved at Vesterheim, and new volunteers are always welcome. There are great opportunities for people of many walks of life. You may be able to offer a specific skill or talent, but often, enthusiasm and a willingness to learn are the only requirement for a volunteer task!
+Volunteers of all ages and abilities are involved at Vesterheim, and new volunteers are always welcome. There are great opportunities for people from many walks of life. You may be able to offer a specific skill or talent, but often, enthusiasm and a willingness to learn are the only requirements for a volunteer task!
 
 You will find a comprehensive list of volunteer skill requests [here](/join-give/volunteer/skill-list/). Our volunteers are tour guides and folk artists, cooks and servers, clerical and curatorial helpers, translators and teachers, carpenters and painters, and more. Most importantly, each volunteer is an ambassador for Vesterheim.
 

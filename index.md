@@ -162,7 +162,7 @@ events:
     alt:
     caption:
     title: Barnetimen Children’s Hour 
-    date: January 19, 2015
+    date: January 20, 2015
     time: 10:00AM
     published: true
     start_date: 

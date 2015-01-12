@@ -26,7 +26,7 @@ pagelist:
 ---
 _Note - Phyllis passed away in 2013, a year after this interview._
 
-What does Vesterheim mean to 94-year-old Decorah native, Phyllis Leseth? “It has been a wonderful part of my life. I enjoyed my time there so much,” she says. Phyllis, born in 1917, has always been deeply involved with local community and social goodwill. This, she states, resulted from her parents influence at a young age. “My family was always involved in the community and my mother did many things to help others in Decorah,” she remembers. 
+What does Vesterheim mean to 94-year-old Decorah native, Phyllis Leseth? “It has been a wonderful part of my life. I enjoyed my time there so much,” she says. Phyllis, born in 1917, has always been deeply involved with local community and social goodwill. This, she states, resulted from the influence of her parents at a young age. “My family was always involved in the community and my mother did many things to help others in Decorah,” she remembers. 
 
 So, while still young, Phyllis became involved with Vesterheim. “I was a guide at the museum,” she says, “second floor was where I gave tours.” As she recalls the various woodcarvings, dresses, and other craftwork located on the second floor, she is reminded of how much learning and education Vesterheim provides. She says, “Now that I think back, I really did learn so much giving tours—every artifact tells a different story.” Her favorite tours were those that included visitors from out of town and those with children and parents. “I loved giving tours to children. Just knowing that I was opening their eyes to a larger world was such a wonderful experience,” she recounts.
 

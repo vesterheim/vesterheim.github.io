@@ -27,6 +27,12 @@ Vesterheim invites all pre-school-aged children and their parents or caregivers 
 
 _Barnetimen_ is free of charge and no previous sign-up is necessary—come to one session or all of them. The program is geared toward 3-5 year olds, but all ages are welcome. Meet first at ArtHaus Studio at 516 W. Water St., visit the museum, and then head back to ArtHaus for an art project. 
 
+Upcoming Barnetimen schedule:
+January 20, 2015
+February 17, 2015
+March 17, 2015
+April 21, 2015
+
 Jenni & Eric Petersen-Brant are co-directors of ArtHaus, downtown Decorah's home for the arts. Having recently relocated to Decorah from eastern Nebraska, both Jenni and Eric are practicing studio artists with extensive experience in arts administration and arts education. Jenni holds an MFA from the University of Nebraska-Lincoln and a BFA from the University of Wisconsin-Whitewater and has worked as the Executive Director of the Kimmel Harding Nelson Center for the Arts, and Education Director for LUX Center for the Arts. Largely a self-taught artist, Eric holds a BS from the University of Nebraska-Lincoln and extensive post-graduate education in the arts. He has taught with LUX Center for the Arts, Doane College, and independently, while also being studio assistant to artist Eddie Dominguez.
 
 For information about _Barnetimen_, please contact Jennifer Kovarik, Vesterheim Youth Educator, at 563-382-9681 or [jkovarik@vesterheim.org](mailto:jkovarik@vesterheim.org). 

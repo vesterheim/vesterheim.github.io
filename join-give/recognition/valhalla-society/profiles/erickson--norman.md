@@ -24,7 +24,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-Norman E. Erickson, formerly of Cedar Rapids, was a supportive member of Vesterheim,illustrated by a charitable bequest and other gifts dating back to his first $5 contribution in 1966. Norman passed away in September 2010, but his legacy is very much alive at Vesterheim. He lives on in the smiles of visitors to the museum each year and in the hearts and minds of those working to preserve a heritage and connect us all.
+Norman E. Erickson, formerly of Cedar Rapids, was a supportive member of Vesterheim, and his long-term commitment to the museum is illustrated by his charitable bequest and other gifts dating back to his first $5 contribution in 1966. Norman passed away in September 2010, but his legacy is very much alive at Vesterheim. He lives on in the smiles of visitors to the museum each year and in the hearts and minds of those working to preserve a heritage and connect us all.
 
 Norman E. Erickson was born in Postville, Iowa, in April 1920. He grew up during the Great Depression in nearby Clermont, where he spent his summer days fossil hunting throughout Fayette County and fishing the Turkey and Mississippi Rivers with his father. He graduated from Clermont High School in 1937 and attended Coe College in Cedar Rapids, graduating in 1941.
 

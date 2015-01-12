@@ -24,9 +24,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-Helen M. Heitmann had an educator’s heart. And even though Helen passed away April 7, 2006, her passion continues at Vesterheim through a bequest to the museum. Thanks to her generosity, the new Asbjørnsen Gallery in the museum’s Main Building will be the venue for many upcoming exhibitions, like Sigvald Asbjørnsen, Sculptor on view this year.
-
-Family member Barbara Champaigne, Neenah, Wisconsin, said, “I was delighted to hear about the honor the museum is giving my great-uncle, Sigvald Asbjørnsen, sculptor. I know that, when his granddaughter [Helen Heitmann] donated funds to the museum, she had hoped it would enable him to be so honored. So it pleases me that his works are being preserved and exhibited.”
+Helen M. Heitmann had an educator’s heart. And even though Helen passed away April 7, 2006, her passion continues at Vesterheim through a bequest to the museum. Thanks to her generosity, the Asbjørnsen Gallery in the museum’s Main Building is a wonderful venue for special exhibitions.
 
 Born in Chicago on August 8, 1926, Helen knew from an early age that she wanted to teach. After graduating from Von Steuben High School, she studied history and physical education at the College of Wooster in Ohio. While teaching high school in Skokie, Illinois, Helen earned her M.A. from Northwestern University in 1955 and a Ph.D. in physical education from Springfield College in 1967.
 
@@ -36,6 +34,6 @@ During this time Helen led the initial drive to convince the Illinois High Schoo
 
 Along with her teaching, Helen was a community leader and a writer. She authored roughly 70 publications in professional and popular journals and co-authored 5 books relating to the teaching of physical education.
 
-Her desire to educate was not limited to youth physical education. Helen also cared deeply about her Norwegian heritage and longed to share it with everyone. She chronicled the works of her grandfather, Norwegian sculptor Sigvald Asbjørnsen, in From Fjord to Prairie: Norwegian-Americans in the Midwest, 1825 – 1975, donated the bronze casting named “Anitra’s Dance” to the museum, and bequeathed a gift to Vesterheim for the acquisition, conservation, and display of Sigvald’s art.
+Her desire to educate was not limited to youth physical education. Helen also cared deeply about her Norwegian heritage and longed to share it with everyone. She chronicled the works of her grandfather, Norwegian sculptor Sigvald Asbjørnsen, in _From Fjord to Prairie: Norwegian-Americans in the Midwest, 1825 – 1975;_ donated the bronze casting by Asbjørnsen, named “Anitra’s Dance,” to the museum; and bequeathed a gift to Vesterheim for the acquisition, conservation, and display of Asbjørnsen's art.
 
-Helen’s long-time dedication to the museum and her devotion to her grandfather’s legacy will be celebrated this fall, beginning with the exhibition opening in September and highlighted by a ribbon-cutting ceremony for the Asbjørnsen Gallery in October by Her Majesty Queen Sonja of Norway. The exhibition honoring Sigvald’s works was made possible through the Helen M. Heitmann Charitable Remainder Trust, a fund established by Helen in 1996. 
+Helen’s long-time dedication to the museum and her devotion to her grandfather’s legacy were  celebrated in 2011 with the first show in the Asbjørnsen Gallery—an exhibition honoring Asbjørnsen's works, highlighted by a ribbon-cutting ceremony for the gallery by Her Majesty Queen Sonja of Norway. 
