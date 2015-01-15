@@ -3,7 +3,7 @@ published: true
 layout: page
 title: Gundersen Supports Education at Vesterheim
 meta_title:        # Appears on bookmarks, search results, etc...
-meta_description:  # Used in HTML head and as the description for some search engines
+meta_description: Gundersen Health System of La Crosse, Wisconsin, has renewed their five-year commitment (2015-2019) to be the sole sponsor of the WOW (Window on the World) Program at Vesterheim.
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
   image:
@@ -12,9 +12,9 @@ hero:
 related:
 
 navigation:
-  order: 60
+  exclude: true
 pagelist:
-  order:         # Defaults to navigation order
+  order: 20141001
   image: 
   alt: 
   caption:

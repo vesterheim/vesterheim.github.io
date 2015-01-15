@@ -1,0 +1,34 @@
+---
+published: true
+layout: page
+title: News
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+hero:
+  image:
+  alt:
+  caption:
+related:
+
+navigation:
+  order: 60
+pagelist:
+  order:         # Defaults to navigation order
+  image: 46x21/about/news.jpg
+  alt: 
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description
+---
+</div>
+<div class="layout__main--constrained">
+{% assign news__pagelist = site.data.pagelist | where: 'parent', page.url %}
+{% if news__pagelist.size > 0 %}
+{% for news__page in news__pagelist reversed %}
+<article class="page-listing"><a class="page-listing__lining  page-listing__lining--padding-bottom" href="{{ news__page.url }}">
+<div class="layout__media__body page-listing__body  page-listing__body--constrained"><header class="page-listing__header"><h1 class="title  page-listing__title">{{ news__page.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}</h1></header><p class="summary  text  main-content  page-listing__summary">{{ news__page.teaser | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}</p><p class="more">Read More</p></div></a></article>{% endfor %}
+{% endif %}
+{% assign assign news__pagelist = nil %}
+{% assign assign news__page = nil %}

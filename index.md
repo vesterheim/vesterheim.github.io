@@ -79,6 +79,17 @@ panels:
     published: false
 #    start_date: 2014-12-20
 #    stop_date:  2015-01-02    
+  - url: /about/news/2015/cary-building/
+    file_under: News
+    image: /16x9/about/cary-building-agreement.jpg
+    alt:
+    caption:
+    title:
+    subtitle:
+    teaser: Vesterheim signed a purchase agreement with the Cary Family Trust for buildings adjacent to the museum. 
+    published: true
+    start_date: 2014-10-01
+    stop_date:      
   - url: /folk-art-school/classes/
     file_under:
     image: /16x9/folk-art-school/weaving.jpg
@@ -86,7 +97,7 @@ panels:
     caption:
     title:
     subtitle:
-    teaser: Vesterheim announces the Folk Art School class schedule for 2015. Sign up today!
+    teaser: Make plans to take a class at Vesterheim's Folk Art School in 2015. Sign up today!
     published: true
     start_date: 2014-10-01
     stop_date:      
@@ -98,7 +109,7 @@ panels:
     title:
     subtitle:
     teaser:
-    published: true
+    published:
     start_date: 2014-10-01
     stop_date: 
   - url: /norway-tours/upcoming/coastal-voyage/
@@ -109,7 +120,7 @@ panels:
     title:
     subtitle:
     teaser: Vesterheim gives its special touch to the Hurtigruten’s classic Norwegian coastal voyage! Every day of this incredible trip will be filled with one-of-a-kind opportunities to explore Norway and see breathtaking scenery. This tour is so popular it’s being offered twice in 2015!
-    published: true
+    published: false
     start_date: 2014-10-01
     stop_date: 
   - url: /about/news/2014/johnson-retirement/
