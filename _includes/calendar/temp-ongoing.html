@@ -21,6 +21,10 @@
     {% assign calendar__ongoing__output = '' %}
     {% if display %}
         {% assign calendar__ongoing__page = site.pages | where:'url', calendar__ongoing.url | first %}
+        {% unless calendar__ongoing__page %}
+            {% assign calendar__ongoing__page = site.posts | where:'url', calendar__ongoing.url | first %}
+        {% endunless %}
+
         {% if calendar__ongoing__page %}
 
         
