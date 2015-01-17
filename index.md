@@ -217,7 +217,17 @@ events:
     time: 3:35–5:15PM
     published: true
     start_date: 2015-01-30
-    stop_date: 2015-02-06            
+    stop_date: 2015-02-06   
+  - url: /events/calendar/2015/02/06/taste-of-winneshiek/
+    image: /46x21/events/taste-of-winneshiek.jpg
+    alt:
+    caption: 
+    title: A Taste of Winneshiek 
+    date: February 6, 2015
+    time: 5:00-8:00PM
+    published: true
+    start_date: 
+    stop_date: 2015-02-07         
   - url: /events/annual/barnelopet/
     image:
     alt:

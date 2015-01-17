@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% comment %}
 <div class="post">
 
   <header class="post-header">
@@ -9,7 +10,10 @@ layout: default
   </header>
 
   <article class="post-content">
-  {{ content }}
+{% endcomment %}
+{{ content }}
+{% comment %}
   </article>
 
 </div>
+{% endcomment %}

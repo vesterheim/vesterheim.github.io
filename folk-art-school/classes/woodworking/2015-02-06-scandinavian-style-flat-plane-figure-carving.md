@@ -28,11 +28,11 @@ lead:
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
-  image:         # Defaults to cropped page hero image
+  image: 46x21/folk-art-school/refsal-carving.jpg
   alt:
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
-  teaser:        # Defaults to page meta-description 
+  teaser: Learn to tell a story in wood! World-renowned carving instructor Harley Refsal will teach you the Scandinavian flat plane figure carving style.
 ---
 Learn to tell a story in wood! Figure carving in Scandinavia stretches back throughout history when people sat around warm fires in winter sharing their imaginations with stories and carving. In the Scandinavian flat plane style figures are carved in large, flat planes, created primarily using a simple carving knife. Beginning with tool sharpening, Harley will provide hands-on carving experiences, as you complete a figure in step-by-step fashion. Finish the project by painting the figure and applying a final oil finish. Then carve additional pieces, while Harley offers assistance on an individual basis. Sharpening equipment and finishing supplies are also covered. 

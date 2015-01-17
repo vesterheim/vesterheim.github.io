@@ -22,7 +22,7 @@ pagelist:
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
-  teaser:        # Defaults to page meta-description  
+  teaser: Get outside and enjoy the winter at _Barneløpet_, a non-competitive ski or walk event for children ages 3-13. 
 ---
 Get outside and enjoy the winter at _Barneløpet_, a non-competitive ski or walk event for children ages 3-13. The event is free and will be held on Saturday, February 7, 2015, at 10:00 a.m., with registration from 9:40 to 10:00 a.m. at the Decorah Community Prairie.
 
