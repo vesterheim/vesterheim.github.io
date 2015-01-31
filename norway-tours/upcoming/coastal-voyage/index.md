@@ -27,7 +27,8 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-This tour is so popular it's being offered twice in 2015!
+These tours are full. Call to be placed on wait list.
+========================================================
 {:.lead}
 
 - [Itinerary for July 2-16, 2015 ($6,395)](/norway-tours/upcoming/coastal-voyage/itinerary/201507/)

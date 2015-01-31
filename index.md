@@ -17,6 +17,13 @@ sitemap:
 carousel:
   ratio: carousel
   slides: 
+    - image: 25x9/events/barneløpet--kids.jpg
+      alt: Barneløpet Children's Ski/Walk Event
+      caption: Enjoy the winter at _Barneløpet._
+      link: /events/annual/barnelopet/
+      published: true
+      start_date:
+      stop_date:  
     - image: 25x9/folk-art-school/classes/woodroom.jpg
       alt: Woodcarving Class
       caption: Experience the joy of making things at Vesterheim's Folk Art School!
@@ -38,13 +45,6 @@ carousel:
       published: false
       start_date:
       stop_date:
-    - image: 25x9/visit/syttende-mai-nordic-dancers2.jpg
-      alt: Norwegian Festivals
-      caption: Plan your visit to Vesterheim.
-      link: /visit/what/
-      published: true
-      start_date:
-      stop_date:       
     - image: 25x9/visit/norwegian_house.jpg
       alt: Norwegian House
       caption: _USA Today_ named Vesterheim one of “ten great places in the nation to admire American folk art.”
@@ -52,6 +52,13 @@ carousel:
       published: true
       start_date:
       stop_date:
+    - image: 25x9/visit/syttende-mai-nordic-dancers2.jpg
+      alt: Norwegian Festivals
+      caption: Plan your visit to Vesterheim.
+      link: /visit/what/
+      published: true
+      start_date:
+      stop_date:       
 
 show_social_sharing_bar: false
 
@@ -87,9 +94,20 @@ panels:
     title:
     subtitle:
     teaser: Vesterheim signed a purchase agreement with the Cary Family Trust for buildings adjacent to the museum. 
-    published: true
+    published: false
     start_date: 2014-10-01
     stop_date:      
+  - url: /about/news/2015/pay-it-forward/
+    file_under: News
+    image: /16x9/artifacts/LC0727.jpg
+    alt:
+    caption:
+    title:
+    subtitle:
+    teaser: This spring, Vesterheim will pay forward the generosity of our members and supporters by giving free admission to more than 300 children. 
+    published: true
+    start_date: 2014-10-01
+    stop_date: 
   - url: /folk-art-school/classes/
     file_under:
     image: /16x9/folk-art-school/weaving.jpg
@@ -109,7 +127,18 @@ panels:
     title:
     subtitle:
     teaser:
-    published:
+    published: false
+    start_date: 2014-10-01
+    stop_date: 
+  - url: /exhibitions/special/scandinavian-modern-design-norwegian-enamel/
+    file_under:
+    image:
+    alt:
+    caption:
+    title:
+    subtitle:
+    teaser:
+    published: true
     start_date: 2014-10-01
     stop_date: 
   - url: /norway-tours/upcoming/coastal-voyage/
@@ -137,28 +166,6 @@ panels:
 
 events:
   - url: /visit/plan/hours-and-admission/
-    file_under:
-    image: 46x21/events/christmas--kids.jpg
-    alt:
-    caption:
-    title: Museum and Store Closed
-    date: "December 25, 2014 & January 1, 2015"
-    time: All Day
-    published: true
-    start_date: 2014-12-20
-    stop_date:  2014-12-26 
-  - url: /visit/plan/hours-and-admission/
-    file_under:
-    image: 46x21/events/christmas--kids.jpg
-    alt:
-    caption:
-    title: Museum and Store Closed
-    date: January 1, 2015
-    time: All Day
-    published: true
-    start_date: 2014-12-26
-    stop_date:  2015-01-02     
-  - url: /visit/plan/hours-and-admission/
     image: /46x21/exhibitions/rosemalinggallery1_M.jpg
     alt:
     caption:
@@ -168,16 +175,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-01-09
-  - url: /events/youth-programs/barnetimen/
-    image:
-    alt:
-    caption:
-    title: Barnetimen Children’s Hour 
-    date: January 20, 2015
-    time: 10:00AM
-    published: true
-    start_date: 
-    stop_date: 2015-01-20
   - url: /folk-art-school/classes/woodworking/2015-01-15-whittling-klubb-kids-session-1/
     image: /46x21/folk-art-school/whittling-kids-klubb-hanna.jpg
     alt:
@@ -227,7 +224,17 @@ events:
     time: 5:00-8:00PM
     published: true
     start_date: 
-    stop_date: 2015-02-07         
+    stop_date: 2015-02-07   
+  - url: /folk-art-school/classes/woodworking/2015-02-06-scandinavian-style-flat-plane-figure-carving/
+    image: /46x21/folk-art-school/refsal-carving.jpg
+    alt:
+    caption:
+    title: Scandinavian Style Flat Plane Figure Carving
+    date: February 6-8, 2015
+    time: 9:00AM–5:00PM
+    published: true
+    start_date: 
+    stop_date: 2015-02-09       
   - url: /events/annual/barnelopet/
     image:
     alt:
@@ -238,26 +245,16 @@ events:
     published: true
     start_date: 
     stop_date: 2015-02-08
-  - url: /folk-art-school/classes/fiber-arts/2015-02-14-bandweaving/
-    image: /46x21/folk-art-school/bandweaving-couples-delarm.jpg
+  - url: /events/youth-programs/barnetimen/
+    image:
     alt:
     caption:
-    title: Bandweaving with Reggie Delarm
-    date: February 14-15, 2015
-    time: 9:00AM–5:00PM
+    title: Barnetimen Children’s Hour 
+    date: February 17, 2015
+    time: 10:00AM
     published: true
     start_date: 
-    stop_date: 2015-02-16 
-  - url: /folk-art-school/classes/woodworking/2015-02-14-band-loom-carving/ 
-    image: /46x21/folk-art-school/abrahamson_loom_carving.jpg
-    alt:
-    caption:
-    title: Band Loom Carving with Roger Abrahamson
-    date: February 14-15, 2015
-    time: 9:00AM–5:00PM
-    published: true
-    start_date: 
-    stop_date: 2015-02-05
+    stop_date: 2015-02-18
   - url: /events/away/la-crosse/
     image: 46x21/exhibitions/objects-on-loan-to-epcot.jpg
     alt:

@@ -4,8 +4,8 @@ title: Torgeir Lirhus
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 lead:
-  image:
-  alt: 
+  image: folk-art-school/instructors/lirhus--torgeir.jpg
+  alt: Torgeir Lirhus
   caption:
 
 pagelist:
