@@ -42,4 +42,4 @@ Phone
 -----
 Call the Development Department at (563) 382-9681.
 
-For questions regarding your donation, contact Steve Grinna at 563-382-9681, ext. 109, or email at [sgrinna@vesterheim.org](mailto:sgrinna@vesterheim.org).
+For questions regarding your donation, contact Stephanie Johnson at 563-382-9681, ext. 103, or email at [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org).

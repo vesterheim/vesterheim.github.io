@@ -46,4 +46,4 @@ See a list of Vesterheim’s endowed funds [here](/join-give/endowed-funds/list/
 
 How do I learn more about Vesterheim’s endowed funds?
 -----------------------------------------------------
-To learn more about endowed funds at Vesterheim, please contact Steve Grinna, Vestherheim’s Director of Development, at 563-382-9681, ext. 109, or email [sgrinna@vesterheim.org](mailto:sgrinna@vesterheim.org). 
+To learn more about endowed funds at Vesterheim, please contact Stephanie Johnson, Vestherheim’s Development Assistant, at 563-382-9681, ext. 103, or email [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org). 

@@ -26,7 +26,7 @@ pagelist:
 Your Support Makes A Difference
 -------------------------------
 {: .heading--black--large }
-Vesterheim depends upon the generosity of its members and patrons. Thousands of devoted Vesterheim friends across the country recognize that their contributions, large and small, are vital to the museum’s future. Whether they are supporting the important Annual Giving Program, investing in specific projects, or building an endowment, donations are tax-deductible and assist Vesterheim in preserving and sharing a treasured heritage. For more information about any of the following ways to give, contact Steve Grinna at 563-382-9681, ext. 109, or email at [sgrinna@vesterheim.org](mailto:sgrinna@vesterheim.org).
+Vesterheim depends upon the generosity of its members and patrons. Thousands of devoted Vesterheim friends across the country recognize that their contributions, large and small, are vital to the museum’s future. Whether they are supporting the important Annual Giving Program, investing in specific projects, or building an endowment, donations are tax-deductible and assist Vesterheim in preserving and sharing a treasured heritage. For more information about any of the following ways to give, contact Stephanie Johnson at 563-382-9681, ext. 103, or email at [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org).
 
 Opportunities for Giving:
 -------------------------
@@ -58,7 +58,7 @@ Naming Vesterheim in your will, charitable remainder trusts, charitable lead tru
 
 ### Non-Cash Gifts
 
-Consider donating [time](/join-give/volunteer/), [objects](/join-give/make-a-gift/object/), [transfers of stock,](mailto:sgrinna@vesterheim.org) etc.
+Consider donating [time](/join-give/volunteer/), [objects](/join-give/make-a-gift/object/), [transfers of stock,](mailto:snjohnson@vesterheim.org) etc.
 
 {% include components/button.html text="Volunteer" url="/join-give/volunteer/" style="primary" %} 
 

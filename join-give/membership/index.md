@@ -34,7 +34,7 @@ Membership Levels
 -----------------
 {: .heading--black--large }
 
-Memberships are renewed annually. For questions regarding membership contact Peggy Sersland at 563-382-9681, ext. 112, or email at [psersland@vesterheim.org](mailto:sgrinna@vesterheim.org).
+Memberships are renewed annually. For questions regarding membership contact Peggy Sersland at 563-382-9681, ext. 112, or email at [psersland@vesterheim.org](mailto:psersland@vesterheim.org).
 
 To join online, select the orange button, or to join by mail, please print a membership [form](/join-give/membership/forms-pdf/membership.pdf) (pdf) and send the form, along with your check or credit card information to: <br />
 Membership<br />

@@ -40,7 +40,6 @@ Curatorial
 
 Development and Membership
 --------------------------
-- **Steve Grinna**, Director of Development, Ext. 109, [sgrinna@vesterheim.org](mailto:sgrinna@vesterheim.org)
 - **Stephanie Johnson**, Development Assistant, Ext. 103. [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org)
 - **Peggy Sersland**, Membership Manager, Ext. 112, [psersland@vesterheim.org](mailto:psersland@vesterheim.org)
 

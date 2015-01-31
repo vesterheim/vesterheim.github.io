@@ -35,7 +35,7 @@ Vesterheim Museum<br />
 P.O. Box 379<br />
 Decorah, IA 52101
 
-For questions regarding corporate membership, contact Steve Grinna at 563-382-9681, ext. 109, or email at [sgrinna@vesterheim.org](mailto:sgrinna@vesterheim.org).
+For questions regarding corporate membership, contact Stephanie Johnson at 563-382-9681, ext. 103, or email at [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org).
 
 Benefits of Corporate Membership:
 ---------------------------------

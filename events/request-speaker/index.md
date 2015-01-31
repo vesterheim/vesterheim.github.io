@@ -35,7 +35,7 @@ Speakers
 * Laurann Gilbertson, Chief Curator, [lgilbertson@vesterheim.org
 ](mailto:lgilbertson@vesterheim.org)
 * Martha Griesheimer, Coordinator of Volunteers, [mgriesheimer@vesterheim.org](mailto:mgriesheimer@vesterheim.org)
-* Steve Grinna, Director of Development, [sgrinna@vesterheim.org](mailto:sgrinna@vesterheim.org)
+* Stephanie Johnson, Development Assistant, [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org)
 * Steve Johnson, Executive Director, [sjohnson@vesterheim.org](mailto:sjohnson@vesterheim.org)
 * Jennifer Kovarik, Registrar and Youth Educator, [jkovarik@vesterheim.org](mailto:jkovarik@vesterheim.org)
 
@@ -54,7 +54,7 @@ Download a PDF of the following list.
 #### What's New at Vesterheim
 {: .subtitle }
 
-Steve Grinna or Steve Johnson <br />
+Stephanie Johnson or Steve Johnson <br />
 There are always exciting things happening at Vesterheim Norwegian-American Museum. Find out the latest news about exhibitions, events, and other programs.
 
 #### Involve Me and I’ll Understand:  Engaging Youth at Vesterheim Museum

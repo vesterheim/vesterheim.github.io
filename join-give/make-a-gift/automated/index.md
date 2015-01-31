@@ -35,7 +35,7 @@ Vesterheim Museum<br />
 P.O. Box 379<br />
 Decorah, IA 52101
 
-For questions regarding Compass Club, contact Peggy Sersland at 563-382-9681, ext. 112, or email at [psersland@vesterheim.org](mailto:sgrinna@vesterheim.org). 
+For questions regarding Compass Club, contact Peggy Sersland at 563-382-9681, ext. 112, or email at [psersland@vesterheim.org](mailto:psersland@vesterheim.org). 
 
 The consistency of automated donations helps Vesterheim:
 {: .no-margin-bottom }
