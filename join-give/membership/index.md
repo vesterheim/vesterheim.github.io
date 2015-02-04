@@ -66,7 +66,7 @@ For an additional fee, members can subscribe to the [_Rosemaling Letter_,](/folk
 *   Free admission to the museum.
 *   Special “Member Appreciation” events.
 *   Discount on space rental of Vesterheim’s Bethania Church.
-*   Benefits at over 200 museums across the United States through the Time Travelers program.
+*   Benefits at over 200 museums across the United States through the [Time Travelers](http://timetravelers.mohistory.org/institutions) program.
 
 {% include components/button.html text="Join, give or renew a membership" url="https://vesterheim.wufoo.com/forms/w3h863c0xax0mc/" style="primary" %} 
 
@@ -88,7 +88,7 @@ Philanthropic levels include two adults at the same address and children under 1
 * Free admission to the museum.
 * Special “Member Appreciation” events.
 * Discount on space rental of Vesterheim’s Bethania Church.
-* Benefits at over 200 museums across the United States through the Time Travelers program.
+* Benefits at over 200 museums across the United States through the [Time Travelers](http://timetravelers.mohistory.org/institutions) program.
 * Plus Two Benefits (bring up to two guests each time you visit the museum).
 * Special recognition in Vesterheim’s _Annual Report_.
 * Invitations to exclusive Vesterheim events.
