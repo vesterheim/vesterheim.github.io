@@ -80,9 +80,9 @@ Help secure the future of the museum by providing Vesterheim with a permanent so
 
 ### Corporate Giving
 
-Vesterheim depends upon the support of its local, regional, and national [corporate members](/join-give/membership/corporate/list/). Please join Vesterheim in promoting community and in reaching out to growing audiences.
+Vesterheim depends upon the support of its local, regional, and national [corporate members](/join-give/corporate-membership/list/). Please join Vesterheim in promoting community and in reaching out to growing audiences.
 
-{% include components/button.html text="Learn about Corporate Giving" url="/join-give/membership/corporate/" style="primary" %} 
+{% include components/button.html text="Learn about Corporate Giving" url="/join-give/corporate-membership/" style="primary" %} 
 
 ### The Good Ol’-Fashioned Way
 
