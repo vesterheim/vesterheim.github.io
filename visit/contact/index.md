@@ -43,7 +43,7 @@ Vesterheim Staff
 
 - **Steven L. Johnson**, Executive Director, Ext.107, [sjohnson@vesterheim.org](mailto:sjohnson@vesterheim.org)
 - **Marcia McKelvey**, Director of Administration, Ext. 108, [mmckelvey@vesterheim.org](mailto:mmckelvey@vesterheim.org)
-- **Kathy Wilbur**, Bookkeeper, Ext. 114, [kwilbur@vesterheim.org](mailto:kwilbur@vesterheim.org)
+- **Kathy Wilbur**, Accountant, Ext. 114, [kwilbur@vesterheim.org](mailto:kwilbur@vesterheim.org)
 - **Jocelyn Bruening**, Office Assistant, Ext. 203, [jbruening@vesterheim.org](mailto:jbruening@vesterheim.org)
 - **Jim Nelson**, Facilities Manager, Ext. 405, jnelson@vesterheim.org 
 - **Sharon Drew**, Receptionist, Ext. 101, [bvc@vesterheim.org](mailto:bvc@vesterheim.org)
@@ -56,8 +56,9 @@ Vesterheim Staff
 - **Alison Dwyer**, Collections Manager, Ext. 118, [adwyer@vesterheim.org](mailto:adwyer@vesterheim.org)
 
 ### Development and Membership
-- **Stephanie Johnson**, Development Assistant, Ext. 103, [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org)
+- **Stephanie Johnson**, Development Manager, Ext. 103. [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org)
 - **Peggy Sersland**, Membership Manager, Ext. 112, [psersland@vesterheim.org](mailto:psersland@vesterheim.org)
+- **Nicholas Klein**, Development Associate, Ext. 109. [nklein@vesterheim.org](mailto:nklein@vesterheim.org)
 
 ### Education and Tours to Norway
 
