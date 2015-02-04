@@ -67,7 +67,7 @@ We thank our Corporate Members for their support and ask that you consider suppo
 [Decorah Bank &amp; Trust Co.](http://www.decorahbank.com/)
 : Personal banking backed by personal service.
 
-[Decorah Broadcasting, KDEC Radio](http://www.kdecradio.net/home.htm)
+[Decorah Broadcasting, KDEC Radio](http://www.kdecradio.net/)
 : For people who love music.
 
 [Decorah Mobile Glass, Inc.](http://www.decorahmobileglass.com/auto-glass)

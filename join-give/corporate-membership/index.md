@@ -12,7 +12,7 @@ hero:
 related:
 
 navigation:
-  order: 10
+  order: 60
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
@@ -29,7 +29,7 @@ How to Join
 -----------
 {: .heading--large }
 
-Please print a corporate membership [form](/join-give/membership/forms-pdf/corporate-membership.pdf) (pdf) and send the form, along with your check or credit card information to: <br />
+Please print a corporate membership [form](/join-give/corporate-membership/documents/corporate-membership.pdf) (pdf) and send the form, along with your check or credit card information to: <br />
 Corporate Membership<br />
 Vesterheim Museum<br />
 P.O. Box 379<br />
