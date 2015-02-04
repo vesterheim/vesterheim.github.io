@@ -5,11 +5,15 @@ title: Thank You
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
-hero:
+xhero:
   image: 16x9/kids/kids_flags.jpg
   alt:
   caption:
+lead:
+  image: /join-give/thank-you/kids-flags.jpg
 related:
+
+show_social_sharing_bar: false
 
 navigation:
   order: 10
