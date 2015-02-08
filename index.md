@@ -23,7 +23,7 @@ carousel:
       link: /events/annual/barnelopet/
       published: true
       start_date:
-      stop_date:  
+      stop_date: 2015-1-8
     - image: 25x9/folk-art-school/classes/woodroom.jpg
       alt: Woodcarving Class
       caption: Experience the joy of making things at Vesterheim's Folk Art School!
