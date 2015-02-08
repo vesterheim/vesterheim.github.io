@@ -99,7 +99,7 @@ panels:
     stop_date:      
   - url: /about/news/2015/pay-it-forward/
     file_under: News
-    image: /16x9/artifacts/LC0727.jpg
+    image: /16x9/exhibitions/enamel-exhibit-kids.jpg
     alt:
     caption:
     title:
@@ -186,7 +186,7 @@ events:
     start_date:
     stop_date: 2015-01-16 
   - url: /folk-art-school/classes/woodworking/2015-01-15-whittling-klubb-kids-session-1/
-    image: /46x21/folk-art-school/whittling-kids-klubb-hanna.jpg
+    image: /46x21/folk-art-school/whittling-kid.jpg
     alt:
     caption:
     title: Whittling Klubb for Kids—Session I with Rebecca Hanna
