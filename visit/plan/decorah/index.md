@@ -11,7 +11,7 @@ hero:
   alt: Heat map of Decorah attractions
   caption: Use the color key on the right to get an idea of everything there is to do in Decorah! Vesterheim is located right downtown, in the heart of all the activity.
 related:
- - /join-give/membership/corporate/list/
+  - /join-give/corporate-membership/list/
 
 navigation:
   order: 70
@@ -28,7 +28,7 @@ Decorah is a great place to visit. It’s a warm and vibrant town that makes a p
 
 Find complete information about everything Winneshiek County and Decorah have to offer at [Visit Decorah](http://www.visitdecorah.com/). Learn more about the whole Northeast Iowa area at [Northeast Iowa](http://visitiowa.org/).
 
-Decorah was featured in _Smithsonian Magazine’s_ annual list of the 20 best small towns to visit in America, as well as being named in _Forbes_ "America’s Prettiest Towns" list.
+Decorah was featured in _Smithsonian Magazine’s_ annual list of the [20 best small towns to visit in America,](http://www.smithsonianmag.com/travel/20-best-small-towns-to-visit-in-2014-180950173/?no-ist) as well as being named in _Forbes_ ["America’s Prettiest Towns"](http://www.forbes.com/pictures/efel45fhdf/decorah-iowa/) list and Best Choice Reviews [50 Best Small Town Downtowns in America](http://www.bestchoicereviews.org/50-best-small-town-downtowns-in-america/).
 
 Some great outdoor attractions in the area include:
 
