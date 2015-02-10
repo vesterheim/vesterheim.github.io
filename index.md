@@ -259,10 +259,51 @@ events:
     image: 46x21/exhibitions/objects-on-loan-to-epcot.jpg
     alt:
     caption:
-    title: _When Disney Called,_ Luncheon and Presentation—La Crosse, Wisconsin
+    title: _When Disney Called,_ Luncheon and Presentation in La Crosse, Wisconsin
     date: February 22, 2015
     time: 11:30AM–1:30PM
     published: true
     start_date: 
     stop_date: 2015-02-22
+  - url: /exhibitions/special/scandinavian-modern-design-norwegian-enamel/
+    image: 46x21/exhibitions/special/enamel.jpg
+    alt:
+    caption:
+    title: "_Less is More, More or Less: The Roots of Mid-Century Modern Design_ lecture by Roy Behrens"
+    date: March 29, 2015
+    time: 2:00PM
+    published: true
+    start_date: 
+    stop_date: 2015-03-30
+  - url: /events/away/twin-cities/
+    image: 46x21/events/twin-cities-welcome.jpg
+    alt:
+    caption:
+    title: Nordic Celebration and Marketplace in the Twin Cities
+    date: April 18, 2015
+    time:
+    published: true
+    start_date: 
+    stop_date: 2015-04-19
+  - url: /exhibitions/special/scandinavian-modern-design-norwegian-enamel/
+    image: 46x21/exhibitions/special/enamel.jpg
+    alt:
+    caption:
+    title: "_Stores Like Homes, Homes Like Museums: Traditions in Scandinavian Retailing_ by
+    Curt Lund"
+    date: April 19, 2015
+    time: 2:00PM
+    published: true
+    start_date: 
+    stop_date: 2015-03-30
+  - url: /events/away/chicago/
+    image:
+    alt:
+    caption:
+    title: Nordic Luncheon and Marketplace in Chicago
+    date: April 25, 2015
+    time:
+    published: true
+    start_date: 
+    stop_date: 2015-04-26
 ---
