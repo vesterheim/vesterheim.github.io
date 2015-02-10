@@ -9,7 +9,7 @@ hero:
   image:
   alt:
   caption:
-related:related:
+related:
   - /join-give/membership/corporate/
 navigation:
   order: 10
