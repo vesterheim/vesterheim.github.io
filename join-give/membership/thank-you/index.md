@@ -28,4 +28,4 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser: Join over 6,000 others from all 50 states and several foreign countries who support Vesterheim as members.
 ---
-On behalf of Vesterheim Museum, we would like to offer our most sincere thanks for becoming a Vesterheim member. Your membership provides the financial support that keeps Vesterheim strong and is deeply appreciated. Because of you and people like you, Vesterheim is able to offer the world class exhibits, programs, and publications you have come to expect.
+On behalf of Vesterheim Museum, we would like to offer our most sincere thanks for purchasing a Vesterheim membership. Membership provides the financial support that keeps Vesterheim strong and is deeply appreciated. Because of you and people like you, Vesterheim is able to offer the world class exhibits, programs, and publications you have come to expect.
