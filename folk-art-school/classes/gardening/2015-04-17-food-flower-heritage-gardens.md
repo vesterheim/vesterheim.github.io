@@ -1,21 +1,21 @@
 ---
 published: true
 title: Food and Flower Heritage Gardens 
-subtitle: April 17-19, 2015, with Marty Bergland & Darlene Fossum-Martin
+subtitle: April 17, 18, and 19, 2015, with Marty Bergland & Darlene Fossum-Martin
 meta_description:  # Used in HTML head and as the description for some search engines
 
 location: ~
 instructor: 
   - Marty Bergland
   - Darlene Fossum-Martin
-sessions: "April 17-19, 2015, 9:00 a.m.–5:00 p.m."
+sessions: "April 17, 18, and 19, 2015, 9:00 a.m.–5:00 p.m."
 dtstart: 2015-04-17 9:00:00 -5:00
 dtend: 2015-04-19 17:00:00 -5:00
 level: All levels. 
 participation: ~
 tuition:
-  members: $192
-  nonmembers: $242
+  members: $64 per day
+  nonmembers: $84 per day
   note: ~
 materials_fee: ~
 materials: ~ 
@@ -36,4 +36,29 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description 
 ---
-Many people’s earliest memories include raising gardens and livestock. Join Marty as she shows you how to bring back some of these memories to share with family and friends, or just to soothe your soul. You’ll learn information about seed starting, saving, and propagation for flowers that have been grown in the Midwest for generations. Fill your whole yard or a small container, include vegetables and herbs, or create a haven for butterflies. Marty will cover freezing, drying, and storing vegetables, fruits, and herbs. Plus she’ll give information about preserving family garden history. Darlene will demonstrate time-honored recipes. Go home with the skills and knowledge needed to plan a garden just right for you.
+Sign up for one day or all three!
+
+Celebrate Earth Day - Create A Heritage Garden
+
+**April 17**
+
+* Tour gardens and orchards at a Norwegian immigrant home.   
+* Learn about plants, herbs, and flowers brought from Norway 
+  and used during immigrant times.  
+* Begin plans for personal heritage garden. 
+
+**April 18**
+
+* Field trip to Seed Savers Exchange. Return to Vesterheim for a session in starting
+and saving seeds.
+* Plan your personal heritage garden.
+* Food demonstration using heritage recipes, followed by class meal. 
+* Explore seed catalogs.
+
+**April 19**
+
+* Planting, harvesting, storing, drying, and freezing produce and seeds.
+* How to research heritage gardening and find heirloom plants.
+* Tour of artifacts related to gardening and food preparation.
+* Growing peonies and geraniums.
+* Recording your stories.

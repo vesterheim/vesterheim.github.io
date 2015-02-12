@@ -26,6 +26,10 @@ Vesterheim’s exhibitions explore the diversity of American immigration through
 
 But you don’t have to be Norwegian-American to enjoy all the beauty and wonder Vesterheim has to offer. We invite you to explore the ongoing saga of all immigrants to the United States. In our differences we discover our similarities. Vesterheim welcomes you and encourages you to enjoy the objects and exhibitions through your own lens, your own story.
 
+Mission Statement
+-------------------
+Vesterheim embodies the living heritage of Norwegian immigrants to America. Sharing this cultural legacy can inspire people of all backgrounds to celebrate tradition.
+
 Museum History
 --------------
 In 1877, Norwegian Americans began collecting and preserving objects at [Luther College](https://www.luther.edu) in Decorah, Iowa, documenting their chapter of the immigrant story, making them pioneers in the preservation of cultural diversity in America.

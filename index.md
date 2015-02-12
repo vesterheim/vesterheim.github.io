@@ -17,11 +17,18 @@ sitemap:
 carousel:
   ratio: carousel
   slides: 
+    - image: 25x9/store-sweaters.jpg
+      alt: Vesterheim Museum Store
+      caption: February Member Appreciation Sale in the Museum Store. We love our members!
+      link: http://store.vesterheim.org/
+      published: true
+      start_date:
+      stop_date:     
     - image: 25x9/events/barneløpet--kids.jpg
       alt: Barneløpet Children's Ski/Walk Event
       caption: Enjoy the winter at _Barneløpet._
       link: /events/annual/barnelopet/
-      published: true
+      published: false
       start_date:
       stop_date: 2015-1-8
     - image: 25x9/folk-art-school/classes/woodroom.jpg
@@ -86,17 +93,28 @@ panels:
     published: false
 #    start_date: 2014-12-20
 #    stop_date:  2015-01-02    
-  - url: /about/news/2015/cary-building/
+  - url: /visit/plan/hours-and-admission/
+    file_under:
+    image: 16x9/events/julenisse--christmas--kids.jpg
+    alt:
+    caption:
+    title: Museum and Store Closed
+    subtitle: January 1, 2015
+    teaser: The museum and store are closed New Year’s Day.
+    published: false
+#    start_date: 2014-12-20
+#    stop_date:  2015-01-02    
+  - url: /about/news/2015/viking-exhibit-field-museum/
     file_under: News
-    image: /16x9/about/cary-building-agreement.jpg
+    image: /16x9/about/viking-field-museum.jpg
     alt:
     caption:
     title:
     subtitle:
-    teaser: Vesterheim signed a purchase agreement with the Cary Family Trust for buildings adjacent to the museum. 
-    published: false
-    start_date: 2014-10-01
-    stop_date:      
+    teaser: Vesterheim has been invited to share information at the opening event for the exhibition _Vikings_ on March 18 at the Field Museum in Chicago, Illinois. 
+    published: true
+    start_date:
+    stop_date: 2015-03-18     
   - url: /about/news/2015/pay-it-forward/
     file_under: News
     image: /16x9/exhibitions/enamel-exhibit-kids.jpg
