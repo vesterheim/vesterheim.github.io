@@ -124,6 +124,9 @@ We thank our Corporate Members for their support and ask that you consider suppo
 [Hovden Oil, Inc.](http://hovdenoil.com/)
 : Petroleum Marketers—Commercial, Industrial, and Agricultural.
 
+[Paul Hudson, State Farm Agency](http://www.paulhudson.biz/)
+: We are here to help our customers protect their assets from catastrophic events and once adequately protected, to help them implement meaningful action toward their goals.
+
 [Johnson Printing](http://www.johnson-printing.com/Site/Welcome.html)
 : Striving to be a leader in the printing industry by assisting customers with their graphic and printing needs.
 
