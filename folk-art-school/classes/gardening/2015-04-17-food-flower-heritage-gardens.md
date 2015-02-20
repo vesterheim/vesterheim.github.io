@@ -42,23 +42,23 @@ Celebrate Earth Day - Create A Heritage Garden
 
 **April 17**
 
-* Tour gardens and orchards at a Norwegian immigrant home.   
-* Learn about plants, herbs, and flowers brought from Norway 
+- Tour gardens and orchards at a Norwegian immigrant home.   
+- Learn about plants, herbs, and flowers brought from Norway 
   and used during immigrant times.  
-* Begin plans for personal heritage garden. 
+- Begin plans for personal heritage garden. 
 
 **April 18**
 
-* Field trip to Seed Savers Exchange. Return to Vesterheim for a session in starting
+- Field trip to Seed Savers Exchange. Return to Vesterheim for a session in starting
 and saving seeds.
-* Plan your personal heritage garden.
-* Food demonstration using heritage recipes, followed by class meal. 
-* Explore seed catalogs.
+- Plan your personal heritage garden.
+- Food demonstration using heritage recipes, followed by class meal. 
+- Explore seed catalogs.
 
 **April 19**
 
-* Planting, harvesting, storing, drying, and freezing produce and seeds.
-* How to research heritage gardening and find heirloom plants.
-* Tour of artifacts related to gardening and food preparation.
-* Growing peonies and geraniums.
-* Recording your stories.
+- Planting, harvesting, storing, drying, and freezing produce and seeds.
+- How to research heritage gardening and find heirloom plants.
+- Tour of artifacts related to gardening and food preparation.
+- Growing peonies and geraniums.
+- Recording your stories.
