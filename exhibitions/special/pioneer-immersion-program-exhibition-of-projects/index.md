@@ -13,7 +13,7 @@ hero:
 related:
 
 navigation:
-  order: 50
+  order: 40
 pagelist:
   order:         # Defaults to navigation order
   image: 

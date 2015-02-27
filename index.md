@@ -273,8 +273,18 @@ events:
     published: true
     start_date: 
     stop_date: 2015-02-18
+  - url: /about/news/2015/scandinavian-music-jam/
+    image: 16x9/events/scandinavian-music-jam.jpg
+    alt:
+    caption:
+    title: Fourth Sunday Scandinavian Music Jam 
+    date: February 22, 2015
+    time: 2:00PM-4:00PM
+    published: true
+    start_date: 
+    stop_date: 2015-02-23
   - url: /events/away/la-crosse/
-    image: 46x21/exhibitions/objects-on-loan-to-epcot.jpg
+    image: /46x21/exhibitions/objects-on-loan-to-epcot.jpg
     alt:
     caption:
     title: _When Disney Called,_ Luncheon and Presentation in La Crosse, Wisconsin

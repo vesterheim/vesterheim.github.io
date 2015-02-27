@@ -25,6 +25,9 @@ pagelist:
 ---
 We thank our Corporate Members for their support and ask that you consider supporting them!
 
+[Ace Hardware/Ace Kitchen Place](http://www.acekitchenplace.com/)
+: Ace has everything you would need in your kitchen or tool box as well as convert services and friendly, knowledgeable people.
+
 [A&amp;J Petersburg Agency](http://www.ajpetersburg.com/)
 : Serving Northeast Iowa’s Insurance and Real Estate needs since 1932.
 
@@ -153,6 +156,9 @@ We thank our Corporate Members for their support and ask that you consider suppo
 
 [Olson Explosives, Inc.](http://www.oricaminingservices.com/us/en/page/orica_distributors/olson_explosives/olson_explosives#.T9X_mq5M4YY)
 : Providing a full line of commercial explosive products, services, and support throughout the Upper Midwest for over 50 years.
+
+[Oneota River Cycles](http://www.oneotacycles.com/)
+: Serving the tri-state area since 2001 with a large selection of bicycles and the best equipped repair area in the region.
 
 [Oneota Valley Family Eye Care](http://www.decoraheye.com/)
 : Practiced in preserving vision for a lifetime.

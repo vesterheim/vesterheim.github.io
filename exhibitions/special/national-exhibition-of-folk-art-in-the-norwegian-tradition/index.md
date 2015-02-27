@@ -15,7 +15,7 @@ related:
 show_pagelist_menu: true
 
 navigation:
-  order: 40
+  order: 50
 pagelist:
   order:         # Defaults to navigation order
   image: 46x21/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition.jpg
