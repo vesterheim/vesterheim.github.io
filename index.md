@@ -16,14 +16,7 @@ sitemap:
 # Ratio: 25:9 | Recommended: 1492px by 538px | Minimum: 746px by 269px
 carousel:
   ratio: carousel
-  slides: 
-    - image: 25x9/store-sweaters.jpg
-      alt: Vesterheim Museum Store
-      caption: February Member Appreciation Sale in the Museum Store. We love our members!
-      link: http://store.vesterheim.org/
-      published: true
-      start_date:
-      stop_date:     
+  slides:   
     - image: 25x9/events/barneløpet--kids.jpg
       alt: Barneløpet Children's Ski/Walk Event
       caption: Enjoy the winter at _Barneløpet._
@@ -42,13 +35,6 @@ carousel:
       alt: "A Restored Connection: A Dream of a Cultural Identity"
       caption: "A Restored Connection: A Dream of a Cultural Identity"
       link: /exhibitions/special/a-restored-connection/
-      published: false
-      start_date:
-      stop_date:
-    - image: 25x9/exhibitions/special/love-norway-x.jpg
-      alt: Love Norway X
-      caption: Love Norway X
-      link: /exhibitions/special/love-norway-x/
       published: false
       start_date:
       stop_date:
