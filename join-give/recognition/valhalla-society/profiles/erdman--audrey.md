@@ -7,9 +7,9 @@ meta_description:  # Used in HTML head and as the description for some search en
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 
 lead:
-  image: 
-  alt: 
-  caption: 
+  image: /join-give/recognition/valhalla-society/profiles/erdman--audrey.jpg
+  alt: Audrey Erdman
+  caption: Audrey Erdman
 related:
  - /join-give/make-a-gift/planned/
 
