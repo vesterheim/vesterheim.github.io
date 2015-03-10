@@ -10,6 +10,8 @@ lead:
   image: /join-give/recognition/valhalla-society/profiles/alsaker--evy.jpg
   alt: Evy Alsaker
   caption: Evy Alsaker
+related:
+ - /join-give/make-a-gift/planned/
   
 navigation:
   exclude: true

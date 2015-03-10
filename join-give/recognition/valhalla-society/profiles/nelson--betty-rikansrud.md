@@ -10,7 +10,9 @@ lead:
   image: /join-give/recognition/valhalla-society/profiles/rikansrud-nelson--betty.jpg
   alt: Betty Rikansrud Nelson
   caption: Betty Rikansrud Nelson
-
+related:
+ - /join-give/make-a-gift/planned/
+ 
 navigation:
   exclude: true
   order: 1200

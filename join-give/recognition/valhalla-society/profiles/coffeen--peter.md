@@ -10,7 +10,9 @@ lead:
   image: /join-give/recognition/valhalla-society/profiles/coffeen--peter.jpg
   alt: Peter Coffeen
   caption: Peter Coffeen
-  
+related:
+ - /join-give/make-a-gift/planned/
+   
 navigation:
   exclude: true
   order: 300

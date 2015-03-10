@@ -10,7 +10,8 @@ lead:
   image: /join-give/recognition/valhalla-society/profiles/westby--barbara.jpg
   alt: Barbara Westby
   caption: Barbara Westby
-
+related:
+ - /join-give/make-a-gift/planned/
 
 navigation:
   exclude: true

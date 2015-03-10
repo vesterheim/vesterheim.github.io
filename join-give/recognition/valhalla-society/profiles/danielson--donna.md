@@ -10,7 +10,9 @@ lead:
   image: /join-give/recognition/valhalla-society/profiles/danielson--donna.jpg
   alt: Donna Danielson
   caption: Donna Danielson
-  
+related:
+ - /join-give/make-a-gift/planned/
+   
 navigation:
   exclude: true
   order: 400

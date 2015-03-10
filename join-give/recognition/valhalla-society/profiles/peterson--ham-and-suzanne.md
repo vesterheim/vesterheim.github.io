@@ -10,7 +10,9 @@ lead:
   image: /join-give/recognition/valhalla-society/profiles/peterson--ham.jpg
   alt: Ham Peterson
   caption: Ham Peterson
-  
+related:
+ - /join-give/make-a-gift/planned/
+   
 navigation:
   exclude: true
   order: 1300

@@ -10,7 +10,9 @@ lead:
   image: /join-give/recognition/valhalla-society/profiles/gesme--dean-and-ann.jpg
   alt: Dean and Ann Gesme
   caption: Dean and Ann Gesme
-  
+related:
+ - /join-give/make-a-gift/planned/
+
 navigation:
   exclude: true
   order: 700

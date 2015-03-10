@@ -10,7 +10,9 @@ lead:
   image: /join-give/recognition/valhalla-society/profiles/leseth--phyllis.jpg
   alt: Phyllis Leseth
   caption: Phyllis Leseth
-  
+related:
+ - /join-give/make-a-gift/planned/
+   
 navigation:
   exclude: true
   order: 900

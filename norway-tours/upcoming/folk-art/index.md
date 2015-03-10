@@ -1,0 +1,46 @@
+---
+published: true
+layout: page
+title: "Folk Art Pilgrimage: The Kinship between Rosemaling and Woodworking"
+subtitle: Summer 2016 
+meta_title: "Folk Art Pilgrimage: The Kinship between Rosemaling and Woodworking"
+meta_description: Immerse yourself in the traditional folk arts of rosemaling and woodcarving on a pilgrimage through nine counties of Norway. 
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+hero:
+  image: 16x9/norway-tours/utne-hotel.jpg
+  alt: 
+  caption:
+related:
+  - /norway-tours/forms/
+  - /norway-tours/contact/
+
+navigation:
+  title: Folk-Art Study Tour
+  order: 50  
+pagelist:
+  order:         # Defaults to navigation order
+  image: 16x9/norway-tours/utne-hotel.jpg
+  alt: 
+  caption:   
+  title: Folk-Art Study Tour
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description
+
+
+---
+Back by popular demand! Immerse yourself in the traditional folk arts of rosemaling and woodcarving by joining Darlene and Patti on a pilgrimage throughout nine of the nineteen fylke (counties) of Norway. The tour will begin in the city of Trondheim in Sør-Trøndelag and travel through Oppland, More og Romsdal, Sogn og  Fjordane, Oppland, Buskerud, Telemark, Aust-Agder, and Hordaland.
+
+Meet and visit with Norwegian folk artists who have shared so much of their talent with Vesterheim. Many of whom the tour group visited on the Folk Art Pilgrimage Tour in 2014. 
+  
+Through Vesterheim’s close friendships in Norway, you‘ll enjoy special visits to artist’s studios, private collections, museums, historic hotels, stave churches, and bygdetunets. You’ll get a firsthand look at various rosemaling styles and carving techniques. You will see both old traditions and contemporary designs that follow those old traditions. Be sure to bring your camera and sketchbook. 
+
+The journey wouldn’t be complete without opportunities for hands-on artistic experiences, scholarly lectures, and evening discussions. This jam-packed folk-art study tour will keep you moving. You won’t want to miss it, and we are excited to have you travel with us! 
+
+The itinerary for this tour will be available soon.
+
+
+{% include norway-tours/guide.html name='Patti Goke' %}
+
+{% include norway-tours/guide.html name='Darlene Fossum-Martin' %}
+
+For more information: Michelle Whitehill at 563-382-9681, ext. 240, or [mwhitehill@vesterheim.org](mailto:mwhitehill@vesterheim.org).

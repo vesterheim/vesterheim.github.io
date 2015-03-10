@@ -10,7 +10,9 @@ lead:
   image: /join-give/recognition/valhalla-society/profiles/rosholt--jerry.jpg
   alt: Jerry Rosholt
   caption: Jerry Rosholt
-
+related:
+ - /join-give/make-a-gift/planned/
+ 
 navigation:
   exclude: true
   order: 1300

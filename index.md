@@ -24,10 +24,10 @@ carousel:
       published: false
       start_date:
       stop_date: 2015-1-8
-    - image: 25x9/folk-art-school/classes/woodroom.jpg
-      alt: Woodcarving Class
-      caption: Experience the joy of making things at Vesterheim's Folk Art School!
-      link: /folk-art-school/
+    - image: 25x9/folk-art-school/classes/icelandic-knitting.jpg
+      alt: Icelandic Knitting Class
+      caption: Learn ancient Icelandic knitting with Hélène Magnússon at Vesterheim's Folk Art School!
+      link: /folk-art-school/classes/fiber-arts/2015-04-17-icelandic-knitting-sampler/
       published: true
       start_date:
       stop_date:
@@ -47,8 +47,8 @@ carousel:
       stop_date:
     - image: 25x9/visit/syttende-mai-nordic-dancers2.jpg
       alt: Norwegian Festivals
-      caption: Plan your visit to Vesterheim.
-      link: /visit/what/
+      caption: Parade, Nordic Dancers, Foot-Notes band, and more this year at Vesterheim's _Syttende Mai_ celebration!
+      link: /events/annual/syttende-mai/
       published: true
       start_date:
       stop_date:       
@@ -89,18 +89,29 @@ panels:
     teaser: The museum and store are closed New Year’s Day.
     published: false
 #    start_date: 2014-12-20
-#    stop_date:  2015-01-02    
-  - url: /about/news/2015/viking-exhibit-field-museum/
-    file_under: News
-    image: /16x9/about/viking-field-museum.jpg
+#    stop_date:  2015-01-02   
+  - url: /exhibitions/special/a-restored-connection/
+    file_under:
+    image:
     alt:
     caption:
     title:
     subtitle:
-    teaser: Vesterheim has been invited to share information at the opening event for the exhibition _Vikings_ on March 18 at the Field Museum in Chicago, Illinois. 
+    teaser: Open through April 12, 2015, this exhibition explores how we define ourselves and the environment around us.
     published: true
-    start_date:
-    stop_date: 2015-03-18     
+    start_date: 2014-10-01
+    stop_date: 
+  - url: /exhibitions/special/scandinavian-modern-design-norwegian-enamel/
+    file_under:
+    image:
+    alt:
+    caption:
+    title:
+    subtitle:
+    teaser:
+    published: true
+    start_date: 2014-10-01
+    stop_date:  
   - url: /about/news/2015/pay-it-forward/
     file_under: News
     image: /16x9/exhibitions/enamel-exhibit-kids.jpg
@@ -119,32 +130,21 @@ panels:
     caption:
     title:
     subtitle:
-    teaser: Make plans to take a class at Vesterheim's Folk Art School in 2015. Sign up today!
+    teaser: Make plans to take a class at Vesterheim's Folk Art School in 2015. Classes are fillingn fast. Sign up today!
     published: true
     start_date: 2014-10-01
     stop_date:      
-  - url: /exhibitions/special/chicago-norske-klub/
-    file_under:
-    image:
+  - url: /about/news/2015/viking-exhibit-field-museum/
+    file_under: News
+    image: /16x9/about/viking-field-museum.jpg
     alt:
     caption:
     title:
     subtitle:
-    teaser:
-    published: false
-    start_date: 2014-10-01
-    stop_date: 
-  - url: /exhibitions/special/scandinavian-modern-design-norwegian-enamel/
-    file_under:
-    image:
-    alt:
-    caption:
-    title:
-    subtitle:
-    teaser:
+    teaser: Vesterheim has been invited to share information at the opening event for the exhibition _Vikings_ on March 18 at the Field Museum in Chicago, Illinois. 
     published: true
-    start_date: 2014-10-01
-    stop_date: 
+    start_date:
+    stop_date: 2015-03-18     
   - url: /norway-tours/upcoming/coastal-voyage/
     file_under:
     image: 16x9/norway-tours/coastal-tour-houses.jpg
@@ -164,21 +164,11 @@ panels:
     title:
     subtitle:
     teaser: Steven Johnson, Executive Director of Vesterheim has announced his intention to retire in September 2016.
-    published: true
+    published: false
     start_date: 2014-10-01
     stop_date:  
 
 events:
-  - url: /visit/plan/hours-and-admission/
-    image: /46x21/exhibitions/rosemalinggallery1_M.jpg
-    alt:
-    caption:
-    title: Free First Thursday 
-    date: January 8, 2015
-    time: 10:00AM-4:00PM
-    published: true
-    start_date: 
-    stop_date: 2015-01-09
   - url: /folk-art-school/classes/woodworking/2015-01-15-whittling-klubb-kids-session-1/
     image: /46x21/folk-art-school/whittling-kids-klubb-hanna.jpg
     alt:
@@ -219,66 +209,26 @@ events:
     published: true
     start_date: 2015-01-30
     stop_date: 2015-02-06   
-  - url: /events/calendar/2015/02/06/taste-of-winneshiek/
-    image: /46x21/events/taste-of-winneshiek.jpg
-    alt:
-    caption: 
-    title: A Taste of Winneshiek 
-    date: February 6, 2015
-    time: 5:00-8:00PM
-    published: true
-    start_date: 
-    stop_date: 2015-02-07   
-  - url: /folk-art-school/classes/woodworking/2015-02-06-scandinavian-style-flat-plane-figure-carving/
-    image: /46x21/folk-art-school/refsal-carving.jpg
-    alt:
-    caption:
-    title: Scandinavian Style Flat Plane Figure Carving
-    date: February 6-8, 2015
-    time: 9:00AM–5:00PM
-    published: true
-    start_date: 
-    stop_date: 2015-02-09       
-  - url: /events/annual/barnelopet/
-    image:
-    alt:
-    caption:
-    title: Barneløpet (Children's Ski/Walk Event)
-    date: February 7, 2015
-    time: 9:40AM
-    published: true
-    start_date: 
-    stop_date: 2015-02-08
   - url: /events/youth-programs/barnetimen/
     image:
     alt:
     caption:
     title: Barnetimen Children’s Hour 
-    date: February 17, 2015
+    date: March 17, 2015
     time: 10:00AM
     published: true
     start_date: 
-    stop_date: 2015-02-18
+    stop_date: 2015-03-18
   - url: /about/news/2015/scandinavian-music-jam/
     image: 16x9/events/scandinavian-music-jam.jpg
     alt:
     caption:
     title: Fourth Sunday Scandinavian Music Jam 
-    date: February 22, 2015
+    date: March 29, 2015
     time: 2:00PM-4:00PM
     published: true
     start_date: 
-    stop_date: 2015-02-23
-  - url: /events/away/la-crosse/
-    image: /46x21/exhibitions/objects-on-loan-to-epcot.jpg
-    alt:
-    caption:
-    title: _When Disney Called,_ Luncheon and Presentation in La Crosse, Wisconsin
-    date: February 22, 2015
-    time: 11:30AM–1:30PM
-    published: true
-    start_date: 
-    stop_date: 2015-02-22
+    stop_date: 2015-03-30
   - url: /exhibitions/special/scandinavian-modern-design-norwegian-enamel/
     image: 46x21/exhibitions/special/enamel.jpg
     alt:
@@ -289,6 +239,26 @@ events:
     published: true
     start_date: 
     stop_date: 2015-03-30
+  - url: /visit/plan/hours-and-admission/
+    image: /46x21/exhibitions/rosemalinggallery1_M.jpg
+    alt:
+    caption:
+    title: Free First Thursday 
+    date: April 2, 2015
+    time: 10:00AM-4:00PM
+    published: true
+    start_date: 
+    stop_date: 2015-04-03
+  - url: /folk-art-school/classes/fiber-arts/2015-04-17-icelandic-knitting-sampler/
+    image: /25x9/folk-art-school/classes/icelandic-knitting.jpg
+    alt:
+    caption:
+    title: "Class: Icelandic Knitting Sampler with Hélène Magnússon"
+    date: April 17-18, 2015
+    time: 
+    published: true
+    start_date: 
+    stop_date: 2015-04-19   
   - url: /events/away/twin-cities/
     image: 46x21/events/twin-cities-welcome.jpg
     alt:
@@ -320,4 +290,24 @@ events:
     published: true
     start_date: 
     stop_date: 2015-04-26
+  - url: /folk-art-school/classes/jewelry/2015-05-02-making-viking-silver-knit-bracelet/
+    image: /46x21/folk-art-school/bucheit-viking-knit-chain.jpg
+    alt:
+    caption:
+    title: "Class: Making a Viking Silver Knit Bracelet with Liz Bucheit"
+    date: May 2, 2015
+    time: 
+    published: true
+    start_date: 
+    stop_date: 2015-05-03   
+  - url: /events/annual/syttende-mai/
+    image:
+    alt:
+    caption:
+    title: _Syttende Mai_ Celebration
+    date: May 16, 2015
+    time:
+    published: true
+    start_date: 
+    stop_date: 2015-05-18
 ---

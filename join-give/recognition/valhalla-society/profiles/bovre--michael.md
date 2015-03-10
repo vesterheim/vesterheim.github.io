@@ -10,7 +10,9 @@ lead:
   image: /join-give/recognition/valhalla-society/profiles/bovre--michael.jpg
   alt: Michael Bovre
   caption: Michael Bovre
-
+related:
+ - /join-give/make-a-gift/planned/
+ 
 navigation:
   exclude: true
   order: 200

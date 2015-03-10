@@ -10,7 +10,9 @@ lead:
   image: /join-give/recognition/valhalla-society/profiles/heitmann--helen.jpg
   alt: Helen Heitmann
   caption: Helen Heitmann
-  
+related:
+ - /join-give/make-a-gift/planned/
+   
 navigation:
   exclude: true
   order: 800

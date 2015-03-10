@@ -10,6 +10,8 @@ lead:
   image: /join-give/recognition/valhalla-society/profiles/erickson--norman.jpg
   alt: Norman Erickson
   caption: Norman Erickson
+related:
+ - /join-give/make-a-gift/planned/
   
 navigation:
   exclude: true

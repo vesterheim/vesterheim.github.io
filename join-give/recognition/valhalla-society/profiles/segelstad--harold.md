@@ -10,7 +10,9 @@ lead:
   image: /join-give/recognition/valhalla-society/profiles/segelstad--harold.jpg
   alt: DHarold Segelstad
   caption: Harold Segelstad
-  
+related:
+ - /join-give/make-a-gift/planned/
+   
 navigation:
   exclude: true
   order: 400

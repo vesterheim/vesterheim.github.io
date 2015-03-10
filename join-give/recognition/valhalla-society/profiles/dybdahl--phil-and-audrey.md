@@ -10,6 +10,8 @@ lead:
   image: /join-give/recognition/valhalla-society/profiles/dybdahl--phil-and-audrey.jpg
   alt: Phil and Audrey Dybdahl
   caption: Phil and Audrey Dybdahl
+related:
+ - /join-give/make-a-gift/planned/
   
 navigation:
   exclude: true

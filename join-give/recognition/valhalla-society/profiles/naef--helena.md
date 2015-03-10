@@ -10,7 +10,9 @@ lead:
   image: /join-give/recognition/valhalla-society/profiles/naef--helena.jpg
   alt: Helena Naef
   caption: Helena Naef
-  
+related:
+ - /join-give/make-a-gift/planned/
+
 navigation:
   exclude: true
   order: 1100

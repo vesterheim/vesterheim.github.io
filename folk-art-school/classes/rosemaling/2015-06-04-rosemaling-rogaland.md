@@ -34,4 +34,4 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description 
 ---
-This will be a project painting class. The project will be a small cabinet with a shelf and two pull-out drawers on the inside. The overall dimensions of the piece are 11 inches wide, approximately 15 inches high, and 10 1/2 inches deep. The painting surfaces are the door (9 x 12 inches) and the sides (10 x 13 1/2 inches). Students may paint on practice surfaces or a piece of their choice that would be the appropriate size for the design areas. Item pictured here is not the class project (a picture of the actual project will be availabe in February).
+This will be a project painting class. The project will be a small cabinet with a shelf and two pull-out drawers on the inside. The overall dimensions of the piece are 11 inches wide, approximately 15 inches high, and 10 1/2 inches deep. The painting surfaces are the door (9 x 12 inches) and the sides (10 x 13 1/2 inches). Students may paint on practice surfaces or a piece of their choice that would be the appropriate size for the design areas. The item pictured here is the class project.

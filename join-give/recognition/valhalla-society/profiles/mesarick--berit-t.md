@@ -10,7 +10,9 @@ lead:
   image: /join-give/recognition/valhalla-society/profiles/mesarick--berit-t.jpg
   alt: Berit T. Mesarick
   caption: Berit T. Mesarick
-  
+related:
+ - /join-give/make-a-gift/planned/
+   
 navigation:
   exclude: true
   order: 1000

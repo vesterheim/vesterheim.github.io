@@ -10,7 +10,9 @@ lead:
   image: /join-give/recognition/valhalla-society/profiles/wrolstad--marwin-and-june.jpg
   alt: Marwin and June Wrolstad
   caption: Marwin and June Wrolstad
-
+related:
+ - /join-give/make-a-gift/planned/
+ 
 navigation:
   exclude: true
   order: 1500

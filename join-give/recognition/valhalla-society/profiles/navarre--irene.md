@@ -10,7 +10,9 @@ lead:
   image: /join-give/recognition/valhalla-society/profiles/navarre--irene.jpg
   alt: Irene Navarre
   caption: Irene Navarre
-  
+related:
+ - /join-give/make-a-gift/planned/
+   
 navigation:
   exclude: true
   order: 1100
