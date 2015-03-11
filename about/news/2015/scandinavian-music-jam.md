@@ -14,7 +14,7 @@ related:
 navigation:
   exclude: true  
 pagelist:
-  order: 20150220
+  order: 20150309
   image: 
   alt: 
   caption:
@@ -24,9 +24,9 @@ pagelist:
 ---
 February 2015
 
-The Fourth Sunday Scandinavian Music Jam is back! Stop by Sunday, March 29, 2015, 2:00 p.m. - 4:00 p.m. in Vesterheim's Bruening Visitor Center, 502 W. Water Street, to learn a tune, share a tune, jam with us, or just come to listen.
+The Fourth Sunday Scandinavian Music Jam is back! Stop by Sunday, March 22, 2015, 2:00 p.m. - 4:00 p.m. in Vesterheim's Bruening Visitor Center, 502 W. Water Street, to learn a tune, share a tune, jam with us, or just come to listen.
 
 Bring any instrument you play and join in. This informal music collaboration is great fun for all levels. 
 
-No charge. Recording device advised. For more info contact [Rob Steinhofer](mailto:accordionworks@yahoo.com).
+No charge. Recording device advised. For more info contact [Martha Griesheimer](mailto:mgriesheimer@vesterheim.org).
 

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: page
 title: Love Norway X
 subtitle: November 1, 2014 – March 10, 2015

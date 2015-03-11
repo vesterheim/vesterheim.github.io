@@ -90,6 +90,28 @@ panels:
     published: false
 #    start_date: 2014-12-20
 #    stop_date:  2015-01-02   
+  - url: /about/news/2015/fodors-best-15-museums/
+    file_under: News
+    image: 
+    alt:
+    caption:
+    title:
+    subtitle:
+    teaser: Vesterheim was named one of “15 Best Small-Town Museums in the U.S.” by the world-respected travel guide, Fodor's! 
+    published: true
+    start_date: 2014-10-01
+    stop_date: 
+  - url: /about/news/2015/gilbertson-gjerset-lecture/
+    file_under: News
+    image: 16x9/events/gilbertson-laurann.jpg
+    alt:
+    caption:
+    title:
+    subtitle:
+    teaser: Vesterheim’s Chief Curator Laurann Gilbertson will present Luther College’s fifth annual Knut Gjerset lecture March 26. 
+    published: true
+    start_date: 2014-10-01
+    stop_date: 
   - url: /exhibitions/special/a-restored-connection/
     file_under:
     image:
@@ -98,7 +120,7 @@ panels:
     title:
     subtitle:
     teaser: Open through April 12, 2015, this exhibition explores how we define ourselves and the environment around us.
-    published: true
+    published: false
     start_date: 2014-10-01
     stop_date: 
   - url: /exhibitions/special/scandinavian-modern-design-norwegian-enamel/
@@ -109,9 +131,20 @@ panels:
     title:
     subtitle:
     teaser:
-    published: true
+    published: false
     start_date: 2014-10-01
     stop_date:  
+  - url: /join-give/raffles/
+    file_under:
+    image: 
+    alt:
+    caption:
+    title:
+    subtitle:
+    teaser: Vesterheim is extremely pleased to announce the raffle of a _skinnfell_ made by Norwegian artist Britt Solheim
+    published: true
+    start_date: 2014-10-01
+    stop_date:   
   - url: /about/news/2015/pay-it-forward/
     file_under: News
     image: /16x9/exhibitions/enamel-exhibit-kids.jpg
@@ -224,7 +257,7 @@ events:
     alt:
     caption:
     title: Fourth Sunday Scandinavian Music Jam 
-    date: March 29, 2015
+    date: March 22, 2015
     time: 2:00PM-4:00PM
     published: true
     start_date: 

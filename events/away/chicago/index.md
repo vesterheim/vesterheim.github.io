@@ -30,7 +30,7 @@ The marketplace will feature folk-art demonstrators and Nordic vendors with wond
 
 Bring the entire family. There will be photo ops with _Frozen_ costumes and life-sized cutouts of Frozen characters, plus _Frozen_ items for sale in the Museum Store. A special menu for children will be available and the presentation is interesting for young people, too.
 
-Everyone is welcome to this great event! Advance reservations only. Please RSVP by April 15, 2015. Print out an invitation and registration from [here](/events/away/chicago/documents/chicago-event-invite15.pdf) (pdf). Contact Stephanie Johnson at [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org), or 563-382-9681 for more information, or to request a mailed invitation with registration form.
+**Everyone is welcome to this great event! Advance reservations only. Please RSVP by April 15, 2015. Print out an invitation and registration from [here](/events/away/chicago/documents/chicago-event-invite15.pdf) (pdf). Contact Stephanie Johnson at [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org), or 563-382-9681 for more information, or to request a mailed invitation with registration form.**
 
 Schedule of Events
 -----------------

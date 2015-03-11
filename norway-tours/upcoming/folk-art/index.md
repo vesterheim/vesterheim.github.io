@@ -34,13 +34,17 @@ Immerse yourself in the traditional folk arts of rosemaling and woodcarving by j
 
 Through Vesterheim’s close friendships in Norway, you‘ll enjoy special visits to artists’ studios, private collections, museums, historic hotels, stave churches, and bygdetunets. Visit with Norwegian folk artists who have shared so much of their talent with Vesterheim, many of whom the tour group visited on the Folk Art Pilgrimage Tour in 2014. You’ll get a firsthand look at various rosemaling styles and carving techniques. You will see both old traditions and contemporary designs that follow those old traditions. Be sure to bring your camera and sketchbook. 
 
-The journey wouldn’t be complete without opportunities for hands-on artistic experiences, scholarly lectures, and evening discussions. This jam-packed folk-art study tour will keep you moving. You won’t want to miss it, and we are excited to have you travel with us! 
-
-The itinerary for this tour will be available soon.
-
+The journey wouldn’t be complete without opportunities for hands-on artistic experiences, scholarly lectures, and evening discussions. This jam-packed folk-art study tour will keep you moving. You won’t want to miss it, and we are excited to have you travel with us!
 
 {% include norway-tours/guide.html name='Patti Goke' %}
 
 {% include norway-tours/guide.html name='Darlene Fossum-Martin' %}
+
+
+The itinerary for this tour will be available soon.
+
+To reserve your spot on the tour, download this “[Tour Deposit](/norway-tours/forms/documents/DepositForm.pdf)” form and send it, with a $500 deposit per person, to Vesterheim, P.O. Box 379, Decorah, IA 52101.
+
+{% include components/button.html text="Download Tour Deposit Form (PDF)" url="/norway-tours/forms/documents/DepositForm.pdf" style="primary" %} 
 
 For more information: Michelle Whitehill at 563-382-9681, ext. 240, or [mwhitehill@vesterheim.org](mailto:mwhitehill@vesterheim.org).

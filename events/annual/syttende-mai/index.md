@@ -31,7 +31,7 @@ _Syttende Mai_, May 17, is the day Norway ratified its constitution in 1814 at E
 Now, Norwegians celebrate their constitution with excited crowds, especially children, marching through the streets waving flags, singing songs, and celebrating their nation’s independence. _Syttende Mai_ is a great opportunity to celebrate freedom wherever it occurs. 
 
 
-### 2015 Schedule of Events
+### Schedule of Events - May 16, 2015
 
 * **9:00 a.m. to 5:00 p.m.** Museum open with free admssion. 
 * **11:00 a.m.** Presentation, _Ung kvinne til sjøs: Young Woman at Sea,_ by Kari Gronningsæter and Nick Preus. Hear the tale of this voyage around the world in 1913-1914, based on the letters and journals of Gronningsæter's grandmother. The ship, a full rigger captained by Gronningsæter's great-grandfather, sailed to Australia loaded with timber and returned to Norway loaded with wheat. On the way home, in the Atlantic, they found out that WW I had started.
@@ -40,7 +40,7 @@ Now, Norwegians celebrate their constitution with excited crowds, especially chi
 * **1:00 p.m.** Children’s Parade through Decorah led by Decorah's Nordic Dancers. The route starts on Main Street at the Winneshiek County Courthouse, then travels north along Washington Street to Water Street, then west on Water Street to Mill Street. Everyone is invited to march along, or cheer from the sidewalks. Norwegian flags will be provided for everyone marching. 
 * **1:20-2:00 p.m.** Vesterheim welcome and Decorah's [Nordic Dancers](https://www.facebook.com/groups/60204933647/) perform on Mill St. at the museum.
 * **2:00 p.m.** Guided tour of the buildings in the Open Air Division.
-* **2:30 p.m. and 3:30 p.m.**  Concerts by [Decorah Youth Choir](http://www.decorahyouthchoirs.org/) Decorah Youth Choirs will perform their Spring Concert at two different times as part of Vesterheim's _Syttende Mai_ celebrations this year. More than 75 pre-K through 9th grade singers from local communities participate in DYC's four choirs. With songs from Norway, America, and around the world, this concert should be a lovely way to welcome spring!
+* **2:30 p.m. and 3:30 p.m.**  Concert by [Decorah Youth Choir](http://www.decorahyouthchoirs.org/) Decorah Youth Choirs will perform their Spring Concert at two different times as part of Vesterheim's _Syttende Mai_ celebrations this year. More than 75 pre-K through 9th grade singers from local communities participate in DYC's four choirs. With songs from Norway, America, and around the world, this concert should be a lovely way to welcome spring!
 * **4:00-6:00 p.m.** Street dance with Decorah's popular Scandinavian-American old-time dance band, [Foot-Notes](http://www.footnotes.dance/) on Mill St. next to the museum. 
 
 During the celebration, the Nordic Dancers will be holding a "Blomster Salg," flower sale, in the courtyard next to the museum. Support this local group and get ready to plant your garden with these flower starts.
