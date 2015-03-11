@@ -40,11 +40,7 @@ pagelist:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
-  link: /exhibitions/special/scandinavian-modern-design-norwegian-enamel/
-  
-redirect_to:
-   - /exhibitions/special/scandinavian-modern-design-norwegian-enamel/ 
- 
+
 tags: exhibition  
 ---
 Roy Behrens, Professor of Art and Distinguished Scholar at the University of Northern Iowa, will give the presentation _Less is More, More or Less: The Roots of Mid-Century Modern Design_ at Vesterheim on Sunday, March 29, at 2:00 p.m. in the museum’s Amdal-Odland Heritage Center. This free presentation is offered in conjunction with Vesterheim’s exhibition, _Scandinavian Modern Design: Norwegian Enamel,_ on view through April 19, 2015. 
