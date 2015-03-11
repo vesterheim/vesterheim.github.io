@@ -229,7 +229,7 @@ events:
     published: true
     start_date: 
     stop_date: 2015-03-30
-  - url: /exhibitions/special/scandinavian-modern-design-norwegian-enamel/
+  - url: /_posts/2015-03-29-presentation--midcentury-modern-design-behrens/
     image: 46x21/exhibitions/special/enamel.jpg
     alt:
     caption:
