@@ -262,7 +262,7 @@ events:
     published: true
     start_date: 
     stop_date: 2015-03-30
-  - url: /exhibitions/special/scandinavian-modern-design-norwegian-enamel/
+  - url: /events/calendar/2015/03/29/roy-behrens-on-the-roots-of-mid-century-modern-design/
     image: 46x21/exhibitions/special/enamel.jpg
     alt:
     caption:
