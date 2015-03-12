@@ -95,7 +95,7 @@ panels:
     image: 
     alt:
     caption:
-    title:
+    title: Fodor's Names Vesterheim one of 15 Best Small-Town Museums in the U.S.
     subtitle:
     teaser: Vesterheim was named one of “15 Best Small-Town Museums in the U.S.” by the world-respected travel guide, Fodor's! 
     published: true
