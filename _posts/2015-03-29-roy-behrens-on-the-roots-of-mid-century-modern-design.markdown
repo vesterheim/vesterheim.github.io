@@ -34,7 +34,7 @@ home:
   display: false
 pagelist:
   order:         # Defaults to navigation order
-  image: 
+  image: 46x21/exhibitions/special/enamel.jpg
   alt:
   caption: 
   title:         # Defaults to navigation title
