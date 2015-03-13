@@ -252,7 +252,7 @@ events:
     published: true
     start_date: 
     stop_date: 2015-03-18
-  - url: /about/news/2015/scandinavian-music-jam/
+  - url: /events/calendar/2015/03/22/scandinavian-music-jam/
     image: 16x9/events/scandinavian-music-jam.jpg
     alt:
     caption:

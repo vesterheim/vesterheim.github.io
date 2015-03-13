@@ -11,6 +11,12 @@ hero:
   caption:
 related:
 
+lead:
+  image: lead/artifacts/lc1533-tankard.jpg
+  alt: ~
+  caption: ~
+  pull: right
+
 navigation:
   exclude: true  
 pagelist:
