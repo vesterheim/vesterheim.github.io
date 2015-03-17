@@ -26,7 +26,7 @@ Celebrate Norwegian heritage and discover more about Norwegian traditions at the
 
 Tickets are $57.50 per person for adults (includes a $20 tax deductible donation); and $25 per person for children, ages 6-12 (includes a $10 tax deductible donation).
 
-The marketplace will feature folk-art demonstrators and Nordic vendors with wonderful Scandinavian items for sale. The program includes a special presentation, silent auction, raffle drawing, and update from Vesterheim. A delectable luncheon is served with a special menu for school-age children, 12 and under. See the specifics below.
+The marketplace will feature folk-art demonstrators and Scandinavian vendors with wonderful Scandinavian items for sale. The program includes a special presentation, silent auction, raffle drawing, and update from Vesterheim. A delectable luncheon is served with a special menu for school-age children, 12 and under. See the specifics below.
 
 Bring the entire family. There will be photo ops with _Frozen_ costumes and life-sized cutouts of Frozen characters, plus _Frozen_ items for sale in the Museum Store. A special menu for children will be available and the presentation is interesting for young people, too.
 

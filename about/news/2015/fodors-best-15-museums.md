@@ -28,7 +28,7 @@ Vesterheim was named one of “15 Best Small-Town Museums in the U.S.” by the 
 
 According to Fodor's, “All too often, the museums that get all the attention are those in big cities with blockbuster collections, like MoMA in New York City, the Field Museum in Chicago, and the Getty Museum in Los Angeles. But hidden away in America’s small towns are equally fascinating, more unique museums that are home to coveted works of art and historical items.”
 
-Other museums on the list include The Huntington in San Marion, California, the Norman Rockwell Museum in Stockbridge, Massachusetts, and the Baseball Hall of Fame in Cooperstown, New York. “We’re excited to be listed among such impressive company,” said Charlie Langton, Vesterheim Editor. “The recognition is quite an honor,” he continued, “’USA Today’ has already named Vesterheim one of ten great places in the nation to admire American folk art and with this new recognition perhaps more people will discover what a treasure Decorah really is.”
+Other museums on the list include The Huntington in San Marino, California, the Norman Rockwell Museum in Stockbridge, Massachusetts, and the Baseball Hall of Fame in Cooperstown, New York. “We’re excited to be listed among such impressive company,” said Charlie Langton, Vesterheim Editor. “The recognition is quite an honor,” he continued, “’USA Today’ has already named Vesterheim one of ten great places in the nation to admire American folk art and with this new recognition perhaps more people will discover what a treasure Decorah really is.”
 
 Fodor's, a division of Random House, is one of the world’s largest publishers of English language travel and tourism information and one of the first producers of modern travel guidebooks.
 
