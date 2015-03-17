@@ -28,7 +28,7 @@ carousel:
       alt: Icelandic Knitting Class
       caption: Learn ancient Icelandic knitting with Hélène Magnússon at Vesterheim's Folk Art School!
       link: /folk-art-school/classes/fiber-arts/2015-04-17-icelandic-knitting-sampler/
-      published: true
+      published: false
       start_date:
       stop_date:
     - image: 25x9/exhibitions/special/a-restored-connection.jpg
@@ -282,12 +282,12 @@ events:
     published: true
     start_date: 
     stop_date: 2015-04-03
-  - url: /folk-art-school/classes/fiber-arts/2015-04-17-icelandic-knitting-sampler/
-    image: /25x9/folk-art-school/classes/icelandic-knitting.jpg
+  - url: /folk-art-school/classes/gardening/2015-04-17-food-flower-heritage-gardens/
+    image: /46x21/folk-art-school/gardening.jpg
     alt:
     caption:
-    title: "Class: Icelandic Knitting Sampler with Hélène Magnússon"
-    date: April 17-18, 2015
+    title: "Class: Food and Flower Heritage Gardens"
+    date: April 17, 18, and 19, 2015
     time: 
     published: true
     start_date: 
@@ -333,6 +333,16 @@ events:
     published: true
     start_date: 
     stop_date: 2015-05-03   
+  - url: /folk-art-school/classes/woodworking/2015-05-04-constructing-norwegian-three-legged-chair/
+    image: /25x9/folk-art-school/classes/woodroom.jpg
+    alt:
+    caption:
+    title: "Class: Constructing a Norwegian Three-legged Chair with Jim Sannerud"
+    date: May 4-7, 2015
+    time: 
+    published: true
+    start_date: 
+    stop_date: 2015-05-03  
   - url: /events/annual/syttende-mai/
     image:
     alt:
