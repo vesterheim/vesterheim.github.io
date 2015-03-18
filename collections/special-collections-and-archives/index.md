@@ -26,4 +26,4 @@ Research at Vesterheim Museum
 =============================
 Vesterheim Museum makes its collections, library, and archives available for research by anyone with an interest in them, from traditional scholars and artists to teachers and students, or anyone with an inquiring mind. To ensure access to the collections, please contact Vesterheim’s collections manager, Alison Dwyer, [adywer@vesterheim.org.](mailto:adwyer@vesterheim.org) Two weeks' notice is preferred.
 
-Vesterheim collections staff also welcomes and answers brief inquires from off-site researchers by phone, mail, and email. For assistance, please contact Vesterheim’s collections manager, Alison Dywer, [adywer@vesterheim.org](mailto:adwyer@vesterheim.org).
+Vesterheim collections staff also welcomes and answers brief inquires from off-site researchers by phone, mail, and email. For assistance, please contact Vesterheim’s collections manager, Alison Dwyer, [adywer@vesterheim.org](mailto:adwyer@vesterheim.org).

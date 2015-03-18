@@ -98,6 +98,7 @@ There will be hundreds of great items available from talented artists and genero
 
 ### Marketplace Demonstrators and Vendors
 
+* Authors' Publisher (Caliidlagadus) - Books from this Norwegian publisher about _Sámi_ culture
 * B.E. Nelson Design – Hand-made Scandinavian silver jewelry 
 * Bitz of Wood – Kolrosing and chip carving 
 * Hal Bitzer – woodcarving demonstration 
@@ -110,6 +111,7 @@ There will be hundreds of great items available from talented artists and genero
 * Jan Mostrom – weaving demonstration
 * Mindekirken – the Norwegian Lutheran Memorial Church
 * Nordmanns Forbundet / Norwegians Worldwide 
+* Norway Art - Art from Norway
 * Norway House
 * Norwegian American Genealogical Association of the Minnesota Genealogical Society
 * The Norwegian Termite – Acanthus and dragon-style carving 

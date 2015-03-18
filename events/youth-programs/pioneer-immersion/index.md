@@ -48,4 +48,4 @@ Iowa school districts that have participated in the program in the past include 
 
 For more information about the Vesterheim Pioneer Immersion Program and how your school can participate, please contact Jennifer Kovarik at [jkovarik@vesterheim.org](mailto:jkovarik@vesterheim.org), or 563-382-9681, ext. 219.
 
-In 2015, the program is funded by the [Deck the Tables](/events/annual/deck-tables/) event.
+In 2015, the program is funded by the 2014 [Deck the Tables](/events/annual/deck-tables/) event.

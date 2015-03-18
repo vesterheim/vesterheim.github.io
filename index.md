@@ -163,7 +163,7 @@ panels:
     caption:
     title:
     subtitle:
-    teaser: Make plans to take a class at Vesterheim's Folk Art School in 2015. Classes are fillingn fast. Sign up today!
+    teaser: Make plans to take a class at Vesterheim's Folk Art School in 2015. Classes are filling fast. Sign up today!
     published: true
     start_date: 2014-10-01
     stop_date:      

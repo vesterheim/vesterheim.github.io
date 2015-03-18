@@ -24,4 +24,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser: Showcasing the rich heritage and complex mastery of these seemingly simple figures. 
 ---
-The distinctive and often whimsical figure carving of the Nordic countries and Nordic America continues to delight audiences of all ages and backgrounds. This exhibition will showcase the rich heritage and complex mastery of these seemingly simple figures. Guest curated by America’s accomplished Scandinavian-style figure carver, Harley Refsal.
+The distinctive and often whimsical figure carving of the Nordic countries and Nordic America continues to delight audiences of all ages and backgrounds. This exhibition will showcase the rich heritage and complex mastery of these seemingly simple figures. 
+
+Guest curated by one of America’s most accomplished Scandinavian-style figure carvers, Harley Refsal, the exhibition will feature historic works alongside contemporary pieces from the collections of Vesterheim and other Scandinavian museums in the United States. A special “family tree” of Scandinavian flat plane carvers is being planned as a centerpiece of the exhibition. More information about special programming coming soon.
