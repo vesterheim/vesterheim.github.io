@@ -24,7 +24,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-_Syttende Mai_ will be celebrated at Vesterheim this year on Saturday, May 16, 2015. Special thanks to _Syttende Mai_ sponsors Jeff and Marilyn Roverud, and to Rockwell-Collins in Decorah for additional support.
+_Syttende Mai_ will be celebrated at Vesterheim this year on Saturday, May 16, 2015. Special thanks to _Syttende Mai_ sponsors Jeff and Marilyn Roverud, and to Sons of Norway Valdres Lodge and Rockwell-Collins in Decorah for additional support.
 
 _Syttende Mai_, May 17, is the day Norway ratified its constitution in 1814 at Eidsvoll. They did not, however, become independent from Sweden until 1905 and until then _Syttende Mai_ celebrations were frowned upon and even forbidden.
 

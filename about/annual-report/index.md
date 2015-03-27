@@ -26,3 +26,6 @@ Your contributions provide the financial support that keeps Vesterheim strong an
 
 *[pdf]: Portable Document Format
 * [Annual Report January 1-December 31, 2012 (pdf)](/join-give/recognition/annual-donor-lists/documents/Vesterheim--Annual-Report--2012.pdf)
+
+*[pdf]: Portable Document Format
+* [Annual Report January 1-December 31, 2013 (pdf)](/join-give/recognition/annual-donor-lists/documents/Vesterheim--Annual-Report--2013.pdf)
