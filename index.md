@@ -261,7 +261,7 @@ events:
     time: 2:00PM-4:00PM
     published: true
     start_date: 
-    stop_date: 2015-03-30
+    stop_date: 2015-03-23
   - url: /events/calendar/2015/03/29/roy-behrens-on-the-roots-of-mid-century-modern-design/
     image: 46x21/exhibitions/special/enamel.jpg
     alt:
