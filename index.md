@@ -74,11 +74,11 @@ panels:
     alt:
     caption:
     title: Museum and Store Closed
-    subtitle: January 1, 2015
-    teaser: The museum and store are closed New Year’s Day.
-    published: false
-#    start_date: 2014-12-20
-#    stop_date:  2015-01-02    
+    subtitle: March 23, 2015
+    teaser: The museum and store are closed due to snow.
+    published: true
+    start_date: 2015-03-21
+    stop_date:  2015-03-24    
   - url: /visit/plan/hours-and-admission/
     file_under:
     image: 16x9/events/julenisse--christmas--kids.jpg

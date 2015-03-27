@@ -5,6 +5,10 @@
                                     <section class="hours__section  hours__section__rule">
                                         <h1 class="hours__section__title">Museum open daily</h1>
 {% assign home__hours__current = site.time | date: "%Y%m%d" %}
+{% if home__hours__current < '20150324' %}
+                                        <div class="hours__section__date">The museum &amp; store are closed today due to weather.</div>
+{% endif %}
+{% assign home__hours__current = site.time | date: "%Y%m%d" %}
 {% if home__hours__current < '20150102' %}
                                         <div class="hours__section__date">The museum &amp; store are closed New Year’s Day.</div>
 {% endif %}
@@ -36,6 +40,10 @@
                                     </section>
                                     <section class="hours__section{% comment %}  hours__section__rule{% endcomment %}">
                                         <h1 class="hours__section__title">Store open daily</h1>
+{% assign home__hours__current = site.time | date: "%Y%m%d" %}
+{% if home__hours__current < '20150324' %}
+                                        <div class="hours__section__date">The museum &amp; store are closed today due to weather.</div>
+{% endif %}
 {% if home__hours__current < '20150102' %}
                                         <div class="hours__section__date">The store is closed New Year’s Day.</div>
 {% endif %}                                        
