@@ -26,7 +26,7 @@ pagelist:
 ---
 _Syttende Mai_ will be celebrated at Vesterheim this year on Saturday, May 16, 2015. Special thanks to _Syttende Mai_ sponsors Jeff and Marilyn Roverud, and to Sons of Norway Valdres Lodge and Rockwell-Collins in Decorah for additional support.
 
-_Syttende Mai_, May 17, is the day Norway ratified its constitution in 1814 at Eidsvoll. They did not, however, become independent from Sweden until 1905 and until then _Syttende Mai_ celebrations were frowned upon and even forbidden.
+_Syttende Mai_ is the day Norway ratified its constitution in 1814 at Eidsvoll. They did not, however, become independent from Sweden until 1905 and until then _Syttende Mai_ celebrations were frowned upon and even forbidden.
 
 Now, Norwegians celebrate their constitution with excited crowds, especially children, marching through the streets waving flags, singing songs, and celebrating their nation’s independence. _Syttende Mai_ is a great opportunity to celebrate freedom wherever it occurs. 
 
@@ -43,6 +43,6 @@ Now, Norwegians celebrate their constitution with excited crowds, especially chi
 * **2:30 p.m. and 3:30 p.m.**  Concert by [Decorah Youth Choir](http://www.decorahyouthchoirs.org/) in the museum's Bethania Church on Mill Street. Decorah Youth Choirs will perform their Spring Concert at two different times as part of Vesterheim's _Syttende Mai_ celebrations this year. More than 75 pre-K through 9th grade singers from local communities participate in DYC's four choirs. With songs from Norway, America, and around the world, this concert should be a lovely way to welcome spring!
 * **4:00-6:00 p.m.** Street dance with Decorah's popular Scandinavian-American old-time dance band, [Foot-Notes](http://www.footnotes.dance/) on Mill St. next to the museum. 
 
-During the celebration, the Nordic Dancers will be holding a "Blomster Salg," flower sale, in the courtyard next to the museum. Support this local group and get ready to plant your garden with these flower starts.
+From 1:00-4:00 p.m., the Nordic Dancers will be holding a "Blomster Salg," flower sale, in the courtyard next to the museum. Support this local group and get ready to plant your garden with these flower starts.
 
-In case of inclement weather, the parade and Nordic Dancers will be canceled and the Foot-Notes will perform at an alternate location to be announced.
+In case of inclement weather, the parade and Nordic Dancers will be canceled and the Foot-Notes dance will be held at Decorah Lutheran Church at 309 Winnebago Street in Decorah.
