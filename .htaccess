@@ -132,7 +132,8 @@ Options -MultiViews
 # http://blogs.msdn.com/b/ie/archive/2014/04/02/stay-up-to-date-with-enterprise-mode-for-internet-explorer-11.aspx
 
 <IfModule mod_headers.c>
-    Header set X-UA-Compatible "IE=edge"
+    BrowserMatch MSIE ie
+    Header set X-UA-Compatible "IE=edge,chrome=1" env=ie
     # `mod_headers` cannot match based on the content-type, however,
     # the `X-UA-Compatible` response header should be send only for
     # HTML documents and not for the other resources.

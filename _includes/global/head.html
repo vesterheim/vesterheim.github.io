@@ -1,6 +1,9 @@
 <head>
     <meta charset="utf-8" />
+    {% comment %}
+    Send via headers via .htaccess and avoid a HTML validation error
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    {% endcomment %} 
     <title>{% if page.meta_title %}{{ page.meta_title  | strip_html | xml_escape }}{% elsif page.title %}{{ page.title  | strip_html | xml_escape }}{% else %}{{ site.title  | strip_html | xml_escape }}{% endif %}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0,minimal-ui" />
     {% if page.meta_description %}<meta name="description" content="{{ page.meta_description | strip_html | xml_escape }}" />{% endif %}
