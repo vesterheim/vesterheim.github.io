@@ -109,7 +109,7 @@ panels:
     title:
     subtitle:
     teaser: Vesterheim’s Chief Curator Laurann Gilbertson will present Luther College’s fifth annual Knut Gjerset lecture March 26. 
-    published: true
+    published: false
     start_date: 2014-10-01
     stop_date: 
   - url: /exhibitions/special/a-restored-connection/
@@ -252,16 +252,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-03-18
-  - url: /events/calendar/2015/03/22/scandinavian-music-jam/
-    image: 16x9/events/scandinavian-music-jam.jpg
-    alt:
-    caption:
-    title: Fourth Sunday Scandinavian Music Jam 
-    date: March 22, 2015
-    time: 2:00PM-4:00PM
-    published: true
-    start_date: 
-    stop_date: 2015-03-23
   - url: /events/calendar/2015/03/29/roy-behrens-on-the-roots-of-mid-century-modern-design/
     image: 46x21/exhibitions/special/enamel.jpg
     alt:
@@ -323,6 +313,16 @@ events:
     published: true
     start_date: 
     stop_date: 2015-04-26
+  - url: /events/calendar/2015/04/26/scandinavian-music-jam/
+    image: 16x9/events/scandinavian-music-jam.jpg
+    alt:
+    caption:
+    title: Fourth Sunday Scandinavian Music Jam 
+    date: April 26, 2015
+    time: 2:00PM-4:00PM
+    published: true
+    start_date: 
+    stop_date: 2015-04-27
   - url: /folk-art-school/classes/jewelry/2015-05-02-making-viking-silver-knit-bracelet/
     image: /46x21/folk-art-school/bucheit-viking-knit-chain.jpg
     alt:
