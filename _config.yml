@@ -145,7 +145,7 @@ picture:
   presets:
     # Full width pictures
     default:
-      ppi: [1, 1.5, 2]
+      ppi: [1, 1.5, 2, 3]
       attr:
         class: blog-full
         itemprop: image
@@ -183,7 +183,7 @@ picture:
         width: 320      
     # Home Page Panel Images
     panel:
-      ppi: [1, 1.5, 2]
+      ppi: [1, 1.5, 2, 3]
       attr:
         data-location: "{{location}}"
         data-active: nil
@@ -221,7 +221,7 @@ picture:
         width: 320  
     # Home Page Panel Images
     carousel:
-      ppi: [1, 1.5, 2]
+      ppi: [1, 1.5, 2, 3]
       attr:
         data-location: "{{location}}"
         data-active: nil
@@ -270,7 +270,7 @@ picture:
         width: 320      
    # Half width pictures such as tiles
     half:
-      ppi: [1, 1.5, 2]
+      ppi: [1, 1.5, 2, 3]
       attr:
         data-active: nil
       source_med:
@@ -280,7 +280,7 @@ picture:
         width: 184
     # Half width pictures such as tiles
     tile:
-      ppi: [1, 1.5, 2]
+      ppi: [1, 1.5, 2, 3]
       attr:
         data-location: "{{location}}"
         data-active: nil
@@ -293,7 +293,7 @@ picture:
         width: 184        
     # Golden width pictures
     golden:
-      ppi: [1, 1.5, 2]
+      ppi: [1, 1.5, 2, 3]
       attr:
         data-location: "{{location}}"
         data-active: nil
@@ -316,7 +316,7 @@ picture:
         width: 320    
     # Fourth width pictures
     fourth:
-      ppi: [1, 1.5, 2]
+      ppi: [1, 1.5, 2, 3]
       attr:
         data-location: "{{location}}"
         data-active: nil
