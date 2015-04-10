@@ -252,16 +252,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-03-18
-  - url: /events/calendar/2015/03/29/roy-behrens-on-the-roots-of-mid-century-modern-design/
-    image: 46x21/exhibitions/special/enamel.jpg
-    alt:
-    caption:
-    title: "_Less is More, More or Less: The Roots of Mid-Century Modern Design_ lecture by Roy Behrens"
-    date: March 29, 2015
-    time: 2:00PM
-    published: true
-    start_date: 
-    stop_date: 2015-03-30
   - url: /visit/plan/hours-and-admission/
     image: /46x21/exhibitions/rosemalinggallery1_M.jpg
     alt:
@@ -272,16 +262,16 @@ events:
     published: true
     start_date: 
     stop_date: 2015-04-03
-  - url: /folk-art-school/classes/gardening/2015-04-17-food-flower-heritage-gardens/
-    image: /46x21/folk-art-school/gardening.jpg
+  - url: /events/calendar/2015/04/16/volunteer-open-house/
+    image: /46x21/events/wow--demonstrator--kids.jpg/
     alt:
     caption:
-    title: "Class: Food and Flower Heritage Gardens"
-    date: April 17, 18, and 19, 2015
-    time: 
+    title: Volunteer Open House
+    date: April 16, 2015
+    time:
     published: true
     start_date: 
-    stop_date: 2015-04-19   
+    stop_date: 2015-04-17
   - url: /events/away/twin-cities/
     image: 46x21/events/twin-cities-welcome.jpg
     alt:
@@ -302,7 +292,7 @@ events:
     time: 2:00PM
     published: true
     start_date: 
-    stop_date: 2015-03-30
+    stop_date: 2015-04-20
   - url: /events/away/chicago/
     image:
     alt:
@@ -333,16 +323,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-05-03   
-  - url: /folk-art-school/classes/woodworking/2015-05-04-constructing-norwegian-three-legged-chair/
-    image: /25x9/folk-art-school/classes/woodroom.jpg
-    alt:
-    caption:
-    title: "Class: Constructing a Norwegian Three-legged Chair with Jim Sannerud"
-    date: May 4-7, 2015
-    time: 
-    published: true
-    start_date: 
-    stop_date: 2015-05-03  
   - url: /events/annual/syttende-mai/
     image:
     alt:
