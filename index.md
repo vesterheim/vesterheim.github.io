@@ -282,7 +282,7 @@ events:
     published: true
     start_date: 
     stop_date: 2015-04-19
-  - url: /exhibitions/special/scandinavian-modern-design-norwegian-enamel/
+  - url: /events/calendar/2015/04/19/lund-presentation-exhibit-closing-events/
     image: 46x21/exhibitions/special/enamel.jpg
     alt:
     caption:
