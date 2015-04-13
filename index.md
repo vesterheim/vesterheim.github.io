@@ -263,7 +263,7 @@ events:
     start_date: 
     stop_date: 2015-04-03
   - url: /events/calendar/2015/04/16/volunteer-open-house/
-    image: /46x21/events/wow--demonstrator--kids.jpg/
+    image: /46x21/events/wow--demonstrator--kids.jpg
     alt:
     caption:
     title: Volunteer Open House
