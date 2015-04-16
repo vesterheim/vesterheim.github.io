@@ -323,6 +323,16 @@ events:
     published: true
     start_date: 
     stop_date: 2015-05-03   
+  - url: /events/youth-programs/pioneer-immersion/
+    image: /46x21/kids/pioneer-immersion-exhibition.jpg
+    alt:
+    caption:
+    title: Pioneer Immersion Program Open House 
+    date: May 14, 2015
+    time: 4:30-6:30PM
+    published: true
+    start_date: 
+    stop_date: 2015-04-03
   - url: /events/annual/syttende-mai/
     image:
     alt:

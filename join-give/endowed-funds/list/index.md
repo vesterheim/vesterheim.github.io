@@ -65,6 +65,9 @@ Norwegian Arts and Crafts Endowment
 Sigmund Aarseth Norwegian Instructor Endowment
 : to bring Norwegian folk-art instructors to teach at Vesterheim
 
+Trygve Lønnebotn
+: toward operating expenses
+
 Valdres House Endowment
 : for interpretation and upkeep of the Valdres House
 
