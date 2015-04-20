@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Swedish Luffarslöyd—It’s All About Wire: Wire Art That Is!"
+title: "Swedish Luffarslöjd—It’s All About Wire: Wire Art That Is!"
 subtitle: July 10-12, 2015, with Faith Clover 
 meta_description:  # Used in HTML head and as the description for some search engines
 
