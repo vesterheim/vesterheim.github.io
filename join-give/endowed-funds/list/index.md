@@ -30,7 +30,7 @@ Barbara Westby Endowment
 Carlson Endowment for Research
 : for state of the arts storage for artifacts
 
-Crown Princess Märthe Endowment
+Crown Princess Märtha Endowment
 : for staff development and exchange
 
 Dan and Bonnie Huebner Legacy
@@ -48,7 +48,7 @@ General Endowment
 Gertrude Berg Professional Staff Endowment
 : for the support of administrative and managerial positions
 
-Harry and Josepha Anderson Fine Ars Endowment
+Harry and Josepha Anderson Fine Arts Endowment
 : for the support of the fine art collection
 
 Haugen Living Trust
