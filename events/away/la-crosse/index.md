@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: page
 title: _When Disney Called,_ Luncheon and Presentation - La Crosse, Wisconsin
 meta_title:        # Appears on bookmarks, search results, etc...
@@ -13,7 +13,7 @@ caption: Vesterheim's artifacts on exhibition at Disney's Epcot Center in Florid
 navigation:
   order: 10
 pagelist:
-  exclude: false
+  exclude: true
   order:         # Defaults to navigation order  
   image: 46x21/exhibitions/objects-on-loan-to-epcot.jpg
   alt:

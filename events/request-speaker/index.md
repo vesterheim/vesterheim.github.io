@@ -158,3 +158,9 @@ The murals in Vesterheim’s Gathering Room were created in 1999 by Norwegian ro
 
 Laurann Gilbertson <br/>
 Whether you’re doing genealogy, or just trying to sort through your family’s old album, this 45-minute slide program can help you assign a date to old photographs. Women’s clothing styles have changed regularly and distinctly over time. By looking at a few fashion features, such as hats and dress sleeves, you can easily narrow down the date to a single decade.
+
+#### In Trunks, Hands, and Hearts: What Norwegian Immigrants Brought to the United States
+{: .subtitle }
+
+Laurann Gilbertson or Jennifer Kovarik <br/>
+Between 1825 and 1980, nearly one million Norwegians left for new lives in America. Consider the reasons for leaving, what they brought, and where they settled. Explore the immigrant experience through stories associated with artifacts in Vesterheim's collection. The presentation can be customized with artifacts from your state.

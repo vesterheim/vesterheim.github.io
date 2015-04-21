@@ -23,14 +23,24 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
+
+Barbara Westby Endowment
+: toward operating expenses
+
 Carlson Endowment for Research
 : for state of the arts storage for artifacts
 
 Crown Princess Märthe Endowment
 : for staff development and exchange
 
+Dan and Bonnie Huebner Legacy
+: toward operating expenses
+
 Darrell Henning Acquisition Endowment
 : for the support of acquisition of artifacts
+
+Endow Iowa Challenge
+: toward operating expenses
 
 General Endowment
 : for operating expenses
@@ -65,7 +75,7 @@ Norwegian Arts and Crafts Endowment
 Sigmund Aarseth Norwegian Instructor Endowment
 : to bring Norwegian folk-art instructors to teach at Vesterheim
 
-Trygve Lønnebotn
+Trygve Lønnebotn Endowment
 : toward operating expenses
 
 Valdres House Endowment

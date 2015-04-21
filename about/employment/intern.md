@@ -71,4 +71,4 @@ This position is paid $7.35 per hour for 170 hours (generally 20 hours per week 
 
 ### Apply
 
-Applications should be directed to Vesterheim's Technology Specialist Faust Gertz at [fgertz@vesterheim.org](mailto:fgertz@vesterheim.org). Applications should include a cover letter and current resume explaining interest and relevant experience. Applications will be accepted through April 15, 2015, or until position is filled. 
+Applications should be directed to Vesterheim's Technology Specialist Faust Gertz at [fgertz@vesterheim.org](mailto:fgertz@vesterheim.org). Applications should include a cover letter and current resume explaining interest and relevant experience. Applications will be accepted through April 24, 2015, or until position is filled. 

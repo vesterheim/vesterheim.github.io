@@ -22,15 +22,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-The following job opportunities are currently available at Vesterheim.
-
-PRESIDENT AND CEO
------------------
-{: .heading--black--large }
-
-Vesterheim seeks a dynamic and skilled professional to lead the institution as it expands and strengthens its campus and programming in accordance with its long-range plan and campus development plan. Reporting directly to the Board of Trustees, the President and CEO has all the leadership and management responsibilities normally associated with the position of chief executive officer.
-
-Find specific information [here](/about/employment/president/).
+The following job opportunity is currently available at Vesterheim.
 
 Summer Web Intern
 -----------------

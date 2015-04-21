@@ -26,7 +26,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-Betty Rikansrud Nelson felt inspired to get involved with Vesterheim because it was her heritage. Her father-in-law was on the Vesterheim Board, her sister-in-law was an important employee, and her mother took needlework classes. Her true love for Vesterheim began when she started taking weaving classes at the museum.
+Betty Rikansrud Nelson felt inspired to get involved with Vesterheim because it was her heritage, but her true love for Vesterheim began when she started taking weaving classes at the museum.
 
 Betty credits Lila Nelson with being her mentor and teaching her how to be a great weaver. Betty gets the most satisfaction by working with Vesterheim students of all ages and being part of the weaving program. Betty has been a long time helper with the fourth grade Pioneer Immersion Program, where she teaches children basic weaving skills.
 

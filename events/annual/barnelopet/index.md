@@ -24,7 +24,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser: Get outside and enjoy the winter at _Barneløpet_, a non-competitive ski or walk event for children ages 3-13. 
 ---
-Get outside and enjoy the winter at _Barneløpet_, a non-competitive ski or walk event for children ages 3-13. The event is free and will be held on Saturday, February 7, 2015, at 10:00 a.m., with registration from 9:40 to 10:00 a.m. at the Decorah Community Prairie.
+Get outside and enjoy the winter at _Barneløpet_, a non-competitive ski or walk event for children ages 3-13. The event is free and is held the first Saturday of February at 10:00 a.m., with registration from 9:40 to 10:00 a.m. at the Decorah Community Prairie.
 
 _Barneløpet_ is open to children of all skill levels and is a great event for the entire family. Everyone’s a winner! Each registered participant will receive a printed bib for the event and a medal. Sons of Norway lodges all over the country sponsor _Barneløpet_ events, modeled after the American _Birkebeiner_ cross-country ski race held in Hayward, Wisconsin.
 

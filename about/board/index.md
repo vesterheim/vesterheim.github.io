@@ -56,7 +56,6 @@ Trustees
 
 Honorary Trustees
 -----------------
-- **Dan Huebner**, Decorah, Iowa
 - **Dr. Eugene J. Nordby**, Madison, Wisconsin
 
 

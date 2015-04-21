@@ -27,6 +27,7 @@ A significant gift of historical objects from Norwegian museums for "the Norwegi
 
 Royal Visits To Vesterheim And Decorah
 --------------------------------------
+{% include images/lead.html image="/events/royal-visit/norwegian-royalty.jpg" pull="right" ratio="golden" %}
 - **May 6 and 7, 1939**  Crown Prince Olav and his wife, Princess Märtha, stay in Decorah while on their first United States tour. The Crown Prince brings gifts for the Norwegian-American Historical Museum, now Vesterheim, from the National Association of Museums in Norway. This group of Norwegian museums not only contributes the artifacts, but also donates the funds to cover shipping. While the Crown Prince and Princess are in Decorah, Luther College confers upon the Crown Prince an honorary degree.
 - **October 6, 1965**  Crown Prince Harald, (who became King Harald V in 1991), visits Vesterheim and Luther College, where an honorary degree is conferred upon him.
 - **May 4, 1968**  King Olav V visits Vesterheim and Luther College.

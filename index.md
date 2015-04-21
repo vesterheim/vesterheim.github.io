@@ -17,6 +17,13 @@ sitemap:
 carousel:
   ratio: carousel
   slides:   
+    - image: 25x9/visit/syttende-mai-nordic-dancers2.jpg
+      alt: Norwegian Festivals
+      caption: Parade, Nordic Dancers, Foot-Notes band, and more this year at Vesterheim's _Syttende Mai_ celebration!
+      link: /events/annual/syttende-mai/
+      published: true
+      start_date:
+      stop_date:    
     - image: 25x9/events/barneløpet--kids.jpg
       alt: Barneløpet Children's Ski/Walk Event
       caption: Enjoy the winter at _Barneløpet._
@@ -24,18 +31,18 @@ carousel:
       published: false
       start_date:
       stop_date: 2015-1-8
-    - image: 25x9/folk-art-school/classes/icelandic-knitting.jpg
-      alt: Icelandic Knitting Class
-      caption: Learn ancient Icelandic knitting with Hélène Magnússon at Vesterheim's Folk Art School!
-      link: /folk-art-school/classes/fiber-arts/2015-04-17-icelandic-knitting-sampler/
-      published: false
+    - image: 25x9/folk-art-school/classes/woodroom.jpg
+      alt: Vesterheim's Folk Art School
+      caption: Experience the joy of making things at Vesterheim's Folk Art School!
+      link: /folk-art-school/classes/
+      published: true
       start_date:
       stop_date:
-    - image: 25x9/exhibitions/special/a-restored-connection.jpg
-      alt: "A Restored Connection: A Dream of a Cultural Identity"
-      caption: "A Restored Connection: A Dream of a Cultural Identity"
+    - image: 25x9/fodors-best-15-museums.jpg
+      alt: "Fodor's Names Vesterheim One of 15 Best Small-Town Museums in the U.S."
+      caption: "Vesterheim was named one of “15 Best Small-Town Museums in the U.S.” by the world-respected travel guide, Fodor’s!"
       link: /exhibitions/special/a-restored-connection/
-      published: false
+      published: true
       start_date:
       stop_date:
     - image: 25x9/visit/norwegian_house.jpg
@@ -45,13 +52,6 @@ carousel:
       published: true
       start_date:
       stop_date:
-    - image: 25x9/visit/syttende-mai-nordic-dancers2.jpg
-      alt: Norwegian Festivals
-      caption: Parade, Nordic Dancers, Foot-Notes band, and more this year at Vesterheim's _Syttende Mai_ celebration!
-      link: /events/annual/syttende-mai/
-      published: true
-      start_date:
-      stop_date:       
 
 show_social_sharing_bar: false
 
@@ -90,6 +90,17 @@ panels:
     published: false
 #    start_date: 2014-12-20
 #    stop_date:  2015-01-02   
+  - url: /about/news/2015/new-vesterheim-president-ceo/
+    file_under: News
+    image: 16x9/about/johnson-chris.jpg
+    alt:
+    caption:
+    title: Vesterheim Hires New President/CEO
+    subtitle:
+    teaser: Vesterheim has hired a new President/CEO. Chris Johnson will take the helm of the renowned national Norwegian-American museum and heritage center beginning June 8, 2015. 
+    published: true
+    start_date:
+    stop_date: 
   - url: /about/news/2015/fodors-best-15-museums/
     file_under: News
     image: 
@@ -99,17 +110,6 @@ panels:
     subtitle:
     teaser: Vesterheim was named one of “15 Best Small-Town Museums in the U.S.” by the world-respected travel guide, Fodor's! 
     published: true
-    start_date: 2014-10-01
-    stop_date: 
-  - url: /about/news/2015/gilbertson-gjerset-lecture/
-    file_under: News
-    image: 16x9/events/gilbertson-laurann.jpg
-    alt:
-    caption:
-    title:
-    subtitle:
-    teaser: Vesterheim’s Chief Curator Laurann Gilbertson will present Luther College’s fifth annual Knut Gjerset lecture March 26. 
-    published: false
     start_date: 2014-10-01
     stop_date: 
   - url: /exhibitions/special/a-restored-connection/
@@ -343,4 +343,14 @@ events:
     published: true
     start_date: 
     stop_date: 2015-05-18
+  - url: /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/
+    image:
+    alt:
+    caption:
+    title: Opening day of _The National Exhibition of Folk Art in the Norwegian Tradition_ 
+    date: June 5, 2015
+    time:
+    published: true
+    start_date: 
+    stop_date: 2015-06-06
 ---
