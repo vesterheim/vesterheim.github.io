@@ -33,9 +33,6 @@ Carlson Endowment for Research
 Crown Princess Märtha Endowment
 : for staff development and exchange
 
-Dan and Bonnie Huebner Legacy
-: toward operating expenses
-
 Darrell Henning Acquisition Endowment
 : for the support of acquisition of artifacts
 
@@ -51,13 +48,13 @@ Gertrude Berg Professional Staff Endowment
 Harry and Josepha Anderson Fine Arts Endowment
 : for the support of the fine art collection
 
-Haugen Living Trust
+Haugen Living Trust Endowment
 : toward operating expenses
 
 King Olav V Endowment
 : for the conservation program
 
-Lila & Marion Nelson Endowment
+Lila and Marion Nelson Endowment
 : toward operating expenses
 
 Lutheran Brotherhood Endowment
@@ -75,14 +72,17 @@ Norwegian Arts and Crafts Endowment
 Sigmund Aarseth Norwegian Instructor Endowment
 : to bring Norwegian folk-art instructors to teach at Vesterheim
 
+The Dan and Bonnie Huebner Legacy
+: toward operating expenses
+
+The Dan and Bonnie Huebner Endowment for the Westby-Torgerson Education Center
+: to support educational programs at the Westby-Torgerson Education Center
+
 Trygve Lønnebotn Endowment
 : toward operating expenses
 
 Valdres House Endowment
 : for interpretation and upkeep of the Valdres House
-
-Westby-Torgerson Education Endowment
-: to support educational programs at the Westby-Torgerson Education Center
 
 Wigeland Endowment
 : for operational support

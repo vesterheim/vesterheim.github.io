@@ -92,7 +92,7 @@ panels:
 #    stop_date:  2015-01-02   
   - url: /about/news/2015/new-vesterheim-president-ceo/
     file_under: News
-    image: 16x9/about/johnson-chris.jpg
+    image: 16x9/about/johnson-chris-suit.jpg
     alt:
     caption:
     title: Vesterheim Hires New President/CEO

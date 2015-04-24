@@ -6,7 +6,7 @@ meta_title:        # Appears on bookmarks, search results, etc...
 meta_description: Vesterheim has hired a new President/CEO. Chris Johnson will take the helm of the renowned national Norwegian-American museum and heritage center beginning June 8, 2015.
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-  image:
+  image: 16x9/about/johnson-chris-suit.jpg
   alt:
   caption:
 related:
@@ -15,7 +15,7 @@ navigation:
   exclude: true  
 pagelist:
   order: 20150415
-  image: 46x21/artifacts/LC0727.jpg
+  image: 16x9/about/johnson-chris-suit.jpg
   alt: 
   caption:
   title:         # Defaults to navigation title
