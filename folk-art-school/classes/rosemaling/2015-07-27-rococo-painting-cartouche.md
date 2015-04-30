@@ -35,7 +35,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description 
 ---
-Inspired by a sled at the Trøndelag Sverresborg Folkemuseum during Vesterheim’s folk art tour to Norway in 2014, Pam has created a flowing rococo design with gold leaf cartouche for a tray. Painters of all styles will be comfortable with this design since there are elements of Telemark, Hallingdal, and Gudbrandsdal in the original sled. Pam will also explore how rococo influenced the early rosemalers. Gold leaf will be taught.
+Inspired by a sled at the Trøndelag Sverresborg Folkemuseum during Vesterheim’s folk art tour to Norway in 2014, Pam has created a flowing rococo design with gold leaf cartouche. Painters of all styles will be comfortable with this design since there are elements of Telemark, Hallingdal, and Gudbrandsdal in the original sled. Pam will also explore how rococo influenced the early rosemalers. Gold leaf will be taught.
 
 Most classes at Vesterheim focus on one rosemaling style at a time, rather than the broader scope of an art style and period. This time, we are focusing on how rosemaling in Norway, in all its variations, fits into general art history and the developments of decorative arts. Once you have studied rococo, you will begin to see it everywhere and in all of the styles of the old rosemaling, painted by masters whose names many of us recognize and painted by lesser known rosemalers. Rococo is one of the easiest to design and adapt. 
 
