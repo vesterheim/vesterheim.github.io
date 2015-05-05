@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: page
 title: "Scandinavian Modern Design: Norwegian Enamel"
 subtitle: August 22, 2014 – April 19, 2015

@@ -332,7 +332,7 @@ events:
     time: 4:30-6:30PM
     published: true
     start_date: 
-    stop_date: 2015-04-03
+    stop_date: 2015-05-15
   - url: /events/annual/syttende-mai/
     image:
     alt:
@@ -343,6 +343,16 @@ events:
     published: true
     start_date: 
     stop_date: 2015-05-18
+  - url: /events/calendar/2015/05/24/scandinavian-music-jam/
+    image: /16x9/events/scandinavian-music-jam.jpg
+    alt:
+    caption:
+    title: Fourth Sunday Scandinavian Music Jam 
+    date: May 24, 2015
+    time:
+    published: true
+    start_date: 
+    stop_date: 2015-05-25
   - url: /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/
     image:
     alt:
@@ -353,4 +363,54 @@ events:
     published: true
     start_date: 
     stop_date: 2015-06-06
+  - url: /folk-art-school/classes/woodworking/2015-07-08-acanthus-woodcarving-beginning-intermediate/
+    image: /46x21/folk-art-school/sandom_acanthus.jpg
+    alt:
+    caption:
+    title: Acanthus Woodcarving—Beginning and Intermediate with Hans Sandom 
+    date: June 8-12, 2015
+    time:
+    published: true
+    start_date: 
+    stop_date: 2015-06-13
+  - url: /folk-art-school/classes/fiber-arts/2015-06-10-norwegian-boundweaves-or-crooked-path/
+    image: /46x21/folk-art-school/demuth_boundweave.jpg
+    alt:
+    caption:
+    title: Norwegian Boundweaves or "Crooked Path" with Laura Demuth 
+    date: June 10-14, 2015
+    time:
+    published: true
+    start_date: 
+    stop_date: 2015-06-15
+  - url: /folk-art-school/classes/rosemaling/2015-06-12-dala-painting/
+    image: /46x21/folk-art-school/braun_dala.jpg
+    alt:
+    caption:
+    title: "“Dala” It Up! with Sandy Braun"
+    date: June 12-14, 2015
+    time:
+    published: true
+    start_date: 
+    stop_date: 2015-06-15
+  - url: /folk-art-school/classes/woodworking/2015-07-15-acanthus-woodcarving-intermediate-advanced/
+    image: /46x21/folk-art-school/sandom_acanthus.jpg
+    alt:
+    caption:
+    title: Acanthus Woodcarving—Intermediate and Advanced with Hans Sandom 
+    date: June 15-19, 2015
+    time:
+    published: true
+    start_date: 
+    stop_date: 2015-06-20
+  - url: /events/annual/folk-art-banquet/
+    image:
+    alt:
+    caption:
+    title: Folk Art Banquet 
+    date: July 24, 2015
+    time:
+    published: true
+    start_date: 
+    stop_date: 2015-07-25
 ---

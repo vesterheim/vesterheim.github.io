@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: page
 title: "A Restored Connection: A Dream of a Cultural Identity"
 subtitle: September 12, 2014 – April 12, 2015
