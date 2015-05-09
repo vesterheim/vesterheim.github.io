@@ -136,12 +136,23 @@ panels:
     stop_date:  
   - url: /join-give/raffles/
     file_under:
+    image: /16x9/join-give/viking-cruis-raffle.jpg
+    alt:
+    caption:
+    title:
+    subtitle:
+    teaser: You could win a Viking River Cruise!
+    published: true
+    start_date: 2014-10-01
+    stop_date:   
+  - url: /join-give/raffles/
+    file_under:
     image: 
     alt:
     caption:
     title:
     subtitle:
-    teaser: Vesterheim is extremely pleased to announce the raffle of a _skinnfell_ made by Norwegian artist Britt Solheim
+    teaser: Vesterheim is extremely pleased to announce the raffle of a _skinnfell_ made by Norwegian artist Britt Solheim.
     published: true
     start_date: 2014-10-01
     stop_date:   
