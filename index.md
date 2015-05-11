@@ -41,7 +41,7 @@ carousel:
     - image: 25x9/fodors-best-15-museums.jpg
       alt: "Fodor's Names Vesterheim One of 15 Best Small-Town Museums in the U.S."
       caption: "Vesterheim was named one of “15 Best Small-Town Museums in the U.S.” by the world-respected travel guide, Fodor’s!"
-      link: /exhibitions/special/a-restored-connection/
+      link: /about/news/2015/fodors-best-15-museums/
       published: true
       start_date:
       stop_date:
@@ -364,16 +364,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-05-25
-  - url: /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/
-    image:
-    alt:
-    caption:
-    title: Opening day of _The National Exhibition of Folk Art in the Norwegian Tradition_ 
-    date: June 5, 2015
-    time:
-    published: true
-    start_date: 
-    stop_date: 2015-06-06
   - url: /folk-art-school/classes/woodworking/2015-07-08-acanthus-woodcarving-beginning-intermediate/
     image: /46x21/folk-art-school/sandom_acanthus.jpg
     alt:
@@ -394,6 +384,16 @@ events:
     published: true
     start_date: 
     stop_date: 2015-06-15
+  - url: /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/
+    image:
+    alt:
+    caption:
+    title: Opening day of _The National Exhibition of Folk Art in the Norwegian Tradition_ 
+    date: June 12, 2015
+    time:
+    published: true
+    start_date: 
+    stop_date: 2015-06-06
   - url: /folk-art-school/classes/rosemaling/2015-06-12-dala-painting/
     image: /46x21/folk-art-school/braun_dala.jpg
     alt:
