@@ -3,6 +3,8 @@ published: true
 title: Rosemaling Basics for the Very Beginner 
 subtitle: October 1-4, 2015, with Patti Goke 
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Patti Goke 

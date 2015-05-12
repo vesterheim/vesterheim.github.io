@@ -9,7 +9,8 @@ hero:
   image: 16x9/folk-art-school/weaving.jpg
   alt:
   caption:
-
+related:
+- /visit/plan/decorah/
 
 navigation:
   order: 60

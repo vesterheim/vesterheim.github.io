@@ -3,6 +3,8 @@ published: true
 title: Food and Flower Heritage Gardens 
 subtitle: April 17, 18, and 19, 2015, with Marty Bergland & Darlene Fossum-Martin
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: 

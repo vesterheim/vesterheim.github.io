@@ -3,6 +3,8 @@ published: true
 title: Norwegian Stave Container 
 subtitle: September 16-20, 2015, with Owen Christianson 
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Owen Christianson 

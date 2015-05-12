@@ -3,6 +3,8 @@ published: true
 title: Rosemaling in the Telemark Style—Beginning 
 subtitle: July 17-21, 2015, with Johild Mæland
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Johild Mæland

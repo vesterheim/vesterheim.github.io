@@ -3,6 +3,8 @@ published: true
 title: Chip Carving 
 subtitle: November 6-8, 2015, with Ellen Macdonald 
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Ellen Macdonald 

@@ -3,6 +3,8 @@ published: true
 title: Rosemaling in the Gudbrandsdal Style 
 subtitle: July 8-12, 2015, with Andrea Herkert 
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Andrea Herkert 

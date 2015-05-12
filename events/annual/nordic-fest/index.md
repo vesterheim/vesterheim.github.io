@@ -29,3 +29,5 @@ Vikings, folk-art, storytellers, art demonstrations, and more—Vesterheim is al
 Nordic Fest is a celebration of the spirit of Scandinavia, and includes fun activities for the whole family. The city-wide festival is held each year on the last full weekend in July. This year it will held on July 24 and 25 with Opening Ceremonies on Thursday, July 23. 
 
 Traditions new and old abound throughout the weekend. There is always lively dancing, challenging sporting events, delicious food, and lots of other entertainment. To learn more about other aspects of the fest, call the “troll-free” hotline at 1-800-382-FEST, or visit [Nordic Fest](http://www.nordicfest.com/).
+
+Find an album of pictures from last year's event [here.](https://www.facebook.com/media/set/?set=a.10152225420784109.1073741869.18263584108&type=3)

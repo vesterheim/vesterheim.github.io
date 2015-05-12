@@ -3,6 +3,8 @@ published: true
 title: Forging Tongs, Knifeblade, Handle, and Sheath 
 subtitle: August 2-7, 2015, with Morten Håkonsen & K.J. Groven
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: 

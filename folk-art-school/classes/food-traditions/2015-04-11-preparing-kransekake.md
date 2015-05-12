@@ -3,6 +3,8 @@ published: true
 title: Preparing Kransekake From Start to Finish 
 subtitle: April 11, 2015, with Carrie Solberg
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Carrie Solberg

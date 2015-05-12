@@ -57,6 +57,17 @@ show_social_sharing_bar: false
 
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px      
 panels:
+  - url: /folk-art-school/classes/
+    file_under:
+    image: /16x9/folk-art-school/weaving.jpg
+    alt:
+    caption:
+    title:
+    subtitle:
+    teaser: A class is a blast at Vesterheim! Check the Folk Art School schedule for 2015 and sign up today.
+    published: true
+    start_date: 2014-10-01
+    stop_date:    
   - url: /visit/plan/hours-and-admission/
     file_under:
     image: 16x9/events/julenisse--christmas--kids.jpg
@@ -90,17 +101,6 @@ panels:
     published: false
 #    start_date: 2014-12-20
 #    stop_date:  2015-01-02   
-  - url: /about/news/2015/new-vesterheim-president-ceo/
-    file_under: News
-    image: 16x9/about/johnson-chris-suit.jpg
-    alt:
-    caption:
-    title: Vesterheim Hires New President/CEO
-    subtitle:
-    teaser: Vesterheim has hired a new President/CEO. Chris Johnson will take the helm of the renowned national Norwegian-American museum and heritage center beginning June 8, 2015. 
-    published: true
-    start_date:
-    stop_date: 
   - url: /about/news/2015/fodors-best-15-museums/
     file_under: News
     image: 
@@ -109,7 +109,7 @@ panels:
     title: Fodor's Names Vesterheim one of 15 Best Small-Town Museums in the U.S.
     subtitle:
     teaser: Vesterheim was named one of “15 Best Small-Town Museums in the U.S.” by the world-respected travel guide, Fodor's! 
-    published: true
+    published: false
     start_date: 2014-10-01
     stop_date: 
   - url: /exhibitions/special/a-restored-connection/
@@ -166,18 +166,7 @@ panels:
     teaser: This spring, Vesterheim will pay forward the generosity of our members and supporters by giving free admission to more than 300 children. 
     published: true
     start_date: 2014-10-01
-    stop_date: 
-  - url: /folk-art-school/classes/
-    file_under:
-    image: /16x9/folk-art-school/weaving.jpg
-    alt:
-    caption:
-    title:
-    subtitle:
-    teaser: Make plans to take a class at Vesterheim's Folk Art School in 2015. Classes are filling fast. Sign up today!
-    published: true
-    start_date: 2014-10-01
-    stop_date:      
+    stop_date:   
   - url: /about/news/2015/viking-exhibit-field-museum/
     file_under: News
     image: /16x9/about/viking-field-museum.jpg
@@ -199,6 +188,17 @@ panels:
     teaser: Vesterheim gives its special touch to the Hurtigruten’s classic Norwegian coastal voyage! Every day of this incredible trip will be filled with one-of-a-kind opportunities to explore Norway and see breathtaking scenery. This tour is so popular it’s being offered twice in 2015!
     published: false
     start_date: 2014-10-01
+    stop_date: 
+  - url: /about/news/2015/new-vesterheim-president-ceo/
+    file_under: News
+    image: 16x9/about/johnson-chris-suit.jpg
+    alt:
+    caption:
+    title: Vesterheim Hires New President/CEO
+    subtitle:
+    teaser: Vesterheim has hired a new President/CEO. Chris Johnson will take the helm of the renowned national Norwegian-American museum and heritage center beginning June 8, 2015. 
+    published: true
+    start_date:
     stop_date: 
   - url: /about/news/2014/johnson-retirement/
     file_under: News

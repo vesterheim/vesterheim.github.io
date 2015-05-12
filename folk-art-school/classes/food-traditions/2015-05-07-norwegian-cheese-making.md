@@ -3,6 +3,8 @@ published: true
 title: Norwegian Cheese Making 
 subtitle: June 5-7, 2015, with Gary Colles
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Gary Colles

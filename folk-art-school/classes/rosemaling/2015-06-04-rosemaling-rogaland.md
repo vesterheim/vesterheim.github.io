@@ -3,6 +3,8 @@ published: true
 title: Rosemaling in the Rogaland Style 
 subtitle: June 4-7, 2015, with Ruth Green
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Ruth Green

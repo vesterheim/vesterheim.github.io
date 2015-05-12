@@ -3,6 +3,8 @@ published: true
 title: Traditional Norwegian Cookies of Christmas 
 subtitle: November 8, 2015, with Darlene Fossum-Martin
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Darlene Fossum-Martin

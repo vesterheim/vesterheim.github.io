@@ -3,6 +3,8 @@ published: true
 title: Beginning Rosemaling 
 subtitle: January 24, 31, & Feb. 7, 14, 2015, with Shirley Evenstad
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: Church of the Good Shepherd, 48th and France, Edina, Minnesota
 instructor: Shirley Evenstad

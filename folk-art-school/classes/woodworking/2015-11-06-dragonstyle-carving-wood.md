@@ -3,6 +3,8 @@ published: true
 title: Dragonstyle Carving in Wood 
 subtitle: November 6-8, 2015, with Becky Lusk 
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Becky Lusk 

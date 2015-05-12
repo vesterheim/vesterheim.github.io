@@ -3,6 +3,8 @@ published: true
 title: Rosemaling in Acrylics 
 subtitle: October 23-25, 2015, with Lois Mueller 
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Lois Mueller 

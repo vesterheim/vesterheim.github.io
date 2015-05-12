@@ -3,6 +3,8 @@ published: true
 title: Norwegian Pick-Up Bandweaving
 subtitle: September 17-19, 2015 with Heather Torgenrud
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Heather Torgenrud

@@ -3,6 +3,8 @@ published: true
 title: Carving Christmas Ornaments 
 subtitle: October 18, 2015, with Rebecca Hanna 
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Rebecca Hanna 

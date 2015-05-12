@@ -3,6 +3,8 @@ published: true
 title: Making a Viking Silver Knit Bracelet 
 subtitle: May 2, 2015, with Liz Bucheit
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Liz Bucheit

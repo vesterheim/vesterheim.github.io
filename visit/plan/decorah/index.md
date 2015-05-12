@@ -22,7 +22,7 @@ pagelist:
   caption:   
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
-  teaser: Decorah, Iowa, in Winneshiek County, is a great place to visit. Vesterheim is proud to be a part of this thriving community and to share information about the wonderful attractions and businesses you can find in the area.
+  teaser: Decorah, Iowa, in Winneshiek County, is a great place to visit. It’s a warm and vibrant town with beautiful scenery, plenty of outdoor recreation, cultural and historic venues with numerous events and festivals, plus a thriving artist community. 
 ---
 Decorah is a great place to visit. It’s a warm and vibrant town that makes a perfect getaway from the hustle and bustle of everyday life. The surrounding Winneshiek County is nestled in the midst of towering bluffs and beautiful scenery, offering plenty of outdoor recreation, cultural and historic venues with numerous events and festivals, plus a thriving artist community. 
 

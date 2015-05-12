@@ -3,6 +3,8 @@ published: true
 title: Carving for Christmas—Figures and Toys 
 subtitle: November 6-8, 2015, with Harley Refsal 
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Harley Refsal 

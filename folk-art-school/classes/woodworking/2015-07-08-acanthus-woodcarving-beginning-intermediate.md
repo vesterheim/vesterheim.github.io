@@ -3,6 +3,8 @@ published: true
 title: Acanthus Woodcarving—Beginning and Intermediate 
 subtitle: June 8-12, 2015, with Hans Sandom 
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Hans Sandom 

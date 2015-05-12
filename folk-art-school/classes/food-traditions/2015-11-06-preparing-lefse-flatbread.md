@@ -3,6 +3,8 @@ published: true
 title: Preparing Lefse and Flatbread 
 subtitle: November 6-7, 2015, with Darlene Fossum-Martin
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Darlene Fossum-Martin

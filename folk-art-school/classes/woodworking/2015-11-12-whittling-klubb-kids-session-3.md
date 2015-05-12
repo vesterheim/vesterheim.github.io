@@ -3,6 +3,8 @@ published: true
 title: Whittling Klubb for Kids—Session III 
 subtitle: Nov. 12, 19, and Dec. 3, 10, 2015, with Rebecca Hanna 
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Rebecca Hanna 

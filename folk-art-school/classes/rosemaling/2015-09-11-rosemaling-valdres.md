@@ -3,6 +3,8 @@ published: true
 title: Rosemaling in the Valdres Style 
 subtitle: September 11-13, 2015, with Sara Tollefson 
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Sara Tollefson 

@@ -3,6 +3,8 @@ published: true
 title: Norwegian Boundweaves or “Crooked Path” 
 subtitle: June 10-14, 2015, with Laura Demuth
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Laura Demuth

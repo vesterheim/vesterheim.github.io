@@ -3,6 +3,8 @@ published: true
 title: Spinning Wool into Yarn 
 subtitle: July 27-30, 2015, with Kate Martinson
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Kate Martinson

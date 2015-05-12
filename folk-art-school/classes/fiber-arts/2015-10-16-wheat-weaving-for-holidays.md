@@ -3,6 +3,8 @@ published: true
 title: Wheat Weaving for the Holidays 
 subtitle: October 16-17, 2015, with Bev Schrandt
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Bev Schrandt

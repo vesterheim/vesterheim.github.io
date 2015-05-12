@@ -3,6 +3,8 @@ published: true
 title: Rococo with Gold Leaf Cartouche 
 subtitle: July 27-31, 2015, with Pam Rucinski 
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Pam Rucinski 

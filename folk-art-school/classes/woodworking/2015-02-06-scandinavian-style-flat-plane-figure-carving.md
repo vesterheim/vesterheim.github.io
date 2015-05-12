@@ -3,6 +3,8 @@ published: true
 title: Scandinavian Style Flat Plane Figure Carving 
 subtitle: February 6-8, 2015, with Harley Refsal 
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Harley Refsal 

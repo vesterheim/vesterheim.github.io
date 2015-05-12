@@ -30,6 +30,7 @@ _Syttende Mai_ is the day Norway ratified its constitution in 1814 at Eidsvoll. 
 
 Now, Norwegians celebrate their constitution with excited crowds, especially children, marching through the streets waving flags, singing songs, and celebrating their nation’s independence. _Syttende Mai_ is a great opportunity to celebrate freedom wherever it occurs. 
 
+Find an album of pictures from last year's event [here.](https://www.facebook.com/media/set/?set=a.10152091950614109.1073741862.18263584108&type=3)
 
 ### Schedule of Events - May 16, 2015
 
@@ -45,4 +46,4 @@ Now, Norwegians celebrate their constitution with excited crowds, especially chi
 
 From 1:00-4:00 p.m., the Nordic Dancers will be holding a "Blomster Salg," flower sale, in the courtyard next to the museum. Support this local group and get ready to plant your garden with these flower starts.
 
-In case of inclement weather, the parade and Nordic Dancers will be canceled and the Foot-Notes dance will be held at Decorah Lutheran Church at 309 Winnebago Street in Decorah.
+In case of inclement weather, the parade and Nordic Dancers will be canceled and the Foot-Notes dance will be held at Decorah Lutheran Church at 309 Winnebago Street in Decorah. All other activities will continue as planned.

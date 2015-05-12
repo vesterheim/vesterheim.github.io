@@ -4,6 +4,8 @@ title: Band Loom Carving (carving segment of class for couples)
 subtitle: February 14-15, 2015 with Roger Abrahamson
 meta_title: Band Loom Carving (carving segment of class for couples)
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Roger Abrahamson

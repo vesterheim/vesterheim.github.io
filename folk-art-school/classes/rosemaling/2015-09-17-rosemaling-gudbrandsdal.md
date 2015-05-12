@@ -3,6 +3,8 @@ published: false
 title: Rosemaling in the Gudbrandsdal Style 
 subtitle: September 17-19, 2015, with Judy Ritger 
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Judy Ritger 

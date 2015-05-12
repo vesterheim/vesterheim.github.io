@@ -3,6 +3,8 @@ published: true
 title: Rosemaling in the Os Style 
 subtitle: July 18-22, 2015, with Nancy Schmidt 
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Nancy Schmidt 

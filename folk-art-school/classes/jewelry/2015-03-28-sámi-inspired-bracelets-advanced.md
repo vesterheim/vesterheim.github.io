@@ -3,6 +3,8 @@ published: true
 title: Sámi Inspired Bracelets—Advanced 
 subtitle: March 28, 2015, with Norma Refsal
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Norma Refsal

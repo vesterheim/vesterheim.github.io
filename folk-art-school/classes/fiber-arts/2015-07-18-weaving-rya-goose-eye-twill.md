@@ -3,6 +3,8 @@ published: true
 title: Weaving a *Rya* on a Goose-eye Twill Background Technique
 subtitle: July 18-21, 2015 with Jan Mostrom
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Jan Mostrom

@@ -3,6 +3,8 @@ published: true
 title: “Dala” It Up! 
 subtitle: June 12-14, 2015, with Sandy Braun
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Sandy Braun

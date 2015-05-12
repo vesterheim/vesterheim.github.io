@@ -3,6 +3,8 @@ published: true
 title: Scandinavian Bowl Turning on a Spring Pole Lathe 
 subtitle: February 16-18, 2015, with Roger Abrahamson 
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Roger Abrahamson 

@@ -9,6 +9,7 @@ hero:
   alt:
   caption:
 related:
+- /visit/plan/decorah/
 
 navigation:
   order: 30

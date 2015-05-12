@@ -3,6 +3,8 @@ published: true
 title: Carving an Ale Vessel with Horse Heads 
 subtitle: July 18-22, 2015, with Torgeir Lirhus 
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Torgeir Lirhus 

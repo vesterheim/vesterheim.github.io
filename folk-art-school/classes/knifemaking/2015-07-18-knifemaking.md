@@ -3,6 +3,8 @@ published: true
 title: Knifemaking 
 subtitle: July 18-22, 2015, with Morten Håkonsen
 meta_description:  # Used in HTML head and as the description for some search engines
+related:
+- /visit/plan/decorah/
 
 location: ~
 instructor: Morten Håkonsen

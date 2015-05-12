@@ -38,4 +38,6 @@ In the absence of snow, children will walk the course. If in doubt about weather
 
 For more information about _Barneløpet_ contact Darlene Fossum-Martin at [dfossum-martin@vesterheim.org](mailto:dfossum-martin@vesterheim.org), or (563) 382-9681, ext. 215. _Barneløpet_ is sponsored by Jon and Mary Hart and Sons of Norway Lodges—Valdres #503 in Decorah, Iowa, Heimbygda #376 in Lanesboro, Minnesota, and Valheim #364 in Spring Grove, Minnesota.
 
+Find an album of pictures from last year's event [here.](https://www.facebook.com/media/set/?set=a.10152631919024109.1073741875.18263584108&type=3)
+
 **Check out these fun Sons of Norway videos of previous Barneløpet events from [2012](https://www.youtube.com/watch?v=wNxP48FUKWU&index=4&list=PL370594EED73F321B) and [2014](https://www.youtube.com/watch?v=1E-xPFjo25Y&list=PL370594EED73F321B&index=6).**
