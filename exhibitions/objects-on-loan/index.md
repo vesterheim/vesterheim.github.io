@@ -35,6 +35,30 @@ Exhibition _Norsk Kultur: Inspiration for 'Frozen'_
 
 Twenty-one items, which include bentwood boxes, a tankard, a horse harness, ale bowls, and a _kubbestol_ (a chair made from a solid log), are on view in the Norway Pavilion until sometime in 2016.
 
+### Livsreise Norwegian Heritage Center
+{: .heading--black--mixed-case }
+
+Stoughton, Wisconsin <br />
+Exhibition _Sacred Symbols: The Folk Art of Norway_
+
+This Vesterheim traveling exhibition, which focuses on the many symbols that have come down from the Viking past, features wood, silver, horn, and textiles artifacts from the museum's collections. On view May 16, 2015 through March 31, 2016.
+
+### Museum of Danish America
+{: .heading--black--mixed-case }
+
+Elk Horn, Iowa <br />
+Exhibition _Skål! Scandinavian Spirits_
+
+This exhibition, which explores the role of beer and aquavit as symbols of Scandinavian heritage, includes drinking vessels from Vesterheim's collections. On view through October 25, 2015. The exhibition will then travel to Nordic Heritage Museum, Seattle, Washington; Swedish American Museum, Chicago, Illinois; Vesterheim Norwegian-American Museum, Decorah, Iowa; American Swedish Historical Museum, Philadelphia, Pennsylvania; American Swedish Institute, Minneapolis, Minnesota; and Elverhoj Museum, Solvang, California.
+
+### Old Capital Museum
+{: .heading--black--mixed-case }
+
+University of Iowa, Iowa City<br />
+Exhibition _The Land Provides: Iowa's Culinary Heritage_
+
+The exhibition explores Iowa's rich culinary history, various agriculture techniques, and the people who brought the earth's bounty from farm and garden to table. On view now through August 1, 2015 
+
 ### The Mint Museum
 {: .heading--black--mixed-case }
 

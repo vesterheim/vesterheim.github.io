@@ -23,6 +23,8 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description 
 ---
+Vesterheim offers a wide selection of fiber arts classes. Come to learn the ancient art of _nålbinding,_ the detailed stitching of authentic _bunads,_ a variety of traditional Scandinavian weaving styles, and more. The instructors at Vesterheim are known throughout the fiber arts community for their high level of skill in both their artform and teaching methods. Plus, the Decorah community boasts many resources for textile enthusiasts — great artists, wonderful supply stores, and plenty of inspiration.
+
 {% assign class__pagelist = site.data.pagelist | where: 'parent', page.url | sort: 'dtstart' %}
 {% include folk-art-school/class-list.html %}
 {% assign assign class__pagelist = nil %}

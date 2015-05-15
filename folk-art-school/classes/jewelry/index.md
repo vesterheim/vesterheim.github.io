@@ -23,6 +23,8 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description 
 ---
+Have you noticed a _Såmi_-inspired bracelet or Viking knit chain on one of your favorite celebrities lately? These and other Scandinavian-inspired popular pieces of jewelry are fun to make for yourself or as a gift. Vesterheim's jewelry instructors are known for their authentic craftsmanship, creative inspiration, and relaxed teaching style. 
+
 {% assign class__pagelist = site.data.pagelist | where: 'parent', page.url | sort: 'dtstart' %}
 {% include folk-art-school/class-list.html %}
 {% assign assign class__pagelist = nil %}

@@ -30,4 +30,20 @@ Nordic Fest is a celebration of the spirit of Scandinavia, and includes fun acti
 
 Traditions new and old abound throughout the weekend. There is always lively dancing, challenging sporting events, delicious food, and lots of other entertainment. To learn more about other aspects of the fest, call the “troll-free” hotline at 1-800-382-FEST, or visit [Nordic Fest](http://www.nordicfest.com/).
 
+Vesterheim highlights during Nordic Fest include:
+
+* Music - Concerts by Sister, a Twin Cities-based vocal group offering uplifting music with a hint of their Nordic heritage.
+
+* Dance - A special event, to be announced, in cooperation with the local dance band, Foot-Notes. Stay tuned for more info! 
+
+* [_The National Exhibition of Folk Art in the Norwegian Tradition_](/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/)- Exceptional pieces of knifemaking, rosemaling, weaving, and woodworking by some of the best contemporary American artists. Many of the pieces will be for sale by silent auction. 
+
+* Folk Art Banquet - Honor this year’s Gold Medalists and Ribbon Winners of The National Exhibition. Norwegian instructors will give presentations. Artists and art enthusiasts are all welcome!     
+
+* Norwegian Folk-Art Demonstrations and Vesterheim Ribbon-Winning Rosemalers Sales Shop
+
+* Living Heritage Demonstrators from Minnesota, Iowa, and Wisconsin - Demonstrating their crafts of blacksmithing, leather work, knifemaking, flax processing, and more. 
+
+* Viking Ship Replica and Viking Re-enactment Group Skjaldborg.
+
 Find an album of pictures from last year's event [here.](https://www.facebook.com/media/set/?set=a.10152225420784109.1073741869.18263584108&type=3)

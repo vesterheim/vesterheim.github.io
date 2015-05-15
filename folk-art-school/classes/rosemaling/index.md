@@ -23,6 +23,8 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description   
 ---
+Come and study this beautiful, traditional Norwegian decorative painting with the best rosemaling instructors in the country and from Norway! Plus, the depth of Vesterheim's collection of rosemaling is sure to inspire your creativity. 
+
 {% assign class__pagelist = site.data.pagelist | where: 'parent', page.url | sort: 'dtstart' %}
 {% include folk-art-school/class-list.html %}
 {% assign assign class__pagelist = nil %}
