@@ -9,8 +9,8 @@ related:
 location: ~
 instructor: Hans Sandom 
 sessions: "June 15-19, 2015, 9:00 a.m.–5:00 p.m."
-dtstart: 2015-07-15 9:00:00 -5:00
-dtend: 2015-07-19 17:00:00 -5:00
+dtstart: 2015-06-15 9:00:00 -5:00
+dtend: 2015-06-19 17:00:00 -5:00
 level: Intermediate to advanced with some experience in acanthus carving   
   
 participation: Students just completing _Acanthus Woodcarving—Beginning and Intermediate_ are welcome.

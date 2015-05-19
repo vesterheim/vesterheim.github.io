@@ -21,7 +21,7 @@ carousel:
       alt: Norwegian Festivals
       caption: Parade, Nordic Dancers, Foot-Notes band, and more this year at Vesterheim's _Syttende Mai_ celebration!
       link: /events/annual/syttende-mai/
-      published: true
+      published: false
       start_date:
       stop_date:    
     - image: 25x9/events/barneløpet--kids.jpg
@@ -31,24 +31,37 @@ carousel:
       published: false
       start_date:
       stop_date: 2015-1-8
-    - image: 25x9/folk-art-school/classes/woodroom.jpg
-      alt: Vesterheim's Folk Art School
-      caption: Experience the joy of making things at Vesterheim's Folk Art School!
-      link: /folk-art-school/classes/
-      published: true
-      start_date:
-      stop_date:
     - image: 25x9/fodors-best-15-museums.jpg
       alt: "Fodor's Names Vesterheim One of 15 Best Small-Town Museums in the U.S."
       caption: "Vesterheim was named one of “15 Best Small-Town Museums in the U.S.” by the world-respected travel guide, Fodor’s!"
       link: /about/news/2015/fodors-best-15-museums/
-      published: true
+      published: false
       start_date:
       stop_date:
     - image: 25x9/visit/norwegian_house.jpg
       alt: Norwegian House
+      caption: "Vesterheim was named one of “15 Best Small-Town Museums in the U.S.” by the world-respected travel guide, Fodor’s!"
+      link: /visit/what/
+      published: true
+      start_date:
+    - image: 25x9/visit/norwegian_house.jpg
+      alt: Norwegian House
       caption: _USA Today_ named Vesterheim one of “ten great places in the nation to admire American folk art.”
       link: /visit/what/
+      published: false
+      start_date:
+      stop_date:
+    - image: 25x9/exhibitions/special/national-exhibition.jpg
+      alt: National Exhibition of Folk Art in the Norwegian Tradition
+      caption: Admire recent works by contemporary artists from all over the country in Vesterheim's _National Exhibition of Folk Art in the Norwegian Tradition!_
+      link: /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/viewing/
+      published: true
+      start_date:
+      stop_date:    
+    - image: 25x9/folk-art-school/classes/woodroom.jpg
+      alt: Vesterheim's Folk Art School
+      caption: Experience the joy of making things at Vesterheim's Folk Art School!
+      link: /folk-art-school/classes/
       published: true
       start_date:
       stop_date:
@@ -364,6 +377,16 @@ events:
     published: true
     start_date: 
     stop_date: 2015-05-25
+  - url: /folk-art-school/classes/food-traditions/2015-05-07-norwegian-cheese-making/
+    image: /46x21/folk-art-school/norwegian-cheese-making.jpg
+    alt:
+    caption:
+    title: Norwegian Cheese Making with Gary Colles 
+    date: June 5-7, 2015
+    time:
+    published: true
+    start_date: 
+    stop_date: 2015-06-08
   - url: /folk-art-school/classes/woodworking/2015-07-08-acanthus-woodcarving-beginning-intermediate/
     image: /46x21/folk-art-school/sandom_acanthus.jpg
     alt:
@@ -424,4 +447,14 @@ events:
     published: true
     start_date: 
     stop_date: 2015-07-25
+  - url: /events/annual/nordic-fest/
+    image: /46x21/events/nordic_fest.jpg
+    alt:
+    caption:
+    title: Vesterheim Events at Decorah's Nordic Fest 
+    date: July 24-25, 2015
+    time:
+    published: true
+    start_date: 
+    stop_date: 2015-07-26
 ---

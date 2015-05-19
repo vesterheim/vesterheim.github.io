@@ -9,8 +9,8 @@ related:
 location: ~
 instructor: Hans Sandom 
 sessions: "June 8-12, 2015, 9:00 a.m.–5:00 p.m."
-dtstart: 2015-07-08 9:00:00 -5:00
-dtend: 2015-07-12 17:00:00 -5:00
+dtstart: 2015-06-08 9:00:00 -5:00
+dtend: 2015-06-12 17:00:00 -5:00
 level: Beginner to intermediate.   
   
 participation: ~
