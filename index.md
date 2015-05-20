@@ -53,7 +53,7 @@ carousel:
       stop_date:
     - image: 25x9/exhibitions/special/national-exhibition.jpg
       alt: National Exhibition of Folk Art in the Norwegian Tradition
-      caption: Admire recent works by contemporary artists from all over the country in Vesterheim's _National Exhibition of Folk Art in the Norwegian Tradition!_
+      caption: Admire recent works by contemporary artists from all over the country at Vesterheim!
       link: /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/viewing/
       published: true
       start_date:

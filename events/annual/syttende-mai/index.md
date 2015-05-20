@@ -30,7 +30,7 @@ _Syttende Mai_ is the day Norway ratified its constitution in 1814 at Eidsvoll. 
 
 Now, Norwegians celebrate their constitution with excited crowds, especially children, marching through the streets waving flags, singing songs, and celebrating their nation’s independence. _Syttende Mai_ is a great opportunity to celebrate freedom wherever it occurs. 
 
-Find an album of pictures from last year's event [here.](https://www.facebook.com/media/set/?set=a.10152091950614109.1073741862.18263584108&type=3)
+Find an album of pictures from the 2015 celebration [here.](https://www.facebook.com/media/set/?set=a.10152832768844109.1073741882.18263584108&type=1)
 
 ### Schedule of Events - May 16, 2015
 
