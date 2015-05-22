@@ -48,6 +48,8 @@ Prices
 
 Vesterheim is part of a reciprocal network for historical museums and sites, the [Time Travelers](http://timetravelers.mohistory.org/institutions) Program. If you are a member of a museum that participates in the program, you receive $1.00 off Vesterheim admission and 10% off in the Museum Store.
 
+All active duty, National Guard and Reserve military personnel and up to five family members receive free admission from Memorial Day to Labor Day through the [Blue Star Museums program](http://arts.gov/national/blue-star-museums). Please show military ID upon arrival. 
+
 Take your time and tour Vesterheim's Main Building at your own pace. There is a lot to see. If you want to see it all, we'd advise a full day. Don't have that long? Check out [What to See in an Hour](/join-give/plan/itineraries/one-hour/).
 
 Guided tours of the museum’s Open Air Division are included with admission price and are scheduled at 1:30 p.m. daily May 1 through Oct. 31. (Tours occasionally take place at different times. Please confirm tour time with a desk attendant upon your arrival, or call ahead.)
