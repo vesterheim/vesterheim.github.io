@@ -28,6 +28,8 @@ pagelist:
 
 
 ---
+Price and itinerary will be announced in the fall of 2015.
+
 Back by popular demand! This tour was such a huge success in 2014, Darlene and Patti will lead it again in 2016.
 
 Immerse yourself in the traditional folk arts of rosemaling and woodcarving by joining this pilgrimage throughout nine of the nineteen _fylke_ (counties) of Norway. The tour will begin in the city of Trondheim in Sør-Trøndelag and travel through Oppland, More og Romsdal, Sogn og  Fjordane, Oppland, Buskerud, Telemark, Aust-Agder, and Hordaland.
@@ -39,7 +41,6 @@ The journey wouldn’t be complete without opportunities for hands-on artistic e
 {% include norway-tours/guide.html name='Patti Goke' %}
 
 {% include norway-tours/guide.html name='Darlene Fossum-Martin' %}
-
 
 Price and itinerary will be announced in the fall of 2015.
 
