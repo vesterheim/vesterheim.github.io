@@ -10,8 +10,7 @@ hero:
   alt:
   caption:
 related:
-  - /norway-tours/upcoming/coastal-voyage/
-  - /norway-tours/upcoming/textile/
+  - /norway-tours/upcoming/folk-art/
   - /norway-tours/contact/
 
 navigation:

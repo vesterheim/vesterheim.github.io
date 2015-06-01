@@ -10,7 +10,6 @@ hero:
   alt:
   caption:
 related:
-  - /norway-tours/upcoming/folk-art/
   - /norway-tours/forms/
   - /norway-tours/contact/
 
@@ -20,7 +19,7 @@ navigation:
   order: 20
 pagelist:
   order:         # Defaults to navigation order
-  image: 46x21/norway-tours/current-tours--people.jpg
+  image: 46x21/norway-tours/cathedral.jpg
   alt: 
   caption:
   title:         # Defaults to navigation title
