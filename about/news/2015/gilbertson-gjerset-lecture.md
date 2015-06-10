@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: page
 title: Gilbertson Presents Gjerset Lecture at Luther
 meta_title:        # Appears on bookmarks, search results, etc...

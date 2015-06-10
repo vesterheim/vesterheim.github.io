@@ -210,7 +210,7 @@ panels:
     title: Vesterheim Hires New President/CEO
     subtitle:
     teaser: Vesterheim has hired a new President/CEO. Chris Johnson will take the helm of the renowned national Norwegian-American museum and heritage center beginning June 8, 2015. 
-    published: true
+    published: false
     start_date:
     stop_date: 
   - url: /about/news/2014/johnson-retirement/
