@@ -2,7 +2,7 @@
 published: true
 layout: page
 title: Syttende Mai
-subtitle: May 16, 2015
+subtitle: 
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
@@ -24,15 +24,13 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-_Syttende Mai_ will be celebrated at Vesterheim this year on Saturday, May 16, 2015. Special thanks to _Syttende Mai_ sponsors Jeff and Marilyn Roverud, and to Sons of Norway Valdres Lodge and Rockwell-Collins in Decorah for additional support.
-
 _Syttende Mai_ is the day Norway ratified its constitution in 1814 at Eidsvoll. They did not, however, become independent from Sweden until 1905 and until then _Syttende Mai_ celebrations were frowned upon and even forbidden.
 
 Now, Norwegians celebrate their constitution with excited crowds, especially children, marching through the streets waving flags, singing songs, and celebrating their nation’s independence. _Syttende Mai_ is a great opportunity to celebrate freedom wherever it occurs. 
 
-Find an album of pictures from the 2015 celebration [here.](https://www.facebook.com/media/set/?set=a.10152832768844109.1073741882.18263584108&type=1)
+Find an album of pictures from the 2015 celebration [here.](https://www.facebook.com/media/set/?set=a.10152832768844109.1073741882.18263584108&type=1) Details will be announced later for the 2016 _Syttende Mai_ celebration.
 
-### Schedule of Events - May 16, 2015
+### 2015 events included:
 
 * **9:00 a.m. to 5:00 p.m.** Museum open with free admssion. 
 * **11:00 a.m.** Presentation, _Ung kvinne til sjøs: Young Woman at Sea,_ by Kari Gronningsæter and Nick Preus in the museum's Bethania Church on Mill Street. Hear the tale of this voyage around the world in 1913-1914, based on the letters and journals of Gronningsæter's grandmother. The ship, a full rigger captained by Gronningsæter's great-grandfather, sailed to Australia loaded with timber and returned to Norway loaded with wheat. On the way home, in the Atlantic, they found out that WW I had started.
@@ -43,7 +41,3 @@ Find an album of pictures from the 2015 celebration [here.](https://www.facebook
 * **2:00 p.m.** Guided tour of the buildings in the Open Air Division.
 * **2:30 p.m. and 3:30 p.m.**  Concerts by [Decorah Youth Choirs](http://www.decorahyouthchoirs.org/) in the museum's Bethania Church on Mill Street. Decorah Youth Choirs will perform their Spring Concert at two different times as part of Vesterheim's _Syttende Mai_ celebrations this year. More than 75 pre-K through 9th grade singers from local communities participate in DYC's four choirs. With songs from Norway, America, and around the world, this concert should be a lovely way to welcome spring!
 * **4:00-6:00 p.m.** Street dance with Decorah's popular Scandinavian-American old-time dance band, [Foot-Notes](http://www.footnotes.dance/) on Mill St. next to the museum. 
-
-From 1:00-4:00 p.m., the Nordic Dancers will be holding a "Blomster Salg," flower sale, in the courtyard next to the museum. Support this local group and get ready to plant your garden with these flower starts.
-
-In case of inclement weather, the parade and Nordic Dancers will be canceled and the Foot-Notes dance will be held at Decorah Lutheran Church at 309 Winnebago Street in Decorah. All other activities will continue as planned.

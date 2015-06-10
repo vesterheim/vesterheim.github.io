@@ -61,12 +61,12 @@ For an additional fee, members can subscribe to the [_Rosemaling Letter_,](/folk
 
 *   [_Vesterheim_,](/about/magazine/) our lushly illustrated magazine published twice a year, featuring in-depth articles focusing on the museum’s priceless collection of artifacts, Norwegian-American history and culture, and related topics.
 *   _The Current_, Vesterheim's email newsletter. 
-*   Discount on class tuition.
+*   Discount on class tuition at Vesterheim's Folk Art School.
 *   Discounts on most items and mail orders from the Museum Store.
 *   Free admission to the museum.
 *   Special “Member Appreciation” events.
 *   Discount on space rental of Vesterheim’s Bethania Church.
-*   Benefits at over 200 museums across the United States through the [Time Travelers](http://timetravelers.mohistory.org/institutions) program.
+*   Benefits at over 300 museums across the United States through the [Time Travelers](http://timetravelers.mohistory.org/institutions) program.
 
 {% include components/button.html text="Join, give or renew a membership" url="https://vesterheim.wufoo.com/forms/w3h863c0xax0mc/" style="primary" %} 
 
