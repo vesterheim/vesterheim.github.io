@@ -437,6 +437,16 @@ events:
     published: true
     start_date: 
     stop_date: 2015-06-20
+  - url: /events/calendar/2015/06/28/scandinavian-music-jam/
+    image: /16x9/events/scandinavian-music-jam.jpg
+    alt:
+    caption:
+    title: Fourth Sunday Scandinavian Music Jam 
+    date: June 28, 2015
+    time:
+    published: true
+    start_date: 
+    stop_date: 2015-06-29
   - url: /events/annual/folk-art-banquet/
     image:
     alt:
