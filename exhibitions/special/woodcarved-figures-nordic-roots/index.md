@@ -24,7 +24,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser: Showcasing the rich heritage and complex mastery of these seemingly simple figures. 
 ---
-Celebrate this exhibition on September 18 with a gallery talk by Harley Refsal and refreshments from 5:00-6:50 p.m. - free admission. 
+Celebrate this exhibition on September 18 with a gallery talk by Harley Refsal and refreshments from 5:00-7:00 p.m. - free admission. 
 
 The distinctive and often whimsical figure carving of the Nordic countries and Nordic America continues to delight audiences of all ages and backgrounds. This exhibition will showcase the rich heritage and complex mastery of these seemingly simple figures. 
 

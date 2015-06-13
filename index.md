@@ -396,7 +396,7 @@ events:
     time:
     published: true
     start_date: 
-    stop_date: 2015-06-13
+    stop_date: 2015-06-11
   - url: /folk-art-school/classes/fiber-arts/2015-06-10-norwegian-boundweaves-or-crooked-path/
     image: /46x21/folk-art-school/demuth_boundweave.jpg
     alt:
@@ -406,7 +406,7 @@ events:
     time:
     published: true
     start_date: 
-    stop_date: 2015-06-15
+    stop_date: 2015-06-11
   - url: /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/
     image:
     alt:
@@ -426,7 +426,7 @@ events:
     time:
     published: true
     start_date: 
-    stop_date: 2015-06-15
+    stop_date: 2015-06-11
   - url: /folk-art-school/classes/woodworking/2015-07-15-acanthus-woodcarving-intermediate-advanced/
     image: /46x21/folk-art-school/sandom_acanthus.jpg
     alt:
@@ -437,6 +437,16 @@ events:
     published: true
     start_date: 
     stop_date: 2015-06-20
+  - url: /events/calendar/2015/06/18/reception-for-new-president-ceo/
+    image: /16x9/about/johnson-chris-suit.jpg
+    alt:
+    caption:
+    title: Reception for Vesterheim's new President/CEO Chris Johnson 
+    date: June 18, 2015
+    time:
+    published: true
+    start_date: 
+    stop_date: 2015-06-19
   - url: /events/calendar/2015/06/28/scandinavian-music-jam/
     image: /16x9/events/scandinavian-music-jam.jpg
     alt:
@@ -447,6 +457,16 @@ events:
     published: true
     start_date: 
     stop_date: 2015-06-29
+  - url: /folk-art-school/classes/jewelry/2015-07-10-swedish-luffarslöyd-wire-art/
+    image: /46x21/folk-art-school/luffarsloyd-swedish-wire-art-clover.jpg
+    alt:
+    caption:
+    title: "Swedish Luffarslöjd—It's All About Wire: Wire Art That Is!"
+    date: July 10-12, 2015
+    time:
+    published: true
+    start_date: 
+    stop_date: 2015-06-11
   - url: /events/annual/folk-art-banquet/
     image:
     alt:

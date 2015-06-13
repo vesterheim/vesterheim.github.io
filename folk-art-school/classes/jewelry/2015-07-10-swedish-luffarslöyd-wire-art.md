@@ -12,7 +12,7 @@ sessions: "July 10-12  (Fri. 6:30-8:30; Sat. and Sun. 9:00-5:00)"
 dtstart: 2015-07-10 6:30:00 -5:00
 dtend: 2015-07-12 17:00:00 -5:00
 level: All levels.  
-participation: Youth ages 12-17 signed up with a participating adult receive a 25% discount. 
+participation: Youth ages 12-17 receive a 25% discount. (Youth ages 12-15 must be accompanied by an adult.)
 tuition:
   members: $146
   nonmembers: $196
@@ -36,4 +36,4 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description 
 ---
-With simple tools and wire of various gauges and materials, students will learn the basic techniques of wirework and explore creative applications of wire working. During class, we will make a variety of useful and beautiful household objects, including hooks, candlesticks, bowls, jewelry, and trivets. Faith is excited to introduce this relatively unknown craft.
+Join the Swedish renaissance of _luffarslöjd._ Make a wide variety of household and decorative items, including hooks, candlesticks, bowls, jewelry, and trivets, with simple tools and inexpensive wire. This art form was widely practiced by Swedish vagabonds during the early twentieth century and now luffarslöjd items are for sale at every market and craft shop in Sweden. Faith Clover will show you how to make the many traditional _luffarslöjd_ items, but there are no rules to the craft, and with these simple techniques, your designs and intricacies are limited only by your imagination. Faith is excited to introduce this relatively unknown craft.
