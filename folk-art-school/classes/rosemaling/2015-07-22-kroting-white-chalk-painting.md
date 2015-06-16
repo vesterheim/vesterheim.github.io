@@ -1,6 +1,6 @@
 ---
 published: true
-title: Kroting (White Chalk Paint Decoration) 
+title: Kroting (Chalk Paint Decoration) 
 subtitle: July 22, 2015, with Johild Mæland
 meta_description:  # Used in HTML head and as the description for some search engines
 related:

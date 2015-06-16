@@ -367,16 +367,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-05-18
-  - url: /events/calendar/2015/05/24/scandinavian-music-jam/
-    image: /16x9/events/scandinavian-music-jam.jpg
-    alt:
-    caption:
-    title: Fourth Sunday Scandinavian Music Jam 
-    date: May 24, 2015
-    time:
-    published: true
-    start_date: 
-    stop_date: 2015-05-25
   - url: /folk-art-school/classes/food-traditions/2015-05-07-norwegian-cheese-making/
     image: /46x21/folk-art-school/norwegian-cheese-making.jpg
     alt:
@@ -438,7 +428,7 @@ events:
     start_date: 
     stop_date: 2015-06-20
   - url: /events/calendar/2015/06/18/reception-for-new-president-ceo/
-    image: /16x9/about/johnson-chris-suit.jpg
+    image: 16x9/people/chris-johnson-vesterheim.jpg
     alt:
     caption:
     title: Reception for Vesterheim's new President/CEO Chris Johnson 
@@ -447,6 +437,16 @@ events:
     published: true
     start_date: 
     stop_date: 2015-06-19
+  - url: /folk-art-school/classes/rosemaling/2015-06-26-rosemaling-hallingdal/
+    image: /folk-art-school/classes/2015/hallingdal-rosemaling-magnuson.jpg
+    alt:
+    caption:
+    title: "Rosemaling in the Hallingdal Style"
+    date: June 26-28, 2015
+    time:
+    published: true
+    start_date: 
+    stop_date: 2015-06-27
   - url: /events/calendar/2015/06/28/scandinavian-music-jam/
     image: /16x9/events/scandinavian-music-jam.jpg
     alt:
@@ -466,7 +466,7 @@ events:
     time:
     published: true
     start_date: 
-    stop_date: 2015-06-11
+    stop_date: 2015-07-11
   - url: /events/annual/folk-art-banquet/
     image:
     alt:

@@ -32,18 +32,44 @@ Traditions new and old abound throughout the weekend. There is always lively dan
 
 Vesterheim highlights during Nordic Fest include:
 
-* Music - Concerts by Sister, a Twin Cities-based vocal group offering uplifting music with a hint of their Nordic heritage.
+* [_The National Exhibition of Folk Art in the Norwegian Tradition_](/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/)- Now of view! Exceptional pieces of knifemaking, rosemaling, weaving, and woodworking by some of the best contemporary American artists. Many of the pieces will be for sale by silent auction. 
 
-* Dance - A special event, to be announced, in cooperation with the local dance band, Foot-Notes. Stay tuned for more info! 
+* Folk Art Banquet - Honor this year’s Gold Medalists and Ribbon Winners of The National Exhibition. Norwegian instructors will give presentations. Artists and art enthusiasts are all welcome! Find more info and how to make reservations [here](http://vesterheim.org/events/annual/folk-art-banquet/).
 
-* [_The National Exhibition of Folk Art in the Norwegian Tradition_](/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/)- Exceptional pieces of knifemaking, rosemaling, weaving, and woodworking by some of the best contemporary American artists. Many of the pieces will be for sale by silent auction. 
 
-* Folk Art Banquet - Honor this year’s Gold Medalists and Ribbon Winners of The National Exhibition. Norwegian instructors will give presentations. Artists and art enthusiasts are all welcome!     
+Entertainment
+-------------
+* Sister—The music group of Kjersten Dysthe, Alisa Leonard, and Kara Millerhagen from Minnesota. Sister brings positive energy, laughter, great music, and motivating messages to each performance. Time to be announced. This group will perform in Decorah's Carrie Lee School Auditorium.
+* World’s Largest Schottische - A special event in cooperation with the local dance band, Foot-Notes. Check the Foot-Notes website [here](http://www.footnotes.dance/) for more info and how to register for this fantastic event. 
+* Dag Rossman—This storyteller from Decorah, Ia. will present _Trolls: The Dark Side of the Norse,_ tales that explore the nature of trolls and their role as lifelong foes of the Norse Gods. Friday, 2:00 p.m. in the Amdal-Odland Heritage Center. 
+* Ellen Marie Jensen—The daughter of _Sámi_ immigrants from Finnmark disusses _Sámi_ religion and her new book, _What We Believe In: Sámi Religious Experience and Beliefs, from 1593 to the Present._ Friday and Saturday, 1:00 p.m. in Vesterheim's Bethania Church.
+* Odd Lovoll—Norwegian-born writer and professor emeritus from St. Olaf College presents _Across the Deep Blue Sea: The Saga of Early Norwegian Immigrants._ Friday and Saturday, 2:00 p.m. in Vesterheim's Bethania Church.
+* _Pretty Much 100% Scandinavian_—Vesterheim Museum and Oneota Film Festival present this series of films that explores the experience of immigration, the process of Americanization, the importance of landmark institutions such as churches and colleges, the power of family and community, the vitality of arts and craft, the matter of language, and the enjoyment of humor — it’s a rich journey, fueled by gallons of coffee. In Vesterheim's Bethania Church. Each Saga can be seen independently of the others.<br />
+Friday, 3:00 p.m. _Saga 1—Immigration Story_;<br />
+Friday, 4:15 p.m. _Saga 2—Scandinavian-American Humor_;<br />
+Saturday, 3:00 p.m. _Saga 3—Scandinavian-American Occupations_;<br />
+Saturday, 4:15 p.m. _Saga 4—Traditions and Folk Arts_. 
 
-* Norwegian Folk-Art Demonstrations and Vesterheim Ribbon-Winning Rosemalers Sales Shop
+Demonstration and Displays
+---------------------------
+* Ropemaking, _psalmodikon_ (stringed instrument), woodcut prints, woodworking, Norwegian-style filigree jewelry, rosemaling, textile arts, and more.
+* Living Heritage Demonstrators with blacksmithing, knifeblade forging, leatherwork, chairmaking, dovetail chest making, wood carving, figure carving, and more.
+* Norwegian artists—knifemaker Morten Håkonsen, woodcarver Torgeir Lirhus, and rosemaler Johild Mæland.
+* Viking artisans—flax processing and Viking jewelry making
+* Sam Shoults—From Knox City, Mo., Sam presents his Viking Ship replica, which he has sailed down the Mississippi River. 
+* Skjaldborg—This group from Elk Horn, Ia., will present their Viking encampment and will entertain throughout the day with full Viking combat demonstrations. Skjaldborg means “fortress of shields.” 
+* Hands-on metal casting with Kelly Ludeking, includes an aluminum pour and free demonstrations. From 10 a.m.-4 p.m. create a pattern for your own 4 x 4 inch tile (cost $25). Come and see molten cast aluminum at 1:00 p.m. and 5:00 p.m. You can pick up your castings two hours after they are poured.
+* Norwegian-American Genealogical Center open from 9 a.m.-noon and 1-5 p.m. on Friday and Saturday. Representatives from the center, located in Madison, Wis., will be on hand to offer genealogical research advice.
 
-* Living Heritage Demonstrators from Minnesota, Iowa, and Wisconsin - Demonstrating their crafts of blacksmithing, leather work, knifemaking, flax processing, and more. 
 
-* Viking Ship Replica and Viking Re-enactment Group Skjaldborg.
+Sales
+-----
+* Vesterheim Museum Store—Open 9 a.m.-8 p.m., Thursday through Saturday. Sweaters, jewelry, folk art, cooking supplies, books, and more. 
+* Vesterheim Raffles—Folk Art Raffle of a _skinnfell_ blanket by Norwegian artist Britt Solheim, or a Viking River Cruise Raffle with your choice of 3 romantic European cruises. Tickets on sale at Vesterheim. Drawing at 3 p.m. on Saturday. 
+* Vesterheim Ribbon-Winning Rosemalers Sales Shop—Westby-Torgerson Education Center, Gold Medalists Classroom, third floor, open 9 a.m.-5 p.m., Friday-Saturday. Staffed by Nisse Rosemalers, Postville, Ia. 
+* Oneota Weavers and Spinners Guild Sales Shop—Westby-Torgerson Education Center third floor, open 9 a.m.-5 p.m., Friday-Saturday. Hand-felted Santas and Christmas ornaments/figures, hand-woven rugs, scarves/shawls, table runners, and more.
+* Liz Bucheit—Westby-Torgerson Education Center, Bruening Visitor Center, open 9 a.m.-5 p.m., Friday-Saturday. Trunk show of jewelry with sølje and demonstrations of Norwegian-style filigree. 
+* Country Gallery Antiques—Westby-Torgerson Education Center, third floor, open 9 a.m.-5 p.m., Friday-Saturday. Specializing in Scandinavian antiques—textiles, jewelry, decorated woodenware, sewing tools, kitchenware, prints, and painted furniture.
+* Demonstrators—Many demonstrators around the museum campus will be selling their artwork.
 
 Find an album of pictures from last year's event [here.](https://www.facebook.com/media/set/?set=a.10152225420784109.1073741869.18263584108&type=3)
