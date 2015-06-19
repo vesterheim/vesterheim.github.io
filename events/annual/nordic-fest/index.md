@@ -39,7 +39,7 @@ Vesterheim highlights during Nordic Fest include:
 
 Entertainment
 -------------
-* Sister—The music group of Kjersten Dysthe, Alisa Leonard, and Kara Millerhagen from Minnesota. Sister brings positive energy, laughter, great music, and motivating messages to each performance. Time to be announced. This group will perform in Decorah's Carrie Lee School Auditorium.
+* Sister—The music group of Kjersten Dysthe, Alisa Leonard, and Kara Millerhagen from Minnesota. Sister brings positive energy, laughter, great music, and motivating messages to each performance. Time to be announced. This group will perform in Decorah's Carrie Lee School Auditorium. Sister concert at Nordic Fest is supported by a grant from the Iowa Tourism Office.
 * World’s Largest Schottische - A special event in cooperation with the local dance band, Foot-Notes. Check the Foot-Notes website [here](http://www.footnotes.dance/) for more info and how to register for this fantastic event. 
 * Dag Rossman—This storyteller from Decorah, Ia. will present _Trolls: The Dark Side of the Norse,_ tales that explore the nature of trolls and their role as lifelong foes of the Norse Gods. Friday, 2:00 p.m. in the Amdal-Odland Heritage Center. 
 * Ellen Marie Jensen—The daughter of _Sámi_ immigrants from Finnmark disusses _Sámi_ religion and her new book, _What We Believe In: Sámi Religious Experience and Beliefs, from 1593 to the Present._ Friday and Saturday, 1:00 p.m. in Vesterheim's Bethania Church.

@@ -22,7 +22,7 @@ materials_fee: There will be a materials fee.
 materials: ~
 
 lead:
-  image: folk-art-school/classes/2015/norwegian-stave-container-christianson.jpg
+  image: folk-art-school/classes/2015/norwegian-stave-ambar-christianson.jpg
   alt: ~
   caption: ~
   pull: right
