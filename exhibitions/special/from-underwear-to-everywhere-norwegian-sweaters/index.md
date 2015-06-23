@@ -24,7 +24,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-Celebrate this exhibition on August 22 with a gallery talk band refreshments from 3:00-5:00 p.m. - free admission.
+Celebrate this exhibition on August 22 with a gallery talk and refreshments from 3:00-5:00 p.m. - free admission.
 
 Nothing says Norwegian quite like a Norwegian sweater. Coming from humble beginnings as a warm layer under a vest and jacket, Norwegian sweaters are now worn all over the world and for almost every occasion. This exhibition will focus on the history and different styles of Norwegian sweaters, including Setesdal, Fana, Marius, and Olympic. Learn about the symbolism behind some of the patterns and colors on sweaters and consider both the technology and artistry of this iconic garment.
 

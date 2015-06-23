@@ -176,7 +176,7 @@ panels:
     caption:
     title:
     subtitle:
-    teaser: This spring, Vesterheim will pay forward the generosity of our members and supporters by giving free admission to more than 300 children. 
+    teaser: This year, Vesterheim will pay forward the generosity of our members and supporters by giving free admission to more than 300 children. 
     published: true
     start_date: 2014-10-01
     stop_date:   
@@ -457,16 +457,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-06-29
-  - url: /folk-art-school/classes/jewelry/2015-07-10-swedish-luffarslöyd-wire-art/
-    image: /46x21/folk-art-school/luffarsloyd-swedish-wire-art-clover.jpg
-    alt:
-    caption:
-    title: "Swedish Luffarslöjd—It's All About Wire: Wire Art That Is!"
-    date: July 10-12, 2015
-    time:
-    published: true
-    start_date: 
-    stop_date: 2015-07-11
   - url: /events/annual/folk-art-banquet/
     image:
     alt:
@@ -477,6 +467,16 @@ events:
     published: true
     start_date: 
     stop_date: 2015-07-25
+  - url: /events/calendar/2015/07/24/sister/
+    image: 46x21/events/nordic-fest-sister.jpg
+    alt:
+    caption:
+    title: “Sister” Music Trio
+    date: July 24 and 25, 2015
+    time: 3:00 p.m.
+    published: true
+    start_date: 
+    stop_date: 2015-07-26      
   - url: /events/annual/nordic-fest/
     image: /46x21/events/nordic_fest.jpg
     alt:

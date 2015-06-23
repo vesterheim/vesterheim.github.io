@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: page
 title: "Alt for Norge: Celebrating 200 Years of the Norwegian Constitution"
 subtitle: May 17, 2014 – April 15, 2015 (held over through June 2015)
