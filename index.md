@@ -476,7 +476,17 @@ events:
     time: 3:00 p.m.
     published: true
     start_date: 
-    stop_date: 2015-07-26      
+    stop_date: 2015-07-26  
+  - url: /events/calendar/2015/07/25/worlds-largest-schottische/
+    image: 46x21/events/foot-notes.jpg
+    alt:
+    caption:
+    title: World’s Largest Schottische
+    date: July 25, 2015
+    time: 8:50 p.m.
+    published: true
+    start_date: 
+    stop_date: 2015-07-26   
   - url: /events/annual/nordic-fest/
     image: /46x21/events/nordic_fest.jpg
     alt:
