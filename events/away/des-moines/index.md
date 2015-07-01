@@ -32,5 +32,5 @@ Special updates will be given by Honorary Consul of Norway for Iowa, Quentin Boy
 
 Be sure to wear or bring your favorite sweater! If you don’t have one yet, no worries . . . the Vesterheim Museum Store will have some available to purchase or order the day of the event, or you can visit our online store [here](http://store.vesterheim.org/) and order one in advance.
 
-Tickets are $35 per person. Please RSVP with the enclosed card by August 15, 2015.
+Tickets are $35 per person. Please RSVP with the enclosed card by August 20, 2015.
 Contact Stephanie Johnson at [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org), or 563-382-9681 for more information, or to make reservations.
