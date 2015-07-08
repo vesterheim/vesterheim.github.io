@@ -32,7 +32,9 @@ Traditions new and old abound throughout the weekend. There is always lively dan
 
 Vesterheim highlights during Nordic Fest include:
 
-* [_The National Exhibition of Folk Art in the Norwegian Tradition_](/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/)- Now of view! Exceptional pieces of knifemaking, rosemaling, weaving, and woodworking by some of the best contemporary American artists. Many of the pieces will be for sale by silent auction. 
+* Nordic Fest is a great time for families at Vesterheim. There are many things to do for free on the museum campus, and there will be a special family rate of $25 to the museum’s Main Building on Friday and Saturday. Also, the museum has a fun adventure guide, especially for families. Inquire at the museum for how children can explore Vesterheim and earn a prize.
+
+* [_The National Exhibition of Folk Art in the Norwegian Tradition_](/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/)- Now on view! Exceptional pieces of knifemaking, rosemaling, weaving, and woodworking by some of the best contemporary American artists. Many of the pieces will be for sale by silent auction. 
 
 * Folk Art Banquet - Honor this year’s Gold Medalists and Ribbon Winners of The National Exhibition. Norwegian instructors will give presentations. Artists and art enthusiasts are all welcome! Find more info and how to make reservations [here](http://vesterheim.org/events/annual/folk-art-banquet/).
 
@@ -52,11 +54,11 @@ Saturday, 4:15 p.m. _Saga 4—Traditions and Folk Arts_.
 Demonstration and Displays
 ---------------------------
 * Ropemaking, _psalmodikon_ (stringed instrument), woodcut prints, woodworking, Norwegian-style filigree jewelry, rosemaling, textile arts, and more.
-* Living Heritage Demonstrators with blacksmithing, knifeblade forging, leatherwork, chairmaking, dovetail chest making, wood carving, figure carving, and more.
+* "Living Heritage Demonstrators with blacksmithing, knifeblade forging, leatherwork, chairmaking, dovetail chest making, wood carving, figure carving, and more. Sponsored by Sons of Norway, Valdres Lodge #1-503 and The Walmart Foundation and Facility #913 through the Local Facility Giving Program."
 * Norwegian artists—knifemaker Morten Håkonsen, woodcarver Torgeir Lirhus, and rosemaler Johild Mæland.
 * Viking artisans—flax processing and Viking jewelry making
-* Sam Shoults—From Knox City, Mo., Sam presents his Viking Ship replica, which he has sailed down the Mississippi River. 
-* Skjaldborg—This group from Elk Horn, Ia., will present their Viking encampment and will entertain throughout the day with full Viking combat demonstrations. Skjaldborg means “fortress of shields.” 
+* Sam Shoults—From Knox City, Mo., Sam presents his Viking Ship replica, which he has sailed down the Mississippi River. Sponsored by Viking State Bank & Trust.
+* Skjaldborg—This group from Elk Horn, Ia., will present their Viking encampment and will entertain throughout the day with full Viking combat demonstrations. Skjaldborg means “fortress of shields.” Sponsored by Hacker, Nelson & Co., P.C.
 * Hands-on metal casting with Kelly Ludeking, includes an aluminum pour and free demonstrations. From 10 a.m.-4 p.m. create a pattern for your own 4 x 4 inch tile (cost $25). Come and see molten cast aluminum at 1:00 p.m. and 5:00 p.m. You can pick up your castings two hours after they are poured.
 * Norwegian-American Genealogical Center open from 9 a.m.-noon and 1-5 p.m. on Friday and Saturday. Representatives from the center, located in Madison, Wis., will be on hand to offer genealogical research advice.
 
