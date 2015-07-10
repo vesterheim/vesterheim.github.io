@@ -40,17 +40,14 @@ We thank our Corporate Members for their support and ask that you consider suppo
 [Bank of the West](https://www.bankofthewest.com/)
 : For more than 135 years, the bank’s foundation has been their relationships with customers.
 
-[Black Hills Energy](http://www.blackhillsenergy.com/)
-: Every day, improving life with energy.
-
 [Bruening Rock Products, Inc.](http://www.brueningrock.com/)
 : Rock… Don’t build without it.
 
+[Bryant Foundation](http://edwinandjanetbryantfoundation.org/)
+: Helping improve the quality of lives for people in Stoughton, Dane County and Wisconsin.
+
 [Casper Plumbing and Heating, Inc.](http://www.casperdecorah.com/)
 : Experience... prompt service... dependability . . . find everything you are looking for in a plumbing and heating company and more.
-
-[Commonweal Theatre Company](http://www.commonwealtheatre.org/)
-: Drama unfolds where the Root River bends.
 
 [Country Inn - Decorah](http://www.countryinns.com/decorah-hotel-ia-52101/iadecora)
 : Travel in comfort when you visit Decorah.
@@ -73,14 +70,14 @@ We thank our Corporate Members for their support and ask that you consider suppo
 [Decorah Broadcasting, KDEC Radio](http://www.kdecradio.net/)
 : For people who love music.
 
+[Decorah Greenhouses](http://www.decorahgreenhouses.com/)
+: Tradition of service for 135 years offering a great selection of green plants and fresh flowers in the northeast Iowa area. 
+
 [Decorah Mobile Glass, Inc.](http://www.decorahmobileglass.com/auto-glass)
 : From needing a windshield replaced in your vehicle to having a custom glass shower door installed (and everything in between) Decorah Mobile Glass is here to help.
 
 [Decorah Tire Service](http://www.goodyear.com/)
 : Forty-eight years of hometown service.
-
-[Doc’s Blue Moose](http://www.docsbluemoose.com/)
-: A family-oriented 50s/60s fun-filled restaurant located in Spring Grove, Minnesota.
 
 [Donlon HealthMart Pharmacy](http://donlonpharmacy.com/)
 : Serving Decorah for almost 80 years.
@@ -115,11 +112,11 @@ We thank our Corporate Members for their support and ask that you consider suppo
 [Hacker Nelson &amp; Co. PC](http://www.hackernelson.com/)
 : Certified public accountants and business consultants.
 
+[The Hairitage](https://www.facebook.com/pages/The-Hairitage/143643975670113)
+: Hairstyling for you.
+
 [Hawkeye REC](http://www.hawkeyerec.com/)
 : A private, non-profit electric utility owned by the members it serves.
-
-[Hawkeye Stages](http://www.hawkeyestages.com/)
-: Offering charter bus rental and charter bus tours for luxury charter bus travel to all points in the U.S.A. from Decorah, Waterloo, Fort Dodge, Newton, and Ottumwa in Iowa.
 
 [Hotel Winneshiek](http://www.hotelwinn.com/)
 : A grand historic boutique hotel nestled in the heart of downtown Decorah.
@@ -163,10 +160,7 @@ We thank our Corporate Members for their support and ask that you consider suppo
 [Oneota Valley Family Eye Care](http://www.decoraheye.com/)
 : Practiced in preserving vision for a lifetime.
 
-[Our Tara Inn](http://www.ourtara.com/)
-: Not just a bed and breakfast, a refuge from modern stresses.
-
-[Perry Novak Electric, Inc.](https://plus.google.com/100560287000620819861/about?gl=US&amp;hl=en-US)
+[Perry Novak Electric and Crane](https://plus.google.com/100560287000620819861/about?gl=US&amp;hl=en-US)
 : A family-owned electrical contractor and equipment services company in Northeastern Iowa.
 
 [Pizza Ranch](http://www.decorahpizzaranch.com/index.html)
@@ -181,11 +175,11 @@ We thank our Corporate Members for their support and ask that you consider suppo
 [Rockweiler Appliance &amp; TV](http://www.rockweilerappltv.com/)
 : Guarantees the lowest price on any merchandise within the tri-state area, but also provides quality service and special no-interest financing.
 
-[Rubaiyat Restaurant](http://www.rubaiyatrestaurant.com/)
-: Simply but skillfully prepared ingredient-driven dishes that reveal a commitment to using the highest quality products, in season, and local when available.
-
 [Ruffridge-Johnson Equipment Co., Inc.](http://www.rjequip.com/)
 : The highest quality construction and mining equipment available.
+
+[Ruby's Restaurant & Catering](http://chamberorganizer.com/decorahareachamber/mem_rubys)
+: Family owned and run for almost fifty years, offering homemade rolls, breads, and jams, locally grown ingredients, Norwegian delicacies, and traditional American fare.
 
 [Sons of Norway Lodge - Lauris Norstad Lodge](https://www.sofn.com/lodgeDirectory/prepareReview.do)
 : Sons of Norway promotes and preserves the heritage and culture of Norway, while providing quality insurance and financial products to its members.
@@ -196,8 +190,8 @@ We thank our Corporate Members for their support and ask that you consider suppo
 [Stanley Engineered and Fastening (formerly Infastech)](http://www.stanleyengineeredfastening.com/)
 : Anything that is manufactured is touched by Stanley Engineered Fastening.
 
-[Storey Kenworthy Co.](http://www.storeykenworthy.com/default.aspx)
-: Iowa’s largest family run office supply and furnishings company, brings you opportunities every day to get MORE.
+[StateFarm Insurance—Paul Hundson Agency](https://www.statefarm.com/agent/US/IA/Decorah/Paul-Hudson-KL4VX1YS000)
+: For your insurance needs.
 
 [Super 8 Motel of Decorah](http://www.super8.com/hotels/iowa/decorah/super-8-decorah/hotel-overview)
 : After a long day of travel, relax in your Decorah, Iowa, hotel room with cable TV and Showtime, and connect to free Wi-Fi Internet.
@@ -208,9 +202,6 @@ We thank our Corporate Members for their support and ask that you consider suppo
 [Thrifty White Pharmacy](http://www.thriftywhite.com/)
 : Committed to providing expert, personalized health care.
 
-[Vanberia International Gifts](http://www.vanberiadecorah.com/)
-: A Scandinavian gift/needlework store owned and operated by the Thompson Family.
-
 [Vick's Plumbing and Heating](http://www.vicksheating.com/)
 : In business since 1936, Vick's experienced and licensed installers and technicians are ready to help you make your house a home.
 
@@ -219,9 +210,6 @@ We thank our Corporate Members for their support and ask that you consider suppo
 
 [Viking State Bank &amp; Trust](https://www.vikingstatebank.com/)
 : Providing a complete line of high quality bank products to fit your needs, whether borrowing or establishing a deposit account relationship. 
-
-[Voltmer, Inc.](http://www.voltmerelectric.com/)
-: For more than 30 years, Voltmer Inc. has been constructing the best possible projects, on time, within budget and with an excellent safety record.
 
 [WalMart - Decorah](http://www.walmart.com/)
 : Great values on top brands.
