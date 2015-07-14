@@ -79,14 +79,14 @@ Phillip Odden and Else Bigton – wood carving, BVC.
 
 Liz Bucheit—Trunk show of jewelry with sølje and demonstrations of Norwegian-style filigree, BVC.
 
+Norwegian-American Genealogical Center, 2nd floor - Open from 9 a.m.-noon and 1-5 p.m. on Friday and Saturday. Representatives from the center, located in Madison, Wis., will be on hand to offer genealogical research advice.
+
 Rosemaling demonstrations, 3rd floor 
 
 * Friday: Andrea Herkert - Gudbrandsdal, 11:00 - 1:00; Johild Mæland - Telemark, 1:00-3:00; Sara Tollefson - Valders, 3:00-4:30
 * Saturday: Sunhild Mulbakken - rococo, 11:00 - 1:00; Johild Mæland - Telemark, 1:00-3:00; Ruth Green - Rogaland, 3:00-4:30
 
 Vesterheim Ribbon-Winning Rosemalers Sales Shop - Staffed by Nisse Rosemalers, Postville, Ia., 3rd floor. 
-
-Norwegian-American Genealogical Center, 3rd floor - Open from 9 a.m.-noon and 1-5 p.m. on Friday and Saturday. Representatives from the center, located in Madison, Wis., will be on hand to offer genealogical research advice.
 
 Oneota Weavers and Spinners Guild Sales Shop—3rd floor - Hand-felted Santas and Christmas ornaments/figures, hand-woven rugs, scarves/shawls, table runners, and more.
 

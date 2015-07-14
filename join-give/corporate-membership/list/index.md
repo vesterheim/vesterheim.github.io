@@ -55,9 +55,6 @@ We thank our Corporate Members for their support and ask that you consider suppo
 [Courtesy Corporation, McDonald’s Restaurant](http://www.mccourtesy.com/content/home)
 : Franchise serving Western Wisconsin, Southeastern Minnesota, and Decorah, Iowa.
 
-[Culver’s Restaurant of Decorah](http://www.culvers.com/)
-: Welcome to delicious.
-
 [Dairyland Power Cooperative](http://www.dairynet.com/)
 : Striving to provide services that exceed expectations.
 
@@ -78,9 +75,6 @@ We thank our Corporate Members for their support and ask that you consider suppo
 
 [Decorah Tire Service](http://www.goodyear.com/)
 : Forty-eight years of hometown service.
-
-[Donlon HealthMart Pharmacy](http://donlonpharmacy.com/)
-: Serving Decorah for almost 80 years.
 
 [Drury’s Furniture](http://www.drurysfurniture.com/)
 : A family business in Fountain, Minnesota, since 1925 with nearly an acre of fully accessorized furniture displays.
@@ -139,11 +133,8 @@ We thank our Corporate Members for their support and ask that you consider suppo
 [LetterWerks Sign City, LLC](http://www.letterwerks.com/)
 : Your source for signs, banners, and graphic design; digital vinyl banners; awards; and multi-color screen printing.
 
-[Mabe’s Pizza and Oaks Steakhouse](http://www.mabespizza.com/)
-: Two great Decorah restaurants.
-
-[Marine Credit Union](https://www.marinecu.com/)
-: Providing the answers to your everyday needs and long term goals.
+[Mabe’s Pizza](http://www.mabespizza.com/)
+: Decorah's iconic pizza.
 
 [McCaffrey’s Dolce Vita Restaurant](http://www.mcdolcevita.com/)
 : Specializing in wood-fired pizza and international cuisine.
@@ -172,17 +163,11 @@ We thank our Corporate Members for their support and ask that you consider suppo
 [Rockwell Collins](http://www.rockwellcollins.com/)
 : Providing smart communications and aviation electronics solutions to the world’s leading aerospace and defense companies.
 
-[Rockweiler Appliance &amp; TV](http://www.rockweilerappltv.com/)
-: Guarantees the lowest price on any merchandise within the tri-state area, but also provides quality service and special no-interest financing.
-
 [Ruffridge-Johnson Equipment Co., Inc.](http://www.rjequip.com/)
 : The highest quality construction and mining equipment available.
 
 [Ruby's Restaurant & Catering](http://chamberorganizer.com/decorahareachamber/mem_rubys)
 : Family owned and run for almost fifty years, offering homemade rolls, breads, and jams, locally grown ingredients, Norwegian delicacies, and traditional American fare.
-
-[Sons of Norway Lodge - Lauris Norstad Lodge](https://www.sofn.com/lodgeDirectory/prepareReview.do)
-: Sons of Norway promotes and preserves the heritage and culture of Norway, while providing quality insurance and financial products to its members.
 
 [Sons of Norway Lodge - Valdres Lodge](https://www.sofn.com/lodgeDirectory/prepareReview.do?distFromMap=1)
 : Sons of Norway promotes and preserves the heritage and culture of Norway, while providing quality insurance and financial products to its members.

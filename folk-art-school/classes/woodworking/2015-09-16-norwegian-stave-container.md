@@ -37,4 +37,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description 
 ---
-Primarily using hand tools, students will construct a straight-sided stave bucket or pail with a cover. The model for the class is an 1846 container (pictured here) from Vesterheim’s collection on view in the Valdres house. The cover is missing, but based on holes in two staves, it once existed and was held in place with a pin, suggesting that it was not designed for liquids.
+The stave vessel has been a mainstay in rural Norway for holding household items, many kinds of food, and ale or other drink. For hundreds of years it was the tradition to carry porridge in a stave container to a mother as her first meal after giving birth. Stave construction is suitable for buckets, barrels, tankards, pails, ambars, and other containers. Binding staves around the base was the most common technique for making these vessels, which were often decorated with _kolrosing,_ rosemaling, or acanthus carving, combining art with function. The bands are pre-soaked in water and then installed as tightly as possible. While drying, the bands shrink, keeping the stave’s nice and tight.
+
+Primarily using hand tools, students in this class will construct a straight-sided stave bucket or pail with a cover. The model for the class is an 1846 container from Vesterheim’s collection on view in the museum's Valdres House. Come and make your own piece of history.
