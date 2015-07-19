@@ -138,6 +138,11 @@ kramdown:
         width: 400
       height: 400
 
+monthly_archive:
+  path: events/calendar/
+daily_archive:
+  path: events/calendar/
+
 picture:
   source: assets/_images--fullsize
   output: assets/images
