@@ -28,4 +28,4 @@ Celebrate this exhibition on August 22 with a gallery talk and refreshments from
 
 Nothing says Norwegian quite like a Norwegian sweater. Coming from humble beginnings as a warm layer under a vest and jacket, Norwegian sweaters are now worn all over the world and for almost every occasion. This exhibition will focus on the history and different styles of Norwegian sweaters, including Setesdal, Fana, Marius, and Olympic. Learn about the symbolism behind some of the patterns and colors on sweaters and consider both the technology and artistry of this iconic garment.
 
-The exhibition is sponsored by Sallie and Darrell DeReus, Carol and Darold Johnson, and Blue Heron Knittery with additional support from Ruth Hinderaker, Oneota Weavers Guild, Susan and David Willig, Glenn and Arnhild Hillesland, and Gerald and Mary A. Paulson.
+The exhibition is sponsored by Sallie and Darrell DeReus, Carol and Darold Johnson, and Blue Heron Knittery with additional support from Ruth Hinderaker, Oneota Weavers Guild in memory of Betty Rikansrud Nelson, Susan and David Willig, Glenn and Arnhild Hillesland, and Gerald and Mary A. Paulson.

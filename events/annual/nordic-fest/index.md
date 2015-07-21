@@ -39,8 +39,8 @@ Vesterheim highlights during Nordic Fest include:
 * Folk Art Banquet - Honor this year’s Gold Medalists and Ribbon Winners of _The National Exhibition._ Norwegian instructors will give presentations. Artists and art enthusiasts are all welcome! Find more info and how to make reservations [here](http://vesterheim.org/events/annual/folk-art-banquet/).
 
 
-Entertainment
--------------
+Music, Dance, Presentations, and Films
+---------------------------------------
 {: .heading--black--large }
 
 * [“Sister”](/events/calendar/2015/07/24/sister/)—The music group of Kjersten Dysthe, Alisa Leonard, and Kara Millerhagen from Minnesota. “Sister” brings positive energy, laughter, great music, and motivating messages to each performance. Friday and Saturday, 3:00 p.m. in Decorah's Carrie Lee School Auditorium. “Sister” concert at Nordic Fest is sponsored by Vesterheim and paid for in part by the Iowa Tourism Office. Learn more about “Sister” [here.](/events/calendar/2015/07/24/sister/) The auditorium is air conditioned.
@@ -52,6 +52,7 @@ Friday, 3:00 p.m. _Saga 1—Immigration Story_;<br />
 Friday, 4:15 p.m. _Saga 2—Scandinavian-American Humor_;<br />
 Saturday, 3:00 p.m. _Saga 3—Scandinavian-American Occupations_;<br />
 Saturday, 4:15 p.m. _Saga 4—Traditions and Folk Arts_. 
+* The Sweet Sunny North—Live Radio Show—Scandinavian Roots Music Radio Show broadcasting live! Hosts Denise Benoit, Bill Mort, and Larry Madeo will feature live music and interviews with trolls, Vikings, and artisans, while having more fun than Norwegians find proper! Listen on the internet at WDRT.org and at KPVL.org, or live at 89.1 FM. Saturday 1-3 p.m. in the Open Air Division.
 
 Demonstration, Displays, and Sales
 -------------------------------------
@@ -75,16 +76,16 @@ Vesterheim Museum Store – Open 9 a.m.-8 p.m., Thursday through Saturday. Sweat
 
 Kai Robert Johansen – trumpet player from Norway will sign CDs at the Museum Store.
 
-Phillip Odden and Else Bigton – wood carving, BVC.
+Phillip Odden and Else Bigton – wood carving, in the Bruening Visitor Center.
 
-Liz Bucheit—Trunk show of jewelry with sølje and demonstrations of Norwegian-style filigree, BVC.
+Liz Bucheit—Trunk show of jewelry with sølje and demonstrations of Norwegian-style filigree, in the Bruening Visitor Center.
 
 Norwegian-American Genealogical Center, 2nd floor - Open from 9 a.m.-noon and 1-5 p.m. on Friday and Saturday. Representatives from the center, located in Madison, Wis., will be on hand to offer genealogical research advice.
 
 Rosemaling demonstrations, 3rd floor 
 
-* Friday: Andrea Herkert - Gudbrandsdal, 11:00 - 1:00; Johild Mæland - Telemark, 1:00-3:00; Sara Tollefson - Valders, 3:00-4:30
-* Saturday: Sunhild Mulbakken - rococo, 11:00 - 1:00; Johild Mæland - Telemark, 1:00-3:00; Ruth Green - Rogaland, 3:00-4:30
+* Friday: Andrea Herkert - Gudbrandsdal, 11:00 - 1:00; Johild Mæland - Telemark, 1:00-3:00; Sara Tollefson - Valdres, 3:00-4:30
+* Saturday: Sunhild Muldbakken - rococo, 11:00 - 1:00; Johild Mæland - Telemark, 1:00-3:00; Ruth Green - Rogaland, 3:00-4:30
 
 Vesterheim Ribbon-Winning Rosemalers Sales Shop - Staffed by Nisse Rosemalers, Postville, Ia., 3rd floor. 
 
@@ -97,11 +98,11 @@ Vesterheim Garage (510 W. Water, next to Dayton House)
 
 Folk Art School artists:
 
-* Becky Lusk, both Friday and Saturday
-* Hans Sandom, Friday only
-* Norwegian Morton Håkonsen, knifemaking (1-3 daily)
-* Norwegian Torgeir Lirhus, ale bowls (1-3 daily)
-* Jock Holmen, incised carving, hands-on project
+* Becky Lusk, carving, both Friday and Saturday
+* Hans Sandom, carving, Friday only
+* Norwegian Morton Håkonsen, knifemaking (1-3 Friday & Saturday)
+* Norwegian Torgeir Lirhus, ale bowls (1-3 Friday & Saturday)
+* Jock Holmen, incised carving, hands-on project (9-1 and 3-5 Friday & Saturday)
 * Hands-on metal casting with Kelly Ludeking: Includes an aluminum pour and free demonstrations. From 10 a.m.-4 p.m. create a pattern for your own 4 x 4 inch tile (cost $25). Come and see molten cast aluminum at 1:00 p.m. and 5:00 p.m. You can pick up your castings two hours after they are poured. 
 
 Water Street in front of Main Building
@@ -112,7 +113,7 @@ Table with class promotion demonstrations, organized by Rebecca Hanna
 Open Air Division
 ------------------
 
-Living Heritage Demonstrators
+Living Heritage Demonstrators - Sponsored by Sons of Norway, Valdres Lodge #1-503 and The Walmart Foundation and Facility #913 through the Local Facility Giving Program.
 
 * KJ Groven – blacksmithing, knifeblade forging
 * John Drewes – leatherwork
@@ -121,12 +122,14 @@ Living Heritage Demonstrators
 * David Johnson – dovetail chests
 * Bill Jaeger – figure carving
 
-Sam Shoults – From Knox City, Mo., Sam presents his Viking Ship replica, which he has sailed down the Mississippi River.
+Sam Shoults – From Knox City, Mo., Sam presents his Viking Ship replica, which he has sailed down the Mississippi River. Sponsored by Viking State Bank & Trust.
 
-Skjaldborg – This group from Elk Horn, Ia., will present their Viking encampment and will entertain throughout the day with full Viking combat demonstrations. Skjaldborg means “fortress of shields.”
+Skjaldborg – This group from Elk Horn, Ia., will present their Viking encampment and will entertain throughout the day with full Viking combat demonstrations. Skjaldborg means “fortress of shields.” Sponsored by Hacker, Nelson & Co., P.C.
 
 Viking artisans – Andrea Myklebust and Tansy Sears, hand processing flax for linen
 Alec Tunheim, jewelry making.
+
+Carl Homstad – Local artist presents woodcut prints.
 
 
 Find an album of pictures from last year's event [here.](https://www.facebook.com/media/set/?set=a.10152225420784109.1073741869.18263584108&type=3)
