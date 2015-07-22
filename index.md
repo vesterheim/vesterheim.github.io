@@ -65,22 +65,29 @@ carousel:
       published: true
       start_date:
       stop_date:
+    - image: 25x9/folk-art-school/classes/woodroom.jpg
+      alt: "_From Underwear to Everywhere: Norwegian Sweaters_"
+      caption: "_From Underwear to Everywhere: Norwegian Sweaters_ on view August 22, 2015 to April 24, 2016. Nothing says Norwegian quite like a Norwegian sweater!"
+      link: /exhibitions/special/from-underwear-to-everywhere-norwegian-sweaters/
+      published: false
+      start_date:
+      stop_date:
 
 show_social_sharing_bar: false
 
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px      
 panels:
-  - url: /folk-art-school/classes/
+  - url: /events/annual/nordic-fest/
     file_under:
-    image: /16x9/folk-art-school/weaving.jpg
+    image: 16x9/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition.jpg
     alt:
     caption:
-    title:
-    subtitle:
-    teaser: A class is a blast at Vesterheim! Check the Folk Art School schedule for 2015 and sign up today.
+    title: Free Admission on Thursday, July 23
+    subtitle: July 23, 2015
+    teaser: Beat the Nordic Fest crowds and enjoy the museum for free on Thursday.
     published: true
-    start_date: 2014-10-01
-    stop_date:    
+#    start_date: 2015-07-22
+#    stop_date:  2015-07-24 
   - url: /visit/plan/hours-and-admission/
     file_under:
     image: 16x9/events/julenisse--christmas--kids.jpg
@@ -177,7 +184,7 @@ panels:
     title:
     subtitle:
     teaser: This year, Vesterheim will pay forward the generosity of our members and supporters by giving free admission to more than 300 children. 
-    published: true
+    published: false
     start_date: 2014-10-01
     stop_date:   
   - url: /about/news/2015/viking-exhibit-field-museum/
@@ -224,6 +231,17 @@ panels:
     published: false
     start_date: 2014-10-01
     stop_date:  
+  - url: /folk-art-school/classes/
+    file_under:
+    image: /16x9/folk-art-school/weaving.jpg
+    alt:
+    caption:
+    title:
+    subtitle:
+    teaser: A class is a blast at Vesterheim! Check the Folk Art School schedule for 2015 and sign up today.
+    published: true
+    start_date: 2014-10-01
+    stop_date:    
 
 events:
   - url: /folk-art-school/classes/woodworking/2015-01-15-whittling-klubb-kids-session-1/
@@ -457,6 +475,16 @@ events:
     published: true
     start_date: 
     stop_date: 2015-06-29
+  - url: /events/annual/nordic-fest/
+    image: /46x21/events/nordic_fest.jpg
+    alt:
+    caption:
+    title: Vesterheim Events at Decorah's Nordic Fest 
+    date: July 24-25, 2015
+    time:
+    published: true
+    start_date: 
+    stop_date: 2015-07-26
   - url: /events/annual/folk-art-banquet/
     image:
     alt:
@@ -487,14 +515,24 @@ events:
     published: true
     start_date: 
     stop_date: 2015-07-26   
-  - url: /events/annual/nordic-fest/
-    image: /46x21/events/nordic_fest.jpg
+  - url: /exhibitions/special/from-underwear-to-everywhere-norwegian-sweaters/
+    image: /16x9/exhibitions/special/underwear-everywhere-norwegian-sweaters.jpg
     alt:
     caption:
-    title: Vesterheim Events at Decorah's Nordic Fest 
-    date: July 24-25, 2015
-    time:
+    title: "Opening Reception for _From Underwear to Everywhere: Norwegian Sweaters_"
+    date: August 22, 2015
+    time: 3:00-5:00 p.m.
     published: true
     start_date: 
-    stop_date: 2015-07-26
+    stop_date: 
+  - url: /exhibitions/special/woodcarved-figures-nordic-roots/
+    image: /46x21/exhibitions/special/coffee-wood-figures.jpg
+    alt:
+    caption:
+    title: "Opening Reception for _Woodcarved Figures, Nordic Roots_"
+    date: September 18, 2015
+    time: 5:00-7:00 p.m.
+    published: true
+    start_date: 
+    stop_date: 2015-09-19
 ---

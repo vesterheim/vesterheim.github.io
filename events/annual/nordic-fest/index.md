@@ -32,12 +32,11 @@ Traditions new and old abound throughout the weekend. There is always lively dan
 
 Vesterheim highlights during Nordic Fest include:
 
+* Free admission on Thursday - open 9:00 a.m. to 5:00 p.m.
+
 * Nordic Fest is a great time for families at Vesterheim. There are many things to do for free on the museum campus, and there will be a special family rate of $25 to the museum’s Main Building on Friday and Saturday. Also, the museum has a fun adventure guide, especially for families. Inquire at the museum for how children can explore Vesterheim and earn a prize.
 
 * The Open Air Division of 12 historic buildings is open Friday and Saturday from 12:00-4:00 p.m. to tour on your own with no admission fee. Guided tours of the Open Air Division are at 10:30 a.m., 1:30 p.m., and 2:30 p.m. on Thursday (free) and Sunday (with admission ticket.)
-
-* Folk Art Banquet - Honor this year’s Gold Medalists and Ribbon Winners of _The National Exhibition._ Norwegian instructors will give presentations. Artists and art enthusiasts are all welcome! Find more info and how to make reservations [here](http://vesterheim.org/events/annual/folk-art-banquet/).
-
 
 Music, Dance, Presentations, and Films
 ---------------------------------------
