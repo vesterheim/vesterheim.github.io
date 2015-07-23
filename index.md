@@ -88,6 +88,17 @@ panels:
     published: true
 #    start_date: 2015-07-22
 #    stop_date:  2015-07-24 
+  - url: /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/winners/
+    file_under:
+    image: 16x9/exhibitions/special/national-exhibition-2015.jpg
+    alt:
+    caption:
+    title: Announcing the 2015 Ribbon Winners and Gold Medalists!
+    subtitle: 
+    teaser: Congratulations to this year's Ribbon Winners and Gold Medalists and to everyone who entered the competition. The show is beautiful.
+    published: true
+#    start_date: 2015-07-22
+#    stop_date:   
   - url: /visit/plan/hours-and-admission/
     file_under:
     image: 16x9/events/julenisse--christmas--kids.jpg
