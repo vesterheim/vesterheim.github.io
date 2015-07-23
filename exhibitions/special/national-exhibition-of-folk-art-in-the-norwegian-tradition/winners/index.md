@@ -150,7 +150,7 @@ None
 * Donna Laken, Rockford, Ill., “Sunnfjord Dusk” Wall Hanging in Krokbragd Technique
 * Karin Anderson Maahs, Blaine, Minn., “Anderson Berry Farm, Bay City, Wisconsin” Tapestry
 
-2014 Woodworking
+2015 Woodworking
 ===========
 
 ### Best of Show
@@ -227,7 +227,7 @@ None
 ### White Ribbon - Figure Carving Category
 {: .heading--black--mixed-case }
 
-* David Elliker-Vågsberg, Eugene, Ore., “Ein nisse gå hjem med julegraut” Carved Figure
+* David Elliker-Vågsberg, Eugene, Ore., "Nisse med Hardingfele" Carved Figure
 
 ### Honorable Mention - Figure Carving Category
 {: .heading--black--mixed-case }
