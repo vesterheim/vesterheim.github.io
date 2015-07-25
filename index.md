@@ -86,8 +86,8 @@ panels:
     subtitle: July 23, 2015
     teaser: Beat the Nordic Fest crowds and enjoy the museum for free on Thursday.
     published: true
-#    start_date: 2015-07-22
-#    stop_date:  2015-07-24 
+    start_date: 2015-07-22
+    stop_date:  2015-07-24 
   - url: /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/winners/
     file_under:
     image: 16x9/exhibitions/special/national-exhibition-2015.jpg
