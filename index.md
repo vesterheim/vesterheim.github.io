@@ -77,6 +77,17 @@ show_social_sharing_bar: false
 
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px      
 panels:
+  - url: /folk-art-school/classes/
+    file_under:
+    image: /16x9/folk-art-school/weaving.jpg
+    alt:
+    caption:
+    title:
+    subtitle:
+    teaser: A class is a blast at Vesterheim! Check the Folk Art School schedule for 2015 and sign up today.
+    published: true
+    start_date: 2014-10-01
+    stop_date:   
   - url: /events/annual/nordic-fest/
     file_under:
     image: 16x9/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition.jpg
@@ -140,7 +151,7 @@ panels:
     title: Fodor's Names Vesterheim one of 15 Best Small-Town Museums in the U.S.
     subtitle:
     teaser: Vesterheim was named one of “15 Best Small-Town Museums in the U.S.” by the world-respected travel guide, Fodor's! 
-    published: false
+    published: true
     start_date: 2014-10-01
     stop_date: 
   - url: /exhibitions/special/a-restored-connection/
@@ -173,7 +184,7 @@ panels:
     title:
     subtitle:
     teaser: You could win a Viking River Cruise!
-    published: true
+    published: false
     start_date: 2014-10-01
     stop_date:   
   - url: /join-give/raffles/
@@ -184,7 +195,7 @@ panels:
     title:
     subtitle:
     teaser: Vesterheim is extremely pleased to announce the raffle of a _skinnfell_ made by Norwegian artist Britt Solheim.
-    published: true
+    published: false
     start_date: 2014-10-01
     stop_date:   
   - url: /about/news/2015/pay-it-forward/
@@ -242,17 +253,7 @@ panels:
     published: false
     start_date: 2014-10-01
     stop_date:  
-  - url: /folk-art-school/classes/
-    file_under:
-    image: /16x9/folk-art-school/weaving.jpg
-    alt:
-    caption:
-    title:
-    subtitle:
-    teaser: A class is a blast at Vesterheim! Check the Folk Art School schedule for 2015 and sign up today.
-    published: true
-    start_date: 2014-10-01
-    stop_date:    
+ 
 
 events:
   - url: /folk-art-school/classes/woodworking/2015-01-15-whittling-klubb-kids-session-1/
@@ -495,7 +496,7 @@ events:
     time:
     published: true
     start_date: 
-    stop_date: 2015-07-26
+    stop_date: 2015-07-26  17:00:00 
   - url: /events/annual/folk-art-banquet/
     image:
     alt:
@@ -515,7 +516,7 @@ events:
     time: 3:00 p.m.
     published: true
     start_date: 
-    stop_date: 2015-07-26  
+    stop_date: 2015-07-25 15:00:00  
   - url: /events/calendar/2015/07/25/worlds-largest-schottische/
     image: 46x21/events/foot-notes.jpg
     alt:
