@@ -44,6 +44,7 @@ carousel:
       link: /visit/what/
       published: true
       start_date:
+      stop_date:
     - image: 25x9/visit/norwegian_house.jpg
       alt: Norwegian House
       caption: _USA Today_ named Vesterheim one of “ten great places in the nation to admire American folk art.”
@@ -55,9 +56,9 @@ carousel:
       alt: National Exhibition of Folk Art in the Norwegian Tradition
       caption: Admire recent works by contemporary artists from all over the country at Vesterheim!
       link: /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/viewing/
-      published: true
+      published: false
       start_date:
-      stop_date:    
+      stop_date: 2015-07-26
     - image: 25x9/folk-art-school/classes/woodroom.jpg
       alt: Vesterheim's Folk Art School
       caption: Experience the joy of making things at Vesterheim's Folk Art School!
@@ -496,7 +497,7 @@ events:
     time:
     published: true
     start_date: 
-    stop_date: 2015-07-26  17:00:00 
+    stop_date: 2015-07-26
   - url: /events/annual/folk-art-banquet/
     image:
     alt:
