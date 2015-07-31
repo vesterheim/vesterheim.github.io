@@ -86,31 +86,9 @@ panels:
     title:
     subtitle:
     teaser: A class is a blast at Vesterheim! Check the Folk Art School schedule for 2015 and sign up today.
-    published: true
+    published: false
     start_date: 2014-10-01
     stop_date:   
-  - url: /events/annual/nordic-fest/
-    file_under:
-    image: 16x9/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition.jpg
-    alt:
-    caption:
-    title: Free Admission on Thursday, July 23
-    subtitle: July 23, 2015
-    teaser: Beat the Nordic Fest crowds and enjoy the museum for free on Thursday.
-    published: true
-    start_date: 2015-07-22
-    stop_date:  2015-07-24 
-  - url: /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/winners/
-    file_under:
-    image: 16x9/exhibitions/special/national-exhibition-2015.jpg
-    alt:
-    caption:
-    title: Announcing the 2015 Ribbon Winners and Gold Medalists!
-    subtitle: 
-    teaser: Congratulations to this year's Ribbon Winners and Gold Medalists and to everyone who entered the competition. The show is beautiful.
-    published: true
-#    start_date: 2015-07-22
-#    stop_date:   
   - url: /visit/plan/hours-and-admission/
     file_under:
     image: 16x9/events/julenisse--christmas--kids.jpg
@@ -144,6 +122,28 @@ panels:
     published: false
 #    start_date: 2014-12-20
 #    stop_date:  2015-01-02   
+  - url: /join-give/raffles/
+    file_under:
+    image: /16x9/join-give/viking-cruis-raffle.jpg
+    alt:
+    caption:
+    title:
+    subtitle:
+    teaser: Congratulations to the raffle winners! Lee Zieke of Decorah, Iowa, won the _skinnfell_ and Carolyn Rand of Chicago, Illinois, won the Viking River Cruise. Thanks to all who purchased tickets.
+    published: true
+    start_date: 
+    stop_date: 2015-08-14 
+  - url: /norway-tours/upcoming/south-norway-iceland/
+    file_under:
+    image: 16x9/norway-tours/hardanger-boats.jpg
+    alt:
+    caption:
+    title:
+    subtitle:
+    teaser: During this incredible journey through Iceland and Southern Norway, experience the splendor of dramatic landscapes and the warm hearts of the people who live there.
+    published: true
+    start_date: 
+    stop_date: 
   - url: /about/news/2015/fodors-best-15-museums/
     file_under: News
     image: 
@@ -155,106 +155,6 @@ panels:
     published: true
     start_date: 2014-10-01
     stop_date: 
-  - url: /exhibitions/special/a-restored-connection/
-    file_under:
-    image:
-    alt:
-    caption:
-    title:
-    subtitle:
-    teaser: Open through April 12, 2015, this exhibition explores how we define ourselves and the environment around us.
-    published: false
-    start_date: 2014-10-01
-    stop_date: 
-  - url: /exhibitions/special/scandinavian-modern-design-norwegian-enamel/
-    file_under:
-    image:
-    alt:
-    caption:
-    title:
-    subtitle:
-    teaser:
-    published: false
-    start_date: 2014-10-01
-    stop_date:  
-  - url: /join-give/raffles/
-    file_under:
-    image: /16x9/join-give/viking-cruis-raffle.jpg
-    alt:
-    caption:
-    title:
-    subtitle:
-    teaser: You could win a Viking River Cruise!
-    published: false
-    start_date: 2014-10-01
-    stop_date:   
-  - url: /join-give/raffles/
-    file_under:
-    image: 
-    alt:
-    caption:
-    title:
-    subtitle:
-    teaser: Vesterheim is extremely pleased to announce the raffle of a _skinnfell_ made by Norwegian artist Britt Solheim.
-    published: false
-    start_date: 2014-10-01
-    stop_date:   
-  - url: /about/news/2015/pay-it-forward/
-    file_under: News
-    image: /16x9/exhibitions/enamel-exhibit-kids.jpg
-    alt:
-    caption:
-    title:
-    subtitle:
-    teaser: This year, Vesterheim will pay forward the generosity of our members and supporters by giving free admission to more than 300 children. 
-    published: false
-    start_date: 2014-10-01
-    stop_date:   
-  - url: /about/news/2015/viking-exhibit-field-museum/
-    file_under: News
-    image: /16x9/about/viking-field-museum.jpg
-    alt:
-    caption:
-    title:
-    subtitle:
-    teaser: Vesterheim has been invited to share information at the opening event for the exhibition _Vikings_ on March 18 at the Field Museum in Chicago, Illinois. 
-    published: true
-    start_date:
-    stop_date: 2015-03-18     
-  - url: /norway-tours/upcoming/coastal-voyage/
-    file_under:
-    image: 16x9/norway-tours/coastal-tour-houses.jpg
-    alt:
-    caption:
-    title:
-    subtitle:
-    teaser: Vesterheim gives its special touch to the Hurtigruten’s classic Norwegian coastal voyage! Every day of this incredible trip will be filled with one-of-a-kind opportunities to explore Norway and see breathtaking scenery. This tour is so popular it’s being offered twice in 2015!
-    published: false
-    start_date: 2014-10-01
-    stop_date: 
-  - url: /about/news/2015/new-vesterheim-president-ceo/
-    file_under: News
-    image: 16x9/about/johnson-chris-suit.jpg
-    alt:
-    caption:
-    title: Vesterheim Hires New President/CEO
-    subtitle:
-    teaser: Vesterheim has hired a new President/CEO. Chris Johnson will take the helm of the renowned national Norwegian-American museum and heritage center beginning June 8, 2015. 
-    published: false
-    start_date:
-    stop_date: 
-  - url: /about/news/2014/johnson-retirement/
-    file_under: News
-    image: /16x9/about/johnson-steve.jpg
-    alt:
-    caption:
-    title:
-    subtitle:
-    teaser: Steven Johnson, Executive Director of Vesterheim has announced his intention to retire in September 2016.
-    published: false
-    start_date: 2014-10-01
-    stop_date:  
- 
 
 events:
   - url: /folk-art-school/classes/woodworking/2015-01-15-whittling-klubb-kids-session-1/
@@ -307,16 +207,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-03-18
-  - url: /visit/plan/hours-and-admission/
-    image: /46x21/exhibitions/rosemalinggallery1_M.jpg
-    alt:
-    caption:
-    title: Free First Thursday 
-    date: April 2, 2015
-    time: 10:00AM-4:00PM
-    published: true
-    start_date: 
-    stop_date: 2015-04-03
   - url: /events/calendar/2015/04/16/volunteer-open-house/
     image: /46x21/events/wow--demonstrator--kids.jpg
     alt:
@@ -337,17 +227,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-04-19
-  - url: /events/calendar/2015/04/19/lund-presentation-exhibit-closing-events/
-    image: 46x21/exhibitions/special/enamel.jpg
-    alt:
-    caption:
-    title: "_Stores Like Homes, Homes Like Museums: Traditions in Scandinavian Retailing_ by
-    Curt Lund"
-    date: April 19, 2015
-    time: 2:00PM
-    published: true
-    start_date: 
-    stop_date: 2015-04-20
   - url: /events/away/chicago/
     image:
     alt:
@@ -358,16 +237,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-04-26
-  - url: /events/calendar/2015/04/26/scandinavian-music-jam/
-    image: 16x9/events/scandinavian-music-jam.jpg
-    alt:
-    caption:
-    title: Fourth Sunday Scandinavian Music Jam 
-    date: April 26, 2015
-    time: 2:00PM-4:00PM
-    published: true
-    start_date: 
-    stop_date: 2015-04-27
   - url: /folk-art-school/classes/jewelry/2015-05-02-making-viking-silver-knit-bracelet/
     image: /46x21/folk-art-school/bucheit-viking-knit-chain.jpg
     alt:
@@ -398,16 +267,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-05-18
-  - url: /folk-art-school/classes/food-traditions/2015-05-07-norwegian-cheese-making/
-    image: /46x21/folk-art-school/norwegian-cheese-making.jpg
-    alt:
-    caption:
-    title: Norwegian Cheese Making with Gary Colles 
-    date: June 5-7, 2015
-    time:
-    published: true
-    start_date: 
-    stop_date: 2015-06-08
   - url: /folk-art-school/classes/woodworking/2015-07-08-acanthus-woodcarving-beginning-intermediate/
     image: /46x21/folk-art-school/sandom_acanthus.jpg
     alt:
@@ -448,36 +307,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-06-11
-  - url: /folk-art-school/classes/woodworking/2015-07-15-acanthus-woodcarving-intermediate-advanced/
-    image: /46x21/folk-art-school/sandom_acanthus.jpg
-    alt:
-    caption:
-    title: Acanthus Woodcarving—Intermediate and Advanced with Hans Sandom 
-    date: June 15-19, 2015
-    time:
-    published: true
-    start_date: 
-    stop_date: 2015-06-20
-  - url: /events/calendar/2015/06/18/reception-for-new-president-ceo/
-    image: 16x9/people/chris-johnson-vesterheim.jpg
-    alt:
-    caption:
-    title: Reception for Vesterheim's new President/CEO Chris Johnson 
-    date: June 18, 2015
-    time:
-    published: true
-    start_date: 
-    stop_date: 2015-06-19
-  - url: /folk-art-school/classes/rosemaling/2015-06-26-rosemaling-hallingdal/
-    image: /folk-art-school/classes/2015/hallingdal-rosemaling-magnuson.jpg
-    alt:
-    caption:
-    title: "Rosemaling in the Hallingdal Style"
-    date: June 26-28, 2015
-    time:
-    published: true
-    start_date: 
-    stop_date: 2015-06-27
   - url: /events/calendar/2015/06/28/scandinavian-music-jam/
     image: /16x9/events/scandinavian-music-jam.jpg
     alt:
@@ -508,26 +337,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-07-25
-  - url: /events/calendar/2015/07/24/sister/
-    image: 46x21/events/nordic-fest-sister.jpg
-    alt:
-    caption:
-    title: “Sister” Music Trio
-    date: July 24 and 25, 2015
-    time: 3:00 p.m.
-    published: true
-    start_date: 
-    stop_date: 2015-07-25 15:00:00  
-  - url: /events/calendar/2015/07/25/worlds-largest-schottische/
-    image: 46x21/events/foot-notes.jpg
-    alt:
-    caption:
-    title: World’s Largest Schottische
-    date: July 25, 2015
-    time: 8:50 p.m.
-    published: true
-    start_date: 
-    stop_date: 2015-07-26   
   - url: /exhibitions/special/from-underwear-to-everywhere-norwegian-sweaters/
     image: /16x9/exhibitions/special/underwear-everywhere-norwegian-sweaters.jpg
     alt:
@@ -538,6 +347,26 @@ events:
     published: true
     start_date: 
     stop_date: 
+  - url: /folk-art-school/classes/rosemaling/2015-09-11-rosemaling-valdres/
+    image: /46x21/folk-art-school/valdres-rosemaling-tollefson.jpg
+    alt:
+    caption:
+    title: Rosemaling in the Valdres Style with Sara Tollefson 
+    date: September 11-13, 2015
+    time:
+    published: true
+    start_date: 
+    stop_date: 2015-09-14
+  - url: /folk-art-school/classes/woodworking/2015-09-16-norwegian-stave-container/
+    image: /46x21/folk-art-school/norwegian-stave-ambar-christianson.jpg
+    alt:
+    caption:
+    title: Norwegian Stave Container with Owen Christianson 
+    date: September 16-20, 2015
+    time:
+    published: true
+    start_date: 
+    stop_date: 2015-09-21
   - url: /exhibitions/special/woodcarved-figures-nordic-roots/
     image: /46x21/exhibitions/special/coffee-wood-figures.jpg
     alt:
@@ -548,4 +377,24 @@ events:
     published: true
     start_date: 
     stop_date: 2015-09-19
+  - url: /events/calendar/2015/09/27/baltic-crossing/
+    image: /46x21/events/baltic-crossing.jpg
+    alt:
+    caption:
+    title: Baltic Crossing Music Concert
+    date: September 27, 2015
+    time: TBA
+    published: true
+    start_date: 
+    stop_date: 2015-09-28
+  - url: /join-give/benefit-auction/
+    image: /16x9/join-give/auction/folk-art-benefit-aution.jpg
+    alt:
+    caption:
+    title: Folk Art Benefit Auction Online
+    date: October 1-28, 2015
+    time: 
+    published: true
+    start_date: 
+    stop_date: 2015-10-29
 ---

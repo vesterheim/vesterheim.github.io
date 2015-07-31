@@ -23,6 +23,12 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
+Congratulations to the winners!
+
+Lee Zieke of Decorah, Iowa, won the _skinnfell_, and Carolyn Rand of Chicago, Illinois, won the Viking River Cruise. 
+
+Thank you to everyone who purchased tickets.
+
 Folk Art Raffle
 ---------------
 <figure class="pull-left  content-photo  content-photo--golden-ratio--pull-left  content-photo--golden-ratio"><div class="content-photo__lining">{% picture golden join-give/raffle/skinnfell.jpg alt="" %}</div></figure>

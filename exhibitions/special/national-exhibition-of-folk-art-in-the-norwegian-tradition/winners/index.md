@@ -29,12 +29,12 @@ pagelist:
 ### Best of Show
 {: .heading--black--mixed-case }
 
-* John Drewes, Red Wing, Minn., Modern Scandinavian Utility Knife
+* John Drewes, Gold Medalist, Red Wing, Minn., Modern Scandinavian Utility Knife
 
 ### People’s Choice
 {: .heading--black--mixed-case }
 
-To be announced
+* John Drewes, Gold Medalist, Red Wing, Minn., Modern Scandinavian Utility Knife
 
 ### Gold Medal
 {: .heading--black--mixed-case }
@@ -73,7 +73,7 @@ None
 ### People’s Choice
 {: .heading--black--mixed-case }
 
-To be announced
+* Suzanne Toftey, Gold Medalist, Sartell, Minn., “Fun at the Seter” Telemark-style Plate
 
 ### Gold Medal
 {: .heading--black--mixed-case }
@@ -115,12 +115,13 @@ None
 ### Best of Show
 {: .heading--black--mixed-case }
 
-* Judy Ann Ness, Eugene, Ore., “Playa Summer Lake, Spring 2014” Wall Hanging in Krokbragd Technique
+* Judy Ann Ness, Gold Medalist, Eugene, Ore., “Playa Summer Lake, Spring 2014” Wall Hanging in Krokbragd Technique
 
 ### People’s Choice 
 {: .heading--black--mixed-case }
 
-To be announced
+* Judy Ann Ness, Gold Medalist, Eugene, Ore., “Playa Summer Lake, Spring 2014” Wall Hanging 
+in Krokbragd Technique
 
 ### Gold Medal
 {: .heading--black--mixed-case }
@@ -156,12 +157,12 @@ None
 ### Best of Show
 {: .heading--black--mixed-case }
 
-* Jimmy Miller, New Richmond, Minn., “Våren” Carved Figure
+* Jimmy Miller, Gold Medalist, New Richmond, Minn., “Våren” Carved Figure
 
 ### People’s Choice
 {: .heading--black--mixed-case }
 
-To be announced
+* Todd Pasche, Minnieska, Minn., “It’s a Keeper” Carved Figure
 
 ### Gold Medals
 {: .heading--black--mixed-case }
