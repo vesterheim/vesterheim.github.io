@@ -35,7 +35,7 @@ layout: page
 	<dd>{{ page.level | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}</dd>{% endif %}
 	{% if page.participation %}<dt>Participation</dt>
 	<dd>{{ page.participation | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}</dd>{% endif %}
-	<dt>Tutition</dt>
+	<dt>Tuition</dt>
 	<dd>
 		<ul>
 			<li>{{ page.tuition.members | xml_escape }} Members</li>
