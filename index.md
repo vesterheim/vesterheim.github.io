@@ -73,6 +73,13 @@ carousel:
       published: false
       start_date:
       stop_date:
+    - image: 25x9/events/baltic-crossing.jpg
+      alt: Baltic Crossing Concert
+      caption: "Baltic Crossing plays at Vesterheim, September 27, 2015."
+      link: /events/calendar/2015/09/27/baltic-crossing/
+      published: true
+      start_date:
+      stop_date:
 
 show_social_sharing_bar: false
 
@@ -86,7 +93,7 @@ panels:
     title:
     subtitle:
     teaser: A class is a blast at Vesterheim! Check the Folk Art School schedule for 2015 and sign up today.
-    published: false
+    published: true
     start_date: 2014-10-01
     stop_date:   
   - url: /visit/plan/hours-and-admission/
@@ -122,17 +129,17 @@ panels:
     published: false
 #    start_date: 2014-12-20
 #    stop_date:  2015-01-02   
-  - url: /join-give/raffles/
+  - url: /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/winners/
     file_under:
-    image: /16x9/join-give/viking-cruis-raffle.jpg
+    image: 16x9/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition.jpg
     alt:
     caption:
     title:
     subtitle:
-    teaser: Congratulations to the raffle winners! Lee Zieke of Decorah, Iowa, won the _skinnfell_ and Carolyn Rand of Chicago, Illinois, won the Viking River Cruise. Thanks to all who purchased tickets.
+    teaser: Congratulations to the winners in the _National Exhibition of Folk Art in the Norwegian Tradition._
     published: true
     start_date: 
-    stop_date: 2015-08-14 
+    stop_date: 2015-09-15 
   - url: /norway-tours/upcoming/south-norway-iceland/
     file_under:
     image: 16x9/norway-tours/hardanger-boats.jpg
@@ -357,6 +364,16 @@ events:
     published: true
     start_date: 
     stop_date: 2015-09-14
+  - url: /events/youth-programs/barnetimen/
+    image:
+    alt:
+    caption:
+    title: Barnetimen Children’s Hour 
+    date: September 15, 2015 
+    time: 10:00-11:00 a.m.
+    published: true
+    start_date: 
+    stop_date: 2015-09-116
   - url: /folk-art-school/classes/woodworking/2015-09-16-norwegian-stave-container/
     image: /46x21/folk-art-school/norwegian-stave-ambar-christianson.jpg
     alt:
@@ -364,9 +381,9 @@ events:
     title: Norwegian Stave Container with Owen Christianson 
     date: September 16-20, 2015
     time:
-    published: true
+    published: false
     start_date: 
-    stop_date: 2015-09-21
+    stop_date: 2015-08-21
   - url: /exhibitions/special/woodcarved-figures-nordic-roots/
     image: /46x21/exhibitions/special/coffee-wood-figures.jpg
     alt:
