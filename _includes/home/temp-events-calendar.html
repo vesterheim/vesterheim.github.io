@@ -23,6 +23,9 @@
             {% assign display = false %}
         {% endif %}    
     {% endif %}
+    {% if event.published == false %}
+        {% assign display = false %}   
+    {% endif %}    
 
 	{% if display %}
 		{% assign events_displayed = events_displayed | plus:1 %}
