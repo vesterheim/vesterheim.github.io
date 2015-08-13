@@ -373,7 +373,7 @@ events:
     time: 10:00-11:00 a.m.
     published: false
     start_date: 
-    stop_date: 2015-09-116
+    stop_date: 2015-09-15
   - url: /exhibitions/special/woodcarved-figures-nordic-roots/
     image: /46x21/exhibitions/special/coffee-wood-figures.jpg
     alt:
