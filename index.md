@@ -371,19 +371,9 @@ events:
     title: Barnetimen Children’s Hour 
     date: September 15, 2015 
     time: 10:00-11:00 a.m.
-    published: true
-    start_date: 
-    stop_date: 2015-09-116
-  - url: /folk-art-school/classes/woodworking/2015-09-16-norwegian-stave-container/
-    image: /46x21/folk-art-school/norwegian-stave-ambar-christianson.jpg
-    alt:
-    caption:
-    title: Norwegian Stave Container with Owen Christianson 
-    date: September 16-20, 2015
-    time:
     published: false
     start_date: 
-    stop_date: 2015-08-21
+    stop_date: 2015-09-116
   - url: /exhibitions/special/woodcarved-figures-nordic-roots/
     image: /46x21/exhibitions/special/coffee-wood-figures.jpg
     alt:
@@ -394,6 +384,16 @@ events:
     published: true
     start_date: 
     stop_date: 2015-09-19
+  - url: /folk-art-school/classes/woodworking/2015-09-20-kolrosing-wood-incising/
+    image: /folk-art-school/classes/2015/kolrosing-ritger.jpg
+    alt:
+    caption:
+    title: Kolrosing—Wood Incising 
+    date: September 20, 2015
+    time:
+    published: true
+    start_date: 
+    stop_date: 2015-09-21
   - url: /events/calendar/2015/09/27/baltic-crossing/
     image: /46x21/events/baltic-crossing.jpg
     alt:
