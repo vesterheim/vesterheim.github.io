@@ -354,6 +354,16 @@ events:
     published: true
     start_date: 
     stop_date: 
+  - url: /events/calendar/2015/08/23/scandinavian-music-jam/
+    image: /16x9/events/scandinavian-music-jam.jpg
+    alt:
+    caption:
+    title: Fourth Sunday Scandinavian Music Jam 
+    date: August 23, 2015
+    time:
+    published: true
+    start_date: 
+    stop_date: 2015-08-24
   - url: /folk-art-school/classes/rosemaling/2015-09-11-rosemaling-valdres/
     image: /46x21/folk-art-school/valdres-rosemaling-tollefson.jpg
     alt:
