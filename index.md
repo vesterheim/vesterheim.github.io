@@ -23,7 +23,14 @@ carousel:
       link: /events/annual/syttende-mai/
       published: false
       start_date:
-      stop_date:    
+      stop_date: 
+    - image: 25x9/exhibitions/special/norwegian-sweaters.jpg
+      alt: "From Underwear to Everywhere: Norwegian Sweaters"
+      caption: On view now!
+      link: /exhibitions/special/from-underwear-to-everywhere-norwegian-sweaters/
+      published: true
+      start_date:
+      stop_date: 
     - image: 25x9/events/barneløpet--kids.jpg
       alt: Barneløpet Children's Ski/Walk Event
       caption: Enjoy the winter at _Barneløpet._
@@ -351,7 +358,7 @@ events:
     title: "Opening Reception for _From Underwear to Everywhere: Norwegian Sweaters_"
     date: August 22, 2015
     time: 3:00-5:00 p.m.
-    published: true
+    published: false
     start_date: 
     stop_date: 
   - url: /events/calendar/2015/08/23/scandinavian-music-jam/
@@ -361,7 +368,7 @@ events:
     title: Fourth Sunday Scandinavian Music Jam 
     date: August 23, 2015
     time:
-    published: true
+    published: false
     start_date: 
     stop_date: 2015-08-24
   - url: /folk-art-school/classes/rosemaling/2015-09-11-rosemaling-valdres/
@@ -375,13 +382,13 @@ events:
     start_date: 
     stop_date: 2015-09-14
   - url: /events/youth-programs/barnetimen/
-    image:
+    image: /46x21/events/barnetimen-kids-2014.jpg
     alt:
     caption:
     title: Barnetimen Children’s Hour 
     date: September 15, 2015 
     time: 10:00-11:00 a.m.
-    published: false
+    published: true
     start_date: 
     stop_date: 2015-09-15
   - url: /exhibitions/special/woodcarved-figures-nordic-roots/
@@ -424,4 +431,14 @@ events:
     published: true
     start_date: 
     stop_date: 2015-10-29
+  - url: /events/annual/deck-tables/
+    image: /16x9/events/deck-the-tables.jpg
+    alt:
+    caption:
+    title: Deck the Tables
+    date: November 20-21, 2015
+    time: 
+    published: true
+    start_date: 
+    stop_date: 2015-11-22
 ---

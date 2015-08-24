@@ -41,7 +41,7 @@ Twenty-one items, which include bentwood boxes, a tankard, a horse harness, ale 
 Stoughton, Wisconsin <br />
 Exhibition _Sacred Symbols: The Folk Art of Norway_
 
-This Vesterheim traveling exhibition, which focuses on the many symbols that have come down from the Viking past, features wood, silver, horn, and textiles artifacts from the museum's collections. On view May 16, 2015 through March 31, 2016.
+This Vesterheim traveling exhibition, which focuses on the many symbols that have come down from the Viking past, features wood, silver, horn, and textiles artifacts from the museum's collections. On view May 16, 2015 through March 31, 2016. Other Vesterheim artifacts and images can be seen in the center’s core exhibit.
 
 ### Museum of Danish America
 {: .heading--black--mixed-case }
@@ -51,37 +51,43 @@ Exhibition _Skål! Scandinavian Spirits_
 
 This exhibition, which explores the role of beer and aquavit as symbols of Scandinavian heritage, includes drinking vessels from Vesterheim's collections. On view through October 25, 2015. The exhibition will then travel to Nordic Heritage Museum, Seattle, Washington; Swedish American Museum, Chicago, Illinois; Vesterheim Norwegian-American Museum, Decorah, Iowa; American Swedish Historical Museum, Philadelphia, Pennsylvania; American Swedish Institute, Minneapolis, Minnesota; and Elverhoj Museum, Solvang, California.
 
-### Old Capital Museum
-{: .heading--black--mixed-case }
-
-University of Iowa, Iowa City<br />
-Exhibition _The Land Provides: Iowa's Culinary Heritage_
-
-The exhibition explores Iowa's rich culinary history, various agriculture techniques, and the people who brought the earth's bounty from farm and garden to table. On view now through August 1, 2015 
-
-### The Mint Museum
-{: .heading--black--mixed-case }
-
-Charlotte North Carolina<br />
-Exhibition _Connecting the World: The Panama Canal at 100_
-
-The exhibition includes three prints from Vesterheim by Norwegian-born artist Jonas Lie that record the building of the Panama Canal. The scenes, done in 1913, are titled _Toil,_ _Heavenly Hoist,_ and _Gates of Pedro Miguel._ 
-
 ### The Dwight D. Eisenhower Library and Museum
 {: .heading--black--mixed-case }
 
 Abilene, Kansas <br />
 Exhibition _Be Ye Men of Valour: the Allies of World War II_
 
-A sampling of Vesterheim artifacts in the exhibition include:
+A sampling of Vesterheim artifacts in the exhibition, which has been extended through December 2016, include:
 
 *   A skein of human hair that was made in Hadeland, Norway, for knitting socks and darning during the World War II Occupation.
 *   A matchbook from "Little Norway," a training camp in Canada for the Royal Norwegian Air Force during WWII.
 *   A sweater worn by worn by Einar Judén when he was a member of the Norwegian resistance movement during WWII.
+
+### The Mingei International Museum
+{: .heading--black--mixed-case }
+
+San Diego, California<br />
+Exhibition _Made in America_
+
+A clock with fretwork design made by C.A. Hendrickson, a long-time resident of the Aase Haugen Home in Decorah, will be displayed with other hand-crafted pieces from around the United States in this exhibition, September 19, 2015 – February 21, 2016.
 
 ### The Gundersen Clinic
 {: .heading--black--mixed-case }
 
 Decorah, Iowa
 
-Gundersen Clinic features a display of over 20 objects that highlight the tradition of Norwegian and Norwegian-American woodcarving. Items on view include beautifully carved porridge containers, mangle boards (that served as irons and were courtship gifts), and a shaving box that is also a puzzle box.
+Gundersen Clinic features a colorful display of clay and paper flowers made by Nordic Fest participants and inspired by _Flora Metamorphicae,_ an installation of 4,000 ceramic flowers that were on view at Vesterheim Museum in 2014.
+
+### Minnekirken, the Norwegian Lutheran Memorial Church
+{: .heading--black--mixed-case }
+
+Chicago, Illinois<br />
+
+A chandelier from the Chicago Norske Klub is on display at Minnekirken. 
+
+### Douglas County Historical Society
+{: .heading--black--mixed-case }
+
+Alexandria, Minnesota<br />
+
+Several objects belonging to Senator Knute Nelson are on view at the Douglas County Historical Society, which is located in Nelson’s historic home. 

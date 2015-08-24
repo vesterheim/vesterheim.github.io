@@ -24,8 +24,25 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-A fabulous community event showcasing the talents of area residents and retailers who create beautiful table settings to spark holiday decorating ideas.
+This fabulous community event at the Hotel Winneshiek showcases the talents of area residents and retailers who create beautiful table settings to spark holiday decorating ideas.
 
-This annual event, held in 2015 on November 20 and 21, includes an open house at the Hotel Winneshiek and other fantastic activities. Beautiful tables spark your holiday decorating ideas and a Holiday Home Décor Showcase features goods and services to help make your holiday celebrations festive and joyful. There are fabulous door prizes, raffles, auction packages, music, and treats.
+Fantastic tables spark your holiday decorating ideas and a Holiday Home Décor Showcase features goods and services to help make your holiday celebrations festive and joyful. There are fabulous door prizes, raffles, auction packages, music, and treats.
+
+Blue Jeans & Bling Open House <br />
+Friday, Nov. 20  <br />
+6:00 - 8:00 p.m. 
+
+Tables & Treats Open House <br />
+Saturday, Nov. 21  <br />
+9:00 a.m. - 3:00 p.m. 
+
+Restauration Luncheon  <br />
+(reservations required)  <br />
+Saturday, Nov. 21  <br />
+12:00 - 2:00 p.m. 
+
+Prices and details coming soon.
+
+All proceeds benefit Vesterheim’s fourth-grade Pioneer Immersion Program.
 
 View pictures from previous Deck the Tables on the Deck the Tables Facebook page [here.](https://www.facebook.com/media/set/?set=a.360902364084181.1073741840.178163039024782&type=1)
