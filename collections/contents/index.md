@@ -26,7 +26,7 @@ Folk Art (numbering approximately 3,000 items)
 ----------------------------------------------
 Handcrafted Norwegian folk art and folk art in the Norwegian tradition, including:
 
-* Rosemaling and decorative painting
+* Rosemaling and decorative painting [Learn more about rosemaling with the _What Is Rosemaling?_ booklet.](/collections/contents/rosemaling-booklet/)
 * Woodcarving and other surface decoration on wood
 * Hand-woven coverlets, cushion covers, and tapestries
 * Knitting and embroidery

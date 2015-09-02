@@ -36,7 +36,9 @@ pagelist:
 
 tags:   
 ---
-Save the date! Baltic Crossing will play at Vesterheim on September 27, 2015. More details will be announced soon.
+Save the date! Baltic Crossing will play on September 27, 2015, at 7:00 p.m. in the museum’s Bethania Church on Mill Street. 
+
+Tickets are $12 per person, available at the door. Contact Martha Griesheimer at 563-382-9681 or [mgriesheimer@vesterheim.org](mailto:mgriesheimer@vesterheim.org) for information about a workshop before the concert.
 
 The band Baltic Crossing uses a strong affinity for old dance music and respect for each others' traditions to bring a new youthful energy to the folk music of Europe. 
 

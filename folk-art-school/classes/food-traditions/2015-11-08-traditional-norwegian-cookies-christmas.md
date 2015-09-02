@@ -8,7 +8,7 @@ related:
 
 location: ~
 instructor: Darlene Fossum-Martin
-sessions: "November 8, 2015, (Fri. 6:00-8:30; Sat. 9:00-5:00)"
+sessions: "November 8, 2015"
 dtstart: 2015-11-08 6:00:00 -5:00
 dtend: 2015-11-08 17:00:00 -5:00
 level: All levels. 

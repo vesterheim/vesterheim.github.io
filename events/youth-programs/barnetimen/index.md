@@ -35,7 +35,7 @@ Vesterheim invites all pre-school-aged children and their parents or caregivers 
 * January 19, 2016
 * February 16, 2016
 * March 15, 2016
-* April 12, 2016
+* April 19, 2016
 
 _Barnetimen_ is free of charge and no previous sign-up is necessary—come to one session or all of them. The program is geared toward 3-5 year olds, but all ages are welcome. Meet first at ArtHaus Studio at 516 W. Water St., visit the museum, and then head back to ArtHaus for an art project. 
 

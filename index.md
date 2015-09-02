@@ -401,12 +401,12 @@ events:
     published: true
     start_date: 
     stop_date: 2015-09-19
-  - url: /folk-art-school/classes/woodworking/2015-09-20-kolrosing-wood-incising/
-    image: /folk-art-school/classes/2015/kolrosing-ritger.jpg
+  - url: /folk-art-school/classes/fiber-arts/2015-09-18-nålbinding-practical-fiber-art/
+    image: /46x21/folk-art-school/nalbinding-martinson.jpg
     alt:
     caption:
-    title: Kolrosing—Wood Incising 
-    date: September 20, 2015
+    title: Nålbinding—A Practical Fiber Art 
+    date: September 18-20, 2015
     time:
     published: true
     start_date: 
@@ -431,6 +431,15 @@ events:
     published: true
     start_date: 
     stop_date: 2015-10-29
+  - url: /folk-art-school/classes/woodworking/2015-10-18-carving-christmas-ornaments/
+    image: /46x21/folk-art-school/whittling-kids-klubb-hanna.jpg
+    alt:
+    caption:
+    title: Carving Christmas Ornaments
+    date: October 18, 2015
+    time:
+    published: true
+    start_date: 
   - url: /events/annual/deck-tables/
     image: /16x9/events/deck-the-tables.jpg
     alt:

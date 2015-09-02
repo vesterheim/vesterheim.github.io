@@ -25,6 +25,8 @@ pagelist:
 ---
 Come and study this beautiful, traditional Norwegian decorative painting with the best rosemaling instructors in the country and from Norway! Plus, the depth of Vesterheim's collection of rosemaling is sure to inspire your creativity. 
 
+[Learn more about rosemaling with the _What Is Rosemaling?_ booklet.](/collections/contents/rosemaling-booklet/)
+
 {% assign class__pagelist = site.data.pagelist | where: 'parent', page.url | sort: 'dtstart' %}
 {% include folk-art-school/class-list.html %}
 {% assign assign class__pagelist = nil %}
