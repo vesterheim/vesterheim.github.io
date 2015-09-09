@@ -29,7 +29,7 @@ Get ready for Vesterheim's 2015 Folk Art Benefit Auction. You'll be able to view
 
 This auction provides people from all over the country with the chance to bid on items they love. We are excited and proud that pieces by these folk artists will receive worldwide exposure and will be bid on by folk-art fans far and wide. Winning bidders in last year's aution came from California, Nevada, Utah, New Jersey, Connecticut, New York, North Dakota, and Kansas, just to name a few. 
 
-The auction is one of our biggest fundraising events. All proceeds go to projects directly related to Vesterheim’s Folk Art School. We want to thank all of the bidders and especially the folk artists for donating such wonderful and sought-after pieces!
+The auction is one of our biggest fundraising events. All proceeds go to projects directly related to Vesterheim’s Folk Art School. We want to thank all of the bidders and especially the folk artists for donating such wonderful and sought-after pieces! Special thanks to volunteer Bill Wild, of Decorah, Iowa, who did all of the photography of the auction pieces.
 
 Check the final bids for the 2014 auction [here](https://www.biddingforgood.com/auction/auctionhome.action?auctionId=219191486).
 

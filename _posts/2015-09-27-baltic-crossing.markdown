@@ -36,7 +36,7 @@ pagelist:
 
 tags:   
 ---
-Save the date! Baltic Crossing will play on September 27, 2015, at 7:00 p.m. in the museum’s Bethania Church on Mill Street. 
+Get ready for this fantastic show! Baltic Crossing will play on September 27, 2015, at 7:00 p.m. in the museum’s Bethania Church on Mill Street. 
 
 Tickets are $12 per person, available at the door. Contact Martha Griesheimer at 563-382-9681 or [mgriesheimer@vesterheim.org](mailto:mgriesheimer@vesterheim.org) for information about a workshop before the concert.
 
@@ -46,4 +46,4 @@ With award-winning members hailing from the U.K., Finland, and Denmark, Baltic C
 
 The band members are Ian Stephenson from the U.K. on guitar and button accordion; Andy May from the U.K. on Northumbrian bagpipes and piano; Esko Järvelä from Finland on five-stringed violin; Antti Järvelä from Finland on mandolin and double bass; and Kristian Bugge from Denmark on violin. Wherever they meet, at least one member must cross the Baltic Sea. 
 
-Learn more about Baltic Crossing [here](http://balticcrossing.sailsofsilver.com), and get ready for this fantastic show!
+Learn more about Baltic Crossing [here](http://balticcrossing.sailsofsilver.com).
