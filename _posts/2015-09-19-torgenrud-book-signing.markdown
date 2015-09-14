@@ -36,7 +36,7 @@ pagelist:
 
 tags:   
 ---
-Meet Heather Torgenrud, who will sign her new book _Norwegian Pick-Up Bandweaving_, from 4:30-5:00 p.m. in Vesterheim's Museum Store. 
+Meet Heather Torgenrud, who will sign her new book _Norwegian Pick-Up Bandweaving_, on September 19 from 4:30-5:00 p.m. in Vesterheim's Museum Store. 
 
 For the first time in English, here's a complete book about Norwegian pick-up bandweaving—from its fascinating history to beautiful bands you can make yourself, with more than 100 pattern charts from bands in museum collections. The book is richly illustrated with artifacts from Vesterheim's collection. 
 
