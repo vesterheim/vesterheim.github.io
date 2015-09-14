@@ -80,7 +80,7 @@ carousel:
       published: false
       start_date:
       stop_date:
-    - image: 25x9/events/baltic-crossing.jpg
+    - image: 25x9/events/baltic-crossing-band.jpg
       alt: Baltic Crossing Concert
       caption: "Baltic Crossing plays at Vesterheim, September 27, 2015."
       link: /events/calendar/2015/09/27/baltic-crossing/
@@ -411,13 +411,23 @@ events:
     published: true
     start_date: 
     stop_date: 2015-09-21
+  - url: /events/calendar/2015/09/19/torgenrud-book-signing/
+    image: /46x21/events/torgenrud-pick-up-bandweaving-book.jpg
+    alt:
+    caption:
+    title: Book Signing by Heather Torgenrud, author of _Norwegian Pick-up Bandweaving_
+    date: September 19, 2015
+    time: 4:30-5:00 p.m.
+    published: true
+    start_date: 
+    stop_date: 2015-09-20
   - url: /events/calendar/2015/09/27/baltic-crossing/
-    image: /46x21/events/baltic-crossing.jpg
+    image: /46x21/events/baltic-crossing-band.jpg
     alt:
     caption:
     title: Baltic Crossing Music Concert
     date: September 27, 2015
-    time: TBA
+    time: 7:00 p.m.
     published: true
     start_date: 
     stop_date: 2015-09-28
@@ -440,6 +450,16 @@ events:
     time:
     published: true
     start_date: 
+  - url: /folk-art-school/classes/woodworking/2015-11-06-chip-carving/
+    image: /46x21/folk-art-school/chip-carving-leenhouts.jpg
+    alt:
+    caption:
+    title: Chip Carving—Plate with Scandinavian Design
+    date: November 6-8, 2015
+    time: 
+    published: true
+    start_date: 
+    stop_date: 2015-11-09
   - url: /events/annual/deck-tables/
     image: /16x9/events/deck-the-tables.jpg
     alt:
