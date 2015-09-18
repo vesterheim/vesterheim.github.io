@@ -14,7 +14,7 @@ related:
 - /visit/plan/
 
 navigation:
-  order: 45
+  order: 25
 pagelist:
   order:         # Defaults to navigation order
   image: 16x9/exhibitions/special/flora-fauna.jpg

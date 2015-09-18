@@ -13,7 +13,7 @@ related:
 - /visit/plan/
 
 navigation:
-  order: 10 
+  order: 35 
 pagelist:
   order:         # Defaults to navigation order
   image: 46x21/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition.jpg

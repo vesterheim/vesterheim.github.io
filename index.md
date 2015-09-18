@@ -421,6 +421,26 @@ events:
     published: true
     start_date: 
     stop_date: 2015-09-20
+  - url: /events/calendar/2015/09/26/special-activities-luther-family-weekend/
+    image:  46x21/events/museum-visitors-ship.jpg
+    alt:
+    caption:
+    title: Special Activities during Luther College Family Weekend
+    date: September 26, 2015
+    time: 9:00 a.m.-5:00 p.m.
+    published: true
+    start_date: 
+    stop_date: 2015-09-27
+  - url: /events/calendar/2015/09/26/smithsonian-day-live/
+    image:  46x21/events/museum-day-live.jpg
+    alt:
+    caption:
+    title: Smithsonian Magazine Museum Day Live
+    date: September 26, 2015
+    time: 9:00 a.m.-5:00 p.m.
+    published: true
+    start_date: 
+    stop_date: 2015-09-27
   - url: /events/calendar/2015/09/27/baltic-crossing/
     image: /46x21/events/baltic-crossing-band.jpg
     alt:

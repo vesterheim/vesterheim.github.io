@@ -36,7 +36,7 @@ pagelist:
 
 tags:   
 ---
-Get ready for this fantastic show! Baltic Crossing will play on September 27, 2015, at 7:00 p.m. in the museum’s Bethania Church on Mill Street. Tickets are $12 per person, available at the door. 
+Get ready for this fantastic show! Baltic Crossing will play on September 27, 2015, at 7:00 p.m. in the museum’s Bethania Church on Mill Street. Tickets are $12 per person, available at the door, which opens at 6:30 p.m. 
 
 There will also be a musician’s workshop with the band members from 3:00-4:30 p.m. The workshop will be held at Vesterheim and will cost $30 with free admission to the concert. Contact Martha Griesheimer at 563-382-9681 or [mgriesheimer@vesterheim.org](mailto:mgriesheimer@vesterheim.org) to register.
 
