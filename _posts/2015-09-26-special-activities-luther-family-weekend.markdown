@@ -36,11 +36,11 @@ pagelist:
 
 tags:   
 ---
-On Saturday, September 26, 2015, during Luther College Family Weekend, Vesterheim is hosting special activities, including folk-art demonstrations and guided tours throughout the day. Vesterheim invites everyone to the museum to enjoy the activities as we welcome Luther families.
+On Saturday, September 26, 2015, during Luther College Family Weekend, Vesterheim is hosting special folk-art demonstrations and guided tours throughout the day. Vesterheim invites everyone to the museum to enjoy the activities as we welcome Luther families.
 
 There will be a guided tour of the buildings in the [Open Air Division](http://vesterheim.org/exhibitions/open-air/) at 10:30 a.m. and from 1:00-3:00 p.m. the buildings will be open with docents available to answer questions and talk about the exhibitions. Folk art demonstrations will include rosemaling, woodworking, weaving, spinning, and knitting. All demonstrators are Luther alumni and/or faculty and staff.
 
-The museum is open from 9:00 a.m. to 5:00 p.m. Regular admission prices apply. Luther College faculty, staff, and students, and Vesterheim Museum members receive free admssion to Vesterheim all year long. 
+The museum is open from 9:00 a.m. to 5:00 p.m. Regular admission prices apply. Luther College faculty, staff, and students, and Vesterheim Museum members receive free admission to Vesterheim all year long. 
 
 Check [here](http://vesterheim.org/visit/plan/hours-and-admission/) for museum admission prices. 
 

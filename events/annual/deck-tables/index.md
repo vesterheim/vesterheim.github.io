@@ -41,6 +41,12 @@ Restauration Luncheon  <br />
 Saturday, Nov. 21  <br />
 12:00 - 2:00 p.m. 
 
+Gala Dinner and Auction <br />
+(reservations required)  <br />
+Saturday, Nov. 21  <br />
+5:00 p.m. - Social Hour and Table Viewing <br />
+6:45 p.m. - Dinner and Auction
+
 Prices and details coming soon.
 
 All proceeds benefit Vesterheim’s fourth-grade Pioneer Immersion Program.

@@ -422,7 +422,7 @@ events:
     start_date: 
     stop_date: 2015-09-20
   - url: /events/calendar/2015/09/26/special-activities-luther-family-weekend/
-    image:  46x21/events/museum-visitors-ship.jpg
+    image: /46x21/events/museum-visitors-ship.jpg
     alt:
     caption:
     title: Special Activities during Luther College Family Weekend
@@ -432,7 +432,7 @@ events:
     start_date: 
     stop_date: 2015-09-27
   - url: /events/calendar/2015/09/26/smithsonian-day-live/
-    image:  46x21/events/museum-day-live.jpg
+    image: /46x21/events/museum-day-live.jpg
     alt:
     caption:
     title: Smithsonian Magazine Museum Day Live
@@ -441,6 +441,16 @@ events:
     published: true
     start_date: 
     stop_date: 2015-09-27
+  - url: /events/calendar/2015/09/27/sando-jewelry-presentation/
+    image: /46x21/events/sando-jewelry-presentation.jpg
+    alt:
+    caption:
+    title: Norwegian Jeweler Jørgen Sando Gives Presentation
+    date: September 27, 2015
+    time: 2:00 p.m.
+    published: true
+    start_date: 
+    stop_date: 
   - url: /events/calendar/2015/09/27/baltic-crossing/
     image: /46x21/events/baltic-crossing-band.jpg
     alt:
