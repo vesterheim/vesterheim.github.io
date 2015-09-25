@@ -22,6 +22,8 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description   
 ---
+Save the date for April 23, 2016. 
+
 Celebrate Norwegian heritage and discover more about Norwegian traditions at the Nordic Marketplace and Luncheon, held each spring at the Park Ridge Country Club, Park Ridge, Illinois. This annual event is a benefit for Vesterheim.
 
 The marketplace features folk-art demonstrators and Scandinavian vendors with wonderful Scandinavian items for sale. The program includes a special presentation, silent auction, raffle drawing, and update from Vesterheim. A delectable luncheon is served with a special menu for school-age children, 12 and under. 

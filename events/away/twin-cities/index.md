@@ -22,6 +22,8 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description   
 ---
+Save the date for April 9, 2016. 
+
 Celebrate Norwegian heritage at the annual Nordic Celebration and Marketplace, held each spring in Minneapolis, Minnesota as a benefit for Vesterheim. 
 
 The marketplace features Nordic vendors with wonderful Scandinavian items for sale, demonstrations from skilled folk artists, scholarly chats, delicious treats, and more. The marketplace concludes with a delectable meal and a program, including a special presentation, a live auction, raffle drawing, and an update from Vesterheim.

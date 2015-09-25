@@ -24,8 +24,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser: Showcasing the rich heritage and complex mastery of these seemingly simple figures. 
 ---
-Celebrate this exhibition on September 18 from 5:00-7:00 p.m. with a free special opening and reception with light refreshments. There will be a gallery talk by Harley Refsal at 6:00 p.m. 
-
 The distinctive and often whimsical figure carving of the Nordic countries and Scandinavian America continues to delight audiences of all ages and backgrounds. This exhibition will showcase the rich heritage and complex mastery of these seemingly simple figures. 
 
 Guest curated by one of America’s most accomplished Scandinavian-style figure carvers, Harley Refsal, the exhibition will feature historic works alongside contemporary pieces from the collections of Vesterheim and other Scandinavian museums in the United States. More information about special programming coming soon.

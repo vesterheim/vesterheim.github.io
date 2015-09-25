@@ -70,13 +70,6 @@ carousel:
       alt: Vesterheim's Folk Art School
       caption: Experience the joy of making things at Vesterheim's Folk Art School!
       link: /folk-art-school/classes/
-      published: true
-      start_date:
-      stop_date:
-    - image: 25x9/folk-art-school/classes/woodroom.jpg
-      alt: "_From Underwear to Everywhere: Norwegian Sweaters_"
-      caption: "_From Underwear to Everywhere: Norwegian Sweaters_ on view August 22, 2015 to April 24, 2016. Nothing says Norwegian quite like a Norwegian sweater!"
-      link: /exhibitions/special/from-underwear-to-everywhere-norwegian-sweaters/
       published: false
       start_date:
       stop_date:

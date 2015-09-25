@@ -30,4 +30,4 @@ She and her late husband Marion Nelson are credited with transforming Vesterheim
 
 Lila, who passed away on May 26, 2015, in Minneapolis, Minnesota, at age 93, was an execeptional woman who was active in the Weavers Guild of Minnesota for decades, taught classes and led tours to Norway, and created an impressive body of weaving. This exhibition highlights her life's work as a weaver with pieces from Vesterheim's collection and private collections.
 
-The exhibition is sponsored by Jon and Mary Hart, Darold and Carol Oversvee Johnson, Steve and Barb Johnson, Kate Martinson, Irene Navarre, and Sonja Peterson.
+The exhibition is sponsored by Ella Ager Fossum, Jon and Mary Hart, Darold and Carol Oversvee Johnson, Steve and Barb Johnson, Kate Martinson, Irene Navarre, and Sonja Peterson.
