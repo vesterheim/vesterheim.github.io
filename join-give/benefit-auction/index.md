@@ -27,12 +27,12 @@ pagelist:
 ---
 You can view and bid on one-of-a-kind folk art pieces at www.biddingforgood.com from noon (CST) October 1 to 9:00 p.m. October 28. We are so excited to share this year's amazing folk art by experts in the Norwegian tradition. 
 
-{% include components/button.html text="View items!" url="www.biddingforgood.com/VEST-AUCTION" style="primary" %} 
+{% include components/button.html text="View items!" url="https://www.biddingforgood.com/auction/auctionhome.action?vhost=VEST-AUCTION" style="primary" %}
 
 This auction provides people from all over the country with the chance to bid on items they love. We are excited and proud that pieces by these folk artists will receive worldwide exposure and will be bid on by folk-art fans far and wide. Winning bidders in last year's aution came from California, Nevada, Utah, New Jersey, Connecticut, New York, North Dakota, and Kansas, just to name a few. 
 
 The auction is one of our biggest fundraising events. All proceeds go to projects directly related to Vesterheim’s Folk Art School. We want to thank all of the bidders and especially the folk artists for donating such wonderful and sought-after pieces! Special thanks to volunteer Bill Wild, of Decorah, Iowa, who did all of the photography of the auction pieces.
 
-{% include components/button.html text="View items!" url="www.biddingforgood.com/VEST-AUCTION" style="primary" %} 
+{% include components/button.html text="View items!" url="https://www.biddingforgood.com/auction/auctionhome.action?vhost=VEST-AUCTION" style="primary" %}
 
 Contact Michelle Whitehill at 563-382-9681, or [mwhitehill@vesterheim.org](mailto:mwhitehill@vesterheim.org), with auction questions.
