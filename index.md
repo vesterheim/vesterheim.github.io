@@ -77,7 +77,7 @@ carousel:
       alt: Baltic Crossing Concert
       caption: "Baltic Crossing plays at Vesterheim, September 27, 2015."
       link: /events/calendar/2015/09/27/baltic-crossing/
-      published: true
+      published: false
       start_date:
       stop_date:
 
@@ -443,7 +443,7 @@ events:
     time: 2:00 p.m.
     published: true
     start_date: 
-    stop_date: 
+    stop_date: 2015-09-27
   - url: /events/calendar/2015/09/27/baltic-crossing/
     image: /46x21/events/baltic-crossing-band.jpg
     alt:
@@ -473,6 +473,16 @@ events:
     time:
     published: true
     start_date: 
+  - url: /events/youth-programs/barnetimen/
+    image: /46x21/events/barnetimen-kids-2014.jpg
+    alt:
+    caption:
+    title: Barnetimen Children’s Hour 
+    date: October 20, 2015 
+    time: 10:00-11:00 a.m.
+    published: true
+    start_date: 
+    stop_date: 2015-10-21
   - url: /folk-art-school/classes/woodworking/2015-11-06-chip-carving/
     image: /46x21/folk-art-school/chip-carving-leenhouts.jpg
     alt:

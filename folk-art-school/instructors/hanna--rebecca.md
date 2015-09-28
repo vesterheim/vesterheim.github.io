@@ -19,4 +19,4 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-Rebecca Hanna is Scandinavian American, but only began pursuing her heritage as a student at Luther College. She is a retired elementary-school teacher, and is a member of the Decorah Sons of Norway chapter. Rebecca is a Vesterheim Gold Medalist and was instrumental in the creation of *Vesterheim* magazine, Vol. 3, No. 2, dedicated to woodworking.
+Rebecca Hanna of Decorah is passionate about many Norwegian folk arts, especially woodworking. A graduate of Luther College in elementary education and museum studies, she is a retired elementary teacher. Rebecca is a Vesterheim Gold Medalist and was instrumental in the creation of *Vesterheim* magazine, Vol. 3, No. 2, dedicated to woodworking.
