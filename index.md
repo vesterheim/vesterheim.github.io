@@ -80,6 +80,13 @@ carousel:
       published: false
       start_date:
       stop_date:
+    - image: 25x9/join-give/auction.jpg
+      alt: Folk Art Benefit Auction
+      caption: "Our exciting annual Folk Art Benefit Auction. Bid from Oct. 1-28!"
+      link: /join-give/benefit-auction/
+      published: true
+      start_date:
+      stop_date:
 
 show_social_sharing_bar: false
 
