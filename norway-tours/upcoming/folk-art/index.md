@@ -2,7 +2,7 @@
 published: true
 layout: page
 title: "Folk Art Pilgrimage: The Kinship between Rosemaling and Woodworking"
-subtitle: Summer 2016 
+subtitle: May 31 - June 18, 2016 
 meta_title: "Folk Art Pilgrimage: The Kinship between Rosemaling and Woodworking"
 meta_description: Immerse yourself in the traditional folk arts of rosemaling and woodcarving on a pilgrimage through nine counties of Norway. 
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px

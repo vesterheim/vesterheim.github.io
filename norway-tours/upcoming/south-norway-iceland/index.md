@@ -2,7 +2,7 @@
 published: true
 layout: page
 title: "Southern Norway and Iceland: Discover Nordic Beauty and Traditions"
-subtitle: Summer 2016 
+subtitle: June 18 - July 2, 2016 
 meta_title: "Southern Norway and Iceland: Discover Nordic Beauty and Traditions"
 meta_description: During this incredible journey, experience the splendor of dramatic landscapes and the warm heart of the people who live there.  
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px

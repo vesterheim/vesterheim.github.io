@@ -17,6 +17,13 @@ sitemap:
 carousel:
   ratio: carousel
   slides:   
+    - image: 25x9/join-give/auction.jpg
+      alt: Folk Art Benefit Auction
+      caption: "Our exciting annual Folk Art Benefit Auction is online until Oct. 28. Bid now!"
+      link: /join-give/benefit-auction/
+      published: true
+      start_date:
+      stop_date:
     - image: 25x9/visit/syttende-mai-nordic-dancers2.jpg
       alt: Norwegian Festivals
       caption: Parade, Nordic Dancers, Foot-Notes band, and more this year at Vesterheim's _Syttende Mai_ celebration!
@@ -78,13 +85,6 @@ carousel:
       caption: "Baltic Crossing plays at Vesterheim, September 27, 2015."
       link: /events/calendar/2015/09/27/baltic-crossing/
       published: false
-      start_date:
-      stop_date:
-    - image: 25x9/join-give/auction.jpg
-      alt: Folk Art Benefit Auction
-      caption: "Our exciting annual Folk Art Benefit Auction. Bid from Oct. 1-28!"
-      link: /join-give/benefit-auction/
-      published: true
       start_date:
       stop_date:
 
@@ -471,6 +471,26 @@ events:
     published: true
     start_date: 
     stop_date: 2015-10-29
+  - url: /events/calendar/2015/10/12/whats-new-at-vesterheim-tour/
+    image: /25x9/exhibitions/special/norwegian-sweaters.jpg
+    alt:
+    caption:
+    title: What's New at Vesterheim Tour 
+    date: October 12, 2015 
+    time: 1:30 p.m.
+    published: true
+    start_date: 
+    stop_date: 2015-10-13
+  - url: /events/calendar/2015/10/13/vesterheims-deep-collections-storage-tour/
+    image: /46x21/tours/blc--interior--people--tour.jpg
+    alt:
+    caption:
+    title: Vesterheim's Deep Collections Tour 
+    date: October 13, 2015 
+    time: 1:30 p.m.
+    published: true
+    start_date: 
+    stop_date: 2015-10-14
   - url: /folk-art-school/classes/woodworking/2015-10-18-carving-christmas-ornaments/
     image: /46x21/folk-art-school/whittling-kids-klubb-hanna.jpg
     alt:
