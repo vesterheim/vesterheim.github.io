@@ -23,7 +23,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-**On view June 12 - July 25, 2015**
+**On view June 9 - July 30, 2016**
 
 An annual show, competition, and sale!
 

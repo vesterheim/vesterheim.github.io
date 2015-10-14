@@ -54,7 +54,6 @@ Vesterheim Staff
 
 - **Laurann Gilbertson**, Chief Curator, Ext. 214, [lgilbertson@vesterheim.org](mailto:lgilbertson@vesterheim.org)
 - **Jennifer Kovarik**, Registrar, Archivist, and Youth Educator, Ext. 219, [jkovarik@vesterheim.org](mailto:jkovarik@vesterheim.org)
-- **Alison Dwyer**, Collections Manager, Ext. 118, [adwyer@vesterheim.org](mailto:adwyer@vesterheim.org)
 
 ### Development and Membership
 - **Stephanie Johnson**, Development Manager, Ext. 103. [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org)
@@ -83,4 +82,3 @@ Vesterheim Staff
 
 - **Charlie Langton**, Editor, Ext. 116, [clangton@vesterheim.org](mailto:clangton@vesterheim.org)
 - **Becky Idstrom**, Editorial Assistant, Ext. 115, [bidstrom@vesterheim.org](mailto:bidstrom@vesterheim.org)
-- **Faust Gertz**, Technology Specialist, Ext. 117, [fgertz@vesterheim.org](mailto:fgertz@vesterheim.org)

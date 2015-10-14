@@ -90,7 +90,7 @@ Job Duties
 Vesterheim Benefits
 -----------------
 {: .heading--black--large }
-Find information about Vesterheim benefits [here](/about/employment/forms-pdf/vesterheim-benefits.pdf) (pdf).
+Find information about Vesterheim benefits [here](/about/employment/forms-pdf/vesterheim-benefits-complete.pdf) (pdf).
 
 Apply
 -----------------
@@ -105,4 +105,4 @@ Decorah, IA  52101  <br />
 
 or emailed to [cjohnson@vesterheim.org](mailto:cjohnson@vesterheim.org).  
 
-Application deadline is September 25, 2015.  EOE/AA
+EOE/AA

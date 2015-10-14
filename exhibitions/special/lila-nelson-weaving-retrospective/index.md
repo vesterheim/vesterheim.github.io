@@ -2,7 +2,7 @@
 published: true
 layout: page
 title: "Lila Nelson Weaving Retrospective"
-subtitle: Opens December 5, 2015
+subtitle: December 5, 2015 to November 13, 2016
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description: Coming from humble beginnings as a warm layer under a vest and jacket, Norwegian sweaters are now worn all over the world and for almost every occasion.
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px

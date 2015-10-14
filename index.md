@@ -38,6 +38,13 @@ carousel:
       published: true
       start_date:
       stop_date: 
+    - image: 25x9/exhibitions/special/figure-carving.jpg
+      alt: "Woodcarved Figures, Nordic Roots"
+      caption: New exhibition Woodcarved Figures, Nordic Roots on view now!
+      link: /exhibitions/special/woodcarved-figures-nordic-roots/
+      published: true
+      start_date:
+      stop_date: 
     - image: 25x9/events/barneløpet--kids.jpg
       alt: Barneløpet Children's Ski/Walk Event
       caption: Enjoy the winter at _Barneløpet._
@@ -211,16 +218,6 @@ events:
     published: true
     start_date: 2015-01-30
     stop_date: 2015-02-06   
-  - url: /events/youth-programs/barnetimen/
-    image:
-    alt:
-    caption:
-    title: Barnetimen Children’s Hour 
-    date: March 17, 2015
-    time: 10:00AM
-    published: true
-    start_date: 
-    stop_date: 2015-03-18
   - url: /events/calendar/2015/04/16/volunteer-open-house/
     image: /46x21/events/wow--demonstrator--kids.jpg
     alt:
@@ -251,16 +248,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-04-26
-  - url: /folk-art-school/classes/jewelry/2015-05-02-making-viking-silver-knit-bracelet/
-    image: /46x21/folk-art-school/bucheit-viking-knit-chain.jpg
-    alt:
-    caption:
-    title: "Class: Making a Viking Silver Knit Bracelet with Liz Bucheit"
-    date: May 2, 2015
-    time: 
-    published: true
-    start_date: 
-    stop_date: 2015-05-03   
   - url: /events/youth-programs/pioneer-immersion/
     image: /46x21/kids/pioneer-immersion-exhibition.jpg
     alt:
@@ -291,16 +278,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-06-11
-  - url: /folk-art-school/classes/fiber-arts/2015-06-10-norwegian-boundweaves-or-crooked-path/
-    image: /46x21/folk-art-school/demuth_boundweave.jpg
-    alt:
-    caption:
-    title: Norwegian Boundweaves or "Crooked Path" with Laura Demuth 
-    date: June 10-14, 2015
-    time:
-    published: true
-    start_date: 
-    stop_date: 2015-06-11
   - url: /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/
     image:
     alt:
@@ -311,26 +288,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-06-06
-  - url: /folk-art-school/classes/rosemaling/2015-06-12-dala-painting/
-    image: /46x21/folk-art-school/braun_dala.jpg
-    alt:
-    caption:
-    title: "“Dala” It Up! with Sandy Braun"
-    date: June 12-14, 2015
-    time:
-    published: true
-    start_date: 
-    stop_date: 2015-06-11
-  - url: /events/calendar/2015/06/28/scandinavian-music-jam/
-    image: /16x9/events/scandinavian-music-jam.jpg
-    alt:
-    caption:
-    title: Fourth Sunday Scandinavian Music Jam 
-    date: June 28, 2015
-    time:
-    published: true
-    start_date: 
-    stop_date: 2015-06-29
   - url: /events/annual/nordic-fest/
     image: /46x21/events/nordic_fest.jpg
     alt:
@@ -351,16 +308,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-07-25
-  - url: /exhibitions/special/from-underwear-to-everywhere-norwegian-sweaters/
-    image: /16x9/exhibitions/special/underwear-everywhere-norwegian-sweaters.jpg
-    alt:
-    caption:
-    title: "Opening Reception for _From Underwear to Everywhere: Norwegian Sweaters_"
-    date: August 22, 2015
-    time: 3:00-5:00 p.m.
-    published: false
-    start_date: 
-    stop_date: 
   - url: /events/calendar/2015/08/23/scandinavian-music-jam/
     image: /16x9/events/scandinavian-music-jam.jpg
     alt:
@@ -371,66 +318,6 @@ events:
     published: false
     start_date: 
     stop_date: 2015-08-24
-  - url: /folk-art-school/classes/rosemaling/2015-09-11-rosemaling-valdres/
-    image: /46x21/folk-art-school/valdres-rosemaling-tollefson.jpg
-    alt:
-    caption:
-    title: Rosemaling in the Valdres Style with Sara Tollefson 
-    date: September 11-13, 2015
-    time:
-    published: true
-    start_date: 
-    stop_date: 2015-09-14
-  - url: /events/youth-programs/barnetimen/
-    image: /46x21/events/barnetimen-kids-2014.jpg
-    alt:
-    caption:
-    title: Barnetimen Children’s Hour 
-    date: September 15, 2015 
-    time: 10:00-11:00 a.m.
-    published: true
-    start_date: 
-    stop_date: 2015-09-15
-  - url: /exhibitions/special/woodcarved-figures-nordic-roots/
-    image: /46x21/exhibitions/special/coffee-wood-figures.jpg
-    alt:
-    caption:
-    title: "Opening Reception for _Woodcarved Figures, Nordic Roots_"
-    date: September 18, 2015
-    time: 5:00-7:00 p.m.
-    published: true
-    start_date: 
-    stop_date: 2015-09-19
-  - url: /folk-art-school/classes/fiber-arts/2015-09-18-nålbinding-practical-fiber-art/
-    image: /46x21/folk-art-school/nalbinding-martinson.jpg
-    alt:
-    caption:
-    title: Nålbinding—A Practical Fiber Art 
-    date: September 18-20, 2015
-    time:
-    published: true
-    start_date: 
-    stop_date: 2015-09-21
-  - url: /events/calendar/2015/09/19/torgenrud-book-signing/
-    image: /46x21/events/torgenrud-pick-up-bandweaving-book.jpg
-    alt:
-    caption:
-    title: Book Signing by Heather Torgenrud, author of _Norwegian Pick-up Bandweaving_
-    date: September 19, 2015
-    time: 4:30-5:00 p.m.
-    published: true
-    start_date: 
-    stop_date: 2015-09-20
-  - url: /events/calendar/2015/09/26/special-activities-luther-family-weekend/
-    image: /46x21/events/museum-visitors-ship.jpg
-    alt:
-    caption:
-    title: Special Activities during Luther College Family Weekend
-    date: September 26, 2015
-    time: 9:00 a.m.-5:00 p.m.
-    published: true
-    start_date: 
-    stop_date: 2015-09-27
   - url: /events/calendar/2015/09/26/smithsonian-day-live/
     image: /46x21/events/museum-day-live.jpg
     alt:
@@ -441,26 +328,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-09-27
-  - url: /events/calendar/2015/09/27/sando-jewelry-presentation/
-    image: /46x21/events/sando-jewelry-presentation.jpg
-    alt:
-    caption:
-    title: Norwegian Jeweler Jørgen Sando Gives Presentation
-    date: September 27, 2015
-    time: 2:00 p.m.
-    published: true
-    start_date: 
-    stop_date: 2015-09-27
-  - url: /events/calendar/2015/09/27/baltic-crossing/
-    image: /46x21/events/baltic-crossing-band.jpg
-    alt:
-    caption:
-    title: Baltic Crossing Music Concert
-    date: September 27, 2015
-    time: 7:00 p.m.
-    published: true
-    start_date: 
-    stop_date: 2015-09-28
   - url: /join-give/benefit-auction/
     image: /16x9/join-give/auction/folk-art-benefit-aution.jpg
     alt:
@@ -471,26 +338,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-10-29
-  - url: /events/calendar/2015/10/12/whats-new-at-vesterheim-tour/
-    image: /25x9/exhibitions/special/norwegian-sweaters.jpg
-    alt:
-    caption:
-    title: What's New at Vesterheim Tour 
-    date: October 12, 2015 
-    time: 1:30 p.m.
-    published: true
-    start_date: 
-    stop_date: 2015-10-13
-  - url: /events/calendar/2015/10/13/vesterheims-deep-collections-storage-tour/
-    image: /46x21/tours/blc--interior--people--tour.jpg
-    alt:
-    caption:
-    title: Vesterheim's Deep Collections Tour 
-    date: October 13, 2015 
-    time: 1:30 p.m.
-    published: true
-    start_date: 
-    stop_date: 2015-10-14
   - url: /folk-art-school/classes/woodworking/2015-10-18-carving-christmas-ornaments/
     image: /46x21/folk-art-school/whittling-kids-klubb-hanna.jpg
     alt:
@@ -510,6 +357,16 @@ events:
     published: true
     start_date: 
     stop_date: 2015-10-21
+  - url: /events/away/madison/
+    image: /46x21/events/refsal-madison-event.jpg
+    alt:
+    caption:
+    title: _Telling Stories . . . With Wood_, Luncheon and Presentation in Middleton, Wisconsin
+    date: November 1, 2015
+    time:
+    published: true
+    start_date: 
+    stop_date: 2015-11-02
   - url: /folk-art-school/classes/woodworking/2015-11-06-chip-carving/
     image: /46x21/folk-art-school/chip-carving-leenhouts.jpg
     alt:
@@ -530,4 +387,14 @@ events:
     published: true
     start_date: 
     stop_date: 2015-11-22
+  - url: /events/away/rochester/
+    image: /46x21/events/refsal-madison-event.jpg
+    alt:
+    caption:
+    title: _Telling Stories . . . With Wood_, Luncheon and Presentation in Rochester, Minnesota
+    date: December 6, 2015
+    time:
+    published: true
+    start_date: 
+    stop_date: 2015-12-07
 ---

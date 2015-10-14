@@ -14,7 +14,7 @@ related:
 - /visit/plan/
 
 navigation:
-  order: 10
+  order: 12
 pagelist:
   order:         # Defaults to navigation order
   image: 

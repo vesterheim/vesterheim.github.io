@@ -24,6 +24,8 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
+These rules and guidelines will be updated for 2016 in February. The following information from last year is for reference only. Check back!
+
 **Please read carefully.** <br /> **The following rules apply to all of the folk-art categories.** Contact Laurann Gilbertson at (563) 382-9681, or lgilbertson@vesterheim.org](mailto:lgilbertson@vesterheim.org) with questions. 
 
 Vesterheim thanks Decorah Bank and Trust for sponsoring this exhibition!

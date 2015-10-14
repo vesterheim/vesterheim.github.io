@@ -14,7 +14,7 @@ related:
 - /visit/plan/
 
 navigation:
-  order: 20
+  order: 10
 pagelist:
   order:         # Defaults to navigation order
   image: 46x21/exhibitions/special/norske_klub_color.jpg

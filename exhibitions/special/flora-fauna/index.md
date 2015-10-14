@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: page
 title: "Flora and Fauna in Norwegian Folk Art"
 subtitle: June 17, 2015 – Spring 2016

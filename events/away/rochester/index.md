@@ -1,7 +1,7 @@
 ---
 published: true
 layout: page
-title: _Telling Stories . . . With Wood,_ Luncheon and Presentation - Middleton, Wisconsin
+title: _Telling Stories . . . With Wood,_ Luncheon and Presentation - Rochester, Minnesota
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
@@ -22,9 +22,9 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description   
 ---
-Everyone is invited to join Vesterheim in Middleton, Wisconsin, at a luncheon presentation, _Telling Stories . . . With Wood_ by renowned woodcarver Harley Refsal.  
+Everyone is invited to join Vesterheim in Rochester, Minnesota, at a luncheon presentation, _Telling Stories . . . With Wood_ by renowned woodcarver Harley Refsal.  
 
-The event will be at The Craftsman Table & Tap, 6712 Frank Lloyd Wright Ave., on Sunday, November 1, from 11:30 a.m.-1:30 p.m. and the cost is $35 per person. Bring your friends!
+The event will be at The Kahler Apache, 1517 16th St. S.W., on Sunday, December 6, from 11:30 a.m.-1:30 p.m. and the cost is $35 per person. Bring your friends!
 
 Figure carving in Scandinavia reaches back throughout history to a time when people sat around warm fires in winter, sharing their imagination with stories and carvings. Millions of people are now rediscovering the beauty of this (almost) lost art, thanks to the dedication and artistic skills of people like Harley Refsal.
 
@@ -34,6 +34,4 @@ Join Harley for a delicious meal while learning more about the distinctive, and 
 
 This event will also include a museum update by Chris Johnson, Vesterheim’s new CEO/President.
 
-Special thanks to our sponsors Peder & Jeanne Moren, Mike Bovre, and The Craftsman Table & Tap.
-
-Please RSVP by October 23, 2015, by contacting Stephanie Johnson at [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org), or 563-382-9681. Seating is limited to 50 people. 
+Please RSVP by November 25, 2015, by contacting Stephanie Johnson at [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org), or 563-382-9681. 
