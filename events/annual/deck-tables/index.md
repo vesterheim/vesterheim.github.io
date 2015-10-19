@@ -26,28 +26,32 @@ pagelist:
 ---
 This fabulous community event at the Hotel Winneshiek showcases the talents of area residents and retailers who create beautiful table settings to spark holiday decorating ideas.
 
-Fantastic tables spark your holiday decorating ideas and a Holiday Home Décor Showcase features goods and services to help make your holiday celebrations festive and joyful. There are fabulous door prizes, raffles, auction packages, music, and treats.
+Fantastic tables spark your holiday decorating ideas and a Holiday Home Décor Showcase features goods and services to help make your holiday celebrations festive and joyful. There are dozens of distinct "Dinner Tables," plus retailer exhibits, free carriage rides (on Sat.), fabulous door prizes, games, raffles, auction packages, music, and complimentary treats. 
 
 Blue Jeans & Bling Open House <br />
 Friday, Nov. 20  <br />
-6:00 - 8:00 p.m. 
+6:00 - 8:00 p.m. <br />
+$10 in advance/ $12 at the door
 
 Tables & Treats Open House <br />
 Saturday, Nov. 21  <br />
-9:00 a.m. - 3:00 p.m. 
+9:00 a.m. - 3:00 p.m. <br />
+$10 in advance/ $12 at the door
 
 Restauration Luncheon  <br />
 (reservations required)  <br />
 Saturday, Nov. 21  <br />
-12:00 - 2:00 p.m. 
+12:00 - 2:00 p.m. <br />
+$35 per reservation
 
 Gala Dinner and Auction <br />
 (reservations required)  <br />
 Saturday, Nov. 21  <br />
 5:00 p.m. - Social Hour and Table Viewing <br />
-6:45 p.m. - Dinner and Auction
+6:45 p.m. - Dinner and Auction<br />
+$50 per reservation
 
-Prices and details coming soon.
+Contact Stephanie Johnson at [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org) or 563-382-9681 for reservations/tickets.
 
 All proceeds benefit Vesterheim’s fourth-grade Pioneer Immersion Program.
 

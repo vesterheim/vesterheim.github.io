@@ -24,4 +24,4 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser: Celebrate fifty incredible years of the groundbreaking Vesterheim Folk Art School and the famous annual exhibition it inspired.
 ---
-Celebrate with us fifty incredible years of the groundbreaking Vesterheim Folk Art School and the famous annual exhibition it inspired, and revel in the works of the great artists who have taught and were nurtured here.
+Celebrate with us fifty incredible years of the groundbreaking Vesterheim Folk Art School and the famous annual exhibition it inspired, and revel in the works of artists who have taught and were nurtured here.

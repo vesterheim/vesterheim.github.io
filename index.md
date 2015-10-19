@@ -107,7 +107,7 @@ panels:
     title:
     subtitle:
     teaser: A class is a blast at Vesterheim! Check the Folk Art School schedule for 2015 and sign up today.
-    published: true
+    published: false
     start_date: 2014-10-01
     stop_date:   
   - url: /visit/plan/hours-and-admission/
