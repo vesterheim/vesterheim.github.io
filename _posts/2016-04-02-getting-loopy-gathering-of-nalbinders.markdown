@@ -36,4 +36,4 @@ pagelist:
 
 tags:   
 ---
-Join other nålbinders for an informal, creative weekend together. More information coming soon. 
+Join other nålbinders on April 2 and 3, 2016, for an informal, creative weekend together. More information coming soon. 
