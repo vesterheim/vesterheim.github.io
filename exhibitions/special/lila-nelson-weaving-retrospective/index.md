@@ -9,7 +9,7 @@ meta_description: Coming from humble beginnings as a warm layer under a vest and
 hero:
   image: 16x9/exhibitions/special/lila-nelson-weaving.jpg
   alt:
-  caption: Vesterheim 2011.032.048
+  caption:
 related:
 - /visit/plan/
 

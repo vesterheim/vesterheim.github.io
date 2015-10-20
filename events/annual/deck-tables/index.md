@@ -40,8 +40,8 @@ Admission is $12 at the door or $10 in advance.
 * Entertainment by Jeni Grouws and Jessica Breed.
 * A Wall of Wine.
 * Heads of Tails, a game of chance free for all guests.
-* Opportunities to purchase Raffle tickets and proxy bid on Auction Packages.
-* Door Prizes, Complimentary appetizers, and more!
+* Opportunities to purchase raffle tickets and proxy bid on auction packages.
+* Door prizes, complimentary appetizers, and more!
 
 Tables & Treats Open House 
 -------------------------------
@@ -55,8 +55,8 @@ Admission is $12 at the door or $10 in advance.
 * Free horse-drawn carriage rides (weather permitting).
 * Complimentary coffee and pastries.
 * Special discounts from participating local retailers.
-* Door Prizes.
-* Opportunities to purchase Raffle tickets and proxy bid on Auction Packages.
+* Door prizes.
+* Opportunities to purchase Raffle tickets and proxy bid on auction packages.
 * Live piano music in the Lobby.
 
 Restauration Luncheon  
@@ -83,10 +83,10 @@ Admission is $50 and seating is limited. Reservation are required by November 13
 {: .heading--black }
 
 * A gala dinner prepared specially by Chef Tom Skold.
-* Door Prizes.
-* Opportunities to purchase Raffle Tickets and Golden Tickets.
+* Door prizes.
+* Opportunities to purchase raffle tickets and Golden Tickets.
 * An exciting Live Auction with auctioneer, Joe Gavle, and emcee, John Jenkins. 
-* Visit the Deck the Tables Facebook page, like and follow us for November previews of the unique Auction Packages.
+* Visit the Deck the Tables Facebook page, like and follow us for November previews of the unique auction packages.
 
 Contact Stephanie Johnson at [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org) or 563-382-9681 for reservations/tickets.
 
