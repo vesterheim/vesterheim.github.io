@@ -28,4 +28,4 @@ Is there something you are especially interested in seeing at Vesterheim? With a
 * Do you have a favorite artifact you would like to see again? 
 * Is there a certain folk-art technique you'd like to study?
 
-If you have a specific viewing request, please contact Vesterheim before you visit to assure access to the collection items you would like to see or study most. Viewing requests can be made to the museum’s collections manager, Alison Dwyer, at [adwyer@vesterheim.org](mailto:adwyer@vesterheim.org) or 563-382-9681, ext. 118. Two weeks notice is preferred.
+If you have a specific viewing request, please contact Vesterheim before you visit to assure access to the collection items you would like to see or study most. Viewing requests can be sent to [info@vesterheim.org](mailtoinfo@vesterheim.org) or 563-382-9681. Two weeks notice is preferred.
