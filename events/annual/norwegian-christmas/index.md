@@ -26,6 +26,8 @@ pagelist:
 ---
 Bring the whole family to experience the living traditions of a Norwegian Christmas at Vesterheim the first Saturday of December. An event that appeals to all ages, Vesterheim’s Norwegian Christmas Celebration brings the museum to life with a Christmas tree party, visits from the _Julenisse,_ hands-on crafts, Scandinavian food, live music, folk-art demonstrations, decorations, and many holiday traditions, both old and new.
 
+This year, we're excited to welcome Stine Aasland "Norway's Waffle Queen" from Telemark, Norway. She'll sign her new book _We Love Waffles_, which includes 40 expansive recipes. Your heart waffle maker has never seen such variety. Stine founded Telemarksrøra in 2008, which today it is Norway’s largest waffle company. Her goal is to spread Scandinavian waffles all over the United States. Meet her and have her sign your book at Vesterheim's Norwegian Christmas.
+
 Norwegian Christmas is sponsored by Duane and Eileen Bruening.
 
 Find an album of pictures from last year's event [here.](https://www.facebook.com/media/set/?set=a.10152485088254109.1073741873.18263584108&type=3)

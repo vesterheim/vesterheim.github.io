@@ -26,6 +26,8 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
+_Note - Mar passed away in 2014, after this interview._
+
 St. Paul, Minnesota, residents Marwin and June Wrolstad are enthusiastic Vesterheim supporters who have long been associated with the museum. Not only are they annual contributors who joined Vesterheim’s Valhalla Society by including the museum in their estate plans, they are active museum members who work to share the cultural legacy of Norwegian immigrants to America and inspire people of all backgrounds to celebrate tradition.
 
 Mar and June joined as Vesterheim members in 1975. Over the years they have established a long record of generously providing both financial support and time. Over the years, Mar has worn almost every hat imaginable at Vesterheim. In addition to joining the Board of Directors in 1983, Mar has served on numerous board committees and as Board Chair, hosted several Vesterheim friends events, and acted as Interim Director for the museum in 1997-98.

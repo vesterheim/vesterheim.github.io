@@ -7,7 +7,7 @@ meta_title:        # Appears on bookmarks, search results, etc...
 meta_description: Coming from humble beginnings as a warm layer under a vest and jacket, Norwegian sweaters are now worn all over the world and for almost every occasion.
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-  image: 16x9/exhibitions/special/lila-nelson-weaving.jpg
+  image: 16x9/exhibitions/special/lila-nelson-weaving-cat.jpg
   alt:
   caption:
 related:

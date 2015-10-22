@@ -154,6 +154,17 @@ panels:
     published: true
     start_date: 
     stop_date: 2015-09-15 
+  - url: /exhibitions/special/lila-nelson-weaving-retrospective/
+    file_under: 
+    image: 
+    alt:
+    caption:
+    title: "New exhibition _From Tradition to Protest: Lila Nelson's Weaving Life_ opens December 5, 2015"
+    subtitle:
+    teaser: This retrospective exhibition shows how Lila Nelson began by mastering traditional Norwegian weaving techniques, subsequently using them in fresh and contemporary ways. 
+    published: true
+    start_date: 
+    stop_date: 
   - url: /norway-tours/upcoming/south-norway-iceland/
     file_under:
     image: 16x9/norway-tours/hardanger-boats.jpg
@@ -338,15 +349,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-10-29
-  - url: /folk-art-school/classes/woodworking/2015-10-18-carving-christmas-ornaments/
-    image: /46x21/folk-art-school/whittling-kids-klubb-hanna.jpg
-    alt:
-    caption:
-    title: Carving Christmas Ornaments
-    date: October 18, 2015
-    time:
-    published: true
-    start_date: 
   - url: /events/youth-programs/barnetimen/
     image: /46x21/events/barnetimen-kids-2014.jpg
     alt:
@@ -356,7 +358,7 @@ events:
     time: 10:00-11:00 a.m.
     published: true
     start_date: 
-    stop_date: 2015-10-21
+    stop_date: 2015-10-20
   - url: /events/away/madison/
     image: /46x21/events/refsal-madison-event.jpg
     alt:
