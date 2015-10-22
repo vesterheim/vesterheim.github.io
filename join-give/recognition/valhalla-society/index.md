@@ -24,7 +24,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser: Vesterheim thanks these Valhalla Society members, who have chosen to honor their passion for preservation with planned giving.
 ---
-Founded in 1989, the Valhalla Society consists of a special group of donors who have chosen to honor their passion for preservation with planned giving. These gifts provide a lasting legacy for the future of Vesterheim.  
+Founded in 1989, the Valhalla Society consists of a special group of donors who have chosen to honor their passion for preservation with planned giving. These gifts provide a lasting legacy for the future of Vesterheim. Vesterheim thanks these Valhalla members for their contributions.
 
 ### Valhalla Members
 
@@ -82,7 +82,7 @@ Founded in 1989, the Valhalla Society consists of a special group of donors who 
 - Gerald Freund and Ann Highum
 - James M. and Susan R. Honsvall
 - Michael Hovland
-- Dan F. Huebner
+- Dan F. Huebner*
 - Harriet M. Husvedt Estate
 - D. Scott and Jessica Ingstad
 - Martin and Ruth Johnson
@@ -106,9 +106,9 @@ Founded in 1989, the Valhalla Society consists of a special group of donors who 
 - Arnold J. and Ingrid Mjatveit
 - David and Linda Brekke Mona
 - Harry Navarre*
-- Betty R. and David T.* Nelson
+- Betty R. and David T. Nelson*
 - Dr. David L. and Ann Nelson
-- Marion* and Lila Nelson
+- Marion and Lila Nelson*
 - Marybeth Nelson
 - Dr. Eugene J. and Olive* Nordby
 - Julia F. Nordby
@@ -125,7 +125,7 @@ Founded in 1989, the Valhalla Society consists of a special group of donors who 
 - David and Lee Rokke
 - Jerry Rosholt*
 - Robert and Lucille Rosholt
-- Douglas "Dag" and Sharon Rossman
+- Douglas "Dag"* and Sharon Rossman
 - T. Eileen Russell
 - Robert L. and Elizabeth Gilbertson Sande
 - Michael and Diane Schmidt

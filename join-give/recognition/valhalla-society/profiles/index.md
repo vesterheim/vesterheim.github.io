@@ -24,7 +24,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser: See what these planned giving donors have to say about their Vesterheim connections.
 ---
-A planned gift is a great way to ensure the continuation of the outstanding work that is being done at the museum. See what these planned giving donors have to say about their Vesterheim connections.
+A planned gift is a great way to ensure the continuation of the outstanding work that is being done at the museum. See what these planned giving donors have to say about their Vesterheim connections. Vesterheim thanks these Valhalla members for their contributions.
 
 - [Evy Alsaker](/join-give/recognition/valhalla-society/profiles/alsaker--evy/)
 - [Michael Bovre](/join-give/recognition/valhalla-society/profiles/bovre--michael/)
