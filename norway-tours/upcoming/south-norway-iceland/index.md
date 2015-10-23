@@ -2,7 +2,7 @@
 published: true
 layout: page
 title: "Southern Norway and Iceland: Discover Nordic Beauty and Traditions"
-subtitle: June 18 - July 2, 2016 
+subtitle: May 15 - 29, 2016 OR June 18 - July 2, 2016 
 meta_title: "Southern Norway and Iceland: Discover Nordic Beauty and Traditions"
 meta_description: During this incredible journey, experience the splendor of dramatic landscapes and the warm heart of the people who live there.  
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
@@ -28,7 +28,7 @@ pagelist:
 
 
 ---
-Price and itinerary will be announced in the fall of 2015.
+Update—this popular tour will be offered twice in 2016! Price and itinerary will be announced in the fall of 2015.
 
 During this incredible journey, experience the splendor of dramatic landscapes and the warm hearts of the people who live there. This tour will be a feast for the eyes as we explore the beautiful southern coastline of Norway, with waterfalls, mountains, and fjords, and the island country of Iceland, with geysers, glaciers, and volcanoes. Along the way, we’ll get to know the history and art of these areas, rich with tradition and culture.
 
