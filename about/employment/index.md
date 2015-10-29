@@ -32,10 +32,18 @@ Vesterheim seeks a part-time (20 hrs/wk) Technology Specialist to provide suppor
 
 Find specific information [here](/about/employment/technology-specialist/).
 
-Chief Development Officer 
+Website Administrator  
 -----------------
 {: .heading--black--large }
 
-Vesterheim seeks to hire a Chief Development Officer (CDO) who can lead fundraising efforts through donor visits and contributions and be successful in meeting the financial needs of the museum. As a nonprofit, forty percent of Vesterheim’s operating budget comes from donations. The American Alliance of Museums indicates that sixty percent is the goal. This goal, in addition to embarking on a campaign in the next year or two, requires an individual with five to seven years fundraising experience, including experience with capital campaign management; proven leadership ability; excellent verbal and written communication skills; the ability to build strong relationships with donors, trustees, volunteers, and staff members; and proficiency in the use of computer applications such as: email, Word, and fundraising software (Raiser’s Edge preferred). 
+Vesterheim seeks a part-time (20 hrs/wk) Website Administrator to provide programming, upgrades, tracking, and maintenance for the museum’s website, and the creation of new web-based initiatives. Requirements: Associate’s degree in a computer related field such as Website Design, Computer Science, or a computer-related field, and two years of related experience, or a Bachelor’s degree in Website Design, Computer Science, or a computer-related field, and one year of related experience. Internship experience may be counted toward total work experience. Duties would include creating, upgrading, and maintain programming for Vesterheim’s website; responding to changing requirements, technology, best practices, and feedback from website visitors to ensure Vesterheim’s website continues to be well-maintained and up-to-date; and performing measurements, tracking, and data analysis to extract useful information from Vesterheim’s website for strategic decision-making. 
 
-Find specific information [here](/about/employment/chief-development-officer/).
+Find specific information [here](/about/employment/website-administrator/).
+
+Director of Development  
+-----------------
+{: .heading--black--large }
+
+Vesterheim seeks an experienced professional as Director of Development. Leading candidates will have at least five years fundraising experience, including capital campaign management; proven leadership ability; excellent verbal and written communication skills; the ability to build strong relationships with donors, trustees, volunteers, and staff members; and proficiency in computer applications including fundraising software (Raiser’s Edge preferred). Vesterheim is planning a capital campaign within the next twenty-four months.   
+
+Find specific information [here](/about/employment/director-development/).

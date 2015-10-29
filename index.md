@@ -21,7 +21,7 @@ carousel:
       alt: Folk Art Benefit Auction
       caption: "Our exciting annual Folk Art Benefit Auction is online until Oct. 28. Bid now!"
       link: /join-give/benefit-auction/
-      published: true
+      published: false
       start_date:
       stop_date:
     - image: 25x9/visit/syttende-mai-nordic-dancers2.jpg
@@ -143,6 +143,17 @@ panels:
     published: false
 #    start_date: 2014-12-20
 #    stop_date:  2015-01-02   
+  - url: /join-give/benefit-auction/
+    file_under:
+    image: 16x9/join-give/auction/folk-art-benefit-aution.jpg
+    alt:
+    caption:
+    title:
+    subtitle:
+    teaser: A tremendous _tusen takk_ to all the bidders, folk artists, and supporters of the 2015 Folk Art Benefit Auction.
+    published: true
+    start_date: 
+    stop_date:  
   - url: /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/winners/
     file_under:
     image: 16x9/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition.jpg
@@ -172,7 +183,7 @@ panels:
     caption:
     title:
     subtitle:
-    teaser: During this incredible journey through Iceland and Southern Norway, experience the splendor of dramatic landscapes and the warm hearts of the people who live there.
+    teaser: Offered twice in 2016! During this incredible journey through Iceland and Southern Norway, experience the splendor of dramatic landscapes and the warm hearts of the people who live there.
     published: true
     start_date: 
     stop_date: 
@@ -184,7 +195,7 @@ panels:
     title: Fodor's Names Vesterheim one of 15 Best Small-Town Museums in the U.S.
     subtitle:
     teaser: Vesterheim was named one of “15 Best Small-Town Museums in the U.S.” by the world-respected travel guide, Fodor's! 
-    published: true
+    published: false
     start_date: 2014-10-01
     stop_date: 
 
@@ -389,6 +400,16 @@ events:
     published: true
     start_date: 
     stop_date: 2015-11-22
+  - url: /events/annual/norwegian-christmas/
+    image: 46x21/events/christmas--kids.jpg
+    alt:
+    caption:
+    title: Norwegian Christmas Celebration
+    date: December 5, 2015
+    time:
+    published: true
+    start_date: 
+    stop_date: 2015-12-07
   - url: /events/away/rochester/
     image: /46x21/events/refsal-madison-event.jpg
     alt:
