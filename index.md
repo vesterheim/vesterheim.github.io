@@ -330,16 +330,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-07-25
-  - url: /events/calendar/2015/08/23/scandinavian-music-jam/
-    image: /16x9/events/scandinavian-music-jam.jpg
-    alt:
-    caption:
-    title: Fourth Sunday Scandinavian Music Jam 
-    date: August 23, 2015
-    time:
-    published: false
-    start_date: 
-    stop_date: 2015-08-24
   - url: /events/calendar/2015/09/26/smithsonian-day-live/
     image: /46x21/events/museum-day-live.jpg
     alt:
@@ -400,6 +390,16 @@ events:
     published: true
     start_date: 
     stop_date: 2015-11-22
+  - url: /events/calendar/2015/11/22/scandinavian-music-jam/
+    image: /16x9/events/scandinavian-music-jam.jpg
+    alt:
+    caption:
+    title: Fourth Sunday Scandinavian Music Jam 
+    date: November 22, 2015
+    time:
+    published: 
+    start_date: 
+    stop_date: 2015-11-23
   - url: /events/annual/norwegian-christmas/
     image: 46x21/events/christmas--kids.jpg
     alt:
