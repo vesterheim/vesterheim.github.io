@@ -39,7 +39,7 @@ Admission is $12 at the door or $10 in advance.
 
 * Entertainment by Jeni Grouws and Jessica Breed.
 * A Wall of Wine.
-* Heads of Tails, a game of chance free for all guests.
+* Heads or Tails, a game of chance free for all guests.
 * Opportunities to purchase raffle tickets and proxy bid on auction packages.
 * Door prizes, complimentary appetizers, and more!
 

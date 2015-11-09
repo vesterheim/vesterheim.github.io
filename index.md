@@ -379,7 +379,7 @@ events:
     time: 
     published: true
     start_date: 
-    stop_date: 2015-11-09
+    stop_date: 2015-11-08
   - url: /events/annual/deck-tables/
     image: /16x9/events/deck-the-tables.jpg
     alt:
