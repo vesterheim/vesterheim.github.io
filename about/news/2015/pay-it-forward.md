@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: page
 title: Paying it Forward at Vesterheim 
 meta_title:        # Appears on bookmarks, search results, etc...

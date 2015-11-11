@@ -88,4 +88,4 @@ Decorah, IA  52101  <br />
 
 or emailed to [cjohnson@vesterheim.org](mailto:cjohnson@vesterheim.org).  
 
-Application deadline is November 10, 2015.  EOE/AA
+Application deadline is November 27, 2015.  EOE/AA

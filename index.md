@@ -162,7 +162,7 @@ panels:
     title:
     subtitle:
     teaser: Congratulations to the winners in the _National Exhibition of Folk Art in the Norwegian Tradition._
-    published: true
+    published: false
     start_date: 
     stop_date: 2015-09-15 
   - url: /exhibitions/special/lila-nelson-weaving-retrospective/
