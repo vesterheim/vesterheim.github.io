@@ -29,7 +29,7 @@ A tremendous _tusen takk_ to all the bidders, folk artists, and supporters for V
 
 The auction closed on October 28 at 9:00 p.m. central time. 
 
-We greatly appreciate everyone who participated and contributed to help make this auction a successful event. The auction total was $24,783 with 100 bidders. 
+We greatly appreciate everyone who participated and contributed to help make this auction a successful event. The auction had 100 bidders and raised $24,783.
 
 To successful bidders, we are looking forward to getting your one-of-a-kind piece into your hands and will be contacting you about shipping arrangements in the next couple of days. 
 

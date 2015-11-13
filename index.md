@@ -416,10 +416,20 @@ events:
     caption:
     title: Norwegian Christmas Celebration
     date: December 5, 2015
-    time:
+    time: 10:00 a.m. - 4:00 p.m.
     published: true
     start_date: 
-    stop_date: 2015-12-07
+    stop_date: 2015-12-06
+  - url: /events/calendar/2015/12/05/pinchcliffe-grand-prix-film/
+    image: 46x21/events/pinchcliffe-grand-prix-film.jpg 
+    alt:
+    caption:
+    title: Film - _Pinchcliffe Grand Prix_ 
+    date: December 5, 2015 
+    time: 2:30 p.m.   
+    published: true
+    start_date: 
+    stop_date: 2015-12-06
   - url: /events/away/rochester/
     image: /46x21/events/refsal-madison-event.jpg
     alt:
