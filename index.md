@@ -151,7 +151,7 @@ panels:
     title:
     subtitle:
     teaser: A tremendous _tusen takk_ to all the bidders, folk artists, and supporters of the 2015 Folk Art Benefit Auction.
-    published: true
+    published: false
     start_date: 
     stop_date:  
   - url: /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/winners/
@@ -400,6 +400,16 @@ events:
     published: 
     start_date: 
     stop_date: 2015-11-23
+  - url: /events/calendar/2015/12/03/gingerbread-fair/
+    image: 16x9/events/gingerbread-house.jpg
+    alt:
+    caption:
+    title: Gingerbread Fair 
+    date: December 3-31, 2015 
+    time:
+    published: true
+    start_date: 
+    stop_date: 2015-12-31
   - url: /events/annual/norwegian-christmas/
     image: 46x21/events/christmas--kids.jpg
     alt:

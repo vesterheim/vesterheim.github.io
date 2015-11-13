@@ -12,6 +12,7 @@ hero:
 caption: 
 
 related:
+- /events/calendar/2015/12/03/gingerbread-fair/
 
 navigation:
   order: 60
@@ -22,7 +23,7 @@ pagelist:
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
-  teaser:        # Defaults to page meta-description
+  teaser: Bring the whole family to experience the living traditions of a Norwegian Christmas. This clebration brings the museum to life with a Christmas tree party, visits from the _Julenisse,_ hands-on crafts, Scandinavian food, live music, folk-art demonstrations, decorations, and many holiday traditions, both old and new.
 ---
 Bring the whole family to experience the living traditions of a Norwegian Christmas at Vesterheim the first Saturday of December. An event that appeals to all ages, Vesterheim’s Norwegian Christmas Celebration brings the museum to life with a Christmas tree party, visits from the _Julenisse,_ hands-on crafts, Scandinavian food, live music, folk-art demonstrations, decorations, and many holiday traditions, both old and new.
 

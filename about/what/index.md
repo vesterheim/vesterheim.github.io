@@ -20,7 +20,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-Vesterheim is _the_ national Norwegian-American museum and heritage center, with over 24,000 artifacts, 12 historic buildings, a Folk Art School, and a library and archives. This treasure showcases the most extensive collection of Norwegian-American artifacts in the world.
+Vesterheim is _the_ national Norwegian-American museum and heritage center, with over 30,000 artifacts, 12 historic buildings, a Folk Art School, and a library and archives. This treasure showcases the most extensive collection of Norwegian-American artifacts in the world.
 
 Vesterheim’s exhibitions explore the diversity of American immigration through the lens of the Norwegian-American experience and highlight the best in historic and contemporary Norwegian folk and fine arts. _USA Today_ named Vesterheim one of “ten great places in the nation to admire American folk art.”
 
