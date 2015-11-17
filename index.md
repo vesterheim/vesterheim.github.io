@@ -420,6 +420,16 @@ events:
     published: true
     start_date: 
     stop_date: 2015-12-06
+  - url: /events/calendar/2015/12/05/norwegian-waffle-queen/
+    image: 16x9/events/stine-aasland-waffle-queen.jpg
+    alt:
+    caption:
+    title: The Norwegian Waffle Queen - Stine Aasland
+    date: December 5, 2015
+    time: 10:00 a.m. - 4:00 p.m.
+    published: true
+    start_date: 
+    stop_date: 2015-12-06
   - url: /events/calendar/2015/12/05/pinchcliffe-grand-prix-film/
     image: 46x21/events/pinchcliffe-grand-prix-film.jpg 
     alt:
