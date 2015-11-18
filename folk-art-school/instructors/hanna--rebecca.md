@@ -7,7 +7,7 @@ meta_description:  # Used in HTML head and as the description for some search en
 lead:
   image: folk-art-school/instructors/hanna--rebecca.jpg
   alt: Rebecca Hanna
-  caption: 
+  caption: Rebecca Hanna
 
 pagelist:
   exclude: false
@@ -19,4 +19,4 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-Rebecca Hanna of Decorah is passionate about many Norwegian folk arts, especially woodworking. A graduate of Luther College in elementary education and museum studies, she is a retired elementary teacher. Rebecca is a Vesterheim Gold Medalist and was instrumental in the creation of *Vesterheim* magazine, Vol. 3, No. 2, dedicated to woodworking.
+Rebecca Hanna of Decorah, Iowa, is passionate about many Norwegian folk arts, especially woodworking. A graduate of Luther College in elementary education and museum studies, she is a retired elementary teacher. Rebecca is a Vesterheim Gold Medalist and was instrumental in the creation of _Vesterheim_ magazine, Vol. 3, No. 2 dedicated to woodworking.

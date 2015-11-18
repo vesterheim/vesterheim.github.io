@@ -7,7 +7,7 @@ meta_description:  # Used in HTML head and as the description for some search en
 lead:
   image: folk-art-school/instructors/demuth--laura.jpg
   alt: Laura Demuth
-  caption: 
+  caption: Laura Demuth helps a student.
 
 pagelist:
   exclude: false

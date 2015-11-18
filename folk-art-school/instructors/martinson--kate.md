@@ -19,8 +19,4 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-Kate Martinson is an Emeritus Professor of Art at Luther College, Decorah, Iowa, where she taught art education and fiber arts classes for over 35 years. She has taught spinning, _nålbinding_, papermaking, and other textile-related classes in Norway at Rauland Academy and throughout the United States. 
-
-Kate is very active in professional and artistic endeavors at the local, state, and national levels. 
-
-Kate began studying _nålbinding_ in 1974, after she became fascinated with the technique on a trip to Scandinavia, and she is responsible for introducing this ancient technique to many American fiber artists.
+Kate Martinson is an Emeritus Professor of Art at Luther College, Decorah, Iowa, where she taught art education and fiber arts classes. Kate is very active in professional and artistic endeavors at the local, state, and national levels. She has taught spinning and other textile-related classes throughout the United States and in Norway at Rauland Academy. She has introduced nålbinding to many American fiber artists. 

@@ -19,4 +19,4 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-Jock Holmen, “The Norwegian Termite,” has been a professional woodcarver for over 30 years. He is a Gold Medalist and won the First Place Carving Award at the 2005 Northern Woods Exhibition in Minneapolis. In addition to his commissioned projects, Jock is a contributing editor at American Woodworker magazine and teaches woodcarving classes. He has received training and tutoring from various American and Norwegian master carvers.
+Jock Holmen, “The Norwegian Termite,” has been a professional woodcarver for over 30 years. He is a Gold Medalist and won the First Place Carving Award at the 2005 Northern Woods Exhibition in Minneapolis. In addition to his commissioned projects, Jock is a contributing editor to American Woodworker magazine and teaches woodcarving classes. He has received training and tutoring from various American and Norwegian master carvers. 

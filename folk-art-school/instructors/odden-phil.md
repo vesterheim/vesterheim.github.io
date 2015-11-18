@@ -1,13 +1,13 @@
 ---
 published: true
-title: Ruth Green
+title: Phil Odden
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 
 lead:
-  image: folk-art-school/instructors/green--ruth.jpg
-  alt: Ruth Green
-  caption: Ruth Green gives advice to a student.
+  image: folk-art-school/instructors/odden-phil.jpg
+  alt: Phil Odden
+  caption: Phil Odden
 
 pagelist:
   exclude: false
@@ -19,4 +19,4 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-Ruth Green is an established Rogaland painter and has numerous publications that are available at Vesterheim’s Museum Store. She is a Certified Decorative Artist with the Society of Decorative Painters. Ruth earned her Gold Medal in 2012.
+Phil Odden is a professional woodcarver and Vesterheim Gold Medalist. He trained at the Hjerleid School in Dovre, Norway, and he and his wife, Else Bigton, have a workshop near Barronett, Wisconsin. Together, they authored the book _Treskjærer Kunsten_ (The Art of Woodcarving).

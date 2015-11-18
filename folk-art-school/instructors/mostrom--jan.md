@@ -7,7 +7,7 @@ meta_description:  # Used in HTML head and as the description for some search en
 lead:
   image: folk-art-school/instructors/mostrom--jan.jpg
   alt: Jan Mostrom
-  caption: Jan Mostrom
+  caption: Jan Mostrom helps a student.
 
 pagelist:
   exclude: false

@@ -19,4 +19,4 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-Patti Goke of Saint Cloud, Minnesota, has been rosemaling for over 20 years and has taken many classes with American and Norwegian artists. One of her rosemaling experiences was painting in the Raftevold Hotel in Hornindal, Nordfjord, Norway. Patti is a Vesterheim Gold Medalist, Vesterheim *Rosemaling Letter* editor, and contributor of rosemaling articles and projects for *Art Apprentice Online* e-zine. She was the guide for Vesterheim’s 2014 Folk Art Tour to Norway.
+Patti Goke of Saint Cloud, Minnesota, has been rosemaling for over 20 years and has taken many classes with American and Norwegian artists. One of her rosemaling experiences was painting in the Raftevold Hotel in Hornindal, Nordfjord, Norway. Patti is a Vesterheim Gold Medalist, Vesterheim _Rosemaling Letter_ editor, and contributor of rosemaling articles and projects for _Art Apprentice Online_ e-zine. She was the guide for Vesterheim’s 2014 Folk Art Tour to Norway and will be again in 2016.

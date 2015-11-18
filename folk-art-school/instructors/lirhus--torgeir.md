@@ -6,7 +6,7 @@ meta_description:  # Used in HTML head and as the description for some search en
 lead:
   image: folk-art-school/instructors/lirhus--torgeir.jpg
   alt: Torgeir Lirhus
-  caption:
+  caption: Torgeir Lirhus
 
 pagelist:
   exclude: false

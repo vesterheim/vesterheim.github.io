@@ -7,7 +7,7 @@ meta_description:  # Used in HTML head and as the description for some search en
 lead:
   image: folk-art-school/instructors/schmidt--nancy.jpg
   alt: Nancy Schmidt
-  caption: Nancy Schmidt
+  caption: Nancy Schmidt shows painting techniques to a student.
 
 pagelist:
   exclude: false

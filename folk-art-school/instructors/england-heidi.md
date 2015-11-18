@@ -1,13 +1,13 @@
 ---
 published: true
-title: Lois Mueller
+title: Heidi England
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 
 lead:
-  image: folk-art-school/instructors/mueller-lois.jpg
-  alt: Lois Mueller
-  caption: Lois Mueller
+  image: 
+  alt: 
+  caption: 
 
 pagelist:
   exclude: false
@@ -19,4 +19,4 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-Lois Mueller has been painting since 1977 and teaching since 1979. Since receiving a Gold Medal from Vesterheim, she has written nine rosemaling instructional books and taped a DVD for beginners. She has taught in Canada, Taiwan, and throughout the United States, and she feels the best part has been meeting many wonderful people with similar interests.
+Heidi England turned her hobby into a career, enjoying over four decades of folk art that have enriched her life. She has studied with Jo Sonja Jansen, Olaf Fossli, Maud Oving, Bjorg Kleivi, Sigmund Aarseth, and Nils Ellingsgard. Her teaching began with classes at the Houston Museum of Fine Arts and has taken her all over the world. She is honored to teach at Vesterheim, where she has taken so many classes!

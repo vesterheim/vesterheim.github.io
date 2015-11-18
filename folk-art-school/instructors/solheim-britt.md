@@ -1,13 +1,13 @@
 ---
 published: true
-title: Ruth Green
+title: Britt Solheim
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 
 lead:
-  image: folk-art-school/instructors/green--ruth.jpg
-  alt: Ruth Green
-  caption: Ruth Green gives advice to a student.
+  image: folk-art-school/instructors/solheim-britt.jpg
+  alt: Britt Solheim
+  caption: Britt Solheim
 
 pagelist:
   exclude: false
@@ -19,4 +19,4 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-Ruth Green is an established Rogaland painter and has numerous publications that are available at Vesterheim’s Museum Store. She is a Certified Decorative Artist with the Society of Decorative Painters. Ruth earned her Gold Medal in 2012.
+Britt Solheim, of Gjøvik, Norway, has a background in health care and education.In recent years she has been teaching classes in _skinnfell_ sewing and printing in Norway, Finland, and Sweden. She also produces both traditional and modern skinnfell. Her book _Skinnfeller du kan lage selv (Skinnfells You Can Make Yourself)_ was published in 2006.
