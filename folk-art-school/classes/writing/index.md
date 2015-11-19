@@ -1,22 +1,22 @@
 ---
-published: false
+published: true
 layout: page
-title: Gardening
+title: Writing
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 hero:
-  image: 16x9/folk-art-school/gardening.jpg
+  image: 16x9/folk-art-school/writing.jpg
   alt:
   caption:
 related:
 - /visit/plan/decorah/
 
 navigation:
-  order: 25
+  order: 65
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
-  image: 46x21/folk-art-school/gardening.jpg
+  image: 46x21/folk-art-school/writing.jpg
   alt:
   caption:
   title:         # Defaults to navigation title
