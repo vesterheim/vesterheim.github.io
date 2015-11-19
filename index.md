@@ -394,12 +394,12 @@ events:
     image: /16x9/events/scandinavian-music-jam.jpg
     alt:
     caption:
-    title: Fourth Sunday Scandinavian Music Jam 
-    date: November 22, 2015
-    time:
+    title: Scandinavian Music Jam 
+    date: November 29, 2015
+    time: 1:00-3:00 p.m.
     published: 
     start_date: 
-    stop_date: 2015-11-23
+    stop_date: 2015-11-30
   - url: /events/calendar/2015/12/03/gingerbread-fair/
     image: 16x9/events/gingerbread-house.jpg
     alt:

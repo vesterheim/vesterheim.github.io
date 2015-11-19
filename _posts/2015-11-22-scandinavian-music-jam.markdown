@@ -1,9 +1,9 @@
 ---
 published: true
 #all_day: false # If true, ignore times?
-dt_start: 2015-11-22 14:00:00 # datetime the event starts
-dt_end: 2015-11-22 16:00:00 # datetime the event ends
-title: Fourth Sunday Scandinavian Music Jam # event name (or title)
+dt_start: 2015-11-29 13:00:00 # datetime the event starts
+dt_end: 2015-11-29 15:00:00 # datetime the event ends
+title: Scandinavian Music Jam # event name (or title)
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
@@ -36,7 +36,7 @@ pagelist:
 
 tags:   
 ---
-The Fourth Sunday Scandinavian Music Jam is back! Stop by Sunday, November 22, 2015, 2:00 p.m. - 4:00 p.m. in Vesterheim's Bruening Visitor Center, 502 W. Water Street, to learn a tune, share a tune, jam with us, or just come to listen.
+DATE CHANGE! This month's Scandinavian Music Jam will be Sunday, November 29, 2015, 1:00 p.m. - 3:00 p.m. in Vesterheim's Bruening Visitor Center, 502 W. Water Street, to learn a tune, share a tune, jam with us, or just come to listen.
 
 Bring any instrument you play and join in. This informal music collaboration is great fun for all levels. 
 
