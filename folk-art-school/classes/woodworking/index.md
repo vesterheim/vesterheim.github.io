@@ -25,8 +25,6 @@ pagelist:
 ---
 Woodworking is a blast at Vesterheim! Some of the most highly-respected and fun-loving woodworkers in the country and from Norway teach their woodworking techniques at Vesterheim. From simple carved figures and chip-carved ornaments to elaborate acanthus furniture, you're sure to find a woodworking class that's right for you.
 
-We're working hard scheduling our 2016 classes... please check back soon!
-
 {% assign class__pagelist = site.data.pagelist | where: 'parent', page.url | sort: 'dtstart' %}
 {% include folk-art-school/class-list.html %}
 {% assign assign class__pagelist = nil %}
