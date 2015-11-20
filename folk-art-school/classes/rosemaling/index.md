@@ -27,8 +27,6 @@ Come and study this beautiful, traditional Norwegian decorative painting with th
 
 [Learn more about rosemaling with the _What Is Rosemaling?_ booklet.](/collections/contents/rosemaling-booklet/)
 
-We're working hard scheduling our 2016 classes... please check back soon!
-
 {% assign class__pagelist = site.data.pagelist | where: 'parent', page.url | sort: 'dtstart' %}
 {% include folk-art-school/class-list.html %}
 {% assign assign class__pagelist = nil %}

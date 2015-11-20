@@ -25,8 +25,6 @@ pagelist:
 ---
 Nothing expresses tradition like food — the smell, the taste, the memory of family and community that it inspires. Keep those traditions alive by learning to make your favorites, or create a new tradition with something different. From lefse to cheese to beer, Vesterheim's food classes will make you smile.
 
-We're working hard scheduling our 2016 classes... please check back soon!
-
 {% assign class__pagelist = site.data.pagelist | where: 'parent', page.url | sort: 'dtstart' %}
 {% include folk-art-school/class-list.html %}
 {% assign assign class__pagelist = nil %}

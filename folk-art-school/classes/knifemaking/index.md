@@ -25,8 +25,6 @@ pagelist:
 ---
 Knifemaking is a rich, cultural tradition in Norway that includes metal work, leather work, and wood work. Inspired by Norwaegian master knifemaker Håvard Bergland, Vesterheim's knifemaking program includes authentic techniques taught by highly skilled knifemakers from America and Norway.
 
-We're working hard scheduling our 2016 classes... please check back soon!
-
 {% assign class__pagelist = site.data.pagelist | where: 'parent', page.url | sort: 'dtstart' %}
 {% include folk-art-school/class-list.html %}
 {% assign assign class__pagelist = nil %}

@@ -1,16 +1,16 @@
 ---
 published: true
 title: Scandinavian Style Flat Plane Figure Carving 
-subtitle: February 6-8, 2015, with Harley Refsal 
+subtitle: February 5-7, 2016, with Harley Refsal 
 meta_description:  # Used in HTML head and as the description for some search engines
 related:
 - /visit/plan/decorah/
 
 location: ~
 instructor: Harley Refsal 
-sessions: "February 6-8, 2015, 9:00 a.m.–5:00 p.m."
-dtstart: 2015-02-06 9:00:00 -5:00
-dtend: 2015-02-08 17:00:00 -5:00
+sessions: "February 5-7, 2016, 9:00 a.m.–5:00 p.m."
+dtstart: 2016-02-05 9:00:00 -5:00
+dtend: 2016-02-07 17:00:00 -5:00
 level: All levels. 
   
 participation: Youth ages 12 and older signed up with a participating adult receive a 25% discount. 
