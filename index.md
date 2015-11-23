@@ -101,14 +101,14 @@ show_social_sharing_bar: false
 panels:
   - url: /folk-art-school/classes/
     file_under:
-    image: /16x9/folk-art-school/weaving.jpg
+    image: /16x9/folk-art-school/figure-carving-harley.jpg
     alt:
     caption:
     title:
     subtitle:
-    teaser: A class is a blast at Vesterheim! Check the Folk Art School schedule for 2015 and sign up today.
-    published: false
-    start_date: 2014-10-01
+    teaser: Celebrating 50 years of classes at Vesterheim! Check the Folk Art School schedule for 2016 and sign up today.
+    published: true
+    start_date: 
     stop_date:   
   - url: /visit/plan/hours-and-admission/
     file_under:
@@ -387,7 +387,7 @@ events:
     title: Deck the Tables
     date: November 20-21, 2015
     time: 
-    published: true
+    published: false
     start_date: 
     stop_date: 2015-11-22
   - url: /events/calendar/2015/11/22/scandinavian-music-jam/

@@ -5,7 +5,7 @@ title: Food Traditions
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 hero:
-  image: 16x9/folk-art-school/cooking.jpg
+  image: 16x9/folk-art-school/lefse.jpg
   alt:
   caption:
 related:
@@ -16,7 +16,7 @@ navigation:
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
-  image: 46x21/folk-art-school/cooking.jpg
+  image: 16x9/folk-art-school/lefse.jpg
   alt:
   caption:
   title:         # Defaults to navigation title

@@ -22,7 +22,9 @@ pagelist:
 ---
 <figure class="pull-left  content-photo  content-photo--golden-ratio--pull-left  content-photo--golden-ratio"><div class="content-photo__lining">{% picture golden folk-art-school/aarseth--sigmund--1967.jpg alt="Sigmund Aarseth 1967" %}</div></figure>
 
-For over 40 years, Vesterheim has nurtured folk artists and encouraged excellence in Norwegian-American folk art by providing classes with master instructors from Norway and America, by organizing study tours to Norway, and by offering an annual judged exhibition in which artists can present and sell their work.
+Vesterheim is celebrating 50 years of classes in 2016! 
+
+For 50 years, Vesterheim has nurtured folk artists and encouraged excellence in Norwegian-American folk art by providing classes with master instructors from Norway and America, by organizing study tours to Norway, and by offering an annual judged exhibition in which artists can present and sell their work.
 
 The first two classes, held in 1967, were Hardanger embroidery, taught by Carola Schmidt of Decorah, and a rosemaling class, taught by Sigmund Aarseth, from Norway. The folk-art education program grew in 1968 to five classes with 63 students from 12 states. The Gold Medalist program also was born in 1967.
 

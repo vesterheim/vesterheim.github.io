@@ -42,13 +42,13 @@ Class instruction is held from 9:00 a.m. to 5:00 p.m. unless otherwise noted in 
 
 Supplies 
 ---------
-Before each class begins, all students will receive supply lists and handouts from their instructors, a detailed class schedule, and a list of any special equipment needed for the class. The supply list may include a materials fee for specific items required for the class. Vesterheim can provide rosemalers with paints, brush cleaner, and painting medium for a palette fee and one set of basic acanthus carving tools for a rental fee. These supplies must be ordered in advance. Students might want to bring additional equipment for their own personal needs, such as a swinging arm lamp for extra lighting.
+Before each class begins, all students will receive supply lists from their instructors, a detailed class schedule, and a list of any special equipment needed for the class. The supply list may include a materials fee for specific items required for the class. Vesterheim can provide rosemalers with paints, brush cleaner, and painting medium for a palette fee. A basic carving set is available to rent for $25. These supplies must be ordered in advance. Students might want to bring additional equipment for their own personal needs, for example a magnifying light. 
 
 All students receive a 20% discount on purchases made in the Museum Store throughout the duration of any class they are attending.
 
 Deposit, Payment, and Cancelations
 ----------------------------------
-**All classes require a $50 deposit to register.** Full tuition is due 21 days prior to the class starting date. A minimum number of registered students is required for a class to be held.  We must meet our minimum number 21 days before class, or the class will be cancelled.
+**All classes require a $50 deposit to register. Full tuition is due 21 days prior to the class starting date. A minimum number of registered students is required for a class to be held.  We must meet our minimum number 21 days before class, or the class will be cancelled.** 
 
 If Vesterheim cancels a class, a full refund will be made, or students may transfer funds to another class offered the same year. 
 
@@ -56,13 +56,15 @@ If Vesterheim cancels a class, a full refund will be made, or students may trans
 
 Age Policy and Youth Discounts
 ------------------------------
-All classes at Vesterheim are open to adults 18 years and older. Vesterheim strongly believes in the importance of keeping our Scandinavian traditions alive by passing them down to our children and nurturing inter-generational learning. Therefore, some courses are open to students under the age of 18, provided they are accompanied by a fully enrolled adult in the same class. Minimum age requirements are determined by the individual instructors and are included in the course descriptions.
+All classes at Vesterheim are open to adults 18 years and older.  Vesterheim strongly believes in the importance of keeping our Scandinavian traditions alive by passing them down to our children and nurturing inter-generational learning. Therefore, some courses are open to students under the age of 18. Minimum age requirements are determined by the individual instructors and are included in the course descriptions. A waiver, signed by a parent or legal guardian, must be returned to Vesterheim before the beginning of class.
 
-Youth tuition will be discounted 25% when youth are accompanied by a fully enrolled adult in the same class. Tuition for Luther College students is discounted 25%.
+Youth tuition will be discounted 25% according to the member/non-member status of the adult enrolling the youth. 
 
 Local Resident Discounts
 ------------------------
-Vesterheim offers a 50% discount for class tuition on a space-available, stand-by basis to any legal year-round resident of Winneshiek County, Iowa and full time Luther College students. Students will be notified about availability of an opening in the class one week before the starting date of the class. Discounts do not include materials fee. If local area residents want a guaranteed place in a class they must pay regular class tuition. Proof of legal residency (Iowa ID or Iowa driver’s license) is required.
+Vesterheim offers a 50% discount for class tuition on a space-available, stand-by basis to any legal year-round resident of Winneshiek County, Iowa. Students will be notified about availability of an opening in the class one week before the starting date of the class. Discounts do not include materials fee. If local area residents want a guaranteed place in a class they must pay regular class tuition. Proof of legal residency (Iowa ID or Iowa driver’s license) is required. 
+
+Tuition for full-time Luther students is discounted 50%, also on a space-available, stand-by basis.
 
 Housing and Food
 ----------------
