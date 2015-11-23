@@ -28,7 +28,10 @@ pagelist:
 
 
 ---
-Update—this popular tour will be offered twice in 2016! Price and itinerary will be announced in the fall of 2015.
+Update—this popular tour will be offered twice in 2016! 
+
+- [Itinerary for May 15-May 29, 2016 ($5,995)](/norway-tours/upcoming/south-norway-iceland/itinerary/201605/)
+- [Itinerary for June 18-July 2, 2016 ($5,995)](/norway-tours/upcoming/south-norway-iceland/itinerary/201606/)
 
 During this incredible journey, experience the splendor of dramatic landscapes and the warm hearts of the people who live there. This tour will be a feast for the eyes as we explore the beautiful southern coastline of Norway, with waterfalls, mountains, and fjords, and the island country of Iceland, with geysers, glaciers, and volcanoes. Along the way, we’ll get to know the history and art of these areas, rich with tradition and culture.
 
@@ -44,8 +47,8 @@ Join us for this remarkable adventure!
 
 Price and itinerary will be announced in the fall of 2015.
 
-To reserve your spot on the tour, download this “[Tour Deposit](/norway-tours/forms/documents/DepositForm.pdf)” form and send it, with a $500 deposit per person, to Vesterheim, P.O. Box 379, Decorah, IA 52101.
+To reserve your spot on the tour, download this “[Tour Registration Form](/norway-tours/forms/documents/RegForm.pdf)” and send it, with a $500 deposit per person, to Vesterheim, P.O. Box 379, Decorah, IA 52101.
 
-{% include components/button.html text="Download Tour Deposit Form (PDF)" url="/norway-tours/forms/documents/DepositForm.pdf" style="primary" %} 
+{% include components/button.html text="Download Tour Registration Form (PDF)" url="/norway-tours/forms/documents/RegForm.pdf" style="primary" %} 
 
 For more information: Michelle Whitehill at 563-382-9681, ext. 240, or [mwhitehill@vesterheim.org](mailto:mwhitehill@vesterheim.org).

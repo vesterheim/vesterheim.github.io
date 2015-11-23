@@ -10,8 +10,8 @@ location: ~
 instructor: 
   - Kathleen Ernst
 sessions: "March 11-13, 2016, (Fri. 6:00-8:30, Sat. and Sun. 9:00-5:00)"
-dtstart: 2015-03-11 18:00:00 -5:00
-dtend: 2015-03-13 17:00:00 -5:00
+dtstart: 2016-03-11 18:00:00 -5:00
+dtend: 2016-03-13 17:00:00 -5:00
 level: All levels. No writing  experience is necessary. Bring a few personal heirlooms, photographs, or other mementos to class for inspiration if you wish. 
 participation: ~
 tuition:

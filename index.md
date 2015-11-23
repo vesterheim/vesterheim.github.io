@@ -183,7 +183,7 @@ panels:
     caption:
     title:
     subtitle:
-    teaser: Offered twice in 2016! During this incredible journey through Iceland and Southern Norway, experience the splendor of dramatic landscapes and the warm hearts of the people who live there.
+    teaser: Offered twice in 2016! The full itinerary is now available for this incredible journey through Iceland and Southern Norway. Experience the splendor of dramatic landscapes and the warm hearts of the people who live there.
     published: true
     start_date: 
     stop_date: 

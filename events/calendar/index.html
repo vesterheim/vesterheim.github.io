@@ -454,11 +454,3 @@ events:
 {% endfor %}
 <p>&nbsp;</p>
 <div class="layout__main--constrained  text">
-<h2>Classes</h2>
-{% assign calendar__classes = site.data.pagelist | where: 'layout', 'class' | sort: 'dtstart' %}
-<ul>
-{% for calendar__class in calendar__classes %}
-<li><a href="{{ calendar__class.url }}"><strong>{{ calendar__class.title }}</strong><br />{{ calendar__class.subtitle }}</a></li>{% endfor %}
-</ul>
-{% assign assign calendar__classes = nil %}
-{% assign assign calendar__class = nil %}
