@@ -1,6 +1,6 @@
 ---
 published: true
-title: Scandinavian Style Flat Plane Figure Carving 
+title: Scandinavian-Style Flat-Plane Figure Carving 
 subtitle: July 23-27, 2016, with Harley Refsal 
 meta_description:  # Used in HTML head and as the description for some search engines
 related:

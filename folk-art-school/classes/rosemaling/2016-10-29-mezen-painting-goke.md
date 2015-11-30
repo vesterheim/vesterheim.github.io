@@ -1,6 +1,6 @@
 ---
 published: true
-title: Rosemaling Basics for the Very Beginner
+title: Mezen Painting 
 subtitle: October 29-30, 2016, with Patti Goke 
 meta_description:  # Used in HTML head and as the description for some search engines
 related:

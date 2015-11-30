@@ -5,7 +5,7 @@ meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 
 lead:
-  image: folk-art-school/instructors/herkert--andrea.jpg
+  image: folk-art-school/instructors/herkert-andrea.jpg
   alt: Andrea Herkert
   caption: Andrea Herkert
 
