@@ -1,6 +1,6 @@
 ---
 published: true
-title: Sami Inspired Bracelets, Advanced
+title: "Sámi Inspired Bracelets, Advanced"
 subtitle: November 13, 2016, with Norma Refsal
 meta_description:  # Used in HTML head and as the description for some search engines
 related:

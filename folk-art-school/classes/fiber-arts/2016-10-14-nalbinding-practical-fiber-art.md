@@ -1,6 +1,6 @@
 ---
 published: true
-title: Nalbinding A Practical Fiber Art 
+title: "Nålbinding, A Practical Fiber Art"
 subtitle: October 14-16, 2016, with Kate Martinson
 meta_description:  # Used in HTML head and as the description for some search engines
 related:
