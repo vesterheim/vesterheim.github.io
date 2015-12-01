@@ -69,7 +69,7 @@ Children receive free admission!
 
 * Demonstrations of folk art by figure carver Harley Refsal, wheat weaver Bev Schrandt, rosemaler Ruth Green, spoon carver Fred Livesay, and spinners and weavers from the Oneota Weavers Guild.
 
-* Vesterheim’s _Kaffistova_ (coffee shop) will offer an á la carte menu of traditional tastes including _varme pølse,_ pea soup, sweet soup, flatbread, _rømmegrøt,_ _julekake,_ _pepparkakor,_ rosettes, _krumkake,_ _kringle,_ and _sandbakkels._ Serving 10 a.m. to 5 p.m. at Vesterheim’s Bethania Church on North Mill St.
+* Vesterheim’s _Kaffistova_ (coffee shop) will offer an á la carte menu of traditional tastes including _varme pølse,_ pea soup, sweet soup, _lefse_, _rømmegrøt,_ _julekake,_ _pepparkakor,_ rosettes, _krumkake,_ _kringle,_ and _sandbakkels._ Serving 10 a.m. to 5 p.m. at Vesterheim’s Bethania Church on North Mill St.
 
 * Kathleen Ernst, whose sixth book in the Chloe Ellefson Mystery Series has just been released, will sign books in the Museum Store from 1 - 5 p.m. Her fourth story in the series was set at Vesterheim.
 

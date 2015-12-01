@@ -31,6 +31,13 @@ carousel:
       published: false
       start_date:
       stop_date: 
+    - image: 25x9/exhibitions/special/from-tradition-to-protest-lila-nelson.jpg
+      alt: "From Tradition to Protest: Lila Nelson's Weaving Life"
+      caption: 
+      link: /exhibitions/special/lila-nelson-weaving-retrospective/
+      published: true
+      start_date:
+      stop_date: 
     - image: 25x9/exhibitions/special/norwegian-sweaters.jpg
       alt: "From Underwear to Everywhere: Norwegian Sweaters"
       caption: On view now!
@@ -40,7 +47,7 @@ carousel:
       stop_date: 
     - image: 25x9/exhibitions/special/figure-carving.jpg
       alt: "Woodcarved Figures, Nordic Roots"
-      caption: New exhibition Woodcarved Figures, Nordic Roots on view now!
+      caption: _Woodcarved Figures, Nordic Roots_ on view now!
       link: /exhibitions/special/woodcarved-figures-nordic-roots/
       published: true
       start_date:
@@ -165,14 +172,14 @@ panels:
     published: false
     start_date: 
     stop_date: 2015-09-15 
-  - url: /exhibitions/special/lila-nelson-weaving-retrospective/
+  - url: /join-give/raffles/
     file_under: 
     image: 
     alt:
     caption:
-    title: "New exhibition _From Tradition to Protest: Lila Nelson's Weaving Life_ opens December 5, 2015"
+    title: Announcing the 2016 Folk Art Raffle
     subtitle:
-    teaser: This retrospective exhibition shows how Lila Nelson began by mastering traditional Norwegian weaving techniques, subsequently using them in fresh and contemporary ways. 
+    teaser: Check out Vesterheim's 2016 Folk Art Raffle. You could own this beautiful bowl by Norwegian rosemaler Turid Helle Fatland! Raffle tickets are only $2.50 each.
     published: true
     start_date: 
     stop_date: 
