@@ -15,8 +15,8 @@ dtend: 2016-03-13 17:00:00 -5:00
 level: All levels. No writing  experience is necessary. Bring a few personal heirlooms, photographs, or other mementos to class for inspiration if you wish. 
 participation: ~
 tuition:
-  members: $153 per day
-  nonmembers: $203 per day
+  members: $153 
+  nonmembers: $203 
   note: ~
 materials_fee: ~
 materials: ~ 
