@@ -36,8 +36,8 @@ Children receive free admission!
 9:00 to 5:00 — Museum Store open <br />
 10:00 to 4:00 — "Norway's Waffle Queen" in the Bruening Visitor Center <br />
 10:00 to 4:00 – Hands-on ornament making in the Main Building <br />
-10:00 to 4:00 – Author Kathleen Ernst in the Museum Store <br />
 10:00 to 4:00 – Folk-art demonstators around the campus <br />
+10:00 to 4:00 –	Making Nordic s’mores by the fire, cider available in the courtyard <br />
 10:45 — Decorah Chorale concert in the Bethania Church <br />
 11:30 — Decorah High School Madrigal Singers concert in the Bethania Church <br />
 11:30 — Storytime in the Main Building <br />
@@ -46,6 +46,7 @@ Children receive free admission!
 12:15 — Northern Lights concert in the Bethania Church <br />
 1:00 — Luren Singers concert in the Bethania Church <br />
 1:00 — Storytime in the Main Building <br />
+1:00 to 5:00 – Author Kathleen Ernst signing _Death on the Prairie_ in the Museum Store <br />
 1:30 — Juletrefest (singing around the Christmas tree) in the Main Building <br />
 2:30 — Oneota Fim Festival showing of _In the Stream_ and _The Pinchcliffe Grand Prix_ in the Bethania Church
 
