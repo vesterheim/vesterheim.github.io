@@ -51,4 +51,4 @@ Some highlights from pervious years include:
 
 * Mini-concerts in Vesterheim’s Bethania Church by several Decorah-area musicians and vocal groups, including the Decorah Chorale, the Decorah High School Madrigals, Northern Lights, and Luren Singers. A Touch of Brass will perform in the museum’s Ship Gallery.
 
-Find an album of pictures from the most recent Norwegian Christmas [here.]https://www.facebook.com/media/set/?set=a.10153228624624109.1073741896.18263584108&type=3)
+Find an album of pictures from the most recent Norwegian Christmas [here.](https://www.facebook.com/media/set/?set=a.10153228624624109.1073741896.18263584108&type=3)

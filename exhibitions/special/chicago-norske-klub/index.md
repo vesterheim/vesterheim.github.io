@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: page
 title: Chicago Norske Klub
 subtitle: December 6, 2014 - November 15, 2015
