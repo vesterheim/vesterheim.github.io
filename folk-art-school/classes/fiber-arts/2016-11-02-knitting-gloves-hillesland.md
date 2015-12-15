@@ -29,7 +29,7 @@ lead:
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
-  image:         # Defaults to cropped page hero image
+  image: 46x21/folk-art-school/knitting-gloves-hillesland.jpg
   alt:
   caption:
   title:         # Defaults to navigation title

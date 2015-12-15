@@ -1,0 +1,31 @@
+---
+published: true
+#all_day: false # If true, ignore times?
+dt_start: 2016-11-05 # datetime the event starts
+dt_end: 2016-11-06 # datetime the event ends
+title: Knit-In
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+# Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
+hero:
+  image: 
+  alt: 
+  caption: 
+related:
+- /folk-art-school/classes/fiber-arts/2016-06-11-fair-isle-knitting-owen-johnston/
+- /folk-art-school/classes/fiber-arts/2016-11-02-knitting-gloves-hillesland/
+
+home:
+  display: false
+pagelist:
+  order:         # Defaults to navigation order
+  image: 46x21/events/knit-in-sweater-bombing.jpg 
+  alt:
+  caption: 
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser: "Everyone is welcome to come and enjoy the company of other knitters."
+---
+Join us for a Knit-In. Everyone is welcome to come and knit, chat, listen to presentations, and take a behind-the-scenes tour of textile storage. The Knit-In is made possible by gifts in memory of Ann Swanson and Grace Rikansrud. 
+
+Details will be announced soon. For more information, contact Laurann Gilbertson at Vesterheim (563-382-9681, lgilbertson@vesterheim.org).

@@ -28,7 +28,7 @@ pagelist:
 
 
 ---
-Price and itinerary will be announced in the fall of 2015.
+[Itinerary available here](/norway-tours/upcoming/folk-art/itinerary/201605/)
 
 Back by popular demand! This tour was such a huge success in 2014, Darlene and Patti will lead it again in 2016.
 
