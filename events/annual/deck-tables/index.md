@@ -7,7 +7,7 @@ meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
-  image: 16x9/events/deck-the-tables.jpg
+  image: 16x9/events/deck-the-tables-2105.jpg
   alt: 
   caption: 
 
@@ -24,75 +24,19 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-This fabulous community event at the Hotel Winneshiek in beautiful downtown Decorah showcases the talents of area residents and retailers who create beautiful table settings to spark holiday decorating ideas.
+Held in November each year, this fabulous community event at the Hotel Winneshiek in beautiful downtown Decorah showcases the talents of area residents and retailers who create beautiful table settings to spark holiday decorating ideas.
 
 Fantastic "Dinner Tables" spark your holiday decorating ideas and the Home, Garden, and Personal Décor Showcase features "Exhibitor Tables" with goods and services to help make your holiday celebrations festive and joyful. There are fabulous door prizes, free carriage rides (Sat. only), games, raffles, auction packages, plus live music and complimentary treats during the Open Houses.
 
-Blue Jeans & Bling Open House 
+Deck the Tables also includes special dining opportunities—a luncheon and a gala dinner.
+
+View pictures from previous Deck the Tables on the Deck the Tables Facebook page [here.](https://www.facebook.com/Deckthetables/)
+
+Thank You!
 -------------------------------
-Friday, Nov. 20  <br />
-6:00 - 8:00 p.m. <br />
-Admission is $12 at the door or $10 in advance.
+Vesterheim thanks everyone for another incredible Deck the Tables event held November 20-21, 2015, at the Hotel Winneshiek. It was an AMAZING weekend! We would also like to extend a special thanks to the volunteer organizers of the event: Melanie Anundsen, Karla Erdman, Llew Jenkins, Ruth Lynch, and Syd Stephenson. They worked incredibly hard to put on a wonderful event that could be enjoyed by all. 
 
-### Features
-{: .heading--black }
-
-* Entertainment by Jeni Grouws and Jessica Breed.
-* A Wall of Wine.
-* Heads or Tails, a game of chance free for all guests.
-* Opportunities to purchase raffle tickets and proxy bid on auction packages.
-* Door prizes, complimentary appetizers, and more!
-
-Tables & Treats Open House 
--------------------------------
-Saturday, Nov. 21  <br />
-9:00 a.m. - 3:00 p.m. <br />
-Admission is $12 at the door or $10 in advance.
-
-### Features
-{: .heading--black } 
-
-* Free horse-drawn carriage rides (weather permitting).
-* Complimentary coffee and pastries.
-* Special discounts from participating local retailers.
-* Door prizes.
-* Opportunities to purchase Raffle tickets and proxy bid on auction packages.
-* Live piano music in the Lobby.
-
-Restauration Luncheon  
--------------------------------
-Saturday, Nov. 21  <br />
-12:00 - 2:00 p.m. <br />
-Admission is $35. Reservation are required by November 13.
-
-### Features
-{: .heading--black }
-
-* A delectable meal prepared specially by Chef Tom Skold.
-* All the special offers available through the Tables and Treats Open House.
-* Plus, one lucky guest will receive a door prize valued at more than $200!
-
-Gala Dinner and Auction 
--------------------------------
-Saturday, Nov. 21  <br />
-5:00 p.m. - Social Hour and Table Viewing <br />
-6:45 p.m. - Dinner and Auction<br />
-Admission is $50 and seating is limited. Reservation are required by November 13.
-
-### Features
-{: .heading--black }
-
-* A gala dinner prepared specially by Chef Tom Skold.
-* Door prizes.
-* Opportunities to purchase raffle tickets and Golden Tickets.
-* An exciting Live Auction with auctioneer, Joe Gavle, and emcee, John Jenkins. 
-* Visit the Deck the Tables Facebook page, like and follow us for November previews of the unique auction packages.
-
-Contact Stephanie Johnson at [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org) or 563-382-9681 for reservations/tickets.
-
-All proceeds benefit Vesterheim’s fourth-grade Pioneer Immersion Program.
-
-View pictures from previous Deck the Tables on the Deck the Tables Facebook page [here.](https://www.facebook.com/media/set/?set=a.360902364084181.1073741840.178163039024782&type=1)
+Proceeds from Deck the Tables 2015 will be used to support the 4th Grade Pioneer Immersion Program in 2016, providing an invaluable educational partnership between Vesterheim and area schools!
 
 2015 Home, Garden, and Personal Décor Showcase Retailers
 -------------------------------
