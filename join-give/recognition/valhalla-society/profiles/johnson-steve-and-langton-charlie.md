@@ -7,7 +7,7 @@ meta_description:  # Used in HTML head and as the description for some search en
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 
 lead:  
-  image: /join-give/recognition/valhalla-society/profiles/johnson-steve-langton-charlie.jpg
+  image: /join-give/recognition/valhalla-society/profiles/johnson-steve-langton-charlie2.jpg
   alt: Steve Johnson and Charlie Langton
   caption: Steve Johnson and Charlie Langton
 related:
