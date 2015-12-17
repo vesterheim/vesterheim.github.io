@@ -24,8 +24,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-A special reception is scheduled for March 23, 2016. Time to be announced.
-
 Lila Nelson, Vesterheim’s first Textile Curator, was an accomplished textile artist in her own right. This retrospective exhibition shows how she began by mastering traditional Norwegian weaving techniques, subsequently using them in fresh and contemporary ways. Later in life she focused on tapestry weaving, which allowed her greater personal and political expression.
 
 She and her late husband Marion Nelson are credited with transforming Vesterheim into the premier ethnic museum that it is today. In the mid-1960s, they were hired to catalog the collection of art, pottery, furniture, and other artifacts at the museum, then affiliated with Luther College. When Vesterheim became an independent nonprofit in 1965, Lila became the museum’s Textile Curator and Marion Nelson the museum’s Executive Director.
