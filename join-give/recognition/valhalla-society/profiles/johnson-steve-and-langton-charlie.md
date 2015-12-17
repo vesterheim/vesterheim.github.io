@@ -6,10 +6,10 @@ meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 
-lead:
-  image: 
-  alt: 
-  caption: 
+lead:  
+  image: /join-give/recognition/valhalla-society/profiles/johnson-steve-langton-charlie.jpg
+  alt: Steve Johnson and Charlie Langton
+  caption: Steve Johnson and Charlie Langton
 related:
  - /join-give/make-a-gift/planned/
  
@@ -42,7 +42,7 @@ CL- In 1986 I got the position as Editor and Archivist.
 
 **How has Vesterheim changed since then?**
 
-CL- Before I began working at Vesterheim, the museum rarely did press releases. They had an archive room with unorganized boxes. The archives are now completely organized with a hired staff to keep it up to date. Publications has been completely transformed, with computers, color printing, a website, email newsletter, magazine and more.
+CL- Before I began working at Vesterheim, the museum rarely did press releases. They had an archive room with unorganized boxes. The archives are now completely organized with hired staff to keep it up to date. Publications has been completely transformed, with computers, color printing, a website, email newsletter, magazine and more.
 
 SJ- While Charlie was busy establishing the Publications Department, I was working in different departments of the museum, serving in different capacities. I have worked as the Associate Director of Development, Internal Auditor, Director of Development, Director of Historic Preservation and Facilities, Deputy Director, and Executive Director. From those positions I was able to see the museum grow by adding professional staff, expanding the collections, and enlarging the museum campus. This all happened through increased funding which created new opportunities for programming, events, exhibitions, educational activities, and more.
 
