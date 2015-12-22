@@ -36,6 +36,7 @@ November 1 to April 30: 10 a.m. to 4 p.m.
 **Museum Store**<br /> 
 Open daily all year: 9 a.m. to 5 p.m.
 
+This year, the museum and store will close at 2:00 p.m. on Christmas Eve.<br />
 The museum and store are closed Thanksgiving Day, Christmas Day, New Year’s Day, and Easter.
 
 Prices

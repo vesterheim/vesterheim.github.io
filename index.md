@@ -106,6 +106,17 @@ show_social_sharing_bar: false
 
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px      
 panels:
+  - url: /visit/plan/hours-and-admission/
+    file_under:
+    image: 16x9/buildings/front_building_flags.jpg
+    alt:
+    caption:
+    title: Museum and Store Holiday Hours
+    subtitle: 
+    teaser: "The museum and store will close at 2:00 p.m. on Christmas Eve and are closed all day Christmas Day and New Year’s Day. Enjoy the holidays!"
+    published: true
+    start_date: 
+    stop_date:  
   - url: /folk-art-school/classes/
     file_under:
     image: /16x9/folk-art-school/figure-carving-harley.jpg
@@ -117,17 +128,6 @@ panels:
     published: true
     start_date: 
     stop_date:   
-  - url: /visit/plan/hours-and-admission/
-    file_under:
-    image: 16x9/events/julenisse--christmas--kids.jpg
-    alt:
-    caption:
-    title: Museum and Store Closed
-    subtitle: "December 25, 2014 & January 1, 2015"
-    teaser: The museum and store are closed Christmas Day and New Year’s Day.
-    published: false
-#    start_date: 2014-12-20
-#    stop_date:  2014-12-26 
   - url: /visit/plan/hours-and-admission/
     file_under:
     image: 16x9/events/julenisse--christmas--kids.jpg
@@ -180,7 +180,7 @@ panels:
     title: Announcing the 2016 Folk Art Raffle
     subtitle:
     teaser: Check out Vesterheim's 2016 Folk Art Raffle. You could own this beautiful bowl by Norwegian rosemaler Turid Helle Fatland! Raffle tickets are only $2.50 each.
-    published: true
+    published: false
     start_date: 
     stop_date: 
   - url: /norway-tours/upcoming/south-norway-iceland/
@@ -206,47 +206,7 @@ panels:
     start_date: 2014-10-01
     stop_date: 
 
-events:
-  - url: /folk-art-school/classes/woodworking/2015-01-15-whittling-klubb-kids-session-1/
-    image: /46x21/folk-art-school/whittling-kids-klubb-hanna.jpg
-    alt:
-    caption:
-    title: Whittling Klubb for Kids—Session I with Rebecca Hanna
-    date: January 15, 22, 29, and Feb 5, 2015
-    time: 3:35–5:15PM
-    published: true
-    start_date:
-    stop_date: 2015-01-16 
-  - url: /folk-art-school/classes/woodworking/2015-01-15-whittling-klubb-kids-session-1/
-    image: /46x21/folk-art-school/whittling-kid.jpg
-    alt:
-    caption:
-    title: Whittling Klubb for Kids—Session I with Rebecca Hanna
-    date: January 22, 29, and Feb 5, 2015
-    time: 3:35–5:15PM
-    published: true
-    start_date: 2015-01-16
-    stop_date: 2015-01-23
-  - url: /folk-art-school/classes/woodworking/2015-01-15-whittling-klubb-kids-session-1/
-    image: /46x21/folk-art-school/whittling-kids-klubb-hanna.jpg
-    alt:
-    caption:
-    title: Whittling Klubb for Kids—Session I with Rebecca Hanna
-    date: January 29 and Feb 5, 2015
-    time: 3:35–5:15PM
-    published: true
-    start_date: 2015-01-23
-    stop_date: 2015-01-30        
-  - url: /folk-art-school/classes/woodworking/2015-01-15-whittling-klubb-kids-session-1/
-    image: /46x21/folk-art-school/whittling-kids-klubb-hanna.jpg
-    alt:
-    caption:
-    title: Whittling Klubb for Kids—Session I with Rebecca Hanna
-    date: February 5, 2015
-    time: 3:35–5:15PM
-    published: true
-    start_date: 2015-01-30
-    stop_date: 2015-02-06   
+events:  
   - url: /events/calendar/2015/04/16/volunteer-open-house/
     image: /46x21/events/wow--demonstrator--kids.jpg
     alt:
@@ -437,6 +397,26 @@ events:
     published: true
     start_date: 
     stop_date: 2015-12-16
+  - url: /folk-art-school/classes/woodworking/2016-01-06-whittling-klubb-kids/
+    image: /46x21/folk-art-school/whittling-kid.jpg
+    alt:
+    caption:
+    title: Whittling Klubb for Kids with Rebecca Hanna
+    date: January 6, 13, 20, and 27, and February 3 and 10, 2016
+    time: 3:35–5:15PM
+    published: true
+    start_date:
+    stop_date: 
+  - url: /folk-art-school/classes/woodworking/2016-02-05-scandinavian-style-flat-plane-figure-carving/
+    image: /46x21/folk-art-school/refsal-carving.jpg
+    alt:
+    caption:
+    title: Scandinavian-Style Flat-Plane Figure Carving with Harley Refsal
+    date: February 5-7, 2016
+    time: 
+    published: true
+    start_date:
+    stop_date: 
   - url: /events/annual/barnelopet/
     image: 46x21/events/barneløpet--people--kids.jpg
     alt:
