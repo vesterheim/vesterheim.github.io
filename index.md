@@ -397,6 +397,16 @@ events:
     published: true
     start_date: 
     stop_date: 2015-12-16
+  - url: /events/calendar/2015/12/27/scandinavian-music-jam/
+    image:
+    alt:
+    caption:
+    title: Scandinavian Music Jam 
+    date: December 27, 2015 
+    time: 2:00-4:00 p.m.
+    published: true
+    start_date: 
+    stop_date: 2015-12-28
   - url: /folk-art-school/classes/woodworking/2016-01-06-whittling-klubb-kids/
     image: /46x21/folk-art-school/whittling-kid.jpg
     alt:
