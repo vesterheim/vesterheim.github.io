@@ -398,7 +398,7 @@ events:
     start_date: 
     stop_date: 2015-12-16
   - url: /events/calendar/2015/12/27/scandinavian-music-jam/
-    image:
+    image: /16x9/events/scandinavian-music-jam.jpg
     alt:
     caption:
     title: Scandinavian Music Jam 
