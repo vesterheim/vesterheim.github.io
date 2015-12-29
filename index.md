@@ -113,7 +113,7 @@ panels:
     caption:
     title: Museum and Store Holiday Hours
     subtitle: 
-    teaser: "The museum and store will close at 2:00 p.m. on Christmas Eve and are closed all day Christmas Day and New Year’s Day. Enjoy the holidays!"
+    teaser: "The museum and store will be closed all day on New Year’s Day. Enjoy the holiday!"
     published: true
     start_date: 
     stop_date:  
