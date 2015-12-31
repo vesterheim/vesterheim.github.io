@@ -25,6 +25,8 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser: "Be inspired by budding folk artists who are studying Norwegian handcrafts and Scandinavian traditions with woodcarver Harley Refsal."
 
+tags:   
+---
 Be inspired by budding folk artists and Scandinavian traditions at Vesterheim Museum. Students from Harley Refsal's "Scandinavian Fine Handcraft" January-term course at Luther College will demonstrate carving and exhibit their class projects at Vesterheim on Tuesday, January 26, from 4:30-6:30 p.m. 
 
 Everyone is invited to this free event. Refreshments will be served, including s’mores in the museum’s courtyard (weather permitting). 

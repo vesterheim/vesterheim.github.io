@@ -421,7 +421,7 @@ events:
     image: 16x9/events/refsal-luther-student-event-miller.jpg
     alt:
     caption:
-    title: Luther College Student Demonstration and Exhibition—Scandinavian Fine Handcraft 
+    title: Luther College Student Demonstration and Exhibition of Scandinavian Fine Handcraft 
     date: January 26, 2016 
     time: 4:40-6:30 p.m. 
     published: true
