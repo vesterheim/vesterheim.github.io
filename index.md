@@ -374,7 +374,7 @@ events:
     title: Gingerbread Fair 
     date: December 3-31, 2015 
     time:
-    published: true
+    published: false
     start_date: 
     stop_date: 2015-12-31
   - url: /events/annual/norwegian-christmas/
@@ -413,10 +413,20 @@ events:
     caption:
     title: Whittling Klubb for Kids with Rebecca Hanna
     date: January 6, 13, 20, and 27, and February 3 and 10, 2016
-    time: 3:35–5:15PM
+    time: 3:35–5:15 p.m.
     published: true
     start_date:
     stop_date: 
+  - url: /events/calendar/2016/01/26/scandinavian-fine-handcraft/
+    image: 16x9/events/refsal-luther-student-event-miller.jpg
+    alt:
+    caption:
+    title: Luther College Student Demonstration and Exhibition—Scandinavian Fine Handcraft 
+    date: January 26, 2016 
+    time: 4:40-6:30 p.m. 
+    published: true
+    start_date: 
+    stop_date: 2016-01-27
   - url: /folk-art-school/classes/woodworking/2016-02-05-scandinavian-style-flat-plane-figure-carving/
     image: /46x21/folk-art-school/refsal-carving.jpg
     alt:
