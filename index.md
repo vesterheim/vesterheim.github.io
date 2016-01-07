@@ -114,7 +114,7 @@ panels:
     title: Museum and Store Holiday Hours
     subtitle: 
     teaser: "The museum and store will be closed all day on New Year’s Day. Enjoy the holiday!"
-    published: true
+    published: false
     start_date: 
     stop_date:  
   - url: /folk-art-school/classes/
@@ -414,7 +414,7 @@ events:
     title: Whittling Klubb for Kids with Rebecca Hanna
     date: January 6, 13, 20, and 27, and February 3 and 10, 2016
     time: 3:35–5:15 p.m.
-    published: true
+    published: false
     start_date:
     stop_date: 
   - url: /events/calendar/2016/01/26/scandinavian-fine-handcraft/
@@ -433,6 +433,16 @@ events:
     caption:
     title: Scandinavian-Style Flat-Plane Figure Carving with Harley Refsal
     date: February 5-7, 2016
+    time: 
+    published: true
+    start_date:
+    stop_date: 
+  - url: /folk-art-school/classes/woodworking/2016-02-10-scandinavian-bowl-turning-spring-pole-lathe-abrahamson/
+    image: /46x21/folk-art-school/spring-pole-lathe.jpg
+    alt:
+    caption:
+    title: Scandinavian Bowl Turning on a Spring Pole Lathe
+    date: February 10-12, 2016
     time: 
     published: true
     start_date:
