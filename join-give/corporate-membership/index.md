@@ -29,13 +29,13 @@ How to Join
 -----------
 {: .heading--large }
 
-Please print a corporate membership [form](/join-give/corporate-membership/documents/corporate-membership.pdf) (pdf) and send the form, along with your check or credit card information to: <br />
+Please print a corporate membership [form](/join-give/corporate-membership/documents/corporate-membership-16.pdf) (pdf) and send the form, along with your check or credit card information to: <br />
 Corporate Membership<br />
 Vesterheim Museum<br />
 P.O. Box 379<br />
 Decorah, IA 52101
 
-For questions regarding corporate membership, contact Stephanie Johnson at 563-382-9681, ext. 103, or email at [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org).
+For questions regarding corporate membership, contact Nicholas Klein at 563-382-9681, ext. 109, or email at [nklein@vesterheim.org](mailto:nklein@vesterheim.org).
 
 Benefits of Corporate Membership:
 ---------------------------------

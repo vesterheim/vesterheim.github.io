@@ -31,5 +31,5 @@ Vesterheim accepts donated objects for use on the museum campus or for fundraisi
 
 Items Donated to Vesterheim's Collection
 ----------------------------------------
-Every year, new objects, books, or archival materials are added to the collection through the generosity of individuals and organizations. These donations help Vesterheim fulfill its mission of sharing the Norwegian-American experience. If you think you have something that will enhance Vesterheim’s collection, please contact the museum’s collections manager, Alison Dwyer at 563-382-9681, ext. 118, or [adwyer@vesterheim.org](mailto:adwyer@vesterheim.org) to discuss the donation.
+Every year, new objects, books, or archival materials are added to the collection through the generosity of individuals and organizations. These donations help Vesterheim fulfill its mission of sharing the Norwegian-American experience. If you think you have something that will enhance Vesterheim’s collection, please contact the museum’s chief curator, Laurann Gilbertson at 563-382-9681, ext. 214, or [lgilbertson@vesterheim.org](mailto:lgilbertson@vesterheim.org) to discuss the donation.
 
