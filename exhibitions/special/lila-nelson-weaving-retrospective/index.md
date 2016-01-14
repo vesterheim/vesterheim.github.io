@@ -4,7 +4,7 @@ layout: page
 title: "From Tradition to Protest: Lila Nelson’s Weaving Life"
 subtitle: December 5, 2015 to November 13, 2016
 meta_title:        # Appears on bookmarks, search results, etc...
-meta_description: Coming from humble beginnings as a warm layer under a vest and jacket, Norwegian sweaters are now worn all over the world and for almost every occasion.
+meta_description: This retrospective exhibition of weavings by Lila Nelson shows how she began by mastering traditional Norwegian weaving techniques, subsequently using them in fresh and contemporary ways.
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
 hero:
   image: 16x9/exhibitions/special/lila-nelson-weaving-cat.jpg

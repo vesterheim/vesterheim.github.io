@@ -17,6 +17,13 @@ sitemap:
 carousel:
   ratio: carousel
   slides:   
+    - image: 25x9/events/barneløpet--kids.jpg
+      alt: Barneløpet Children's Ski/Walk Event
+      caption: Enjoy the winter at _Barneløpet._
+      link: /events/annual/barnelopet/
+      published: true
+      start_date:
+      stop_date: 2016-2-8
     - image: 25x9/join-give/auction.jpg
       alt: Folk Art Benefit Auction
       caption: "Our exciting annual Folk Art Benefit Auction is online until Oct. 28. Bid now!"
@@ -52,13 +59,6 @@ carousel:
       published: true
       start_date:
       stop_date: 
-    - image: 25x9/events/barneløpet--kids.jpg
-      alt: Barneløpet Children's Ski/Walk Event
-      caption: Enjoy the winter at _Barneløpet._
-      link: /events/annual/barnelopet/
-      published: false
-      start_date:
-      stop_date: 2015-1-8
     - image: 25x9/fodors-best-15-museums.jpg
       alt: "Fodor's Names Vesterheim One of 15 Best Small-Town Museums in the U.S."
       caption: "Vesterheim was named one of “15 Best Small-Town Museums in the U.S.” by the world-respected travel guide, Fodor’s!"
@@ -437,16 +437,6 @@ events:
     published: true
     start_date:
     stop_date: 
-  - url: /folk-art-school/classes/woodworking/2016-02-10-scandinavian-bowl-turning-spring-pole-lathe-abrahamson/
-    image: /46x21/folk-art-school/spring-pole-lathe.jpg
-    alt:
-    caption:
-    title: Scandinavian Bowl Turning on a Spring Pole Lathe
-    date: February 10-12, 2016
-    time: 
-    published: true
-    start_date:
-    stop_date: 
   - url: /events/annual/barnelopet/
     image: 46x21/events/barneløpet--people--kids.jpg
     alt:
@@ -457,4 +447,34 @@ events:
     published: true
     start_date: 
     stop_date: 2016-12-07
+  - url: /folk-art-school/classes/woodworking/2016-02-10-scandinavian-bowl-turning-spring-pole-lathe-abrahamson/
+    image: /46x21/folk-art-school/spring-pole-lathe.jpg
+    alt:
+    caption:
+    title: Scandinavian Bowl Turning on a Spring Pole Lathe
+    date: February 10-12, 2016
+    time: 
+    published: true
+    start_date:
+    stop_date: 
+  - url: /folk-art-school/classes/fiber-arts/2016-02-10-bandweaving-delarm/
+    image: /46x21/folk-art-school/band-loom-weaving-couples-delarm.jpg
+    alt:
+    caption:
+    title: Weaving on a Band/Tape Loom
+    date: February 10-12, 2016
+    time: 
+    published: true
+    start_date:
+    stop_date: 
+  - url: /folk-art-school/classes/fiber-arts/2016/04/02/getting-loopy-gathering-of-nalbinders/
+    image: /46x21/events/getting-loopy-nalbinding.jpg
+    alt:
+    caption:
+    title: "Getting Loopy: A Gathering of Nålbinders"
+    date: April 2-3, 2016
+    time: 
+    published: true
+    start_date:
+    stop_date: 
 ---
