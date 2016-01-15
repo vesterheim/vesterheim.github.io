@@ -467,7 +467,7 @@ events:
     published: true
     start_date:
     stop_date: 
-  - url: /folk-art-school/classes/fiber-arts/2016/04/02/getting-loopy-gathering-of-nalbinders/
+  - url: /events/calendar/2016/04/02/getting-loopy-gathering-of-nalbinders/
     image: /46x21/events/getting-loopy-nalbinding.jpg
     alt:
     caption:

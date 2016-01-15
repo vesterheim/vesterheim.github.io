@@ -32,7 +32,7 @@ pagelist:
   caption: 
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
-  teaser:        # Defaults to page meta-description
+  teaser: Join other nålbinders on April 2 and 3, 2016, for an informal, creative weekend together. More information coming soon. 
 
 tags:   
 ---
