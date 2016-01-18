@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: page
 title: _Telling Stories . . . With Wood,_ Luncheon and Presentation - La Crosse, Wisconin
 meta_title:        # Appears on bookmarks, search results, etc...
@@ -24,7 +24,7 @@ pagelist:
 ---
 Everyone is invited to join Vesterheim in La Crosse, Wisconsin, at a luncheon presentation, _Telling Stories . . . With Wood_ by renowned woodcarver Harley Refsal.  
 
-The event will be at The Kahler Apache, 1517 16th St. S.W., on Sunday, February 28, 2016, from 11:30 a.m.-1:30 p.m. and the cost is $35 per person. Bring your friends!
+The event will be at Courtyard La Crosse Marriott Hotel, 500 Front Street S, on Sunday, February 28, 2016, from 11:30 a.m.-1:30 p.m. and the cost is $35 per person. Bring your friends!
 
 Figure carving in Scandinavia reaches back throughout history to a time when people sat around warm fires in winter, sharing their imagination with stories and carvings. Millions of people are now rediscovering the beauty of this (almost) lost art, thanks to the dedication and artistic skills of people like Harley Refsal.
 
@@ -34,4 +34,4 @@ Join Harley for a delicious meal while learning more about the distinctive, and 
 
 This event will also include a museum update by Chris Johnson, Vesterheim’s new CEO/President.
 
-Please RSVP by February 16, 2016, by contacting Stephanie Johnson at [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org), or 563-382-9681. 
+Please RSVP by February 19, 2016, by contacting Stephanie Johnson at [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org), or 563-382-9681. 

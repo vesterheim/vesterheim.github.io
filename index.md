@@ -205,6 +205,17 @@ panels:
     published: false
     start_date: 2014-10-01
     stop_date: 
+  - url: /about/news/2016/iowa-tourism-blogs/
+    file_under: News
+    image: /16x9/about/imagine-northeast-iowa-blog.jpg
+    alt:
+    caption:
+    title: Share Your Vesterheim Experience!
+    subtitle:
+    teaser: Blog about your visit to Vesterheim and the Decorah area at Imagine Northeast Iowa and Travel Iowa blogs! 
+    published: true
+    start_date:
+    stop_date: 
 
 events:  
   - url: /events/calendar/2015/04/16/volunteer-open-house/
@@ -417,6 +428,16 @@ events:
     published: false
     start_date:
     stop_date: 
+  - url: /events/calendar/2016/01/24/scandinavian-music-jam/
+    image: 16x9/events/scandinavian-music-jam.jpg
+    alt:
+    caption:
+    title: Scandinavian Music Jam 
+    date: January 24, 2016 
+    time: 2:00-4:00 p.m. 
+    published: true
+    start_date: 
+    stop_date: 2016-01-25
   - url: /events/calendar/2016/01/26/scandinavian-fine-handcraft/
     image: 16x9/events/refsal-luther-student-event-miller.jpg
     alt:
@@ -437,6 +458,16 @@ events:
     published: true
     start_date:
     stop_date: 
+  - url: /events/calendar/2016/02/05/taste-of-winneshiek/
+    image: 46x21/events/pulpit-rock-brewery.jpg
+    alt:
+    caption:
+    title: Taste of Winneshiek 
+    date: February 5, 2016 
+    time: 5:00-8:00 p.m. 
+    published: true
+    start_date: 
+    stop_date: 2016-01-27
   - url: /events/annual/barnelopet/
     image: 46x21/events/barneløpet--people--kids.jpg
     alt:
@@ -467,6 +498,16 @@ events:
     published: true
     start_date:
     stop_date: 
+  - url: /events/away/la-crosse/
+    image:
+    alt:
+    caption:
+    title: "_Telling Stories . . . With Wood,_ Luncheon and Presentation - Rochester, Minnesota"  
+    date: February 28, 2016
+    time: 11:30 a.m.-1:30 p.m.
+    published: true
+    start_date: 
+    stop_date: 2016-02-029
   - url: /events/calendar/2016/04/02/getting-loopy-gathering-of-nalbinders/
     image: /46x21/events/getting-loopy-nalbinding.jpg
     alt:
@@ -474,7 +515,7 @@ events:
     title: "Getting Loopy: A Gathering of Nålbinders"
     date: April 2-3, 2016
     time: 
-    published: true
+    published: false
     start_date:
     stop_date: 
 ---
