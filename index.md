@@ -474,7 +474,7 @@ events:
     caption:
     title: Barneløpet—Children's Cross Country Ski/Walk Event
     date: February 6, 2016
-    time:
+    time: 10:00 a.m.
     published: true
     start_date: 
     stop_date: 2016-12-07
@@ -502,10 +502,10 @@ events:
     image:
     alt:
     caption:
-    title: "_Telling Stories . . . With Wood,_ Luncheon and Presentation - Rochester, Minnesota"  
+    title: "_Telling Stories . . . With Wood,_ Luncheon and Presentation - La Crosse, Wisconsin"  
     date: February 28, 2016
     time: 11:30 a.m.-1:30 p.m.
-    published: true
+    published: false
     start_date: 
     stop_date: 2016-02-029
   - url: /events/calendar/2016/04/02/getting-loopy-gathering-of-nalbinders/
