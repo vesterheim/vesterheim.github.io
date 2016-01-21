@@ -1,8 +1,8 @@
 ---
 published: true
 #all_day: false # If true, ignore times?
-dt_start: 2016-01-24 14:00:00 # datetime the event starts
-dt_end: 2016-01-24 16:00:00 # datetime the event ends
+dt_start: 2016-01-24 13:00:00 # datetime the event starts
+dt_end: 2016-01-24 15:00:00 # datetime the event ends
 title: Scandinavian Music Jam # event name (or title)
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
@@ -36,7 +36,7 @@ pagelist:
 
 tags:   
 ---
-This month's Scandinavian Music Jam will be Sunday, January 24, 2016, 2:00 p.m. - 4:00 p.m. in Vesterheim's Bruening Visitor Center, 502 W. Water Street.
+This month's Scandinavian Music Jam will be Sunday, January 24, 2016, 1:00 p.m. - 3:00 p.m. in Vesterheim's Bruening Visitor Center, 502 W. Water Street.
 
 Everyone is welcome to learn a tune, share a tune, jam with us, or just come to listen.
 

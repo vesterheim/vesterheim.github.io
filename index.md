@@ -434,7 +434,7 @@ events:
     caption:
     title: Scandinavian Music Jam 
     date: January 24, 2016 
-    time: 2:00-4:00 p.m. 
+    time: 1:00-3:00 p.m. 
     published: true
     start_date: 
     stop_date: 2016-01-25
