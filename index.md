@@ -216,6 +216,17 @@ panels:
     published: true
     start_date:
     stop_date: 
+  - url: /about/news/2016/chris-johnson-luther-newsletter/
+    file_under: News
+    image: /16x9/people/johnson-chris.jpg
+    alt:
+    caption:
+    title: Chris Johnson, Vesterhiem President/CEO, Featured in Luther Alumni Magazine 
+    subtitle:
+    teaser: Chris Johnson, Vesterhiem President/CEO is featured in Luther Alumni Magazine.
+    published: true
+    start_date:
+    stop_date: 
 
 events:  
   - url: /events/calendar/2015/04/16/volunteer-open-house/
