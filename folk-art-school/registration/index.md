@@ -44,7 +44,7 @@ Supplies
 ---------
 Before each class begins, all students will receive supply lists from their instructors, a detailed class schedule, and a list of any special equipment needed for the class. The supply list may include a materials fee for specific items required for the class. Vesterheim can provide rosemalers with paints, brush cleaner, and painting medium for a palette fee. A basic carving set is available to rent for $25. These supplies must be ordered in advance. Students might want to bring additional equipment for their own personal needs, for example a magnifying light. 
 
-All students receive a 20% discount on purchases made in the Museum Store throughout the duration of any class they are attending.
+**All students receive a 20% discount on purchases made in the Museum Store throughout the duration of any class they are attending.**
 
 Deposit, Payment, and Cancelations
 ----------------------------------
