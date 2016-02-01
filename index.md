@@ -456,7 +456,7 @@ events:
     title: Luther College Student Demonstration and Exhibition of Scandinavian Fine Handcraft 
     date: January 26, 2016 
     time: 4:40-6:30 p.m. 
-    published: true
+    published: false
     start_date: 
     stop_date: 2016-01-27
   - url: /folk-art-school/classes/woodworking/2016-02-05-scandinavian-style-flat-plane-figure-carving/
@@ -526,7 +526,7 @@ events:
     title: "Getting Loopy: A Gathering of Nålbinders"
     date: April 2-3, 2016
     time: 
-    published: false
+    published: true
     start_date:
     stop_date: 
 ---
