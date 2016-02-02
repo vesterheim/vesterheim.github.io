@@ -108,6 +108,17 @@ show_social_sharing_bar: false
 panels:
   - url: /visit/plan/hours-and-admission/
     file_under:
+    image: 16x9/buildings/main-building-snow.jpg
+    alt:
+    caption:
+    title: Museum and Store Closed Today
+    subtitle: February 2, 2016
+    teaser: The museum and store are closed due to snow.
+    published: true
+    start_date: 
+    stop_date:  2016-02-04   
+  - url: /visit/plan/hours-and-admission/
+    file_under:
     image: 16x9/buildings/front_building_flags.jpg
     alt:
     caption:
@@ -127,18 +138,7 @@ panels:
     teaser: Celebrating 50 years of classes at Vesterheim! Check the Folk Art School schedule for 2016 and sign up today.
     published: true
     start_date: 
-    stop_date:   
-  - url: /visit/plan/hours-and-admission/
-    file_under:
-    image: 16x9/events/julenisse--christmas--kids.jpg
-    alt:
-    caption:
-    title: Museum and Store Closed
-    subtitle: March 23, 2015
-    teaser: The museum and store are closed due to snow.
-    published: true
-    start_date: 2015-03-21
-    stop_date:  2015-03-24    
+    stop_date:     
   - url: /visit/plan/hours-and-admission/
     file_under:
     image: 16x9/events/julenisse--christmas--kids.jpg
@@ -191,7 +191,7 @@ panels:
     title:
     subtitle:
     teaser: Offered twice in 2016! The full itinerary is now available for this incredible journey through Iceland and Southern Norway. Experience the splendor of dramatic landscapes and the warm hearts of the people who live there.
-    published: true
+    published: false
     start_date: 
     stop_date: 
   - url: /about/news/2015/fodors-best-15-museums/
