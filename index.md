@@ -114,7 +114,7 @@ panels:
     title: Museum and Store Closed Today
     subtitle: February 2, 2016
     teaser: The museum and store are closed due to snow.
-    published: true
+    published: false
     start_date: 
     stop_date:  2016-02-04   
   - url: /visit/plan/hours-and-admission/
