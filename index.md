@@ -478,7 +478,7 @@ events:
     time: 5:00-8:00 p.m. 
     published: true
     start_date: 
-    stop_date: 2016-01-27
+    stop_date: 
   - url: /events/annual/barnelopet/
     image: 46x21/events/barneløpet--people--kids.jpg
     alt:
