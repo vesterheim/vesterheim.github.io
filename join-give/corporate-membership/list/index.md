@@ -94,9 +94,6 @@ We thank our Corporate Members for their support and ask that you consider suppo
 [Fencl Oil &amp; LP Co., Inc.](http://www.fencloil.com/)
 : Keeping you warm since 1951!
 
-[Fidelity Bank &amp; Trust](http://www.bankfidelity.com/ASP/home.asp)
-: Offering a variety of personal and business deposit products to meet the financial needs of their customers.
-
 [David Finholt Construction, Inc.](http://www.finholtconstruction.com/Home.asp)
 : FCI brings 30 years of exceptional design and construction to residential, multi-family housing, and commercial building.
 
@@ -110,7 +107,7 @@ We thank our Corporate Members for their support and ask that you consider suppo
 : Hairstyling for you.
 
 [Hawkeye REC](http://www.hawkeyerec.com/)
-: A private, non-profit electric utility owned by the members it serves.
+: A non-profit electric cooperative utility owned by the members it serves.
 
 [Hotel Winneshiek](http://www.hotelwinn.com/)
 : A grand historic boutique hotel nestled in the heart of downtown Decorah.
@@ -119,10 +116,13 @@ We thank our Corporate Members for their support and ask that you consider suppo
 : Petroleum Marketers—Commercial, Industrial, and Agricultural.
 
 [Paul Hudson, State Farm Agency](http://www.paulhudson.biz/)
-: We are here to help our customers protect their assets from catastrophic events and once adequately protected, to help them implement meaningful action toward their goals.
+: Financial services and insurance, helping customers protect their assets and implement meaningful action toward their financial goals.
 
 [Johnson Printing](http://www.johnson-printing.com/Site/Welcome.html)
-: Striving to be a leader in the printing industry by assisting customers with their graphic and printing needs.
+: A full-service commerical printer, assisting customers with all of their graphic and printing needs.
+
+[Kerndt Brothers Bank](http://www.kerndtbrothers.com)
+: Locally owned community bank with seven locations in northeast Iowa.
 
 [La Rana Bistro](http://ww41.laranabistro.com/)
 : Come for fresh and amazing food and a fantastic selection of cocktails, wine, and beer! Cheers!
@@ -151,11 +151,17 @@ We thank our Corporate Members for their support and ask that you consider suppo
 [Oneota Valley Family Eye Care](http://www.decoraheye.com/)
 : Practiced in preserving vision for a lifetime.
 
-[Perry Novak Electric and Crane](https://plus.google.com/100560287000620819861/about?gl=US&amp;hl=en-US)
-: A family-owned electrical contractor and equipment services company in Northeastern Iowa.
+Randall Olson, D.D.S.
+: Serving quality dental care for the whole family in the Decorah area.
+
+[Perry Novak Electric and Crane](http://www.perrynovakelectric.com/)
+: A family-owned electrical contractor and equipment services company in Northeastern Iowa, inlcuding solar instalation and service with a 38-ton crane. 
 
 [Pizza Ranch](http://www.decorahpizzaranch.com/index.html)
 : Life tastes better at Pizza Ranch.
+
+[Pulpit Rock Brewing](http://www.pulpitrockbrewing.com)
+: A destination taproom and brewery in Decorah—focused on high-quality, small-batch craft beers.
 
 [Quality Inn &amp; Suites (formerly Heartland Inn)](http://www.choicehotels.com/)
 : Rest, unwind, and relax in spacious guest rooms that offer modern conveniences.
@@ -164,7 +170,7 @@ We thank our Corporate Members for their support and ask that you consider suppo
 : Providing smart communications and aviation electronics solutions to the world’s leading aerospace and defense companies.
 
 [Ruffridge-Johnson Equipment Co., Inc.](http://www.rjequip.com/)
-: The highest quality construction and mining equipment available.
+: Distributer of high quality construction and mining equipment. Sales, service, and rentals.
 
 [Ruby's Restaurant & Catering](http://chamberorganizer.com/decorahareachamber/mem_rubys)
 : Family owned and run for almost fifty years, offering homemade rolls, breads, and jams, locally grown ingredients, Norwegian delicacies, and traditional American fare.
@@ -182,10 +188,10 @@ We thank our Corporate Members for their support and ask that you consider suppo
 : After a long day of travel, relax in your Decorah, Iowa, hotel room with cable TV and Showtime, and connect to free Wi-Fi Internet.
 
 [T-Bock’s Sports Bar &amp; Grill](http://www.tbocks.com/)
-: Favorite local sports bar, featuring 22 taps, beer, and wine. Serving breakfast, lunch, and dinner, seven days a week. Best place to go for casual fun and great food.
+: Casual, family-friendly sports bar, featuring breakfast, lunch, and dinner specials seven days a week. 
 
 [Thrifty White Pharmacy](http://www.thriftywhite.com/)
-: Committed to providing expert, personalized health care.
+: A community pharmacy providing outpatient perscriptions, long-term care services, delivery, mail outs, vaccinations, and compounded medications.
 
 [Vick's Plumbing and Heating](http://www.vicksheating.com/)
 : In business since 1936, Vick's experienced and licensed installers and technicians are ready to help you make your house a home.
