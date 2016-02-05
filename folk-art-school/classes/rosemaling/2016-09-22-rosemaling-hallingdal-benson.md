@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Rosemaling in the Hallingdal Style 
 subtitle: September 22-25, 2016, with Donna Benson 
 meta_description:  # Used in HTML head and as the description for some search engines

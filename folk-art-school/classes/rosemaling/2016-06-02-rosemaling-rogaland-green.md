@@ -21,7 +21,7 @@ materials_fee:
 materials:  
 
 lead:
-  image: folk-art-school/classes/2016/rogaland-painting-green.jpg
+  image: folk-art-school/classes/2016/rogaland-painting-green-project-2016.jpg
   alt: ~
   caption: ~
   pull: right
@@ -36,4 +36,4 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description 
 ---
-This will be a project painting class. The project is a box with fluted trim on the corners of the base. The top is 11½ by 16 inches. An additional project will also be available. The class will be taught in oils, but acrylic painters are welcome. Patterns and palettes (both oil and acrylic) will be provided. The project shown here is not the class project, but is representative of the style that will be taught.
+This will be a project painting class. The project is a box with fluted trim on the corners of the base. The top is 11½ by 16 inches. An additional project will also be available. The class will be taught in oils, but acrylic painters are welcome. Patterns and palettes (both oil and acrylic) will be provided. The artwork shown here is  the class project.
