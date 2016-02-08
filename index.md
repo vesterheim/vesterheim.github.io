@@ -190,7 +190,7 @@ panels:
     caption:
     title:
     subtitle:
-    teaser: Offered twice in 2016! The full itinerary is now available for this incredible journey through Iceland and Southern Norway. Experience the splendor of dramatic landscapes and the warm hearts of the people who live there.
+    teaser: Spend Syttende Mai or Midsummer in Norway! The full itinerary is now available for this incredible journey through Iceland and Southern Norway. Experience the splendor of dramatic landscapes and the warm hearts of the people who live there.
     published: true
     start_date: 
     stop_date: 
@@ -499,12 +499,12 @@ events:
     published: true
     start_date:
     stop_date: 
-  - url: /folk-art-school/classes/fiber-arts/2016-02-10-bandweaving-delarm/
+  - url: /folk-art-school/classes/fiber-arts/2016-02-13-bandweaving-valentines-delarm/
     image: /46x21/folk-art-school/band-loom-weaving-couples-delarm.jpg
     alt:
     caption:
-    title: Weaving on a Band/Tape Loom
-    date: February 10-12, 2016
+    title: Band Loom Carving and Bandweaving, Valentine’s Day Classes for Couples
+    date: February 13-14, 2016
     time: 
     published: true
     start_date:
@@ -529,6 +529,26 @@ events:
     published: true
     start_date: 
     stop_date: 2016-02-029
+  - url: /folk-art-school/classes/writing/2016-03-11-exploring-your-heritage-writing-sampler/
+    image: /46x21/folk-art-school/writing.jpg
+    alt:
+    caption:
+    title: "Exploring Your Heritage: A Writing Sampler Weekend"
+    date: March 11-13, 2016
+    time: 
+    published: true
+    start_date:
+    stop_date: 
+  - url: /folk-art-school/classes/woodworking/2016-03-12-kolrosing-fossum-martin/
+    image: /46x21/folk-art-school/kolrosing-fossum-martin.jpg
+    alt:
+    caption:
+    title: Kolrosing
+    date: March 12, 2016
+    time: 
+    published: true
+    start_date:
+    stop_date: 
   - url: /events/calendar/2016/04/02/getting-loopy-gathering-of-nalbinders/
     image: /46x21/events/getting-loopy-nalbinding.jpg
     alt:
