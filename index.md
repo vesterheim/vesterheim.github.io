@@ -21,7 +21,7 @@ carousel:
       alt: Barneløpet Children's Ski/Walk Event
       caption: Enjoy the winter at _Barneløpet._
       link: /events/annual/barnelopet/
-      published: true
+      published: false
       start_date:
       stop_date: 2016-2-8
     - image: 25x9/join-give/auction.jpg
@@ -191,7 +191,7 @@ panels:
     title:
     subtitle:
     teaser: Offered twice in 2016! The full itinerary is now available for this incredible journey through Iceland and Southern Norway. Experience the splendor of dramatic landscapes and the warm hearts of the people who live there.
-    published: false
+    published: true
     start_date: 
     stop_date: 
   - url: /about/news/2015/fodors-best-15-museums/
@@ -466,7 +466,7 @@ events:
     title: Scandinavian-Style Flat-Plane Figure Carving with Harley Refsal
     date: February 5-7, 2016
     time: 
-    published: true
+    published: false
     start_date:
     stop_date: 
   - url: /events/calendar/2016/02/05/taste-of-winneshiek/
@@ -476,7 +476,7 @@ events:
     title: Taste of Winneshiek 
     date: February 5, 2016 
     time: 5:00-8:00 p.m. 
-    published: true
+    published: false
     start_date: 
     stop_date: 
   - url: /events/annual/barnelopet/
@@ -486,7 +486,7 @@ events:
     title: Barneløpet—Children's Cross Country Ski/Walk Event
     date: February 6, 2016
     time: 10:00 a.m.
-    published: true
+    published: false
     start_date: 
     stop_date: 2016-12-07
   - url: /folk-art-school/classes/woodworking/2016-02-10-scandinavian-bowl-turning-spring-pole-lathe-abrahamson/
@@ -526,7 +526,7 @@ events:
     title: "_Telling Stories . . . With Wood,_ Luncheon and Presentation - La Crosse, Wisconsin"  
     date: February 28, 2016
     time: 11:30 a.m.-1:30 p.m.
-    published: false
+    published: true
     start_date: 
     stop_date: 2016-02-029
   - url: /events/calendar/2016/04/02/getting-loopy-gathering-of-nalbinders/
