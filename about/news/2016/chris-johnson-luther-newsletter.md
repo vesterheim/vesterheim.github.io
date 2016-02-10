@@ -8,7 +8,7 @@ meta_description: Chris Johnson, Vesterhiem President/CEO, is featured in Luther
 hero:
   image: /16x9/people/johnson-chris.jpg
   alt:
-  caption:
+  caption: Photo by Michael Hagstrom.
 related:
   - /visit/plan/
 
