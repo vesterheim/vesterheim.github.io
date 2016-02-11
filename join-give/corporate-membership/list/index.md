@@ -142,6 +142,9 @@ We thank our Corporate Members for their support and ask that you consider suppo
 [McCaffrey’s Dolce Vita Restaurant](http://www.mcdolcevita.com/)
 : Specializing in wood-fired pizza and international cuisine.
 
+[Midwest Group Benefits, Inc.](http://www.midwestbenefits.com/)
+: Health insurance agents for employer groups and individuals, and a third-party administrator for employee benefit plans.
+
 [Norwegian Mutual Insurance Association](http://www.norwegianmutualins.com/)
 : Providing homeowner insurance and farm insurance in a six-county area of Northeast Iowa.
 
@@ -177,6 +180,9 @@ Randall Olson, D.D.S.
 
 [Ruby's Restaurant & Catering](http://chamberorganizer.com/decorahareachamber/mem_rubys)
 : Family owned and run for almost fifty years, offering homemade rolls, breads, and jams, locally grown ingredients, Norwegian delicacies, and traditional American fare.
+
+[Sims TV & Electronics](http://www.simstvandelectronics.com/)
+: Your locally-owned consumer electronics store.
 
 [Sons of Norway Lodge - Valdres Lodge](https://www.sofn.com/lodgeDirectory/prepareReview.do?distFromMap=1)
 : Sons of Norway promotes and preserves the heritage and culture of Norway, while providing quality insurance and financial products to its members.

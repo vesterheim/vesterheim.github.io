@@ -25,4 +25,4 @@ pagelist:
 ---
 January 2016 
 
-Chris Johnson, Vesterhiem President/CEO, is featured in the [Luther Alumi Magazine](https://www.luther.edu/magazine/?story_id=666331&issue_id=665653). He shares some great information about his role as the museum looks forward to the 200th anniversary of Norwegian immigration in 2025. 
+Chris Johnson, Vesterhiem President/CEO, is featured in the [Luther Alumni Magazine](https://www.luther.edu/magazine/?story_id=666331&issue_id=665653). He shares some great information about his role as the museum looks forward to the 200th anniversary of Norwegian immigration in 2025. 
