@@ -24,10 +24,10 @@ pagelist:
 ---
 The following job opportunity is currently available at Vesterheim.
 
-Technology and Website Specialist 
+Exhibition Manager 
 -----------------
 {: .heading--black--large }
 
-Vesterheim seeks a fulltime (40 hrs/wk) Technology and Website Specialist to furnish support for the museum's technology infrastructure, including servers, data networks, and computer workstations, and provide programming, upgrades, tracking, and maintenance for the museum’s website. Requirements: (minimum) Associate’s degree in computer science or a computer-related field, or two years of related experience; (preferred) a Bachelor’s degree in computer science or a computer-related field, and one year of related experience. Internship experience may be counted toward total work experience. Duties would include installing, testing, troubleshooting, maintaining, and providing technical support for both Apple and PC systems and the applications that run on those systems, and creating, upgrading, and maintaining programming for Vesterheim’s website.
+Vesterheim seeks a full-time (40 hrs/wk) Exhibitions Manager to furnish support for the museum’s exhibitions program, including planning, design, fabrication, installation, and maintenance. This position will serve as the project manager for Vesterheim’s exhibition design, fabrication, and installation process. These duties will also include planning, budgeting, and scheduling of exhibitions at Vesterheim as well as traveling exhibitions.   
 
-Find specific information [here](/about/employment/technology-website-specialist/).
+Find specific information [here](/about/employment/exhibition-manager/).
