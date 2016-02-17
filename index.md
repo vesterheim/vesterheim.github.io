@@ -496,7 +496,7 @@ events:
     title: Scandinavian Bowl Turning on a Spring Pole Lathe
     date: February 10-12, 2016
     time: 
-    published: true
+    published: false
     start_date:
     stop_date: 
   - url: /folk-art-school/classes/fiber-arts/2016-02-13-bandweaving-valentines-delarm/
@@ -506,7 +506,7 @@ events:
     title: Band Loom Carving and Bandweaving, Valentine’s Day Classes for Couples
     date: February 13-14, 2016
     time: 
-    published: true
+    published: false
     start_date:
     stop_date: 
   - url: /events/calendar/2016/02/23/adult-coloring-lila-nelson-exhibit/

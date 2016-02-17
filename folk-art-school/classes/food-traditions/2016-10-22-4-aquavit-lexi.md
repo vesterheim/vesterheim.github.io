@@ -8,7 +8,7 @@ related:
 
 location: ~
 instructor: Lexi
-sessions: "October 22, 2015"
+sessions: "October 22, 2016"
 dtstart: 2016-10-22 16:00:00 -5:00
 dtend: 2016-10-22 19:00:00 -5:00
 level: All levels. 
