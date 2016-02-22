@@ -22,7 +22,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-This individual will provide tull-time (40 hours/week) support for the museum’s exhibitions program, including planning, design, fabrication, installation, and maintenance.   
+This individual will provide full-time (40 hours/week) support for the museum’s exhibitions program, including planning, design, fabrication, installation, and maintenance.   
 
 Reports to 
 -----------------
