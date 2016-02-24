@@ -34,4 +34,6 @@ This exhibition includes 76 pieces from Vesterheim's collection and private coll
 
 Learn more about Lila's political weavings in [this video](https://vimeo.com/39931945) by Sam Iverson. 
 
+View pictures from an adult coloring event in the exhibition on [Facebook.](https://www.facebook.com/media/set/?set=a.10153369905509109.1073741901.18263584108&type=3)
+
 The exhibition is sponsored by Ella Ager Fossum, Jon and Mary Hart, Darold and Carol Oversvee Johnson, Steve and Barb Johnson, Kate Martinson, Irene Navarre, and Sonja Peterson.

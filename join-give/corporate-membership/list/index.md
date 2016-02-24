@@ -216,3 +216,6 @@ Randall Olson, D.D.S.
 
 [Wicks Construction, Inc.](http://www.wicksconstruction.com/)
 : For more than 50 years, Wicks Construction’s concrete work has been pouring the foundation and paving the way for residential, commercial, and industrial projects across Iowa, Nebraska, and Minnesota.
+
+[Winneshiek Medical Center](http://www.winmedical.org/)
+: At Winneshiek Medical Center in Decorah, Iowa, family medicine and specialty doctors and surgeons provide full time primary and surgical care for northeast Iowa and southeast Minnesota families.

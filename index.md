@@ -516,7 +516,7 @@ events:
     title: "Adult Coloring Event in the Exhibition _From Tradition to Protest: Lila Nelson's Weaving Life_" 
     date: February 23, 2016 
     time: 7:00-8:30 p.m. 
-    published: true
+    published: false
     start_date: 
     stop_date: 2016-02-29
   - url: /events/away/la-crosse/
