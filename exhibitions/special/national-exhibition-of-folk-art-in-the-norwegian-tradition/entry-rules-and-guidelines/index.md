@@ -24,11 +24,9 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-These rules and guidelines will be updated for 2016 in February. The following information from last year is for reference only. Check back!
-
 **Please read carefully.** <br /> **The following rules apply to all of the folk-art categories.** Contact Laurann Gilbertson at (563) 382-9681, or lgilbertson@vesterheim.org](mailto:lgilbertson@vesterheim.org) with questions. 
 
-Vesterheim thanks Decorah Bank and Trust for sponsoring this exhibition!
+Vesterheim thanks Decorah Bank & Trust for sponsoring this exhibition!
 
 Entry Dates
 ===========
@@ -36,7 +34,7 @@ May 4 through May 24, 2015. **No entry arriving after 5:00 p.m. on May 24, 2015,
 
 How to Enter
 ============
-Please print a registration [form](/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/entry-rules-and-guidelines/forms/exhibit-registration-2015.pdf) (pdf) and completely fill it out with an identification label for each entry. Write a check for entry fees and add sufficient funds for shipping and insurance if you wish the object to be shipped back to you after the exhibition. _**Pack carefully**_—UPS guidelines suggest two-inch, non-slip packing materials in all directions between object and box. The identification label must be attached to the object. In the case of weavings, the label must be lightly sewn to the back (no pins or staples please). Please mark your shipping box “Folk Art Exhibition.” 
+Please print a registration [form](/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/entry-rules-and-guidelines/forms/exhibition-registration-2016.pdf) (pdf) and completely fill it out with an identification label for each entry. Write a check for entry fees and add sufficient funds for shipping and insurance if you wish the object to be shipped back to you after the exhibition. _**Pack carefully**_—UPS guidelines suggest two-inch, non-slip packing materials in all directions between object and box. The identification label must be attached to the object. In the case of weavings, the label must be lightly sewn to the back (no pins or staples please). Please mark your shipping box “Folk Art Exhibition.” 
 
 Send entries with forms and check for entry fee and return shipping, to:
 
@@ -57,9 +55,9 @@ Entry Fees
 ==========
 $15 for each judged piece. There is no fee for submissions by Gold Medalists for Best of Show Award.
 
-Place Of Exhibition
+Exhibition
 ===================
-The exhibition is in Vesterheim’s Main Building at 520 W. Water St., and open 9:00 a.m.-5:00 p.m., June 12 - July 25, 2015. Ribbons will be placed next to winning entries on Thursday, July 23, 2015, at 9:00 a.m.
+The exhibition is in Vesterheim’s Main Building at 520 W. Water St., and open 9:00 a.m.-5:00 p.m., Friday,  June 9 - Saturday, July 30, 2016. Ribbons will be placed next to winning entries on Thursday, July 28, 2016, at 9:00 a.m. When making display decisions, Vesterheim reserves the right to consider the safety of entries first.
 
 Awards
 ======
@@ -94,13 +92,13 @@ For each category there will be two or three judges, including specialists in ea
 
 Sales
 =====
-If you so indicate on the registration form, your exhibition piece(s) may be sold. Vesterheim Museum retains 20% of the sale price. The remaining 80% will be mailed to you about three weeks after the exhibition. Iowa sales tax will be collected from the buyer and paid by Vesterheim to the state. Sales will be in the form of a silent auction. The price you indicate on the registration form will be the starting bid amount. Bids must be made in person and will be accepted on pieces from 9:00 a.m. Thurs., July 23, until 4:00 p.m. Sat., July 25, 2015. Any entries that were marked “for sale,” but did not receive any bids, can be purchased for the starting bid amount from 9:00 a.m.-11:00 a.m. Sun., July 26, 2015.
+If you so indicate on the registration form, your exhibition piece(s) may be sold. Vesterheim Museum retains 20% of the sale price. The remaining 80% will be mailed to you about three weeks after the exhibition. Iowa sales tax will be collected from the buyer and paid by Vesterheim to the state. Sales will be in the form of a silent auction. The price you indicate on the registration form will be the starting bid amount. Bids must be made in person and will be accepted on pieces from 9:00 a.m. Thurs., July 28, until 4:00 p.m. Sat., July 30, 2016. Any entries that were marked “for sale,” but did not receive any bids, can be purchased for the starting bid amount from 9:00 a.m.-11:00 a.m. Sun., July 31, 2016.
 
 _**Very important: If you indicate that an entry is not for sale (NFS), you still must declare a value on the entry form for insurance purposes.**_
 
 Return Of Objects
 =================
-No entry may be removed from the exhibition before 5:00 p.m., Saturday, July 25, 2015. Objects may be picked up by the artist between 5:00-7:00 p.m., Saturday, July 25, or 9:00-11:00 a.m. Sunday, July 26, 2015, in the exhibition area in the museum’s Main Building, or during the following week between 9:00 a.m. and 5:00 p.m. in the museum’s Main Building. If you want your entry to be shipped back to you, you must include funds for insured return shipping with the entry. Exhibited objects that are not picked up and for which no return funds are included, will be returned by UPS or other appropriate service and you will be billed for shipping and insurance costs. For pieces that are sold, the purchaser will be responsible for picking up the object or arranging for shipment.
+No entry may be removed from the exhibition before 5:00 p.m., Saturday, July 30, 2016. Objects may be picked up by the artist between 5:00-7:00 p.m., Saturday, July 25, or 9:00-11:00 a.m. Sunday, July 30, 2016, in the exhibition area in the museum’s Main Building, or during the following week between 9:00 a.m. and 5:00 p.m. in the museum’s Main Building. If you want your entry to be shipped back to you, you must include funds for insured return shipping with the entry. Exhibited objects that are not picked up and for which no return funds are included, will be returned by UPS or other appropriate service and you will be billed for shipping and insurance costs. For pieces that are sold, the purchaser will be responsible for picking up the object or arranging for shipment.
 
 Photography
 ===========
