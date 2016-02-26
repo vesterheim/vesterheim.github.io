@@ -40,7 +40,20 @@ Saturday and Sunday, April 2-3
 
 Do you love nålbinding? Then this weekend of learning and sharing is for you! Come to Vesterheim to broaden your working knowledge of nålbinding with lectures and hands-on experiences. We will embellish, examine swatch samples, and share objects and experiences. All the while, we'll work on current pieces, get a kick-start on a new project, and have a great time together.
 
-More details coming soon.
+Please fill out this [registration form](/events/forms/getty-loopy-nalbinding-registration.pdf) and return it with the registration fee to Vesterheim Norwegian-American Museum, c/o Getting Loopy-A Gathering of Nålbinders, 523 West Water Street, Decorah, IA 52101
+
+Here is an [information sheet](/events/forms/getty-loopy-nalbinding-info.pdf) to help you prepare for the weekend. Please read it when you register.
+
+
+Registration Fee
+---------
+{: .heading--black--large }
+
+Early Bird registration is until Friday, March 25, 2016, and the fee is $20.00 for members of Vesterheim and $30 for non-members.
+
+From March 26 - April 2, 2016, the registration fee is $25.00 for members of Vesterheim and $35 for non-members.
+
+No refunds for cancellations.
 
 Program 
 ---------
