@@ -36,6 +36,8 @@ The cost for Vesterheim members to attend is $60. The cost for non-members to at
 
 Guests of the Nordic Brunch are invited to stay at the Minneapolis Marriott Southwest at a discounted rate if you mention “Vesterheim.” Rooms must be booked directly through the Marriott reservation desk at 888-887-1681 by March 19, 2016.
 
+Check out pictures from last year's wonderful event on Facebook [here.](https://www.facebook.com/media/set/?set=a.10152890299849109.1073741883.18263584108&type=3)
+
 
 Schedule of Events
 ------------------------------------------

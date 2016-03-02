@@ -92,6 +92,6 @@ Vesterheim Norwegian-American Museum  <br />
 P.O. Box 379  <br />
 Decorah, IA  52101  <br />
 
-or emailed to [cjohnson@vesterheim.org](mailto:cjohnson@vesterheim.org).  
+or emailed to [cjohnson@vesterheim.org](mailto:cjohnson@vesterheim.org) and [clangton@vesterheim.org](mailto:clangton@vesterheim.org).  
 
 Application deadline is March 5, 2016.  EOE/AA
