@@ -533,7 +533,7 @@ events:
     image: /46x21/folk-art-school/writing.jpg
     alt:
     caption:
-    title: "Exploring Your Heritage: A Writing Sampler Weekend"
+    title: "Classes - Exploring Your Heritage: A Writing Sampler Weekend with Kathleen Ernst"
     date: March 11-13, 2016
     time: 
     published: true
@@ -543,7 +543,7 @@ events:
     image: /46x21/folk-art-school/kolrosing-fossum-martin.jpg
     alt:
     caption:
-    title: Kolrosing
+    title: Classes - Kolrosing with Darlene Fossum-Martin
     date: March 12, 2016
     time: 
     published: true
@@ -578,5 +578,35 @@ events:
     time: 
     published: true
     start_date:
+    stop_date: 
+  - url: /folk-art-school/classes/woodworking/2016-04-02-figure-carving-jaeger/
+    image: /46x21/folk-art-school/figure-carving-jaeger.jpg
+    alt:
+    caption:
+    title: Classes - Figure Carving with Bill Jaeger
+    date: April 2-3, 2016
+    time: 
+    published: true
+    start_date:
+    stop_date: 
+  - url: /folk-art-school/classes/fiber-arts/2016-04-07-norwegian-sweater-design-hillesland/
+    image: /16x9/exhibitions/special/underwear-everywhere-norwegian-sweaters.jpg
+    alt:
+    caption:
+    title: Classes - Norwegian Sweater Design Workshop with Arnhild Hillesland
+    date: April 7-10, 2016
+    time: 
+    published: true
+    start_date:
+    stop_date: 
+  - url: /events/away/twin-cities/
+    image: 46x21/events/twin-cities-welcome.jpg
+    alt:
+    caption:
+    title: Nordic Celebration and Marketplace in the Twin Cities
+    date: April 9, 2016
+    time:
+    published: true
+    start_date: 
     stop_date: 
 ---
