@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: page
 title: Raffles
 meta_title:        # Appears on bookmarks, search results, etc...
@@ -29,12 +29,14 @@ Folk Art Raffle
 
 Vesterheim is extremely pleased to announce the raffle of a beautiful bowl, painted by Norwegian rosemaler Turid Helle Fatland. This stunning natural bark-edged bowl, decorated in Turid’s personal Telemark style, is about 13 1/2 inches in diameter and 5 1/2 inches high. Vesterheim extends sincere thanks to Turid for donating this piece. 
 
-**Raffle tickets are $2.50 each!** Download an order form [here](/join-give/raffles/documents/raffle-order-form16.pdf)
+Raffle tickets are $2.50 each!
+
+**Raffle regulations have changed and tickets must be paid for with cash or check in person in Iowa.** 
+
+**Visit Vesterheim any time before July 30 to purchase your raffle tickets at the front desk in the Main Building, or in the Museum Store!**
 
 The drawing will be held during Decorah's Nordic Fest on Saturday, July 30, 2016, at 3:00 p.m. 
 
 You need not be present to win. Proceeds benefit Vesterheim.
-
-To order your tickets, download an order form [here](/join-give/raffles/documents/raffle-order-form15.pdf), or call 563-382-9681. Be sure to include a self-addressed, stamped envelope to receive your ticket stubs.
 
 **Thanks for your support!**

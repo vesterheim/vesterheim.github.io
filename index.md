@@ -179,8 +179,8 @@ panels:
     caption:
     title: Announcing the 2016 Folk Art Raffle
     subtitle:
-    teaser: Check out Vesterheim's 2016 Folk Art Raffle. You could own this beautiful bowl by Norwegian rosemaler Turid Helle Fatland! Raffle tickets are only $2.50 each.
-    published: false
+    teaser: Check out Vesterheim's 2016 Folk Art Raffle. You could own this beautiful bowl by Norwegian rosemaler Turid Helle Fatland! Raffle tickets are only $2.50 each and available at the museum.
+    published: true
     start_date: 
     stop_date: 
   - url: /norway-tours/upcoming/south-norway-iceland/
@@ -191,7 +191,7 @@ panels:
     title:
     subtitle:
     teaser: Spend Syttende Mai or Midsummer in Norway! The full itinerary is now available for this incredible journey through Iceland and Southern Norway. Experience the splendor of dramatic landscapes and the warm hearts of the people who live there.
-    published: true
+    published: false
     start_date: 
     stop_date: 
   - url: /about/news/2015/fodors-best-15-museums/
@@ -533,7 +533,7 @@ events:
     image: /46x21/folk-art-school/writing.jpg
     alt:
     caption:
-    title: "Classes - Exploring Your Heritage: A Writing Sampler Weekend with Kathleen Ernst"
+    title: "Class - Exploring Your Heritage: A Writing Sampler Weekend with Kathleen Ernst"
     date: March 11-13, 2016
     time: 
     published: true
@@ -543,7 +543,7 @@ events:
     image: /46x21/folk-art-school/kolrosing-fossum-martin.jpg
     alt:
     caption:
-    title: Classes - Kolrosing with Darlene Fossum-Martin
+    title: Class - Kolrosing with Darlene Fossum-Martin
     date: March 12, 2016
     time: 
     published: true
@@ -583,7 +583,7 @@ events:
     image: /46x21/folk-art-school/figure-carving-jaeger.jpg
     alt:
     caption:
-    title: Classes - Figure Carving with Bill Jaeger
+    title: Class - Figure Carving with Bill Jaeger
     date: April 2-3, 2016
     time: 
     published: true
@@ -593,7 +593,7 @@ events:
     image: /16x9/exhibitions/special/underwear-everywhere-norwegian-sweaters.jpg
     alt:
     caption:
-    title: Classes - Norwegian Sweater Design Workshop with Arnhild Hillesland
+    title: Class - Norwegian Sweater Design Workshop with Arnhild Hillesland
     date: April 7-10, 2016
     time: 
     published: true
