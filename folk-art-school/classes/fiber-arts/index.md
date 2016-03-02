@@ -9,6 +9,7 @@ hero:
   alt:
   caption:
 related:
+- /events/calendar/2016/04/02/getting-loopy-gathering-of-nalbinders/ 
 - /visit/plan/decorah/
 
 navigation:

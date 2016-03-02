@@ -526,7 +526,7 @@ events:
     title: "_Telling Stories . . . With Wood,_ Luncheon and Presentation - La Crosse, Wisconsin"  
     date: February 28, 2016
     time: 11:30 a.m.-1:30 p.m.
-    published: true
+    published: false
     start_date: 
     stop_date: 2016-02-029
   - url: /folk-art-school/classes/writing/2016-03-11-exploring-your-heritage-writing-sampler/
@@ -548,6 +548,26 @@ events:
     time: 
     published: true
     start_date:
+    stop_date: 
+  - url: /events/youth-programs/barnetimen/
+    image: /46x21/events/barnetimen-kids-2014.jpg
+    alt:
+    caption:
+    title: Barnetimen Children’s Hour 
+    date: March 15, 2016 
+    time: 10:00-11:00 a.m.
+    published: true
+    start_date: 
+    stop_date: 2015-12-16
+  - url: /events/calendar/2016/04/01/adult-coloring-lila-nelson-exhibit-wwo/
+    image: 16x9/exhibitions/special/lila-nelson-weaving.jpg
+    alt:
+    caption:
+    title: "Adult Coloring Event during Decorah's Women's Weekend Out" 
+    date: April 1, 2016 
+    time: 3:00-5:00 p.m. 
+    published: true
+    start_date: 
     stop_date: 
   - url: /events/calendar/2016/04/02/getting-loopy-gathering-of-nalbinders/
     image: /46x21/events/getting-loopy-nalbinding.jpg
