@@ -600,7 +600,7 @@ events:
     start_date:
     stop_date: 
   - url: /events/away/twin-cities/
-    image: 46x21/events/twin-cities-welcome.jpg
+    image: /46x21/events/twin-cities-welcome.jpg
     alt:
     caption:
     title: Nordic Celebration and Marketplace in the Twin Cities
@@ -608,5 +608,15 @@ events:
     time:
     published: true
     start_date: 
+    stop_date: 
+  - url: /events/calendar/2016/04/16/knitting-presentation-artist-steihaug/
+    image: /16x9/events/steihaug-presentation.jpg
+    alt:
+    caption:
+    title: "Presentation by Knitting Artist Kari Steihaug"
+    date: April 16, 2016
+    time: 
+    published: true
+    start_date:
     stop_date: 
 ---
