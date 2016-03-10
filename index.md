@@ -536,7 +536,7 @@ events:
     title: "Class - Exploring Your Heritage: A Writing Sampler Weekend with Kathleen Ernst"
     date: March 11-13, 2016
     time: 
-    published: true
+    published: false
     start_date:
     stop_date: 
   - url: /folk-art-school/classes/woodworking/2016-03-12-kolrosing-fossum-martin/
@@ -546,7 +546,7 @@ events:
     title: Class - Kolrosing with Darlene Fossum-Martin
     date: March 12, 2016
     time: 
-    published: true
+    published: false
     start_date:
     stop_date: 
   - url: /events/youth-programs/barnetimen/
@@ -615,6 +615,26 @@ events:
     caption:
     title: "Presentation by Knitting Artist Kari Steihaug"
     date: April 16, 2016
+    time: 
+    published: true
+    start_date:
+    stop_date: 
+  - url: /folk-art-school/classes/rosemaling/2016-04-28-rosemaling-gudbrandsdal-rucinski/
+    image: /46x21/folk-art-school/gudbrandsdal-rosemaling-rucinski.jpg
+    alt:
+    caption:
+    title: Class - Rosemaling in the Gudbrandsdal Style with Pam Rucinski
+    date: April 28-May 1, 2016
+    time: 
+    published: true
+    start_date:
+    stop_date: 
+  - url: /folk-art-school/classes/woodworking/2016-04-29-learning-language-of-kubbestol-speltz-hanna/
+    image: /46x21/folk-art-school/kubbestol-speltz-hanna.jpg
+    alt:
+    caption:
+    title: Class - Learning the Language of the Kubbestol with Steve Speltz and Rebecca Hanna
+    date: April 29-May 1, 2016
     time: 
     published: true
     start_date:
