@@ -34,3 +34,5 @@ Kari has done a wide variety of works featuring knitting. She has used knitting 
 Kari explained about her work in a 2011 interview, “[Found objects] was the theme that functioned as my doorway to knitting. I was working a lot with time and vanity and human presence. And at some point I became interested in clothes and textiles as the membrane between the body and the world. Protection and vulnerability are important aspects of my work. It became natural to explore textiles closely associated with lived lives.” 
 
 The presentation is in conjunction with the exhibition, _From Underwear to Everywhere: Norwegian Sweaters,_ on view through April 24. The exhibition and lecture are sponsored by Sallie and Darrell DeReus, Carol and Darold Johnson, and Blue Heron Knittery with additional support from Ruth Hinderaker, Oneota Weavers Guild in memory of Betty Rikansrud Nelson, Susan and David Willig, Glenn and Arnhild Hillesland, and Gerald and Mary A. Paulson.
+
+Find more information about Kari and her work on her [website.](http://karisteihaug.no/)
