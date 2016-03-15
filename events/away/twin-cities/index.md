@@ -97,7 +97,7 @@ Celebrating 50 Years of Folk Art Education
 ------------------------------------------
 {: .heading--black--large }
 
-During the Marketplace, there will be a special area set up for you to share stories and experiences you’ve had with Vesterheim’s Folk Art School—as a student, an instructor, or both! If you have ever been a part of this fabulous program, please stop by the table and share your story. We also welcome you to submit your story to us in writing, either at Nordic Brunch, or send it in advance to: Laurann Gilbertson, Vesterheim, P.O. Box 379, Decorah, IA 52101, or [lgilbertson@vesterheim.org](mailto:lgilbertson@vesterheim.org). These stories will be honored and shared throughout the rest of the year as we celebrate 50 Years of the Folk Art!
+During the Marketplace, there will be a special area set up for you to share stories and experiences you’ve had with Vesterheim’s Folk Art School—as a student, an instructor, or both! If you have ever been a part of this fabulous program, please stop by the table and share your story. We also welcome you to submit your story to us in writing, either at the marketplace, or send it in advance to: Laurann Gilbertson, Vesterheim, P.O. Box 379, Decorah, IA 52101, or [lgilbertson@vesterheim.org](mailto:lgilbertson@vesterheim.org). These stories will be honored and shared throughout the rest of the year as we celebrate 50 Years of the Folk Art!
 
 Live and Silent Auctions, Door Prizes, and a game of “Heads or Tails” for everyone!
 ------------------------------------------
