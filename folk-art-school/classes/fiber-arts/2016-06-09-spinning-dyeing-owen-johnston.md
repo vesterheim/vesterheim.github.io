@@ -1,6 +1,6 @@
 ---
 published: true
-title: Spinning and Dyeing
+title: Spinning for Fair Isle
 subtitle: June 9-10, 2016, with Martha Owen and guest Elizabeth Johnston
 meta_description:  # Used in HTML head and as the description for some search engines
 related:
@@ -19,7 +19,7 @@ tuition:
   members: $128
   nonmembers: $178
   note: ~
-materials_fee: There will be a materials fee. 
+materials_fee: There will be a $25 materials fee. 
 materials: ~
 
 lead:
