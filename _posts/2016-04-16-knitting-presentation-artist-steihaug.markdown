@@ -3,7 +3,7 @@ published: true
 #all_day: false # If true, ignore times?
 dt_start: 2016-04-16 # datetime the event starts
 dt_end: 2016-04-16 # datetime the event ends
-title: "Presentation by Knitting Artist Kari Steihaug"
+title: "Presentation by Artist Kari Steihaug"
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
