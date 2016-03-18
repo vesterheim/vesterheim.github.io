@@ -12,6 +12,8 @@ hero:
   alt: 
   caption:
 related:
+- /events/calendar/2016/04/02/nalbinding-presentation-and-booksigning/
+- /visit/plan/decorah/
 
 # iCal or h-event related stuff
 event_summary: # short summary of the event
@@ -70,8 +72,8 @@ Saturday:
 * Official Welcome
 * _What’s Next? Embellishing Your Nålbinding Workshop_ with Sue Flanders and Janine Kosel 
 * Swatch display and Show and Tell on display
-* Book signing with Sue Flanders, Janine Kosel, and Donna Kallner
-* _New Age Looping Trunk Show_–Donna Kallner 
+* Book signing with Sue Flanders, Janine Kosel, and Donna Kallner from 11:30 a.m. - 12:30 p.m.
+* _New Age Looping Trunk Show_–Donna Kallner at 1:30 p.m.
 * _ABCs of Teaching Simple Looping_–Donna Kallner
 * Tour of Vesterheim's exhibition _From Underwear to Everywhere: Norwegian Sweaters_
 * Evening gathering for working on projects or new skills

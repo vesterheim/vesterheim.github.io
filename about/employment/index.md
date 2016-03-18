@@ -32,10 +32,12 @@ Vesterheim seeks a fulltime (40 hrs/wk) Website/Technology Specialist to provide
 
 Find specific information [here](/about/employment/website-technology-specialist/).
 
-Exhibition Manager 
+Collections Intern 
 -----------------
 {: .heading--black--large }
 
-Vesterheim seeks a full-time (40 hrs/wk) Exhibitions Manager to furnish support for the museum’s exhibitions program, including planning, design, fabrication, installation, and maintenance. This position will serve as the project manager for Vesterheim’s exhibition design, fabrication, and installation process. These duties will also include planning, budgeting, and scheduling of exhibitions at Vesterheim as well as traveling exhibitions.   
+The intern will work with all aspects of the annual _National Exhibition of Folk Art in the Norwegian Tradition,_ a judged exhibit of contemporary rosemaling, woodworking, weaving, and knifemaking. The intern's tasks include: receiving entries, maintaining a database, preparing judging forms, assisting with designing and installing the exhibition, working during Decorah's Nordic Fest as gallery host, and preparing judging results for publicity. The intern will also do other collections-related tasks.  
 
-Find specific information [here](/about/employment/exhibition-manager/).
+Work hours are approximately 9-4 weekdays, with some weekend hours over Nordic Fest (July 30 & 31). 
+
+Apply before April 8 by sending a resume and cover letter to [Laurann Gilbertson, Chief Curator,](mailto:lgilbertson@vesterheim.org). Identify your available start date in the cover letter.

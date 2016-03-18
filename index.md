@@ -569,6 +569,16 @@ events:
     published: true
     start_date: 
     stop_date: 
+  - url: /events/calendar/2016/04/02/nalbinding-presentation-and-booksigning/
+    image: 16x9/events/loopy-presentation-kallner.jpg
+    alt:
+    caption:
+    title: "Nålbinding Presentation and Booksigning"
+    date: April 2, 2016 
+    time: 1:30 p.m.  
+    published: true
+    start_date: 
+    stop_date: 2016-04-04
   - url: /events/calendar/2016/04/02/getting-loopy-gathering-of-nalbinders/
     image: /46x21/events/getting-loopy-nalbinding.jpg
     alt:
