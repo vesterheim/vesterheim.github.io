@@ -25,13 +25,13 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser: "Knitting artist Kari Steihaug, from Oslo, Norway, will give a free presentation about her work."
 ---
-Artist Kari Steihaug, from Oslo, Norway, will give a free presentation about her work on Saturday, April 16, at 7:00 p.m. at Vesterheim's Amdal-Odland Heritage Center. 
+Knitters will always continue to make great sweaters, but artists like Kari Steihaug, from Oslo, Norway, are showing that knitting isn't just a functional handcraft any more. Steihaug uses knitting craft techniques to create a wide variety of fascinating artwork. She is sharing her ideas in a free presentation about her work on Saturday, April 16, at 7:00 p.m. at Vesterheim in the Amdal-Odland Heritage Center.
 
-Knitting is no longer just a functional and rural handcraft. Because Norwegian sweaters and their patterns are so recognizable, artists in Norway, and globally, have used them in different ways.  
+Because Norwegian sweaters and their patterns are so recognizable, artists in Norway, and globally, have used them in different ways. One of Steihaug's techniques is to use knitting to bring nature and warmth into office spaces of glass and metal. She also partially unravels knit items and reknits the yarn into tapestries. Steihaug says that she likes the wavy traces of the stitches and she sees them as a personal handwriting embedded in the yarn that isn’t easily washed away.
 
-Kari has done a wide variety of works featuring knitting. She has used knitting to help bring nature and warmth into an office space of glass and metal. She also partially unravels knit items and reknits the yarn into a tapestry. Kari says that she likes the wavy traces of the stitches. She sees them as a personal handwriting embedded in the yarn that isn’t easily washed away.   
+Steihaug talked about her work in a 2011 interview. “[Found objects] was the theme that functioned as my doorway to knitting. I was working a lot with time and vanity and human presence. And at some point I became interested in clothes and textiles as the membrane between the body and the world. Protection and vulnerability are important aspects of my work. It became natural to explore textiles closely associated with lived lives,” she explained.
 
-Kari explained about her work in a 2011 interview, “[Found objects] was the theme that functioned as my doorway to knitting. I was working a lot with time and vanity and human presence. And at some point I became interested in clothes and textiles as the membrane between the body and the world. Protection and vulnerability are important aspects of my work. It became natural to explore textiles closely associated with lived lives.” 
+Following the presentation, Steihaug will be in the Museum Store to sign her book, _Arkiv: De Ufullendte (Archive: The Unfinished Ones)._ For this publication, Steihaug has collected the stories behind unfinished knitting projects. It is written in both English and Norwegian.
 
 The presentation is in conjunction with the exhibition, _From Underwear to Everywhere: Norwegian Sweaters,_ on view through April 24. The exhibition and lecture are sponsored by Sallie and Darrell DeReus, Carol and Darold Johnson, and Blue Heron Knittery with additional support from Ruth Hinderaker, Oneota Weavers Guild in memory of Betty Rikansrud Nelson, Susan and David Willig, Glenn and Arnhild Hillesland, and Gerald and Mary A. Paulson.
 
