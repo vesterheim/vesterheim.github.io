@@ -1,7 +1,7 @@
 ---
 name: Patti Goke
 lead:
-  image: 1x1/norway-tours/patti-goke.jpg
+  image: 1x1/norway-tours/goke-patti-2015.jpg
   alt: Patti Goke
   caption: ~
 ---

@@ -36,7 +36,7 @@ Collections Intern
 -----------------
 {: .heading--black--large }
 
-The paid intern will work with all aspects of the annual _National Exhibition of Folk Art in the Norwegian Tradition,_ a judged exhibit of contemporary rosemaling, woodworking, weaving, and knifemaking. The intern's tasks include: receiving entries, maintaining a database, preparing judging forms, assisting with designing and installing the exhibition, working during Decorah's Nordic Fest as gallery host, and preparing judging results for publicity. The intern will also do other collections-related tasks.  
+The paid summer intern will work with all aspects of the annual _National Exhibition of Folk Art in the Norwegian Tradition,_ a judged exhibit of contemporary rosemaling, woodworking, weaving, and knifemaking. The intern's tasks include: receiving entries, maintaining a database, preparing judging forms, assisting with designing and installing the exhibition, working during Decorah's Nordic Fest as gallery host, and preparing judging results for publicity. The intern will also do other collections-related tasks.  
 
 Work hours are approximately 9-4 weekdays, with some weekend hours over Nordic Fest (July 30 & 31). 
 

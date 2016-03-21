@@ -49,6 +49,9 @@ We thank our Corporate Members for their support and ask that you consider suppo
 [Casper Plumbing and Heating, Inc.](http://www.casperdecorah.com/)
 : Experience... prompt service... dependability . . . find everything you are looking for in a plumbing and heating company and more.
 
+[Chicago Importing Company](http://www.chicagoimporting.com/)
+: Importer of specialty food and confections.
+
 [Commonweal Theatre Company](http://www.commonwealtheatre.org/)
 : Professional live theatre in historic Lanesboro, Minnesota!
 

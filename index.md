@@ -623,7 +623,7 @@ events:
     image: /16x9/events/steihaug-presentation.jpg
     alt:
     caption:
-    title: "Presentation by Knitting Artist Kari Steihaug"
+    title: "Presentation by Artist Kari Steihaug"
     date: April 16, 2016
     time: 
     published: true
