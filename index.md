@@ -239,26 +239,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-04-17
-  - url: /events/away/twin-cities/
-    image: 46x21/events/twin-cities-welcome.jpg
-    alt:
-    caption:
-    title: Nordic Celebration and Marketplace in the Twin Cities
-    date: April 18, 2015
-    time:
-    published: true
-    start_date: 
-    stop_date: 2015-04-19
-  - url: /events/away/chicago/
-    image:
-    alt:
-    caption:
-    title: Nordic Luncheon and Marketplace in Chicago
-    date: April 25, 2015
-    time:
-    published: true
-    start_date: 
-    stop_date: 2015-04-26
   - url: /events/youth-programs/pioneer-immersion/
     image: /46x21/kids/pioneer-immersion-exhibition.jpg
     alt:
@@ -279,16 +259,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-05-18
-  - url: /folk-art-school/classes/woodworking/2015-07-08-acanthus-woodcarving-beginning-intermediate/
-    image: /46x21/folk-art-school/sandom_acanthus.jpg
-    alt:
-    caption:
-    title: Acanthus Woodcarving—Beginning and Intermediate with Hans Sandom 
-    date: June 8-12, 2015
-    time:
-    published: true
-    start_date: 
-    stop_date: 2015-06-11
   - url: /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/
     image:
     alt:
@@ -628,6 +598,16 @@ events:
     time: 
     published: true
     start_date:
+    stop_date: 
+  - url: /events/away/chicago/
+    image: 16x9/events/flags.jpg
+    alt:
+    caption:
+    title: Nordic Luncheon and Marketplace in Chicago
+    date: April 23, 2016
+    time:
+    published: true
+    start_date: 
     stop_date: 
   - url: /folk-art-school/classes/rosemaling/2016-04-28-rosemaling-gudbrandsdal-rucinski/
     image: /46x21/folk-art-school/gudbrandsdal-rosemaling-rucinski.jpg
