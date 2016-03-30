@@ -25,7 +25,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser: "Knitting artist Kari Steihaug, from Oslo, Norway, will give a free presentation about her work."
 ---
-Knitters will always continue to make great sweaters, but artists like Kari Steihaug, from Oslo, Norway, are showing that knitting isn't just a functional handcraft any more. Steihaug uses knitting craft techniques to create a wide variety of fascinating artwork. She is sharing her ideas in a free presentation about her work on Saturday, April 16, at 7:00 p.m. at Vesterheim in the Amdal-Odland Heritage Center.
+Knitters will always continue to make great sweaters, but artists like Kari Steihaug, from Oslo, Norway, are showing that knitting isn't just a functional handcraft any more. Steihaug uses knitting craft techniques to create a wide variety of fascinating artwork. She is sharing her ideas in a free presentation about her work, _Wardrobe Writings_, on Saturday, April 16, at 7:00 p.m. at Vesterheim in the Amdal-Odland Heritage Center.
 
 Because Norwegian sweaters and their patterns are so recognizable, artists in Norway, and globally, have used them in different ways. One of Steihaug's techniques is to use knitting to bring nature and warmth into office spaces of glass and metal. She also partially unravels knit items and reknits the yarn into tapestries. Steihaug says that she likes the wavy traces of the stitches and she sees them as a personal handwriting embedded in the yarn that isn’t easily washed away.
 
