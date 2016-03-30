@@ -30,7 +30,7 @@ Vesterheim thanks Decorah Bank & Trust for sponsoring this exhibition!
 
 Entry Dates
 ===========
-May 4 through May 24, 2015. **No entry arriving after 5:00 p.m. on May 24, 2015, will be considered for judging or exhibition.**
+May 1 through May 22, 2016. **No entry arriving after 5:00 p.m. on May 22, 2016, will be considered for judging or exhibition.**
 
 How to Enter
 ============
