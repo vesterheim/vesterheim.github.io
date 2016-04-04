@@ -28,7 +28,7 @@ _Syttende Mai_ is the day Norway ratified its constitution in 1814 at Eidsvoll. 
 
 Now, Norwegians celebrate their constitution with excited crowds, especially children, marching through the streets waving flags, singing songs, and celebrating their nation’s independence. _Syttende Mai_ is a great opportunity to celebrate freedom wherever it occurs. 
 
-### 2016 events on May 17 included:
+### 2016 events on May 17:
 
 * **9:00 a.m. to 5:00 p.m.** Museum open with free admssion. 
 * **12:30-1:00 p.m.** Gather for Children’s Parade, at the Winneshiek County Courthouse, on Main Street
