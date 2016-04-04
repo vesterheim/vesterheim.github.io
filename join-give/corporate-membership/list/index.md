@@ -202,6 +202,9 @@ Randall Olson, D.D.S.
 [StateFarm Insurance—Paul Hundson Agency](https://www.statefarm.com/agent/US/IA/Decorah/Paul-Hudson-KL4VX1YS000)
 : For your insurance needs.
 
+[Storey Kenworthy](http://www.storeykenworthy.com/)
+: Iowa's trusted solution for All Things Office.
+
 [Super 8 Motel of Decorah](http://www.super8.com/hotels/iowa/decorah/super-8-decorah/hotel-overview)
 : After a long day of travel, relax in your Decorah, Iowa, hotel room with cable TV and Showtime, and connect to free Wi-Fi Internet.
 

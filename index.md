@@ -529,46 +529,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-12-16
-  - url: /events/calendar/2016/04/01/adult-coloring-lila-nelson-exhibit-wwo/
-    image: 16x9/exhibitions/special/lila-nelson-weaving.jpg
-    alt:
-    caption:
-    title: "Adult Coloring Event during Decorah's Women's Weekend Out" 
-    date: April 1, 2016 
-    time: 3:00-5:00 p.m. 
-    published: true
-    start_date: 
-    stop_date: 
-  - url: /events/calendar/2016/04/02/nalbinding-presentation-and-booksigning/
-    image: 16x9/events/loopy-presentation-kallner.jpg
-    alt:
-    caption:
-    title: "Nålbinding Presentation and Booksigning"
-    date: April 2, 2016 
-    time: 1:30 p.m.  
-    published: true
-    start_date: 
-    stop_date: 2016-04-04
-  - url: /events/calendar/2016/04/02/getting-loopy-gathering-of-nalbinders/
-    image: /46x21/events/getting-loopy-nalbinding.jpg
-    alt:
-    caption:
-    title: "Getting Loopy: A Gathering of Nålbinders"
-    date: April 2-3, 2016
-    time: 
-    published: true
-    start_date:
-    stop_date: 
-  - url: /folk-art-school/classes/woodworking/2016-04-02-figure-carving-jaeger/
-    image: /46x21/folk-art-school/figure-carving-jaeger.jpg
-    alt:
-    caption:
-    title: Class - Figure Carving with Bill Jaeger
-    date: April 2-3, 2016
-    time: 
-    published: true
-    start_date:
-    stop_date: 
   - url: /folk-art-school/classes/fiber-arts/2016-04-07-norwegian-sweater-design-hillesland/
     image: /16x9/exhibitions/special/underwear-everywhere-norwegian-sweaters.jpg
     alt:
