@@ -31,8 +31,11 @@ Now, Norwegians celebrate their constitution with excited crowds, especially chi
 ### 2016 events on May 17:
 
 * **9:00 a.m. to 5:00 p.m.** Museum open with free admssion. 
+* **10:00 a.m.** Tour of museum's Main Building. 
+* **11:30 a.m.** Tour of museum's Open Air Division. 
 * **12:30-1:00 p.m.** Gather for Children’s Parade, at the Winneshiek County Courthouse, on Main Street
 * **1:00 p.m.** Children’s Parade through Decorah led by Decorah's Nordic Dancers. The route starts on Main Street at the Winneshiek County Courthouse, then travels north along Washington Street to Water Street, then west on Water Street to Mill Street. Everyone is invited to march along, or cheer from the sidewalks. Norwegian flags will be provided for everyone marching. 
 * **1:20-2:00 p.m.** Vesterheim welcome and Decorah's [Nordic Dancers](https://www.facebook.com/groups/60204933647/) perform on Mill St. at the museum.
+* **2:00 p.m.** Tours of museum's Main Building and Open Air Division. 
 
 Find an album of pictures from the 2015 celebration [here.](https://www.facebook.com/media/set/?set=a.10152832768844109.1073741882.18263584108&type=1) 
