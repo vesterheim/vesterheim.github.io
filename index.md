@@ -224,7 +224,7 @@ panels:
     title: Chris Johnson, Vesterhiem President/CEO, Featured in Luther Alumni Magazine 
     subtitle:
     teaser: Chris Johnson, Vesterhiem President/CEO is featured in Luther Alumni Magazine.
-    published: true
+    published: false
     start_date:
     stop_date: 
 
@@ -493,7 +493,7 @@ events:
     image:
     alt:
     caption:
-    title: "_Telling Stories . . . With Wood,_ Luncheon and Presentation - La Crosse, Wisconsin"  
+    title: "_Telling Stories . . . With Wood,_ Luncheon and Presentation - La Crosse, Wisconsin" 
     date: February 28, 2016
     time: 11:30 a.m.-1:30 p.m.
     published: false
@@ -529,16 +529,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-12-16
-  - url: /folk-art-school/classes/fiber-arts/2016-04-07-norwegian-sweater-design-hillesland/
-    image: /16x9/exhibitions/special/underwear-everywhere-norwegian-sweaters.jpg
-    alt:
-    caption:
-    title: Class - Norwegian Sweater Design Workshop with Arnhild Hillesland
-    date: April 7-10, 2016
-    time: 
-    published: true
-    start_date:
-    stop_date: 
   - url: /events/away/twin-cities/
     image: /46x21/events/twin-cities-welcome.jpg
     alt:
@@ -546,7 +536,7 @@ events:
     title: Nordic Celebration and Marketplace in the Twin Cities
     date: April 9, 2016
     time:
-    published: true
+    published: false
     start_date: 
     stop_date: 
   - url: /events/calendar/2016/04/16/knitting-presentation-artist-steihaug/
@@ -585,6 +575,16 @@ events:
     caption:
     title: Class - Learning the Language of the Kubbestol with Steve Speltz and Rebecca Hanna
     date: April 29-May 1, 2016
+    time: 
+    published: true
+    start_date:
+    stop_date: 
+  - url: /folk-art-school/classes/woodworking/2016-05-09-intro-post-beam-carving-holmen/
+    image: /46x21/folk-art-school/post-beam-carving-holmen.jpg
+    alt:
+    caption:
+    title: Class - Introduction to Post and Beam Carving with Jock Holmen
+    date: May 9-11, 2016
     time: 
     published: true
     start_date:
