@@ -25,3 +25,5 @@ pagelist:
   teaser: This exciting traveling exhibition curated by the Museum of Danish America tells the story of alcoholic beverages in Scandianvia and Scandinavian-America, incorporating artifacts from Vesterheim’s collections.
 ---
 For centuries, alcoholic beverages have played a role in spirited Scandinavian celebrations, inspiring consummate folk art and raising the ire of Temperance and religious leaders. This exciting traveling exhibition curated by the Museum of Danish America tells the whole intoxicating story, incorporating artifacts from Vesterheim’s collections.
+
+There will be an opening reception on September 9, 2016. More information coming soon.

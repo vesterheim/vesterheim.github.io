@@ -24,13 +24,13 @@ pagelist:
 ---
 The following job opportunities are currently available at Vesterheim.
 
-Website/Technology Specialist 
+Tours to Norway Coordinator 
 -----------------
 {: .heading--black--large }
 
-Vesterheim seeks a fulltime (40 hrs/wk) Website/Technology Specialist to provide programming, upgrades, tracking, and maintenance for the museum’s website and furnish basic support for Vesterheim’s technology infrastructure, including servers, data networks, and computer workstations. Requirements: (minimum) Associate’s degree in computer science or a computer-related field, or two years of related experience; (preferred) a Bachelor’s degree in computer science or a computer-related field, and one year of related experience. Internship experience may be counted toward total work experience. Duties would include creating, upgrading, and maintaining programming for Vesterheim’s website and providing basic technical support for both PC and Apple platforms in the museum’s computer network, and the applications that run on those platforms.   
+Vesterheim Norwegian-American Museum seeks a part-time (20 hrs/week) Tours to Norway Coordinator, who is responsible for designing, implementing, and promoting Vesterheim’s yearly tours to Norway. The Tours to Norway Coordinator works to ensure that all participants in Vesterheim’s tours receive a high quality experience. International travel is necessary. Minimum requirements are a bachelor’s degree and demonstrated experience traveling, working with groups, and planning budgets. The candidate must have exceptional interpersonal, organizational, and written skills and a strong competency in Microsoft Office including Excel.   
 
-Find specific information [here](/about/employment/website-technology-specialist/).
+Find specific information [here](/about/employment/tour-coordinator/).
 
 Collections Intern 
 -----------------
@@ -41,3 +41,11 @@ The summer intern will work with all aspects of the annual _National Exhibition 
 Work hours are approximately 9-4 weekdays, with some weekend hours over Nordic Fest (July 30 & 31).  The internship is 10 weeks between May 16 and August 5, 2016 (there is some flexibility in start and end dates).  The pay is $7.50 per hour. 
 
 Apply before April 8 by sending a resume and cover letter to [Laurann Gilbertson, Chief Curator](mailto:lgilbertson@vesterheim.org). Identify your available start date in the cover letter.
+
+Website/Technology Specialist 
+-----------------
+{: .heading--black--large }
+
+Vesterheim seeks a fulltime (40 hrs/wk) Website/Technology Specialist to provide programming, upgrades, tracking, and maintenance for the museum’s website and furnish basic support for Vesterheim’s technology infrastructure, including servers, data networks, and computer workstations. Requirements: (minimum) Associate’s degree in computer science or a computer-related field, or two years of related experience; (preferred) a Bachelor’s degree in computer science or a computer-related field, and one year of related experience. Internship experience may be counted toward total work experience. Duties would include creating, upgrading, and maintaining programming for Vesterheim’s website and providing basic technical support for both PC and Apple platforms in the museum’s computer network, and the applications that run on those platforms.   
+
+Find specific information [here](/about/employment/website-technology-specialist/).
