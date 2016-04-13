@@ -33,9 +33,9 @@ carousel:
       stop_date:
     - image: 25x9/visit/syttende-mai-nordic-dancers2.jpg
       alt: Norwegian Festivals
-      caption: Parade, Nordic Dancers, Foot-Notes band, and more this year at Vesterheim's _Syttende Mai_ celebration!
+      caption: Celebrate _Syttende Mai_ with a traditional Chilren's Parade and performance by Decorah's Nordic Dancers!
       link: /events/annual/syttende-mai/
-      published: false
+      published: true
       start_date:
       stop_date: 
     - image: 25x9/exhibitions/special/from-tradition-to-protest-lila-nelson.jpg
@@ -49,14 +49,14 @@ carousel:
       alt: "From Underwear to Everywhere: Norwegian Sweaters"
       caption: On view now!
       link: /exhibitions/special/from-underwear-to-everywhere-norwegian-sweaters/
-      published: true
+      published: false
       start_date:
       stop_date: 
     - image: 25x9/exhibitions/special/figure-carving.jpg
       alt: "Woodcarved Figures, Nordic Roots"
       caption: _Woodcarved Figures, Nordic Roots_ on view now!
       link: /exhibitions/special/woodcarved-figures-nordic-roots/
-      published: true
+      published: false
       start_date:
       stop_date: 
     - image: 25x9/fodors-best-15-museums.jpg
@@ -106,6 +106,17 @@ show_social_sharing_bar: false
 
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px      
 panels:
+  - url: /exhibitions/special/
+    file_under:
+    image: 16x9/exhibitions/special/wood-sweater-exhibits.jpg
+    alt:
+    caption:
+    title: Last chance for viewing!
+    subtitle: 
+    teaser: "_Woodcarved Figures, Nordic Roots_ and _From Underwear to Everywhere: Norwegian Sweaters_ close this month. Don't miss this chance to visit these fantastic exhibitions."
+    published: true
+    start_date: 
+    stop_date: 
   - url: /visit/plan/hours-and-admission/
     file_under:
     image: 16x9/buildings/main-building-snow.jpg
