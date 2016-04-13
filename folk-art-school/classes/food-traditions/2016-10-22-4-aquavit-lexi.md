@@ -29,11 +29,11 @@ lead:
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  
-  image:         # Defaults to cropped page hero image
+  image: 46x21/folk-art-school/aquavit-lexi.jpg
   alt:
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
-  teaser:        # Defaults to page meta-description 
+  teaser: Join Lexi, the gregarious and outspoken proprietor of the Old Ballard Liquor Co. for an afternoon of education and tastings as we explore the different styles and personalities of this strong, spicy liquor. 
 ---
 Drink like a Viking! This traditional Scandinavian libation is quickly gaining in popularity amongst craft bartenders and the liquor elite, but what’s so special about this herbal liquor that Scandinavians have been drinking for years? Join Lexi, the gregarious and outspoken proprietor of the Old Ballard Liquor Co. for an afternoon of education and tastings as we explore the different styles and personalities of this strong, spicy liquor. Journey through traditional Scandinavian aquavit profiles and beyond to our own burgeoning domestic aquavit scene. We’ll learn about the differences between regional Swedish, Norwegian, and Danish styles, production techniques, history, and the newly creative, modern expressions of aquavit in Scandinavia and the United States. The class will include handout materials and tastings of local craft aquavits, imports, and some private collection bottles you’ve probably never seen. The last hour of the class will be spent making your own aquavit to take home. Take what you’ve learned and apply it to your very own homemade snaps, made just the way you like it! 
