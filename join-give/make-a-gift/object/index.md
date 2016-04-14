@@ -27,7 +27,7 @@ Vesterheim appreciates your interest in donating items to the museum.
 
 Items Donated for Museum Use
 ---------------------------
-Vesterheim accepts donated objects for use on the museum campus or for fundraising purposes. Examples of museum use items include tools and supplies to help in museum up-keep. Examples of fundraising items include artwork for raffles, and items and services for auctions. To discuss your gift, contact Stephanie Johnson at 563-382-9681, ext. 103, or email at [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org).
+Vesterheim accepts donated objects for use on the museum campus or for fundraising purposes. Examples of museum use items include tools and supplies to help in museum up-keep. Examples of fundraising items include artwork for raffles, and items and services for auctions. To discuss your gift, contact Nicholas Klein at 563-382-9681, ext. 109, or email at [nklein@vesterheim.org](mailto:nklein@vesterheim.org).
 
 Items Donated to Vesterheim's Collection
 ----------------------------------------

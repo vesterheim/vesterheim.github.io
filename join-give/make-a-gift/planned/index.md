@@ -33,7 +33,7 @@ One of the most common forms of planned gifting is a will or trust bequest. To g
 
 There are also ways you can make a significant future gift while retaining the income you receive from the asset used to make the gift. Two common examples of these types of gifts are: Retained Life Estate and Charitable Remainder Trusts.
 
-For details on how to set up planned giving, please contact Stephanie Johnson at 563-382-9681, ext. 103, or email at [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org). Restrictions apply, so consult with your financial adviser to determine how such a gift would affect your overall tax and estate planning, as well as the rules pertaining to your state of residence.
+For details on how to set up planned giving, please contact Nicholas Klein at 563-382-9681, ext. 109, or email at [nklein@vesterheim.org](mailto:nklein.vesterheim.org). Restrictions apply, so consult with your financial adviser to determine how such a gift would affect your overall tax and estate planning, as well as the rules pertaining to your state of residence.
 
 If you have already included Vesterheim in your estate plans, please print a Valhalla membership [form](/join-give/recognition/valhalla-society/forms/valhalla.pdf) (pdf) and send the form to: <br />
 Development Department<br />

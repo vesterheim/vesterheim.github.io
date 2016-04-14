@@ -26,7 +26,7 @@ pagelist:
 Your Support Makes A Difference
 -------------------------------
 {: .heading--black--large }
-Vesterheim depends upon the generosity of its members and patrons. Thousands of devoted Vesterheim friends across the country recognize that their contributions, large and small, are vital to the museum’s future. Whether they are supporting the important Annual Giving Program, investing in specific projects, or building an endowment, donations are tax-deductible and assist Vesterheim in preserving and sharing a treasured heritage. For more information about any of the following ways to give, contact Stephanie Johnson at 563-382-9681, ext. 103, or email at [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org).
+Vesterheim depends upon the generosity of its members and patrons. Thousands of devoted Vesterheim friends across the country recognize that their contributions, large and small, are vital to the museum’s future. Whether they are supporting the important Annual Giving Program, investing in specific projects, or building an endowment, donations are tax-deductible and assist Vesterheim in preserving and sharing a treasured heritage. For more information about any of the following ways to give, contact Nicholas Klein at 563-382-9681, ext. 109, or email at [nklein@vesterheim.org](mailto:nklein.vesterheim.org).
 
 Opportunities for Giving:
 -------------------------
@@ -84,7 +84,7 @@ Vesterheim depends upon the support of its local, regional, and national [corpor
 
 {% include components/button.html text="Learn about Corporate Giving" url="/join-give/corporate-membership/" style="primary" %} 
 
-### The Good Ol’-Fashioned Way
+### By Mail
 
 To send your donation by check, please mail it to:
 

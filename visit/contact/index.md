@@ -42,7 +42,6 @@ Vesterheim Staff
 ### Administration
 
 - **Chris Johnson**, President/CEO, Ext. 120, [cjohnson@vesterheim.org](mailto:cjohnson@vesterheim.org)
-- **Steven L. Johnson**, Executive Director Emeritus, Ext. 107, [sjohnson@vesterheim.org](mailto:sjohnson@vesterheim.org)
 - **Marcia McKelvey**, Director of Administration, Ext. 108, [mmckelvey@vesterheim.org](mailto:mmckelvey@vesterheim.org)
 - **Kathy Wilbur**, Accountant, Ext. 114, [kwilbur@vesterheim.org](mailto:kwilbur@vesterheim.org)
 - **Jocelyn Clarine**, Office Assistant, Ext. 203, [jbruening@vesterheim.org](mailto:jbruening@vesterheim.org)
@@ -56,7 +55,7 @@ Vesterheim Staff
 - **Jennifer Kovarik**, Registrar, Archivist, and Youth Educator, Ext. 219, [jkovarik@vesterheim.org](mailto:jkovarik@vesterheim.org)
 
 ### Development and Membership
-- **Stephanie Johnson**, Development Manager, Ext. 103. [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org)
+- **Shawna Wagner**, Director of Development, Ext. 103. [swagner@vesterheim.org](mailto:swagner@vesterheim.org)
 - **Peggy Sersland**, Membership Manager, Ext. 112, [psersland@vesterheim.org](mailto:psersland@vesterheim.org)
 - **Nicholas Klein**, Development Associate, Ext. 109. [nklein@vesterheim.org](mailto:nklein@vesterheim.org)
 

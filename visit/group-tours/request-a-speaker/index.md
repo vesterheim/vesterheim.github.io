@@ -35,7 +35,6 @@ Speakers
 * Laurann Gilbertson, Chief Curator, [lgilbertson@vesterheim.org
 ](mailto:lgilbertson@vesterheim.org)
 * Martha Griesheimer, Coordinator of Volunteers, [mgriesheimer@vesterheim.org](mailto:mgriesheimer@vesterheim.org)
-* Stephanie Johnson, Development Assistant, [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org)
 * Steve Johnson, Executive Director, [sjohnson@vesterheim.org](mailto:sjohnson@vesterheim.org)
 * Jennifer Kovarik, Registrar and Youth Educator, [jkovarik@vesterheim.org](mailto:jkovarik@vesterheim.org)
 

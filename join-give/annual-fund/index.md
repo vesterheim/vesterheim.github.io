@@ -40,7 +40,7 @@ Vesterheim Museum<br />
 P.O. Box 379<br />
 Decorah, IA 52101
 
-For questions regarding your donation, contact Stephanie Johnson at 563-382-9681, ext. 103, or email at [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org).
+For questions regarding your donation, contact Nicholas Klein at 563-382-9681, ext. 109, or email at [nklein@vesterheim.org](mailto:nklein.vesterheim.org).
 
 How Does the Annual Fund Help?
 ------------------------------

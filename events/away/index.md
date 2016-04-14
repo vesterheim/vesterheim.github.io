@@ -24,4 +24,4 @@ pagelist:
 ---
 Vesterheim thanks all of the people who have hosted so many fantastic Vesterheim events around the country! From dinners and dances for hundreds of guests to dessert for small groups in a private backyard, those who appreciate Norwegian art and heritage come together to enjoy each other's company and share their enthusiasm for Vesterheim.
 
-Contact Stephanie Johnson at Vesterheim, 563-382-9681, ext. 103 or [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org), to make reservations for any of the scheduled events, or for information about how to organize a Vesterheim event in your area.
+Contact Nicholas Klein at Vesterheim, 563-382-9681, ext. 109 or [nklein@vesterheim.org](mailto:nklein@vesterheim.org), to make reservations for any of the scheduled events, or for information about how to organize a Vesterheim event in your area.
