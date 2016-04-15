@@ -40,4 +40,6 @@ Now, Norwegians celebrate their constitution with excited crowds, especially chi
 
 In the case of inclement weather, the parade and Nordic Dancers will be canceled.
 
+This event is sponsored by Jeff and Marilyn Roverud and Sons of Norway Valdres Lodge #503.
+
 Find an album of pictures from the 2015 celebration [here.](https://www.facebook.com/media/set/?set=a.10152832768844109.1073741882.18263584108&type=1) 
