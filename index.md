@@ -106,14 +106,14 @@ show_social_sharing_bar: false
 
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px      
 panels:
-  - url: /exhibitions/special/
+  - url: /exhibitions/special/from-underwear-to-everywhere-norwegian-sweaters/
     file_under:
-    image: 16x9/exhibitions/special/wood-sweater-exhibits.jpg
+    image: 16x9/exhibitions/special/underwear-everywhere-norwegian-sweaters.jpg
     alt:
     caption:
     title: Last chance for viewing!
     subtitle: 
-    teaser: "_Woodcarved Figures, Nordic Roots_ and _From Underwear to Everywhere: Norwegian Sweaters_ close this month. Don't miss this chance to visit these fantastic exhibitions."
+    teaser: "_From Underwear to Everywhere: Norwegian Sweaters_ closes this month. Don't miss this chance to visit this fantastic exhibition."
     published: true
     start_date: 
     stop_date: 
@@ -470,76 +470,6 @@ events:
     published: false
     start_date: 
     stop_date: 2016-12-07
-  - url: /folk-art-school/classes/woodworking/2016-02-10-scandinavian-bowl-turning-spring-pole-lathe-abrahamson/
-    image: /46x21/folk-art-school/spring-pole-lathe.jpg
-    alt:
-    caption:
-    title: Scandinavian Bowl Turning on a Spring Pole Lathe
-    date: February 10-12, 2016
-    time: 
-    published: false
-    start_date:
-    stop_date: 
-  - url: /folk-art-school/classes/fiber-arts/2016-02-13-bandweaving-valentines-delarm/
-    image: /46x21/folk-art-school/band-loom-weaving-couples-delarm.jpg
-    alt:
-    caption:
-    title: Band Loom Carving and Bandweaving, Valentine’s Day Classes for Couples
-    date: February 13-14, 2016
-    time: 
-    published: false
-    start_date:
-    stop_date: 
-  - url: /events/calendar/2016/02/23/adult-coloring-lila-nelson-exhibit/
-    image: 16x9/exhibitions/special/lila-nelson-weaving.jpg
-    alt:
-    caption:
-    title: "Adult Coloring Event in the Exhibition _From Tradition to Protest: Lila Nelson's Weaving Life_" 
-    date: February 23, 2016 
-    time: 7:00-8:30 p.m. 
-    published: false
-    start_date: 
-    stop_date: 2016-02-29
-  - url: /events/away/la-crosse/
-    image:
-    alt:
-    caption:
-    title: "_Telling Stories . . . With Wood,_ Luncheon and Presentation - La Crosse, Wisconsin" 
-    date: February 28, 2016
-    time: 11:30 a.m.-1:30 p.m.
-    published: false
-    start_date: 
-    stop_date: 2016-02-029
-  - url: /folk-art-school/classes/writing/2016-03-11-exploring-your-heritage-writing-sampler/
-    image: /46x21/folk-art-school/writing.jpg
-    alt:
-    caption:
-    title: "Class - Exploring Your Heritage: A Writing Sampler Weekend with Kathleen Ernst"
-    date: March 11-13, 2016
-    time: 
-    published: false
-    start_date:
-    stop_date: 
-  - url: /folk-art-school/classes/woodworking/2016-03-12-kolrosing-fossum-martin/
-    image: /46x21/folk-art-school/kolrosing-fossum-martin.jpg
-    alt:
-    caption:
-    title: Class - Kolrosing with Darlene Fossum-Martin
-    date: March 12, 2016
-    time: 
-    published: false
-    start_date:
-    stop_date: 
-  - url: /events/youth-programs/barnetimen/
-    image: /46x21/events/barnetimen-kids-2014.jpg
-    alt:
-    caption:
-    title: Barnetimen Children’s Hour 
-    date: March 15, 2016 
-    time: 10:00-11:00 a.m.
-    published: true
-    start_date: 
-    stop_date: 2015-12-16
   - url: /events/away/twin-cities/
     image: /46x21/events/twin-cities-welcome.jpg
     alt:
@@ -557,8 +487,18 @@ events:
     title: "Presentation by Artist Kari Steihaug"
     date: April 16, 2016
     time: 
-    published: true
+    published: false
     start_date:
+    stop_date: 
+  - url: /events/youth-programs/barnetimen/
+    image: /46x21/events/barnetimen-kids-2014.jpg
+    alt:
+    caption:
+    title: Barnetimen Children’s Hour 
+    date: April 19, 2016 
+    time: 10:00-11:00 a.m.
+    published: true
+    start_date: 
     stop_date: 
   - url: /events/away/chicago/
     image: 16x9/events/flags.jpg
