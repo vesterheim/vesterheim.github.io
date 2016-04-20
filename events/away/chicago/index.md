@@ -32,7 +32,7 @@ Park Ridge Country Club at 636 North Prospect Avenue, Park Ridge, Illinois
 
 Everyone is welcome to this great event! You can download a registration form [here.](/events/away/chicago/documents/chicago-registration-form-2016.pdf)
 
-Contact Stephanie Johnson at [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org), or 563-382-9681 for more information, or to request a mailed invitation with a registration form. 
+Contact Vesterheim at [info@vesterheim.org](mailto:info@vesterheim.org), or 563-382-9681 for more information, or to request a mailed invitation with a registration form. 
 
 The cost for Vesterheim members to attend is $57.50. The cost for non-members to attend is $75. The cost for school-age children 12 and under is $25. Reservations are due April 18, 2016. No tickets will be mailed—a list will be held at the door.
 

@@ -250,26 +250,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-04-17
-  - url: /events/youth-programs/pioneer-immersion/
-    image: /46x21/kids/pioneer-immersion-exhibition.jpg
-    alt:
-    caption:
-    title: Pioneer Immersion Program Open House 
-    date: May 14, 2015
-    time: 4:30-6:30PM
-    published: true
-    start_date: 
-    stop_date: 2015-05-15
-  - url: /events/annual/syttende-mai/
-    image:
-    alt:
-    caption:
-    title: _Syttende Mai_ Celebration
-    date: May 16, 2015
-    time:
-    published: true
-    start_date: 
-    stop_date: 2015-05-18
   - url: /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/
     image:
     alt:
@@ -497,7 +477,7 @@ events:
     title: Barnetimen Children’s Hour 
     date: April 19, 2016 
     time: 10:00-11:00 a.m.
-    published: true
+    published: false
     start_date: 
     stop_date: 
   - url: /events/away/chicago/
@@ -536,6 +516,56 @@ events:
     caption:
     title: Class - Introduction to Post and Beam Carving with Jock Holmen
     date: May 9-11, 2016
+    time: 
+    published: true
+    start_date:
+    stop_date: 
+  - url: /events/annual/syttende-mai/
+    image:
+    alt:
+    caption:
+    title: _Syttende Mai_ Celebration
+    date: May 17, 2016
+    time:
+    published: true
+    start_date: 
+    stop_date: 2016-05-18
+  - url: /events/youth-programs/pioneer-immersion/
+    image: /46x21/kids/pioneer-immersion-exhibition.jpg
+    alt:
+    caption:
+    title: Pioneer Immersion Program Open House 
+    date: May 19, 2016
+    time: 4:30-6:30PM
+    published: true
+    start_date: 
+    stop_date: 2016-05-20
+  - url: /events/calendar/2016/05/19/young-woman-at-sea-presentation/
+    image: /46x21/events/young-woman-at-sea.jpg
+    alt:
+    caption:
+    title: "_Young Woman at Sea_—Presentation by Kari Gronningsæter and Nick Preus"
+    date: May 19, 2016
+    time: 
+    published: true
+    start_date:
+    stop_date: 
+  - url: /folk-art-school/classes/fiber-arts/2016-06-09-spinning-dyeing-owen-johnston/
+    image: /46x21/folk-art-school/spinning-dyeing-owen-johnston.jpg
+    alt:
+    caption:
+    title: Class - Spinning for Fair Isle with Martha Owen and Elizabeth Johnston
+    date: June 9-10, 2016
+    time: 
+    published: true
+    start_date:
+    stop_date: 
+  - url: /folk-art-school/classes/fiber-arts/2016-06-11-fair-isle-knitting-owen-johnston/
+    image: /46x21/folk-art-school/fair-isle-knitting-owen-johnston.jpg
+    alt:
+    caption:
+    title: Class - Fair Isle Knitting with Martha Owen and Elizabeth Johnston
+    date: June 11-12, 2016
     time: 
     published: true
     start_date:
