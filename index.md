@@ -400,16 +400,16 @@ events:
     published: false
     start_date:
     stop_date: 
-  - url: /events/calendar/2016/01/24/scandinavian-music-jam/
+  - url: /events/calendar/2016/04/24/scandinavian-music-jam/
     image: 16x9/events/scandinavian-music-jam.jpg
     alt:
     caption:
     title: Scandinavian Music Jam 
-    date: January 24, 2016 
+    date: April 24, 2016 
     time: 1:00-3:00 p.m. 
     published: true
     start_date: 
-    stop_date: 2016-01-25
+    stop_date: 
   - url: /events/calendar/2016/01/26/scandinavian-fine-handcraft/
     image: 16x9/events/refsal-luther-student-event-miller.jpg
     alt:
@@ -487,7 +487,7 @@ events:
     title: Nordic Luncheon and Marketplace in Chicago
     date: April 23, 2016
     time:
-    published: true
+    published: false
     start_date: 
     stop_date: 
   - url: /folk-art-school/classes/rosemaling/2016-04-28-rosemaling-gudbrandsdal-rucinski/

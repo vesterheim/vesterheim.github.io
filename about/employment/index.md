@@ -29,18 +29,7 @@ Tours to Norway Coordinator
 {: .heading--black--large }
 
 Vesterheim Norwegian-American Museum seeks a part-time (20 hrs/week) Tours to Norway Coordinator, who is responsible for designing, implementing, and promoting Vesterheim’s yearly tours to Norway. The Tours to Norway Coordinator works to ensure that all participants in Vesterheim’s tours receive a high quality experience. International travel is necessary. Minimum requirements are a bachelor’s degree and demonstrated experience traveling, working with groups, and planning budgets. The candidate must have exceptional interpersonal, organizational, and written skills and a strong competency in Microsoft Office including Excel.   
-
 Find specific information [here](/about/employment/tour-coordinator/).
-
-Collections Intern 
------------------
-{: .heading--black--large }
-
-The summer intern will work with all aspects of the annual _National Exhibition of Folk Art in the Norwegian Tradition,_ a judged exhibit of contemporary rosemaling, woodworking, weaving, and knifemaking. The intern's tasks include: receiving entries, maintaining a database, preparing judging forms, assisting with designing and installing the exhibition, working during Decorah's Nordic Fest as gallery host, and preparing judging results for publicity. The intern will also do other collections-related tasks.  
-
-Work hours are approximately 9-4 weekdays, with some weekend hours over Nordic Fest (July 30 & 31).  The internship is 10 weeks between May 16 and August 5, 2016 (there is some flexibility in start and end dates).  The pay is $7.50 per hour. 
-
-Apply before April 8 by sending a resume and cover letter to [Laurann Gilbertson, Chief Curator](mailto:lgilbertson@vesterheim.org). Identify your available start date in the cover letter.
 
 Website/Technology Specialist 
 -----------------
