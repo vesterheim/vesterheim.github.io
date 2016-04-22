@@ -94,4 +94,4 @@ Decorah, IA  52101  <br />
 
 or emailed to [cjohnson@vesterheim.org](mailto:cjohnson@vesterheim.org) and [clangton@vesterheim.org](mailto:clangton@vesterheim.org).  
 
-Application deadline is March 31, 2016.  EOE/AA
+EOE/AA
