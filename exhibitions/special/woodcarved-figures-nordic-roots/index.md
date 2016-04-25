@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: page
 title: "Woodcarved Figures, Nordic Roots"
 subtitle: September 19, 2015 - April 17, 2016

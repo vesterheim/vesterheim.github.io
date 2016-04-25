@@ -106,14 +106,14 @@ show_social_sharing_bar: false
 
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px      
 panels:
-  - url: /exhibitions/special/from-underwear-to-everywhere-norwegian-sweaters/
+  - url: /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/
     file_under:
-    image: 16x9/exhibitions/special/underwear-everywhere-norwegian-sweaters.jpg
+    image: 16x9/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition.jpg
     alt:
     caption:
-    title: Last chance for viewing!
+    title: _National Exhibition of Folk Art in the Norwegian Tradition_ Entry Dates
     subtitle: 
-    teaser: "_From Underwear to Everywhere: Norwegian Sweaters_ closes this month. Don't miss this chance to visit this fantastic exhibition."
+    teaser: "Entry dates for the _National Exhibition of Folk Art in the Norwegian Tradition_ are May 1-22, 2016. We're excited to see the fantastic entries for this 50th anniversary year!"
     published: true
     start_date: 
     stop_date: 
@@ -407,7 +407,7 @@ events:
     title: Scandinavian Music Jam 
     date: April 24, 2016 
     time: 1:00-3:00 p.m. 
-    published: true
+    published: false
     start_date: 
     stop_date: 
   - url: /events/calendar/2016/01/26/scandinavian-fine-handcraft/

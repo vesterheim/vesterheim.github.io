@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: page
 title: "From Underwear to Everywhere: Norwegian Sweaters"
 subtitle: August 22, 2015 to April 24, 2016
