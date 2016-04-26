@@ -33,12 +33,14 @@ Now, Norwegians celebrate their constitution with excited crowds, especially chi
 * **9:00 a.m. to 5:00 p.m.** Museum open with free admission. 
 * **10:00 a.m.** Tour of museum's Main Building. 
 * **11:30 a.m.** Tour of museum's Open Air Division. 
-* **12:30-1:00 p.m.** Gather for Children’s Parade, at the Winneshiek County Courthouse, on Main Street
-* **1:00 p.m.** Children’s Parade through Decorah led by Decorah's Nordic Dancers. The route starts on Main Street at the Winneshiek County Courthouse, then travels north along Washington Street to Water Street, then west on Water Street to Mill Street. Everyone is invited to march along, or cheer from the sidewalks. Norwegian flags will be provided for everyone marching. 
+* **12:30-1:00 p.m.** Gather for Children’s Parade, at the Winneshiek County Courthouse, on Main Street.
+* **1:00 p.m.** Children’s Parade through Decorah led by Hardanger fiddle player Eden Ehm. The route starts on Main Street at the Winneshiek County Courthouse, then travels north along Washington Street to Water Street, then west on Water Street to Mill Street. Everyone is invited to march along, or cheer from the sidewalks. Norwegian flags will be provided for everyone marching. 
 * **1:20-2:00 p.m.** Vesterheim welcome and Decorah's [Nordic Dancers](https://www.facebook.com/groups/60204933647/) perform on Mill St. at the museum.
 * **2:00 p.m.** Tours of museum's Main Building and Open Air Division. 
 
-In the case of inclement weather, the parade and Nordic Dancers will be canceled.
+In the case of inclement weather, the parade and Nordic Dancers will be canceled, and Eden Ehm will offer an informal performance of Hardanger fiddle music.
+
+A native of Decorah, Iowa, who grew up playing violin in the Nordic Dancer's Orchestra, Ehm began studying the Hardanger fiddle with renowned fiddler Andrea Een while at St. Olaf College—the only school in the United States to offer instruction and credit in this unique instrument. A member of the Hardanger Fiddle Association of America (HFAA), Ehm enjoys attending workshops, camps, and learning new tunes from other fiddlers. She plays on a 1901 O.G. Haugen Hardanger fiddle made in Krøderen, Norway. 
 
 This event is sponsored by Jeff and Marilyn Roverud and Sons of Norway Valdres Lodge #503.
 
