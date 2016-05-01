@@ -28,31 +28,33 @@ Honorary Chair
 
 Officers
 --------
-- **Kate Martinson**, Chair
-- **Neal Nottleson**, Vice-chair
-- **Dennis Johnson**, Secretary
-- **Lorie Reins Schweer**, Treasurer
+- **Lorie Reins Schweer**, Chair
+- **Dennis Johnson**, Vice-chair
+- **Cindi Alan**, Secretary
+- **Walt Rugland**, Treasurer
 
 Trustees
 --------
-- **Cindi Alan**, Storrs Mansfield, Connecticut
+- **Cindi Huebner Alan**, Storrs Mansfield, Connecticut
 - **Helen Bruening Barbier**, Decorah, Iowa
 - **Mette Bowen**, Lake Forest, Illinois
-- **Veronna Capone**, Brooking, South Dakota
 - **Lindsay Erdman**, Decorah, Iowa
 - **Ron Fadness**, Decorah, Iowa
 - **Newman Halvorson**, Jr., Washington, D.C.
 - **Dick Hemp**, Reno, Nevada
 - **Dennis Johnson**, Morris, Minnesota
+- **Maren Johnson**, Decorah, Iowa
+- **Jane Kemp**, Decorah, Iowa
 - **Heyn Kjerulf**, Richmond, Virginia
 - **Scott Lindblom**, Verona, Wisconsin
 - **Gail Larson**, Olympia, Washington
 - **Kate Martinson**, Decorah, Iowa
+- **Kurt Meyer**, Ansgar, Iowa
 - **Neal Nottleson**, Racine, Wisconsin 
-- **Karen Owen-Tuzcu**, Minneapolis, Minnesota
 - **Kate Rattenborg**, Decorah, Iowa
 - **Lorie Reins-Schweer**, Iowa City, Iowa
 - **Walter Rugland**, Appleton, Wisconsin
+- **Signe Wrolstad-Forbes**, Chagrin Falls, Ohio
 
 Honorary Trustees
 -----------------
