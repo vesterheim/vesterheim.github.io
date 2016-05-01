@@ -497,7 +497,7 @@ events:
     title: Class - Rosemaling in the Gudbrandsdal Style with Pam Rucinski
     date: April 28-May 1, 2016
     time: 
-    published: true
+    published: false
     start_date:
     stop_date: 
   - url: /folk-art-school/classes/woodworking/2016-04-29-learning-language-of-kubbestol-speltz-hanna/
@@ -507,7 +507,7 @@ events:
     title: Class - Learning the Language of the Kubbestol with Steve Speltz and Rebecca Hanna
     date: April 29-May 1, 2016
     time: 
-    published: true
+    published: false
     start_date:
     stop_date: 
   - url: /folk-art-school/classes/woodworking/2016-05-09-intro-post-beam-carving-holmen/
