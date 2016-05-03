@@ -24,10 +24,10 @@ pagelist:
   caption: 
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
-  teaser: "Hear the tale of this voyage around the world in 1913-1914, based on the letters and journals of Kari Gronningsæter’s grandmother."
+  teaser: "Hear the tale of this voyage around the world in 1913-1914, based on the letters and journals of Kari Grønningsæter’s grandmother."
 ---
-This fascinating talk by Kari Gronningsæter and Nick Preus will be on May 19 at 6:30 p.m. in the museum's Bethania Church on Mill Street. 
+This fascinating talk by Kari Grønningsæter and Nick Preus will be on May 19 at 6:30 p.m. in the museum's Bethania Church on Mill Street. 
 
-Hear the tale of this voyage around the world in 1913-1914, based on the letters and journals of Gronningsæter’s grandmother. The ship, a full rigger captained by Gronningsæter’s great-grandfather, sailed to Australia loaded with timber and returned to Norway loaded with wheat. On the way home, in the Atlantic, they found out that WWI had started.
+Hear the tale of this voyage around the world in 1913-1914, based on the letters and journals of Grønningsæter’s grandmother. The ship, a full rigger captained by Grønningsæter’s great-grandfather, sailed to Australia loaded with timber and returned to Norway loaded with wheat. On the way home, in the Atlantic, they found out that WWI had started.
 
 Kari, who is originally from Norway, is the visiting instructor in Scandinavian Studies at Luther College. Nick is an English professor emeritus at Luther College.

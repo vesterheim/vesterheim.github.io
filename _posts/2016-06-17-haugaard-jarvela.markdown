@@ -10,7 +10,7 @@ meta_description:  # Used in HTML head and as the description for some search en
 hero:
   image: 16x9/events/haugaard-jarvela.jpg
   alt: 
-  caption:
+  caption: Antti Järvelä and Harald Haugaard (Haugaard photo by John Ericksson)
 related:
 
 # iCal or h-event related stuff

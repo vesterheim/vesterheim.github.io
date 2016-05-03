@@ -544,7 +544,7 @@ events:
     image: /46x21/events/young-woman-at-sea.jpg
     alt:
     caption:
-    title: "_Young Woman at Sea_—Presentation by Kari Gronningsæter and Nick Preus"
+    title: "_Young Woman at Sea_—Presentation by Kari Grønningsæter and Nick Preus"
     date: May 19, 2016
     time: 
     published: true

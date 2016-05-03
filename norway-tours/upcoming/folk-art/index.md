@@ -42,10 +42,4 @@ The journey wouldn’t be complete without opportunities for hands-on artistic e
 
 {% include norway-tours/guide.html name='Darlene Fossum-Martin' %}
 
-Price and itinerary will be announced in the fall of 2015.
-
-To reserve your spot on the tour, download this “[Tour Deposit](/norway-tours/forms/documents/DepositForm.pdf)” form and send it, with a $500 deposit per person, to Vesterheim, P.O. Box 379, Decorah, IA 52101.
-
-{% include components/button.html text="Download Tour Deposit Form (PDF)" url="/norway-tours/forms/documents/DepositForm.pdf" style="primary" %} 
-
 For more information: Michelle Whitehill at 563-382-9681, ext. 240, or [mwhitehill@vesterheim.org](mailto:mwhitehill@vesterheim.org).

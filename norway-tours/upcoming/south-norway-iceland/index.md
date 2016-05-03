@@ -45,10 +45,4 @@ Join us for this remarkable adventure!
 
 {% include norway-tours/guide.html name='Michelle Whitehill' %}
 
-Price and itinerary will be announced in the fall of 2015.
-
-To reserve your spot on the tour, download this “[Tour Registration Form](/norway-tours/forms/documents/RegForm.pdf)” and send it, with a $500 deposit per person, to Vesterheim, P.O. Box 379, Decorah, IA 52101.
-
-{% include components/button.html text="Download Tour Registration Form (PDF)" url="/norway-tours/forms/documents/RegForm.pdf" style="primary" %} 
-
 For more information: Michelle Whitehill at 563-382-9681, ext. 240, or [mwhitehill@vesterheim.org](mailto:mwhitehill@vesterheim.org).
