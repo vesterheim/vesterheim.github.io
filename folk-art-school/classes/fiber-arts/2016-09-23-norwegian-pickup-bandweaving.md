@@ -36,4 +36,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
+### This class is currently full. However, we often receive cancelations. Please call 563-382-9681 to be placed on a wait list. 
+
 _Back by popular demand!_ Historically, pick-up woven bands were used in Norway to tie up baskets of food, to swaddle babies, and as hairbands, apron bands, stocking bands, trim for clothing, and more. In this class you will weave two types of pick-up, each on a different threading, and you will have a variety of patterns from which to choose. The traditional band heddles will be warped for you prior to class. Your finished samples will make nice ribbons or bookmarks. 

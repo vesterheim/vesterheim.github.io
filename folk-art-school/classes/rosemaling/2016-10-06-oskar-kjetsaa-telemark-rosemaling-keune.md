@@ -37,4 +37,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description 
 ---
+### This class is currently full. However, we often receive cancelations. Please call 563-382-9681 to be placed on a wait list. 
+
 Oskar Kjetsaa, from Evje, Norway, taught Telemark rosemaling several times at Vesterheim in the 1980s and 1990s. He was a student of Knut Hovden in 1941, at the Sand School in Voss. Oskar’s style introduced Vesterheim’s students to his richly blended colors, finished with playful and elegant flourish lines. Through examples and demonstration, you will learn his basic stroke techniques, color mixing and theory, and both acrylic and oil lasuring. Patterns of varying difficulty will be available. You’ll receive a booklet that traces Oskar Kjetsaa’s style, imbued with elements of the Adger valleys, plus detailed color examples of his painting and an assortment of his design sketches. The painting may be done on base-coated tagboard or woodenware. The class will be taught in oils, acrylic painters are welcome.

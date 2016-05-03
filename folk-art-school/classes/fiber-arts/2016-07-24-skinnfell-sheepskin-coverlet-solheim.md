@@ -37,4 +37,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description 
 ---
+### This class is currently full. However, we often receive cancelations. Please call 563-382-9681 to be placed on a wait list. 
+
 A _skinnfell_ is a coverlet made of sheepskins sewn together. The smooth side of the coverlet might be printed with solar motifs, water, plants, animals, hearts, and flowing borders, or it might be covered with a handwoven textile. The coverlet is placed over the sleeper with the warm, wool side down. You will make a small cradle-sized or throw-sized _skinnfell_ from one or two sheepskins. You will learn about selecting the skins, hand-sewing techniques, and printing with wooden blocks and ink traditionally made from bark. The class will also include information on how to add a woven textile, as was the custom in parts of Norway. 

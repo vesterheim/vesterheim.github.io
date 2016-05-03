@@ -36,6 +36,8 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description 
 ---
+### This class is currently full. However, we often receive cancelations. Please call 563-382-9681 to be placed on a wait list. 
+
 Give someone special a Sámi-inspired bracelet!
  
 The Sámi are the indigenous people of the far north in Scandinavia and the Kola Peninsula of Russia. In addition to fishing and farming, reindeer husbandry has been an important part of their livelihood. Sámi handwork features both materials and design inspiration from their native lands. 

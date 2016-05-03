@@ -36,4 +36,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description 
 ---
+### This class is currently full. However, we often receive cancelations. Please call 563-382-9681 to be placed on a wait list. 
+
 Learn to forge blades for your own brukskniv (working knife) from start to finish. In this two-day class students will learn the basic forging techniques of how the gas forge, anvil, and hammer work. Students will forge several three-layer Norwegian knife blades while learning how to heat-treat and grind the blade. 

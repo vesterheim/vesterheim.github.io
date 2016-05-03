@@ -37,4 +37,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description 
 ---
+### This class is currently full. However, we often receive cancelations. Please call 563-382-9681 to be placed on a wait list. 
+
 Come join the fun of learning Swedish painting!  “It is my pleasure to present two projects—_the Swedish Christmas Triptych_ and the _Swedish Coffee Lady_, complete with recipe,” Heidi says. The _Swedish Christmas Triptych_ was inspired by the work of Clement Hakansson,1729-1795, and it is Heidi’s sincere hope that he would approve. The border designs on _Swedish Coffee Lady_ represent Swedish weaving. In class you will have the opportunity to adhere linen onto wood to help achieve a traditional “Swedish look.”

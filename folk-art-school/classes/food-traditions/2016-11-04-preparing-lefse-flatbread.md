@@ -36,4 +36,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description 
 ---
+### This class is currently full. However, we often receive cancelations. Please call 563-382-9681 to be placed on a wait list. 
+
 Through demonstration and hands-on experience, learn to prepare the ever popular potato _lefse,_ using time-proven techniques. We will also prepare dessert _lefse,_ which is often found on many coffee tables in Norway. This class will provide instruction in three variations of _flatbrød_—one of Norway’s most traditional foods. 

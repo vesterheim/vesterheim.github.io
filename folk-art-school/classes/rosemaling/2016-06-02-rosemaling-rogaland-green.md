@@ -36,4 +36,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description 
 ---
+### This class is currently full. However, we often receive cancelations. Please call 563-382-9681 to be placed on a wait list. 
+
 This will be a project painting class. The project is a box with fluted trim on the corners of the base. The top is 11½ by 16 inches. An additional project will also be available. The class will be taught in oils, but acrylic painters are welcome. Patterns and palettes (both oil and acrylic) will be provided. The artwork shown here is  the class project.

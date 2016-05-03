@@ -36,4 +36,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description 
 ---
+### This class is currently full. However, we often receive cancelations. Please call 563-382-9681 to be placed on a wait list. 
+
 Norwegian knifemaking is a rich tradition that has been kept alive by many Norwegian smiths and knifemakers. In this course you will work with metal (silver or brass), birch burl, and the finest Italian leather to create a finished “Sunday dress-up knife and sheath.” Gene will provide all of the necessary tools. Experienced knifemakers can explore knife options. Class will be limited to 8 students. 
