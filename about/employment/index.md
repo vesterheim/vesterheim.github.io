@@ -22,14 +22,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-The following job opportunities are currently available at Vesterheim.
-
-Tours to Norway Coordinator 
------------------
-{: .heading--black--large }
-
-Vesterheim Norwegian-American Museum seeks a part-time (20 hrs/week) Tours to Norway Coordinator, who is responsible for designing, implementing, and promoting Vesterheim’s yearly tours to Norway. The Tours to Norway Coordinator works to ensure that all participants in Vesterheim’s tours receive a high quality experience. International travel is necessary. Minimum requirements are a bachelor’s degree and demonstrated experience traveling, working with groups, and planning budgets. The candidate must have exceptional interpersonal, organizational, and written skills and a strong competency in Microsoft Office including Excel.   
-Find specific information [here](/about/employment/tour-coordinator/).
+The following job opportunity is currently available at Vesterheim.
 
 Website/Technology Specialist 
 -----------------

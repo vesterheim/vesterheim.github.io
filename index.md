@@ -216,6 +216,17 @@ panels:
     published: false
     start_date: 2014-10-01
     stop_date: 
+  - url: /about/news/2016/nordic-fest-book-sales/
+    file_under: News
+    image: /16x9/events/nordic-fest-book-cover-50.jpg
+    alt:
+    caption:
+    title: Nordic Fest 50th Anniversary Book Available
+    subtitle:
+    teaser: Nordic Fest book proceeds help preserve archival history at Vesterheim. Order your copy today. 
+    published: true
+    start_date:
+    stop_date: 
   - url: /about/news/2016/iowa-tourism-blogs/
     file_under: News
     image: /16x9/about/imagine-northeast-iowa-blog.jpg
@@ -224,7 +235,7 @@ panels:
     title: Share Your Vesterheim Experience!
     subtitle:
     teaser: Blog about your visit to Vesterheim and the Decorah area at Imagine Northeast Iowa and Travel Iowa blogs! 
-    published: true
+    published: false
     start_date:
     stop_date: 
   - url: /about/news/2016/chris-johnson-luther-newsletter/

@@ -15,7 +15,7 @@ related:
 navigation:
   exclude: true  
 pagelist:
-  order: 20160415
+  order: 20160504
   image: /46x21/exhibitions/special/fifty-years-of-folk-art.jpg
   alt: 
   caption:

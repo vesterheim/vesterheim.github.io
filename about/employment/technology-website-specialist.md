@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: page
 title: Technology and Website Specialist 
 meta_title:        # Appears on bookmarks, search results, etc...
