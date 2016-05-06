@@ -24,7 +24,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-_Syttende Mai_ is the day Norway ratified its constitution in 1814 at Eidsvoll. They did not, however, become independent from Sweden until 1905 and until then _Syttende Mai_ celebrations were frowned upon and even forbidden.
+_Syttende Mai_ is the day Norway ratified its constitution in 1814 at Eidsvoll. 
 
 Now, Norwegians celebrate their constitution with excited crowds, especially children, marching through the streets waving flags, singing songs, and celebrating their nation’s independence. _Syttende Mai_ is a great opportunity to celebrate freedom wherever it occurs. 
 

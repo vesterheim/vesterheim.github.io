@@ -109,6 +109,9 @@ We thank our Corporate Members for their support and ask that you consider suppo
 [David Finholt Construction, Inc.](http://www.finholtconstruction.com/Home.asp)
 : FCI brings 30 years of exceptional design and construction to residential, multi-family housing, and commercial building.
 
+[Gallery of Tops](http://www.galleryoftops.com/)
+: Your source for screen printing, embroidery, promotional products, and graphic design. Plus Norwegian t-shirts and Decorah Vikings apparel.
+
 [Gundersen Health System](http://www.gundersenhealth.org/)
 : Where caring meets excellence.
 
