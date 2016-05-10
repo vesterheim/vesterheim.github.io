@@ -5,4 +5,4 @@ lead:
   alt: ~
   caption: ~
 ---
-**Laurann Gilbertson** has been Textile Curator at Vesterheim for 19 years and is now Chief Curator. She has planned and led six Textile Study Tours, beginning in 2003.
+**Laurann Gilbertson** has been Textile Curator at Vesterheim for 19 years and is now Chief Curator. She has planned and led seven Textile Study Tours, beginning in 2003.

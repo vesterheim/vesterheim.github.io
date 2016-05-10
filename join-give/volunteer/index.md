@@ -29,7 +29,7 @@ You will find a comprehensive list of volunteer skill requests [here](/join-give
 
 The time commitment to volunteer varies a lot. Some people volunteer weekly, while others help out for a few hours occasionally, or even just once a year. In a typical year, there are about 300 active volunteers who give over 3,000 hours of volunteer time.
 
-An occasional volunteer newsletter is sent out to all active volunteers. Find the most recent issue [here](/join-give/volunteer/documents/volunteer-newsletter-04-15.pdf) (pdf).
+An occasional volunteer newsletter is sent out to all active volunteers. Find the most recent issue [here](/join-give/volunteer/documents/volunteer-newsletter-04-16.pdf) (pdf).
 
 Vesterheim holds infinite potential for exploration and lifelong learning. Volunteering can be a great experience that evolves over time. The important thing is to get started! 
 

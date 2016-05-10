@@ -581,4 +581,14 @@ events:
     published: true
     start_date:
     stop_date: 
+  - url: /events/calendar/2016/06/17/haugaard-jarvela/
+    image: /46x21/events/haugaard-jarvela.jpg
+    alt:
+    caption:
+    title: Harald Haugaard and Antti Järvelä Concert
+    date: June 17, 2016
+    time: 7:30 p.m.
+    published: true
+    start_date:
+    stop_date: 
 ---
