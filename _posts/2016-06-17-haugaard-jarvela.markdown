@@ -38,7 +38,7 @@ tags:
 ---
 Get ready for this fantastic show! Harald Haugaard, Denmark, and Antti Järvelä, Finland, will play on June 17, 2016, at 7:30 p.m. in the museum’s Bethania Church on Mill Street. Tickets are $15 per person, available at the door, which opens at 7:00 p.m. 
 
-Haugaard and Järvelä are some of the most sought-after musicians of their generation. Through constant touring, numerous recordings and strong commitments to teaching they attract an enthusiastic, ever-growing following and are an inspiration to talented musicians the world over. Their program will include a mix of traditional Finnish and Danish tunes. They are know for playing with virtuosity, integrity, and a great sense of humor. 
+Haugaard and Järvelä are some of the most sought-after musicians of their generation and are known for their musical skill, lively performances, and great sense of humor. Through constant touring, numerous recordings and strong commitments to teaching they attract an enthusiastic, ever-growing following and are an inspiration to talented musicians the world over. Their program will include a mix of traditional Finnish and Danish tunes. 
 
 Järvelä, who plays the mandolin and double bass, hails from the famous Järveläs of Kaustinen—Finland’s first family of folk music. Järvelä has played at Vesterheim with his cousin Arto Järvelä and with the band Baltic Crossing.  
 

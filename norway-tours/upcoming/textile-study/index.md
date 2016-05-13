@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: page
 title: "Textile Study Tour to Norway and Denmark"
 subtitle: June 2017 
