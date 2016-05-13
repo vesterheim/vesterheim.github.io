@@ -27,10 +27,11 @@ Vesterheim’s Folk Art School is celebrating it’s fiftieth year! We're plann
 
 To help us celebrate, share a memory about a class or tour. Take a moment, answer one of the questions below, and send it via email or mail to Laurann Gilbertson at [lgilbertson@vesterheim.org](mailto:lgilbertson@vesterheim.org), or P.O. Box 379, Decorah IA 52101. We might use a portion of your answer in the exhibition. 
 
-* Tell us about one teacher (American or Norwegian) who you consider to be the most (or one of the most) influential in your artistic development.
-* Tell us about your very first class at Vesterheim. Why did you take the class and what lesson resonates the most even today?
-* If you’ve been on a Vesterheim folk-art tour, what one experience (person, class, museum visit) has had the most dramatic impact on your painting and why?
-* Tell us about a folk-art milestone. What event or person should be remembered as significant in the museum’s history? Please include the year to mark on our timeline.
-* Does Norwegian folk art speak to your identity? If so, in what way?
-* Why do you keep returning to Vesterheim for classes? Please include the year to mark on our timeline.
-* Do you have photographs from class? We are especially interested in finding photos from the early years (1967-1975). Staff will scan and return them. 
+* Who is a Vesterheim teacher you consider to be significant and why?
+* What has been your favorite class at Vesterheim?
+* Why did you decide to take a class at Vesterheim?
+* What is one important lesson you learned in a class Vesterheim?
+* What one experience on Vesterheim folk-art tour has had the most dramatic impact on your art and why?
+* What do you enjoy most about making things by hand?
+* Why do you keep returning to Vesterheim for classes?
+* Do you have photographs from class at Vesterheim? We are especially interested in finding photos from the early years (1967-1975). Let us know and we’ll make arrangements to borrow them to scan if possible. 
