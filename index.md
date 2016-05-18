@@ -35,7 +35,7 @@ carousel:
       alt: Norwegian Festivals
       caption: Celebrate _Syttende Mai_ with a traditional Chilren's Parade and performance by Decorah's Nordic Dancers!
       link: /events/annual/syttende-mai/
-      published: true
+      published: false
       start_date:
       stop_date: 
     - image: 25x9/exhibitions/special/from-tradition-to-protest-lila-nelson.jpg
@@ -43,20 +43,6 @@ carousel:
       caption: 
       link: /exhibitions/special/lila-nelson-weaving-retrospective/
       published: true
-      start_date:
-      stop_date: 
-    - image: 25x9/exhibitions/special/norwegian-sweaters.jpg
-      alt: "From Underwear to Everywhere: Norwegian Sweaters"
-      caption: On view now!
-      link: /exhibitions/special/from-underwear-to-everywhere-norwegian-sweaters/
-      published: false
-      start_date:
-      stop_date: 
-    - image: 25x9/exhibitions/special/figure-carving.jpg
-      alt: "Woodcarved Figures, Nordic Roots"
-      caption: _Woodcarved Figures, Nordic Roots_ on view now!
-      link: /exhibitions/special/woodcarved-figures-nordic-roots/
-      published: false
       start_date:
       stop_date: 
     - image: 25x9/fodors-best-15-museums.jpg
@@ -82,11 +68,11 @@ carousel:
       stop_date:
     - image: 25x9/exhibitions/special/national-exhibition.jpg
       alt: National Exhibition of Folk Art in the Norwegian Tradition
-      caption: Admire recent works by contemporary artists from all over the country at Vesterheim!
+      caption: Admire recent works by contemporary artists from all over the country on view June 9-July 30!
       link: /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/viewing/
-      published: false
+      published: true
       start_date:
-      stop_date: 2015-07-26
+      stop_date: 
     - image: 25x9/folk-art-school/classes/woodroom.jpg
       alt: Vesterheim's Folk Art School
       caption: Experience the joy of making things at Vesterheim's Folk Art School!
@@ -251,36 +237,6 @@ panels:
     stop_date: 
 
 events:  
-  - url: /events/calendar/2015/04/16/volunteer-open-house/
-    image: /46x21/events/wow--demonstrator--kids.jpg
-    alt:
-    caption:
-    title: Volunteer Open House
-    date: April 16, 2015
-    time:
-    published: true
-    start_date: 
-    stop_date: 2015-04-17
-  - url: /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/
-    image:
-    alt:
-    caption:
-    title: Opening day of _The National Exhibition of Folk Art in the Norwegian Tradition_ 
-    date: June 12, 2015
-    time:
-    published: true
-    start_date: 
-    stop_date: 2015-06-06
-  - url: /events/annual/nordic-fest/
-    image: /46x21/events/nordic_fest.jpg
-    alt:
-    caption:
-    title: Vesterheim Events at Decorah's Nordic Fest 
-    date: July 24-25, 2015
-    time:
-    published: true
-    start_date: 
-    stop_date: 2015-07-26
   - url: /events/annual/folk-art-banquet/
     image:
     alt:
@@ -311,36 +267,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-10-29
-  - url: /events/youth-programs/barnetimen/
-    image: /46x21/events/barnetimen-kids-2014.jpg
-    alt:
-    caption:
-    title: Barnetimen Children’s Hour 
-    date: October 20, 2015 
-    time: 10:00-11:00 a.m.
-    published: true
-    start_date: 
-    stop_date: 2015-10-20
-  - url: /events/away/madison/
-    image: /46x21/events/refsal-madison-event.jpg
-    alt:
-    caption:
-    title: _Telling Stories . . . With Wood_, Luncheon and Presentation in Middleton, Wisconsin
-    date: November 1, 2015
-    time:
-    published: true
-    start_date: 
-    stop_date: 2015-11-02
-  - url: /folk-art-school/classes/woodworking/2015-11-06-chip-carving/
-    image: /46x21/folk-art-school/chip-carving-leenhouts.jpg
-    alt:
-    caption:
-    title: Chip Carving—Plate with Scandinavian Design
-    date: November 6-8, 2015
-    time: 
-    published: true
-    start_date: 
-    stop_date: 2015-11-08
   - url: /events/annual/deck-tables/
     image: /16x9/events/deck-the-tables.jpg
     alt:
@@ -351,16 +277,6 @@ events:
     published: false
     start_date: 
     stop_date: 2015-11-22
-  - url: /events/calendar/2015/11/22/scandinavian-music-jam/
-    image: /16x9/events/scandinavian-music-jam.jpg
-    alt:
-    caption:
-    title: Scandinavian Music Jam 
-    date: November 29, 2015
-    time: 1:00-3:00 p.m.
-    published: 
-    start_date: 
-    stop_date: 2015-11-30
   - url: /events/calendar/2015/12/03/gingerbread-fair/
     image: 16x9/events/gingerbread-house.jpg
     alt:
@@ -381,36 +297,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-12-06
-  - url: /events/youth-programs/barnetimen/
-    image: /46x21/events/barnetimen-kids-2014.jpg
-    alt:
-    caption:
-    title: Barnetimen Children’s Hour 
-    date: December 15, 2015 
-    time: 10:00-11:00 a.m.
-    published: true
-    start_date: 
-    stop_date: 2015-12-16
-  - url: /events/calendar/2015/12/27/scandinavian-music-jam/
-    image: /16x9/events/scandinavian-music-jam.jpg
-    alt:
-    caption:
-    title: Scandinavian Music Jam 
-    date: December 27, 2015 
-    time: 2:00-4:00 p.m.
-    published: true
-    start_date: 
-    stop_date: 2015-12-28
-  - url: /folk-art-school/classes/woodworking/2016-01-06-whittling-klubb-kids/
-    image: /46x21/folk-art-school/whittling-kid.jpg
-    alt:
-    caption:
-    title: Whittling Klubb for Kids with Rebecca Hanna
-    date: January 6, 13, 20, and 27, and February 3 and 10, 2016
-    time: 3:35–5:15 p.m.
-    published: false
-    start_date:
-    stop_date: 
   - url: /events/calendar/2016/04/24/scandinavian-music-jam/
     image: 16x9/events/scandinavian-music-jam.jpg
     alt:
@@ -421,16 +307,6 @@ events:
     published: false
     start_date: 
     stop_date: 
-  - url: /events/calendar/2016/01/26/scandinavian-fine-handcraft/
-    image: 16x9/events/refsal-luther-student-event-miller.jpg
-    alt:
-    caption:
-    title: Luther College Student Demonstration and Exhibition of Scandinavian Fine Handcraft 
-    date: January 26, 2016 
-    time: 4:40-6:30 p.m. 
-    published: false
-    start_date: 
-    stop_date: 2016-01-27
   - url: /folk-art-school/classes/woodworking/2016-02-05-scandinavian-style-flat-plane-figure-carving/
     image: /46x21/folk-art-school/refsal-carving.jpg
     alt:
@@ -471,16 +347,6 @@ events:
     published: false
     start_date: 
     stop_date: 
-  - url: /events/calendar/2016/04/16/knitting-presentation-artist-steihaug/
-    image: /16x9/events/steihaug-presentation.jpg
-    alt:
-    caption:
-    title: "Presentation by Artist Kari Steihaug"
-    date: April 16, 2016
-    time: 
-    published: false
-    start_date:
-    stop_date: 
   - url: /events/youth-programs/barnetimen/
     image: /46x21/events/barnetimen-kids-2014.jpg
     alt:
@@ -501,36 +367,6 @@ events:
     published: false
     start_date: 
     stop_date: 
-  - url: /folk-art-school/classes/rosemaling/2016-04-28-rosemaling-gudbrandsdal-rucinski/
-    image: /46x21/folk-art-school/gudbrandsdal-rosemaling-rucinski.jpg
-    alt:
-    caption:
-    title: Class - Rosemaling in the Gudbrandsdal Style with Pam Rucinski
-    date: April 28-May 1, 2016
-    time: 
-    published: false
-    start_date:
-    stop_date: 
-  - url: /folk-art-school/classes/woodworking/2016-04-29-learning-language-of-kubbestol-speltz-hanna/
-    image: /46x21/folk-art-school/kubbestol-speltz-hanna.jpg
-    alt:
-    caption:
-    title: Class - Learning the Language of the Kubbestol with Steve Speltz and Rebecca Hanna
-    date: April 29-May 1, 2016
-    time: 
-    published: false
-    start_date:
-    stop_date: 
-  - url: /folk-art-school/classes/woodworking/2016-05-09-intro-post-beam-carving-holmen/
-    image: /46x21/folk-art-school/post-beam-carving-holmen.jpg
-    alt:
-    caption:
-    title: Class - Introduction to Post and Beam Carving with Jock Holmen
-    date: May 9-11, 2016
-    time: 
-    published: true
-    start_date:
-    stop_date: 
   - url: /events/annual/syttende-mai/
     image:
     alt:
@@ -538,7 +374,7 @@ events:
     title: _Syttende Mai_ Celebration
     date: May 17, 2016
     time:
-    published: true
+    published: false
     start_date: 
     stop_date: 2016-05-18
   - url: /events/youth-programs/pioneer-immersion/
@@ -560,6 +396,16 @@ events:
     time: 
     published: true
     start_date:
+    stop_date: 
+  - url: /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/
+    image:
+    alt:
+    caption:
+    title: Opening day of _The National Exhibition of Folk Art in the Norwegian Tradition_ 
+    date: June 9, 2016
+    time:
+    published: true
+    start_date: 
     stop_date: 
   - url: /folk-art-school/classes/fiber-arts/2016-06-09-spinning-dyeing-owen-johnston/
     image: /46x21/folk-art-school/spinning-dyeing-owen-johnston.jpg
@@ -590,5 +436,15 @@ events:
     time: 7:30 p.m.
     published: true
     start_date:
+    stop_date: 
+  - url: /events/annual/nordic-fest/
+    image: /46x21/events/nordic_fest.jpg
+    alt:
+    caption:
+    title: Vesterheim Events at Decorah's 50th Nordic Fest 
+    date: July 29-30, 2016
+    time:
+    published: true
+    start_date: 
     stop_date: 
 ---

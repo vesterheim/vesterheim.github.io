@@ -35,8 +35,7 @@ Speakers
 * Laurann Gilbertson, Chief Curator, [lgilbertson@vesterheim.org
 ](mailto:lgilbertson@vesterheim.org)
 * Martha Griesheimer, Coordinator of Volunteers, [mgriesheimer@vesterheim.org](mailto:mgriesheimer@vesterheim.org)
-* Stephanie Johnson, Development Assistant, [snjohnson@vesterheim.org](mailto:snjohnson@vesterheim.org)
-* Steve Johnson, Executive Director, [sjohnson@vesterheim.org](mailto:sjohnson@vesterheim.org)
+* Chris Johnson, President/CEO, [cjohnson@vesterheim.org](mailto:cjohnson@vesterheim.org)
 * Jennifer Kovarik, Registrar and Youth Educator, [jkovarik@vesterheim.org](mailto:jkovarik@vesterheim.org)
 
 Cost
@@ -46,7 +45,7 @@ If speakers travel outside of Decorah, hosting groups are required to pay round-
 Presentations
 -------------
 {: .heading--x-large }
-Download a PDF of the following list.
+Print the following list of presentations [here](/visit/group-tours/documents/speeches.pdf) (PDF).
 
 ### Hva Skjer? What's On at Vesterheim
 {: .heading--black--large }
@@ -54,7 +53,7 @@ Download a PDF of the following list.
 #### What's New at Vesterheim
 {: .subtitle }
 
-Stephanie Johnson or Steve Johnson <br />
+Chris Johnson <br />
 There are always exciting things happening at Vesterheim Norwegian-American Museum. Find out the latest news about exhibitions, events, and other programs.
 
 #### Involve Me and I’ll Understand:  Engaging Youth at Vesterheim Museum
