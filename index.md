@@ -384,19 +384,9 @@ events:
     title: Pioneer Immersion Program Open House 
     date: May 19, 2016
     time: 4:30-6:30PM
-    published: true
+    published: false
     start_date: 
     stop_date: 2016-05-20
-  - url: /events/calendar/2016/05/19/young-woman-at-sea-presentation/
-    image: /46x21/events/young-woman-at-sea.jpg
-    alt:
-    caption:
-    title: "_Young Woman at Sea_—Presentation by Kari Grønningsæter and Nick Preus"
-    date: May 19, 2016
-    time: 
-    published: true
-    start_date:
-    stop_date: 
   - url: /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/
     image:
     alt:
@@ -407,22 +397,22 @@ events:
     published: true
     start_date: 
     stop_date: 
+  - url: /events/calendar/2016/06/10/spinning-and-weaving-presentations/
+    image: /46x21/folk-art-school/spinning-dyeing-owen-johnston.jpg
+    alt:
+    caption:
+    title: "Spinning and Weaving Presentations by Martha Owen and Elizabeth Johnston"
+    date: June 10, 2016
+    time: 7:00 p.m.
+    published: true
+    start_date:
+    stop_date: 
   - url: /folk-art-school/classes/fiber-arts/2016-06-09-spinning-dyeing-owen-johnston/
     image: /46x21/folk-art-school/spinning-dyeing-owen-johnston.jpg
     alt:
     caption:
     title: Class - Spinning for Fair Isle with Martha Owen and Elizabeth Johnston
     date: June 9-10, 2016
-    time: 
-    published: true
-    start_date:
-    stop_date: 
-  - url: /folk-art-school/classes/fiber-arts/2016-06-11-fair-isle-knitting-owen-johnston/
-    image: /46x21/folk-art-school/fair-isle-knitting-owen-johnston.jpg
-    alt:
-    caption:
-    title: Class - Fair Isle Knitting with Martha Owen and Elizabeth Johnston
-    date: June 11-12, 2016
     time: 
     published: true
     start_date:
@@ -444,6 +434,16 @@ events:
     title: Vesterheim Events at Decorah's 50th Nordic Fest 
     date: July 29-30, 2016
     time:
+    published: true
+    start_date: 
+    stop_date: 
+  - url: /events/annual/folk-art-banquet/
+    image: /46x21/events/fol-art-banquet-2.jpg
+    alt:
+    caption:
+    title: Folk-Art Banquet 
+    date: July 29, 2016
+    time: 6:00 p.m.
     published: true
     start_date: 
     stop_date: 

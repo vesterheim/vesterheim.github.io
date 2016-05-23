@@ -36,4 +36,4 @@ There will be an opening reception on September 9, 2016, which will include pres
 
 Also in conjunction with the exhibition, Lexi from the Old Ballard Liquor Company in Seattle, Washington, will teach two workshops about aquavit in October. 
 
-Vesterheim's presentation of this exhibition is sponsored by Dennis Johnson.
+Vesterheim’s presentation of this exhibition is sponsored by Dennis Johnson, The Edward Jones Investment Offices of Dick Cuvelier and Troy Whitehill, and Dennis Larson.

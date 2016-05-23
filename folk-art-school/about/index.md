@@ -26,7 +26,9 @@ pagelist:
 ---
 Celebrating 50 years of Vesterheim’s Folk Art School!
 ------------------------------------
-Take a class at Vesterheim in 2016! We are celebrating the 50th anniversary of our Folk Art School, which began in 1967 with classes taught by Norwegian painter Sigmund Aarseth. The school grew quickly to offer over 40 classes annually and, during this special year, we are offering over 60! Join in as we pass on this beautiful heritage to future generations.
+Take a class at Vesterheim in 2016! Find lots of fun pictures of classes at Vesterheim on our Facebook page [here](https://www.facebook.com/Vesterheim-Norwegian-American-Museum-18263584108/photos_stream?tab=photos_albums).
+
+We are celebrating the 50th anniversary of our Folk Art School, which began in 1967 with classes taught by Norwegian painter Sigmund Aarseth. The school grew quickly to offer over 40 classes annually and, during this special year, we are offering over 60! Join in as we pass on this beautiful heritage to future generations.
 
 The Norwegian folk-art tradition reaches back to the days of the Vikings and continues to be vibrant and active today. The class choices at Vesterheim reflect the varied opportunities in Norwegian folk art, including fiber arts, woodworking, rosemaling, food, jewelry, and knifemaking. The Folk Art School also offers occasional instruction in other traditions as a great way to deepen the folk-art experience. 
 
