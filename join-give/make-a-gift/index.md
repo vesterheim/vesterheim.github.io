@@ -32,6 +32,10 @@ Opportunities for Giving:
 -------------------------
 {: .heading--black--large }
 
+### Match the Iowa Cultural Trust Endowment Challenge Grant
+
+Please help us with a matching gift for the Iowa Cultural Trust Endowment Challenge Grant to Vesterheim. Find out more about the Endowlment Challenge [here.](/join-give/make-a-gift/match-iowa-cultural-trust-endowment/) 
+
 ### Donate Now Online
 
 [Make a gift right now](https://vesterheim.wufoo.com/forms/m1ufzvni19c3srk/). Gifts at all levels are important to Vesterheim.

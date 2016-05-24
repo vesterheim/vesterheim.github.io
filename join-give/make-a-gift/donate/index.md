@@ -13,7 +13,7 @@ hero:
 related:
 
 navigation:
-  order: 10
+  order: 12
 pagelist:
   exclude: false
   order:         # Defaults to navigation order  

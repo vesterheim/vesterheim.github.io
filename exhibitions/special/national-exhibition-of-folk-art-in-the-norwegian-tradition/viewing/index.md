@@ -25,7 +25,7 @@ pagelist:
 ---
 **On view June 9 - July 30, 2016**
 
-An annual show, competition, and sale!
+We're celebrating the 50th anniversary of this annual show, competition, and sale!
 
 Don't miss this opportunity to admire recent works of amazing folk art by contemporary artists from all over the country. Many of the pieces are for sale through silent auction—a great way to add to your folk-art collection, or to start one. The judged exhibition includes knifemaking, rosemaling, weaving, and woodworking—all in the Norwegian tradition. Every year brings new and exciting artwork, often blending traditional designs with contemporary creativity. 
 
