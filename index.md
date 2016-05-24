@@ -100,7 +100,7 @@ panels:
     title: _National Exhibition of Folk Art in the Norwegian Tradition_ Entry Dates
     subtitle: 
     teaser: "Entry dates for the _National Exhibition of Folk Art in the Norwegian Tradition_ are May 1-22, 2016. We're excited to see the fantastic entries for this 50th anniversary year!"
-    published: true
+    published: false
     start_date: 
     stop_date: 
   - url: /visit/plan/hours-and-admission/
@@ -130,9 +130,9 @@ panels:
     image: /16x9/folk-art-school/figure-carving-harley.jpg
     alt:
     caption:
-    title:
+    title: Celebrating 50 years of classes at Vesterheim! 
     subtitle:
-    teaser: Celebrating 50 years of classes at Vesterheim! Check the Folk Art School schedule for 2016 and sign up today.
+    teaser: Check the Folk Art School schedule for 2016 and sign up today.
     published: true
     start_date: 
     stop_date:     
@@ -224,15 +224,15 @@ panels:
     published: false
     start_date:
     stop_date: 
-  - url: /about/news/2016/chris-johnson-luther-newsletter/
+  - url: /join-give/make-a-gift/match-iowa-cultural-trust-endowment/
     file_under: News
-    image: /16x9/people/johnson-chris.jpg
+    image: 16x9/kids/matching-challenge-twins.jpg
     alt:
     caption:
-    title: Chris Johnson, Vesterhiem President/CEO, Featured in Luther Alumni Magazine 
+    title: Double Your Norwegian-ness! 
     subtitle:
-    teaser: Chris Johnson, Vesterhiem President/CEO is featured in Luther Alumni Magazine.
-    published: false
+    teaser: Give a donation—of any size—to Vesterheim’s Endowment Challenge, and the Iowa Cultural Trust will double it!
+    published: true
     start_date:
     stop_date: 
 
