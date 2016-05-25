@@ -24,11 +24,9 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser: Gifts at all levels are important to Vesterheim.
 ---
-Double Your Norwegian-ness!
+Anyone who has ever donned a Norwegian outfit knows the process of getting into our national costumes can be time consuming. If you’ve ever thought there must be an easier way to express your Norwegian-ness, have we got an opportunity for you—**Give a matching donation—of any size—to Vesterheim’s Endowment Challenge!** 
 
-Anyone who has ever donned a Norwegian outfit knows the process of getting into our national costumes can be time consuming. If you’ve ever thought there must be an easier way to express your Norwegian-ness, have we got an opportunity for you—**Give a donation—of any size—to Vesterheim’s Endowment Challenge, and the Iowa Cultural Trust will double it!** 
-
-Now through December 2016, Vesterheim is working to raise $90,000 in order to earn a match from the Trust. We’ve already raised more than $70,000. Your gift today will ensure that Vesterheim’s programs—from folk-art classes to special exhibitions to Vesterheim magazine—thrive.
+Now through December 2016, Vesterheim is working to raise $90,000 in order to earn a match from the Trust. We’ve already raised more than $70,000. Your gift today will ensure that Vesterheim’s programs—from folk-art classes to special exhibitions to _Vesterheim_ magazine—thrive.
 
 Please help us with a matching gift. The goal of this Endowment Challenge Grant, made possible by the Iowa Arts Council, a division of the Iowa Department of Cultural Affairs, is to achieve long-term financial stability through endowment building. The endowment supports annual operating expenses. The challenge takes place over a two-year period, is a 3:1 match (Vesterheim will receive $1 for every $3 raised as part of the challenge).
 

@@ -229,9 +229,9 @@ panels:
     image: 16x9/kids/matching-challenge-twins.jpg
     alt:
     caption:
-    title: Double Your Norwegian-ness! 
+    title: Iowa Cultural Trust Endowment Challenge Grant
     subtitle:
-    teaser: Give a donation—of any size—to Vesterheim’s Endowment Challenge, and the Iowa Cultural Trust will double it!
+    teaser: Please help us with a matching gift for the Iowa Cultural Trust Endowment Challenge Grant to Vesterheim!
     published: true
     start_date:
     stop_date: 
