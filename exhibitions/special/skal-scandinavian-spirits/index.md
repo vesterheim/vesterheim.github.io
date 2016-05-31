@@ -32,8 +32,12 @@ Scandinavians have brewed beer for over 1,500 years. In pre-Christian times, the
 
 The main flavor of aquavit, according to the European Union, should be caraway or dill, and the minimum alcohol by volume has to be 37.5%. The taste of this Scandinavian spirit has been described as “rye bread in liquid form"—an unsurprising flavor profile since rye bread is a staple in Nordic diets. Aquavit pairs well with traditional Scandinavian cuisine like herring and other delights of the sea, such as crawfish and all manners of prepared salmon. A cold beer chaser is common during Scandinavian dining events like those during Midsummer and Christmas.Carlsberg is a popular brand, though microbrewing is just as, if not more, popular in Scandinavia as it is in the U.S. These drinking traditions offer one way for Scandinavian Americans to connect to their heritage. 
 
-There will be an opening reception on September 9, 2016, which will include presentations by Tova Brandt, curator at the Museum of Danish America, and Christer Andre Olsen, from the Norwegian company Arcus, distributer of Aalborg and Linie Aquavits. More information coming soon!
+Here's a teaser for some of the fun events coming this fall. On September 9 Vesterheim members are in for a special treat, an evening of SKÅL at a members-only opening! The evening will begin with a presentation on the historic and cultural significance of Scandinavian spirits, followed by a rousing aquavit tasting and food pairing, guided by Christer Andre Olsen, from the Norwegian company Arcus, distributor of Aalborg and Linie Aquavits. After the tasting, Tova Brandt, curator at the Museum of Danish America, who created this exhibition, will take members on small group tours of the show, sharing behind-the-scenes stories about the making of _Skål!_ 
 
-Also in conjunction with the exhibition, Lexi from the Old Ballard Liquor Company in Seattle, Washington, will teach two workshops about aquavit in October. 
+The community is invited to an exhibition opening reception on June 10. This event includes a free public aquavit tasting with Christer Andre Olsen, from the Norwegian company Arcus, distributer of Aalborg and Linie Aquavits, and gallery talks by Tova Brandt, curator at the Museum of Danish America, who created this special exhibition. 
+
+Also, Lexi from the Old Ballard Liquor Company in Seattle, Washington, will teach two workshops about aquavit in October. 
+
+More specific information about these and other Skål events will be announced soon.
 
 Vesterheim’s presentation of this exhibition is sponsored by Dennis Johnson, The Edward Jones Investment Offices of Dick Cuvelier and Troy Whitehill, and Dennis Larson.
