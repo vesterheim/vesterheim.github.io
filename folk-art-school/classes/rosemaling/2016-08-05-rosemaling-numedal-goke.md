@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Rosemaling in the Numedal Style
 subtitle: August 5-7, 2016, with Patti Goke 
 meta_description:  # Used in HTML head and as the description for some search engines

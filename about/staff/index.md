@@ -36,6 +36,7 @@ Curatorial
 ----------
 - **Laurann Gilbertson**, Chief Curator, Ext. 214, [lgilbertson@vesterheim.org](mailto:lgilbertson@vesterheim.org)
 - **Jennifer Kovarik**, Registrar, Archivist, and Youth Educator, Ext. 219, [jkovarik@vesterheim.org](mailto:jkovarik@vesterheim.org)
+- **Zach Row-Heyveld**, Exhibitions Manager, Ext. 221, [zrow-heyveld@vesterheim.org](mailto:zrow-heyveld@vesterheim.org)
 
 Development and Membership
 --------------------------

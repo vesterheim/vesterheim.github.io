@@ -29,6 +29,7 @@ Founded in 1989, the Valhalla Society consists of a special group of donors who 
 ### Valhalla Members
 
 - Maynard* and Minerva Aaker
+- Cynthia Alan
 - Natasha Alexander
 - Doris J. Allebach
 - Robert A. and Evy Johansen Alsaker
@@ -45,6 +46,7 @@ Founded in 1989, the Valhalla Society consists of a special group of donors who 
 - Joan Liffring-Zug Bourret
 - Michael J. Bovre
 - Dr. Joseph and Ingrid Callaghan
+- John and Veronna Capone
 - David and Brenda Carlson
 - Frances Christian
 - Peter Coffeen
@@ -79,12 +81,15 @@ Founded in 1989, the Valhalla Society consists of a special group of donors who 
 - Jon and Mary Hart
 - Kirsten Roverud Heine
 - Helen M. Heitmann*
+- Richard and Joann (Harr) Hemp
 - Gerald Freund and Ann Highum
 - James M. and Susan R. Honsvall
 - Michael Hovland
 - Dan F. Huebner*
 - Harriet M. Husvedt Estate
 - D. Scott and Jessica Ingstad
+- Dennis Johnson
+- Gary L. Johnson
 - Martin and Ruth Johnson
 - Ruth Christine Johnson
 - Steven and Barbara Johnson
@@ -98,12 +103,12 @@ Founded in 1989, the Valhalla Society consists of a special group of donors who 
 - Joan M. Leuenberger
 - James W. and Martha Ylvisaker Limburg
 - Prof. Carl R. Loper, Jr.* and Jane L. Loper
+- Annie R. Lucky
 - Dean E.* and Marilynn Amdal Madden
 - Kate M. Martinson
 - Lynn S. Maxson
 - Berit T. Mesarick*
 - Irene J. (Hopland) and Robert C. Meyer
-- Arnold J. and Ingrid Mjatveit
 - David and Linda Brekke Mona
 - Harry Navarre*
 - Betty R. and David T. Nelson*
@@ -116,6 +121,7 @@ Founded in 1989, the Valhalla Society consists of a special group of donors who 
 - Charles D. and Cornelia M. O'Kieffe
 - Mary Ann Olsen*
 - Connie Osmundson*
+- Ruth and Lynn Paulson
 - Hamlet and Suzanne Peterson
 - Janet Blohm Pultz
 - Roland and Elizabeth Rasmussen

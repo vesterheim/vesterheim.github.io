@@ -59,6 +59,7 @@ Kroneklubben Members
 - Kenn R. Barry*
 - Gertrude H. Berg*
 - Duane and Eileen Bruening
+- Bryant Foundation
 - Brenda and David Carlson
 - Decorah Bank & Trust Co.
 - Amanda F. Duff*
@@ -82,6 +83,7 @@ Kroneklubben Members
 - Dr. Eugene J. Nordby
 - Nordic Brunch
 - H. Signe Ostby and Scott Cook
+- Hamlet and Suzanne Peterson
 - Anna Rosendahl*
 - Harold Segelstad
 - Robert and Rebecca Shaw
@@ -109,9 +111,11 @@ Kroneklubben Members
 - Bryant Foundation
 - John and Veronna Capone
 - Lyle and Jean Cary*
+- Chicago Friends of Vesterheim
 - Kenneth V. Dahl
 - Carlin Dahler*
 - Edith* and Edward Delman
+- Delman Mortenson Charitable Foundation
 - Sallie Haugen DeReus
 - Phil and Audrey Dybdahl
 - Joseph and Ione Ellis
@@ -121,6 +125,7 @@ Kroneklubben Members
 - Eric and Joan Norgaard Charitable Trust
 - Eugene J. Nordby and Olive M. Nordby Foundation
 - Featherlite, Inc.
+- Ella Ager Fossum
 - Fred Carlson Company, Inc.
 - G. Unger Vetlesen Foundation
 - GreenPoint Bank
@@ -129,8 +134,10 @@ Kroneklubben Members
 - Glenn Haga*
 - Hagen & Kallevang P.C.
 - Richard and Diane Halom
+- Newman T. Halvorson
+- Marilyn H. Hansen
 - David J. Hardy
-- Richard C. and Joann Hemp
+- Richard C. and Joann (Harr) Hemp
 - Hal A. and Patricia G. Hetland
 - Humanities Iowa
 - Iowa Arts Council
@@ -140,18 +147,21 @@ Kroneklubben Members
 - Lorin H. Klemesrud*
 - Larry and Gail Larson
 - Madison Friends of Vesterheim
+- Kate M. Martinson
 - Carl McConeghey*
 - David and Linda Brekke Mona
 - Milma Naeseth*
 - Irene and Harry* Navarre
+- David T. Nelson*
 - Glenn Nelson
 - Olive Nordby*
 - Neal R. and Gerry Nottleson
 - Mary Ann Olsen*
-- Ham and Suzanne Peterson
+- Karen Owen-Tuzcu
 - Sonja Peterson
 - Kate Nelson Rattenborg
 - Janice W. Relf*
+- Rochester Friends of Vesterheim
 - Jeff and Marilyn Roverud
 - Roy J. Carver Charitable Trust
 - T. Eileen Russell
@@ -163,6 +173,7 @@ Kroneklubben Members
 - Ingebor Husby Smith*
 - Ruth and Arne Sorenson
 - Dr. Robert F. Spier
+- Hazel T. Stoeckeler
 - C. Peter Strong
 - Daniel and Mary Ann Thurmer
 - Violette I. Twedt*
@@ -172,13 +183,13 @@ Kroneklubben Members
 - Mrs. G. H. Westby*
 - Dr. David W.* and Peg Wright
 - Harriet S. Wrolstad*
+- Marguerite Ylvisaker*
 
 ### PEWTER ($10,000 - $29,999)
 - 99th Infantry Battalion
 - A & J Petersburg Agency
-- Marian Aaker
+- Marian R. Aaker
 - Mr. and Mrs. Maynard E.* Aaker
-- Minerva Aaker
 - Alliant Energy Foundation, Inc.
 - American Car Club of Norway
 - Nancy E. Anderson*
@@ -195,12 +206,14 @@ Kroneklubben Members
 - Ray Aune*
 - Joan M. Barager Estate
 - Helen Bruening Barbier
+- Dennis and Doris Barnaal
 - Marie Kleppe Barness*
 - The Bay and Paul Foundations
 - Naomi F. Bekkum
 - Bernice Rise Trust
 - Arley and Beverly Bjella*
-- Mary J. Boman
+- Jackie Bjoin*
+- Mary J. and Gerald Boman
 - Joan Liffring-Zug Bourret
 - Michael J. Bovre
 - Ed and Mette Bowen
@@ -212,16 +225,17 @@ Kroneklubben Members
 - Curtis L. Carlson*
 - Dr.* and Mrs. Harley Carlson
 - Helen Carlson*
-- John and Veronna Capone
 - Bill Cary
 - Casper Plumbing & Heating, Inc.
 - City of Decorah
 - Peter Coffeen
 - Karlyn N. Cross*
 - Clifford I. Cummings*
+- Dahl Family Foundation
 - Deco Products Company
 - Lois Drews
 - Mary M. Dunea
+- Janet Isabelle Dyck
 - Irving R. Eittreim*
 - Richard M. and Nancy L. Enstad
 - Erdman Engineering, P.C.
@@ -233,6 +247,7 @@ Kroneklubben Members
 - Janet B. Figg
 - Edward H. and Sandra Fish
 - E. T. and Marjery Fjelde
+- Richard H. and Vivian Fjeldheim
 - Sanford* and Wilma Fosholt
 - Ella Ager Fossum
 - David Frew
@@ -251,7 +266,6 @@ Kroneklubben Members
 - Glen H. Gronlund
 - Gunnar A. Gundersen, M.D.
 - Lawrence R. Hafstad*
-- Newman T. Halvorson
 - Newman T. Halvorson, Sr.*
 - Marilyn H. Hansen
 - Minnard H. Hanson
@@ -268,6 +282,7 @@ Kroneklubben Members
 - Ann Highum
 - Martha Marie A. Hoghaug*
 - James M. and Susan R. Honsvall
+- Hotel Winneshiek
 - Hotel-Motel Tax
 - Robert and Arlene Houlihan
 - Ronald E. Hovda
@@ -302,10 +317,12 @@ Kroneklubben Members
 - Joan M. Leuenberger
 - James W. and Martha Ylvisaker Limburg
 - C. Paul and Marlys* Lindholm
+- Scott and Anne Lindblom
 - Justine and Paul* Lionberger
+- Leif Lomo
 - Prof. Carl R. Loper Jr.* and Jane L. Loper
 - Norman Lorentzsen*
-- Kate M. Martinson
+- Daniel A. and Ann Mansfield
 - McGraw-Hill Companies Foundation
 - Elsie Melby*
 - Clifford M. Miller
@@ -328,7 +345,6 @@ Kroneklubben Members
 - Alfred D. and LaDelle Olson*
 - Connie Osmundson*
 - Osmund and Barbara Overby
-- Karen Owen Tuzcu
 - Sherman Oyen*
 - Helga Lund Parsons*
 - George J. Pedersen
@@ -336,7 +352,6 @@ Kroneklubben Members
 - Janet Blohm Pultz and Vaughan M. Pultz
 - Martin W. Reinhart
 - Barbara Rennie
-- Rochester Friends of Vesterheim
 - Finn Roed
 - Lee and David Rokke
 - Jerry Rosholt*
@@ -346,8 +361,8 @@ Kroneklubben Members
 - Eleanor Rud
 - William O. Running Estate
 - Ruth Rupp
+- Beverly J. Saboe
 - Lyle and Lucille* Sacquitne
-- Robert and Elizabeth Sande
 - Kathleen Bergan Schmidt
 - Neil Schraeder
 - Selmer Corporation
@@ -369,14 +384,14 @@ Kroneklubben Members
 - Henry Strong*
 - Robert and Frances Sundt
 - Lucile G. Swenson*
-- Thomas A. Woods, Ph.D., Making Sense of Place
+- Thompson Investment Management
 - Jack Thompson*
+- Thrivent Financial for Lutherans-Choice Dollars
 - Donald A. and Virginia Tollefson*
-- O. J. Tomson
 - Henrietta P. Torgerson
+- The Tuzcu Family Charitable Fund
 - James and Nancy Ulring
 - Ingeborg L. Ulvestad*
-- The Tuzcu Family Charitable Fund
 - Vanberia International Gifts LLC
 - Dean and Carol Vigeland
 - Viking River Cruises, Inc.
@@ -390,6 +405,7 @@ Kroneklubben Members
 - Dr. Lorraine Westerberg*
 - Patricia T. White
 - Winneshiek County
+- Thomas A. Woods, Ph.D., Making Sense of Place
 - Sue P. Wrolstad
 
 \* deceased

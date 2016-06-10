@@ -37,7 +37,7 @@ Now, Norwegians celebrate their constitution with excited crowds, especially chi
 * **1:00 p.m.** Children’s Parade through Decorah. The route starts on Main Street at the Winneshiek County Courthouse, then travels north along Washington Street to Water Street, then west on Water Street to Mill Street. Everyone is invited to march along, or cheer from the sidewalks. Norwegian flags will be provided for everyone marching. 
 * **1:20-2:00 p.m.** Vesterheim welcome and Decorah's [Nordic Dancers](https://www.facebook.com/groups/60204933647/) perform on Mill St. at the museum.
 
-In the case of inclement weather, the parade and Nordic Dancers will be canceled, and Eden Ehm will offer an informal performance of Hardanger fiddle music. 
+In the case of inclement weather, the parade and Nordic Dancers will be canceled. 
 
 Thank you to event sponsors Jeff and Marilyn Roverud and Sons of Norway Valdres Lodge #503!
 
