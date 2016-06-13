@@ -38,13 +38,6 @@ carousel:
       published: false
       start_date:
       stop_date: 
-    - image: 25x9/exhibitions/special/from-tradition-to-protest-lila-nelson.jpg
-      alt: "From Tradition to Protest: Lila Nelson's Weaving Life"
-      caption: 
-      link: /exhibitions/special/lila-nelson-weaving-retrospective/
-      published: true
-      start_date:
-      stop_date: 
     - image: 25x9/fodors-best-15-museums.jpg
       alt: "Fodor's Names Vesterheim One of 15 Best Small-Town Museums in the U.S."
       caption: "Vesterheim was named one of “15 Best Small-Town Museums in the U.S.” by the world-respected travel guide, Fodor’s!"
@@ -70,6 +63,13 @@ carousel:
       alt: National Exhibition of Folk Art in the Norwegian Tradition
       caption: Admire recent works by contemporary artists from all over the country on view June 9-July 30!
       link: /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/viewing/
+      published: true
+      start_date:
+      stop_date: 
+    - image: 25x9/exhibitions/special/from-tradition-to-protest-lila-nelson.jpg
+      alt: "From Tradition to Protest: Lila Nelson's Weaving Life"
+      caption: 
+      link: /exhibitions/special/lila-nelson-weaving-retrospective/
       published: true
       start_date:
       stop_date: 
@@ -237,16 +237,6 @@ panels:
     stop_date: 
 
 events:  
-  - url: /events/annual/folk-art-banquet/
-    image:
-    alt:
-    caption:
-    title: Folk Art Banquet 
-    date: July 24, 2015
-    time:
-    published: true
-    start_date: 
-    stop_date: 2015-07-25
   - url: /events/calendar/2015/09/26/smithsonian-day-live/
     image: /46x21/events/museum-day-live.jpg
     alt:
@@ -297,26 +287,6 @@ events:
     published: true
     start_date: 
     stop_date: 2015-12-06
-  - url: /events/calendar/2016/04/24/scandinavian-music-jam/
-    image: 16x9/events/scandinavian-music-jam.jpg
-    alt:
-    caption:
-    title: Scandinavian Music Jam 
-    date: April 24, 2016 
-    time: 1:00-3:00 p.m. 
-    published: false
-    start_date: 
-    stop_date: 
-  - url: /folk-art-school/classes/woodworking/2016-02-05-scandinavian-style-flat-plane-figure-carving/
-    image: /46x21/folk-art-school/refsal-carving.jpg
-    alt:
-    caption:
-    title: Scandinavian-Style Flat-Plane Figure Carving with Harley Refsal
-    date: February 5-7, 2016
-    time: 
-    published: false
-    start_date:
-    stop_date: 
   - url: /events/calendar/2016/02/05/taste-of-winneshiek/
     image: 46x21/events/pulpit-rock-brewery.jpg
     alt:
@@ -394,28 +364,8 @@ events:
     title: Opening day of _The National Exhibition of Folk Art in the Norwegian Tradition_ 
     date: June 9, 2016
     time:
-    published: true
+    published: false
     start_date: 
-    stop_date: 
-  - url: /events/calendar/2016/06/10/spinning-and-weaving-presentations/
-    image: /46x21/folk-art-school/spinning-dyeing-owen-johnston.jpg
-    alt:
-    caption:
-    title: "Spinning and Weaving Presentations by Martha Owen and Elizabeth Johnston"
-    date: June 10, 2016
-    time: 7:00 p.m.
-    published: true
-    start_date:
-    stop_date: 
-  - url: /folk-art-school/classes/fiber-arts/2016-06-09-spinning-dyeing-owen-johnston/
-    image: /46x21/folk-art-school/spinning-dyeing-owen-johnston.jpg
-    alt:
-    caption:
-    title: Class - Spinning for Fair Isle with Martha Owen and Elizabeth Johnston
-    date: June 9-10, 2016
-    time: 
-    published: true
-    start_date:
     stop_date: 
   - url: /events/calendar/2016/06/17/haugaard-jarvela/
     image: /46x21/events/haugaard-jarvela.jpg
@@ -426,6 +376,26 @@ events:
     time: 7:30 p.m.
     published: true
     start_date:
+    stop_date: 
+  - url: /events/calendar/2016/04/24/scandinavian-music-jam/
+    image: 16x9/events/scandinavian-music-jam.jpg
+    alt:
+    caption:
+    title: Scandinavian Music Jam 
+    date: April 24, 2016 
+    time: 1:00-3:00 p.m. 
+    published: false
+    start_date: 
+    stop_date: 
+  - url: /folk-art-school/classes/fiber-arts/2016-06-22-weaving-monks-belt-three-ways-demuth/
+    image: /folk-art-school/classes/2016/monks-belt-demuth.jpg
+    alt:
+    caption:
+    title: Class - _Weaving Monk's Belt Three Ways_ with Laura Demuth
+    date: June 22-26, 2016
+    time:
+    published: true
+    start_date: 
     stop_date: 
   - url: /events/annual/nordic-fest/
     image: /46x21/events/nordic_fest.jpg

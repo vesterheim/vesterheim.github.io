@@ -26,16 +26,16 @@ pagelist:
 ---
 Vesterheim invites all pre-school-aged children and their parents or caregivers to explore art and culture with museum tours, hands-on art projects, and snacks during _Barnetimen_ (Children's Hour). The program is led by ArtHaus directors Jenni and Eric Petersen-Brant and is held from 10:00-11:00 a.m. the third Tuesday of each month from September through April. 
 
-2015-2016 dates are—
+2016-2017 dates are—
 
-* September 15, 2015
-* October 20, 2015
-* November 17, 2015
-* December 15, 2015
-* January 19, 2016
-* February 16, 2016
-* March 15, 2016
-* April 19, 2016
+* September 20, 2016
+* October 18, 2016
+* November 15, 2016
+* December 20, 2016
+* January 17, 2017
+* February 21, 2017
+* March 21, 2017
+* April 18, 2017
 
 _Barnetimen_ is free of charge and no previous sign-up is necessary—come to one session or all of them. The program is geared toward 3-5 year olds, but all ages are welcome. Meet first at ArtHaus Studio at 516 W. Water St., visit the museum, and then head back to ArtHaus for an art project. 
 
