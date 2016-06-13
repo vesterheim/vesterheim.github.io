@@ -34,7 +34,7 @@ The main flavor of aquavit, according to the European Union, should be caraway o
 
 Here's a teaser for some of the fun events coming this fall. On September 9 Vesterheim members are in for a special treat, an evening of SKÅL at a members-only opening! The evening will begin with a presentation on the historic and cultural significance of Scandinavian spirits, followed by a rousing aquavit tasting and food pairing, guided by Christer Andre Olsen, from the Norwegian company Arcus, distributor of Aalborg and Linie Aquavits. After the tasting, Tova Brandt, curator at the Museum of Danish America, who created this exhibition, will take members on small group tours of the show, sharing behind-the-scenes stories about the making of _Skål!_ 
 
-The community is invited to an exhibition opening reception on June 10. This event includes a free public aquavit tasting with Christer Andre Olsen, from the Norwegian company Arcus, distributer of Aalborg and Linie Aquavits, and gallery talks by Tova Brandt, curator at the Museum of Danish America, who created this special exhibition. 
+The community is invited to an exhibition opening reception on June 10. This event includes a free public aquavit tasting with Christer Andre Olsen, from the Norwegian company Arcus, distributor of Aalborg and Linie Aquavits, and gallery talks by Tova Brandt, curator at the Museum of Danish America, who created this special exhibition. 
 
 Also, Lexi from the Old Ballard Liquor Company in Seattle, Washington, will teach two workshops about aquavit in October. 
 
