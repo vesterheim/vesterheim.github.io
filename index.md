@@ -133,7 +133,7 @@ panels:
     title: Celebrating 50 years of classes at Vesterheim! 
     subtitle:
     teaser: Check the Folk Art School schedule for 2016 and sign up today.
-    published: true
+    published: false
     start_date: 
     stop_date:     
   - url: /visit/plan/hours-and-admission/

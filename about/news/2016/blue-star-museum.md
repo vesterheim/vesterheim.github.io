@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: page
 title: Vesterheim Participates in the Blue Star Museums Program 
 meta_title:        # Appears on bookmarks, search results, etc...
@@ -16,7 +16,7 @@ related:
 navigation:
   exclude: true  
 pagelist:
-  order: 20150627
+  order: 20160627
   image: 
   alt: 
   caption:

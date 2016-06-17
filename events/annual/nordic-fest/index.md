@@ -13,7 +13,7 @@ caption:
 
 related:
   - /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/viewing/
-  - /about/news/2016/nordic-fest-book-sales.md
+  - /about/news/2016/nordic-fest-book-sales/
 
 navigation:
   order: 30

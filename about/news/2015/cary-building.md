@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: page
 title: Vesterheim Signs Purchase Agreement for Cary Property 
 meta_title:        # Appears on bookmarks, search results, etc...
