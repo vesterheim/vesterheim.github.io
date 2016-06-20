@@ -237,16 +237,6 @@ panels:
     stop_date: 
 
 events:  
-  - url: /events/calendar/2015/09/26/smithsonian-day-live/
-    image: /46x21/events/museum-day-live.jpg
-    alt:
-    caption:
-    title: Smithsonian Magazine Museum Day Live
-    date: September 26, 2015
-    time: 9:00 a.m.-5:00 p.m.
-    published: true
-    start_date: 
-    stop_date: 2015-09-27
   - url: /join-give/benefit-auction/
     image: /16x9/join-give/auction/folk-art-benefit-aution.jpg
     alt:
@@ -374,7 +364,7 @@ events:
     title: Harald Haugaard and Antti Järvelä Concert
     date: June 17, 2016
     time: 7:30 p.m.
-    published: true
+    published: false
     start_date:
     stop_date: 
   - url: /events/calendar/2016/04/24/scandinavian-music-jam/
@@ -414,6 +404,16 @@ events:
     title: Folk-Art Banquet 
     date: July 29, 2016
     time: 6:00 p.m.
+    published: true
+    start_date: 
+    stop_date: 
+  - url: /events/calendar/2016/09/24/smithsonian-day-live/
+    image: /46x21/events/museum-day-live.jpg
+    alt:
+    caption:
+    title: Smithsonian Magazine Museum Day Live
+    date: September 24, 2016
+    time: 9:00 a.m.-5:00 p.m.
     published: true
     start_date: 
     stop_date: 
