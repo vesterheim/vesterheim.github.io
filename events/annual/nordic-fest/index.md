@@ -38,9 +38,9 @@ Traditions new and old abound throughout the weekend. There is always lively dan
 
 * Trunk Show of Nordic-inspired wool blankets and clothing by Laurie Jacobi, award-winning textile designer from Minnesota.
 
-* Oneota Film Festival presents a film from Norway and our own _Driftless: A Film About Decorah, By Decorah_ at 3:30 p.m. on both Friday and Saturday. The Oneota Film Festival brings together hundreds of film enthusiasts in scenic Northeast Iowa to enjoy award-winning films.
+* Oneota Film Festival presents a film from Norway and our own _Driftless: A Film About Decorah, By Decorah_ at 3:30 p.m. on both Friday and Saturday in the museum's Bethania Church. The Oneota Film Festival brings together hundreds of film enthusiasts in scenic Northeast Iowa to enjoy award-winning films.
 
-* Norwegian artists: Rosemaler Turid Helle Fatland and fiber artis Britt Solheim making sheepskin coverlets.
+* Norwegian artists: Rosemaler Turid Helle Fatland and fiber artist Britt Solheim making sheepskin coverlets.
 
 * Folk-art Demonstrations by Vesterheim Folk Art School artists in the Norwegian tradition. Plus, _psalmodikon_ (stringed instrument) demonstrations and ropemaking demonstrations.
 
@@ -50,7 +50,7 @@ Traditions new and old abound throughout the weekend. There is always lively dan
 
 * Living Heritage Demonstrators: Blacksmithing, knifeblade forging, leatherwork, chairmaking, dovetail chest making, wood carving, pottery, and figure carving.
 
-* Woodcut prints by Decorah artist Carl Homestad.
+* Woodcut prints by Decorah artist Carl Homstad.
 
 * Country Gallery Antiques, specializing in Scandinavian antiques—textiles, jewelry, decorated woodenware, sewing tools, kitchenware, prints, and painted furniture.
 
