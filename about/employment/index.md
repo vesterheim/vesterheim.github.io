@@ -24,14 +24,6 @@ pagelist:
 ---
 The following job opportunities are currently available at Vesterheim.
 
-Development Events Coordinator 
------------------
-{: .heading--black--large }
-
-Vesterheim seeks a 30 hrs/wk Development Events Coordinator, who is responsible for designing, implementing, promoting, and evaluating Vesterheim’s regional and signature development events. The Development Events Coordinator works with the development team to ensure that all participants in Vesterheim’s events have positive experiences that increases their connection to the institution.
-
-Find specific information [here](/about/employment/development-event-coordinator/).
-
 Website/Technology Specialist 
 -----------------
 {: .heading--black--large }

@@ -44,6 +44,8 @@ Visit Vesterheim for two free presentations on June 10, 2016.
 
 8:00-8:45 p.m. - _Storytelling, The Gift of Sheep, Wool, and Spinning_ by Martha Owen.
 
+The lectures are partially supported with funds from the Grace Nelson Rikansrud Lecture Fund.
+
 Martha and Elizabeth will team teach classes this summer at Vesterheim's Folk Art School. During their stay they invite everyone to learn more about spinning and weaving at these two presentations.
 
 Elizabeth Johnston, Sheltano, United Kingdom, is a Shetland spinner and knitter. She learned much of her craft as a child, observing and receiving lessons from family and friends. She uses these age-old skills, handed down through generations, to turn Shetland fleece into beautiful soft yarns and Fair Isle and lace items for her business, Shetland Handspun. Interest in the long history of Shetland textiles led to research into historic fabrics and the warp-weighted loom. She is author of two chapters in Shetland Textiles 800 BC to the Present, edited by S.Laurenson. Elizabeth has demonstrated, lectured, and taught workshops in spinning, lace, and Fair Isle knitting throughout Europe and the United States.

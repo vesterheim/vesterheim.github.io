@@ -58,6 +58,8 @@ Traditions new and old abound throughout the weekend. There is always lively dan
 
 * Oneota Weavers and Spinners Guild Sales Shop with hand-felted Santas and Christmas ornaments/figures, hand-woven rugs, scarves/shawls, table runners, and more.
 
+* Friends from _The Norwegian American_ magazine from Seattle, Washington, and Norway House from Minneapolis, Minnesota, will both have information booths at the museum.
+
 * Free admission on Thursday - open 9:00 a.m. to 5:00 p.m.
 
 * The Open Air Division of 12 historic buildings is open Friday and Saturday from 12:00-4:00 p.m. to tour on your own with no admission fee. Guided tours of the Open Air Division are at 10:30 a.m., 1:30 p.m., and 2:30 p.m. on Thursday (free) and Sunday (with admission ticket.)
