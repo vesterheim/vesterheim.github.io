@@ -237,16 +237,6 @@ panels:
     stop_date: 
 
 events:  
-  - url: /join-give/benefit-auction/
-    image: /16x9/join-give/auction/folk-art-benefit-aution.jpg
-    alt:
-    caption:
-    title: Folk Art Benefit Auction Online
-    date: October 1-28, 2015
-    time: 
-    published: true
-    start_date: 
-    stop_date: 2015-10-29
   - url: /events/annual/deck-tables/
     image: /16x9/events/deck-the-tables.jpg
     alt:
@@ -384,7 +374,7 @@ events:
     title: Class - _Weaving Monk's Belt Three Ways_ with Laura Demuth
     date: June 22-26, 2016
     time:
-    published: true
+    published: false
     start_date: 
     stop_date: 
   - url: /events/annual/nordic-fest/
@@ -414,6 +404,16 @@ events:
     title: Smithsonian Magazine Museum Day Live
     date: September 24, 2016
     time: 9:00 a.m.-5:00 p.m.
+    published: true
+    start_date: 
+    stop_date: 
+  - url: /join-give/benefit-auction/
+    image: /16x9/join-give/auction/folk-art-benefit-aution.jpg
+    alt:
+    caption:
+    title: Folk Art Benefit Auction Online
+    date: October 5-19, 2016
+    time: 
     published: true
     start_date: 
     stop_date: 

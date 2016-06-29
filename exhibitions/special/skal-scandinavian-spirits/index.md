@@ -40,4 +40,4 @@ Also, Lexi from the Old Ballard Liquor Company in Seattle, Washington, will teac
 
 More specific information about these and other Skål events will be announced soon.
 
-Vesterheim’s presentation of this exhibition is sponsored by Dennis Johnson, The Edward Jones Investment Offices of Dick Cuvelier and Troy Whitehill, and Dennis Larson.
+Vesterheim’s presentation of this exhibition is sponsored by Dennis Johnson, The Edward Jones Investment Offices of Dick Cuvelier and Troy Whitehill, A&J Petersburg Agency, and Dennis Larson.

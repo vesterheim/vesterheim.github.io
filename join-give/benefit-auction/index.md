@@ -25,18 +25,12 @@ pagelist:
   teaser:  One-of-a-kind folk-art pieces of rosemaling, woodworking, fiber arts, and more by the best artists working in the Norwegian tradition are available only at Vesterheim’s Folk Art Benefit Auction.
 
 ---
-A tremendous _tusen takk_ to all the bidders, folk artists, and supporters for Vesterheim's 2015 Folk Art Benefit Auction.
+Vesterheim will host an online benefit auction from noon (CST), Wednesday, October 5, until 9:00 p.m. on Wednesday, October 19 at Bidding For Good. 
 
-The auction closed on October 28 at 9:00 p.m. central time. 
-
-We greatly appreciate everyone who participated and contributed to help make this auction a successful event. The auction had 100 bidders and raised $24,783.
-
-To successful bidders, we are looking forward to getting your one-of-a-kind piece into your hands and will be contacting you about shipping arrangements in the next couple of days. 
+Auction items will be ready for viewing soon. 
+ 
+The auction includes over 30 pieces of one-of-a-kind folk-art by the best artists working in the Norwegian tradition. You can bid from anywhere in the world.
 
 The auction is one of our biggest fundraising events. All proceeds go to projects directly related to Vesterheim’s Folk Art School. 
-
-See the pieces and final bids at Bidding For Good.
-
-{% include components/button.html text="View items!" url="https://www.biddingforgood.com/auction/auctionhome.action?vhost=VEST-AUCTION" style="primary" %}
 
 Contact Marcia McKelvey at 563-382-9681, or [mmckelvey@vesterheim.org](mailto:mmckelvey@vesterheim.org), with auction questions.
