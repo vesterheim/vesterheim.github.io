@@ -33,7 +33,7 @@ Current Locations
 Orlando, Florida <br />
 Exhibition _Norsk Kultur: Inspiration for 'Frozen'_
 
-Twenty-one items, which include bentwood boxes, a tankard, a horse harness, ale bowls, and a _kubbestol_ (a chair made from a solid log), are on view in the Norway Pavilion until sometime in 2016.
+This exhibition reopened on June 17, 2016, and will be on view for at least a year. It includes 30 items from Vesterheim's collection, such as a carved mangle board, a _bunad_, a Hardanger fiddle, and many examples of rosemaling.
 
 ### Livsreise Norwegian Heritage Center
 {: .heading--black--mixed-case }
@@ -49,7 +49,7 @@ This Vesterheim traveling exhibition, which focuses on the many symbols that hav
 Elk Horn, Iowa <br />
 Exhibition _Skål! Scandinavian Spirits_
 
-This exhibition, which explores the role of beer and aquavit as symbols of Scandinavian heritage, includes drinking vessels from Vesterheim's collections. On view through October 25, 2015. The exhibition will then travel to Nordic Heritage Museum, Seattle, Washington; Swedish American Museum, Chicago, Illinois; Vesterheim Norwegian-American Museum, Decorah, Iowa; American Swedish Historical Museum, Philadelphia, Pennsylvania; American Swedish Institute, Minneapolis, Minnesota; and Elverhoj Museum, Solvang, California.
+This exhibition, which explores the role of beer and aquavit as symbols of Scandinavian heritage, includes drinking vessels from Vesterheim's collections. The exhibition's venues includes The Museum of Danish America, Elk Horn, Iowa, Nordic Heritage Museum, Seattle, Washington; Swedish American Museum, Chicago, Illinois; Vesterheim Norwegian-American Museum, Decorah, Iowa; American Swedish Historical Museum, Philadelphia, Pennsylvania; American Swedish Institute, Minneapolis, Minnesota; and Elverhoj Museum, Solvang, California.
 
 ### The Dwight D. Eisenhower Library and Museum
 {: .heading--black--mixed-case }
@@ -62,14 +62,6 @@ A sampling of Vesterheim artifacts in the exhibition, which has been extended th
 *   A skein of human hair that was made in Hadeland, Norway, for knitting socks and darning during the World War II Occupation.
 *   A matchbook from "Little Norway," a training camp in Canada for the Royal Norwegian Air Force during WWII.
 *   A sweater worn by worn by Einar Judén when he was a member of the Norwegian resistance movement during WWII.
-
-### The Mingei International Museum
-{: .heading--black--mixed-case }
-
-San Diego, California<br />
-Exhibition _Made in America_
-
-A clock with fretwork design made by C.A. Hendrickson, a long-time resident of the Aase Haugen Home in Decorah, will be displayed with other hand-crafted pieces from around the United States in this exhibition, September 19, 2015 – February 21, 2016.
 
 ### The Gundersen Clinic
 {: .heading--black--mixed-case }

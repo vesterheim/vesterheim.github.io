@@ -42,7 +42,9 @@ Traditions new and old abound throughout the weekend. There is always lively dan
 
 * Norwegian artists: Rosemaler Turid Helle Fatland and fiber artist Britt Solheim making sheepskin coverlets.
 
-* Folk-art Demonstrations by Vesterheim Folk Art School artists in the Norwegian tradition. Plus, _psalmodikon_ (stringed instrument) demonstrations and ropemaking demonstrations.
+* Folk Art School Demonstrators in tents directly in front of the Main Building from 9:00 a.m. - 5:00 p.m. each day. Students and instructors of Vesterheim’s Folk Art School demonstrate a variety of folk arts.
+
+* _Psalmodikon_ (stringed instrument) demonstrations and ropemaking demonstrations.
 
 * Skjaldborg, from Elk Horn, Ia., will present their Viking encampment and will entertain throughout the day with full Viking combat demonstrations. Skjaldborg means “fortress of shields.”
 

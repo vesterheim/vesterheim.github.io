@@ -32,3 +32,5 @@ To make your reservation, call Vesterheim at 563-382-9681, or download this [for
 For more information, contact Darlene Fossum-Martin at 563-382-9681, ext. 215, or [dfossum-martin@vesterheim.org](mailto:dfossum-martin@vesterheim.org).
 
 Whether you are an artist, art enthusiast, or interested in learning more about Norwegian folk art, please feel welcome to attend! Help us to celebrate folk art and congratulate the 2016 Gold Medalists and _National Exhibition of Folk Art in the Norwegian Tradition_ ribbon winners. 
+
+Make the 50th anniversary celebration festive by wearing your _bunader_, Norwegian costumes! If you have one, we'd love to see it.
