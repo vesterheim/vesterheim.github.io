@@ -51,6 +51,22 @@ Exhibition _Skål! Scandinavian Spirits_
 
 This exhibition, which explores the role of beer and aquavit as symbols of Scandinavian heritage, includes drinking vessels from Vesterheim's collections. The exhibition's venues includes The Museum of Danish America, Elk Horn, Iowa, Nordic Heritage Museum, Seattle, Washington; Swedish American Museum, Chicago, Illinois; Vesterheim Norwegian-American Museum, Decorah, Iowa; American Swedish Historical Museum, Philadelphia, Pennsylvania; American Swedish Institute, Minneapolis, Minnesota; and Elverhoj Museum, Solvang, California.
 
+### James A. Michener Museum
+{: .heading--black--mixed-case }
+
+Doylestown, Pennsylvania <br />
+Exhibition _Oh Panama! Jonas Lie Paints the Panama Canal_
+
+This exhibition includes three prints from Vesterheim's collection by Jonas Lie (1880-1940), an American immigrant from Norway. The prints are of the construction of the Panama Canal and are view through October 9, 2016. 
+
+### The Iowa Quilt Museum
+{: .heading--black--mixed-case }
+
+Winterset, Iowa <br />
+Exhibition _Three Centuries of Red + White Quilts_
+
+A red and white quilt in a design primarily of heart and made by Betsy Sheldahl for her son and daughter-in-law in 1901 is on view in this exhibition through September 2016. 
+
 ### The Dwight D. Eisenhower Library and Museum
 {: .heading--black--mixed-case }
 
