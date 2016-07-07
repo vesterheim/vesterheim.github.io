@@ -34,7 +34,7 @@ Traditions new and old abound throughout the weekend. There is always lively dan
 
 2016 Vesterheim Highlights include:
 
-* Best-selling author Lauraine Snelling will be available to sign books Saturday - 9:00-11:00 a.m. and 12:00-3:00 p.m. in the Museum Store! Snelling has written over 80 Norwegian-American pioneers books, including the Red River of the North series. 
+* Best-selling author Lauraine Snelling will be available to sign books Saturday - 9:00-11:00 a.m. and 12:00-3:00 p.m. in the Museum Store! Snelling has written over 80 Norwegian-American pioneer books, including the Red River of the North series. Winner of the Romantic Times Career Achievement Award for Inspirational Fiction, Lauraine has become beloved by her readers for her historical novels featuring the town of Blessing, North Dakota, and her inspirational contemporary novels. Come join her as she celebrates the release of her newest novel, _The Second Half,_ plus all of her previous favorites!
 
 * Trunk Show of Nordic-inspired wool blankets and clothing by Laurie Jacobi, award-winning textile designer from Minnesota.
 
