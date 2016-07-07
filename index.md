@@ -235,6 +235,17 @@ panels:
     published: true
     start_date:
     stop_date: 
+  - url: /about/news/2016/vesterheim-survey/
+    file_under: News
+    image: 16x9/about/survey.jpg
+    alt:
+    caption:
+    title: Vesterheim Survey
+    subtitle:
+    teaser: Please take our survey. We want to know what you think are the most important services Vesterheim can provide in the future.
+    published: true
+    start_date:
+    stop_date: 
 
 events:  
   - url: /events/annual/deck-tables/
@@ -347,16 +358,6 @@ events:
     published: false
     start_date: 
     stop_date: 
-  - url: /events/calendar/2016/06/17/haugaard-jarvela/
-    image: /46x21/events/haugaard-jarvela.jpg
-    alt:
-    caption:
-    title: Harald Haugaard and Antti Järvelä Concert
-    date: June 17, 2016
-    time: 7:30 p.m.
-    published: false
-    start_date:
-    stop_date: 
   - url: /events/calendar/2016/04/24/scandinavian-music-jam/
     image: 16x9/events/scandinavian-music-jam.jpg
     alt:
@@ -367,14 +368,14 @@ events:
     published: false
     start_date: 
     stop_date: 
-  - url: /folk-art-school/classes/fiber-arts/2016-06-22-weaving-monks-belt-three-ways-demuth/
-    image: /folk-art-school/classes/2016/monks-belt-demuth.jpg
+  - url: /folk-art-school/classes/woodworking/2016-07-23-scandinavian-style-flat-plane-figure-carving/
+    image: /16x9/folk-art-school/figure-carving-harley.jpg
     alt:
     caption:
-    title: Class - _Weaving Monk's Belt Three Ways_ with Laura Demuth
-    date: June 22-26, 2016
+    title: Class - _Scandinavian-Style Flat-Plane Figure Carving_ with Harley Refsal
+    date: July 23-27, 2016
     time:
-    published: false
+    published: true
     start_date: 
     stop_date: 
   - url: /events/annual/nordic-fest/

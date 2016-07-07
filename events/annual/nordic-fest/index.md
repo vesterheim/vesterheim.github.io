@@ -46,11 +46,11 @@ Traditions new and old abound throughout the weekend. There is always lively dan
 
 * _Psalmodikon_ (stringed instrument) demonstrations and ropemaking demonstrations.
 
-* Skjaldborg, from Elk Horn, Ia., will present their Viking encampment and will entertain throughout the day with full Viking combat demonstrations. Skjaldborg means “fortress of shields.”
+* Skjaldborg, from Elk Horn, Ia., will present their Viking encampment and will entertain throughout the day with full Viking combat demonstrations. Skjaldborg means “fortress of shields.” Sponsored by Viking State Bank & Trust.
 
 * Viking artisans: Flax processing and Viking jewelry making
 
-* Living Heritage Demonstrators: Blacksmithing, knifeblade forging, leatherwork, chairmaking, dovetail chest making, wood carving, pottery, and figure carving.
+* Living Heritage Demonstrators: Blacksmithing, knifeblade forging, leatherwork, chairmaking, dovetail chest making, wood carving, pottery, and figure carving. Sponsored by Decorah Bank and Trust.
 
 * Woodcut prints by Decorah artist Carl Homstad.
 
