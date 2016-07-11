@@ -398,6 +398,26 @@ events:
     published: true
     start_date: 
     stop_date: 
+  - url: /events/calendar/2016/09/09/skal-member-event/
+    image: 46x21/exhibitions/special/skal-triptych.jpg
+    alt:
+    caption:
+    title: An Evening of SKÅL—Members-Only Opening
+    date: September 9, 2016
+    time: 5:00-8:00 p.m.
+    published: true
+    start_date: 
+    stop_date: 
+  - url: /events/calendar/2016/09/10/skal-reception/
+    image: 46x21/exhibitions/special/skal-triptych.jpg
+    alt:
+    caption:
+    title: Exhibition Opening for _SKÅL! Scandinavian Spirits_
+    date: September 10, 2016
+    time: 5:00-7:00 p.m.
+    published: true
+    start_date: 
+    stop_date: 
   - url: /events/calendar/2016/09/24/smithsonian-day-live/
     image: /46x21/events/museum-day-live.jpg
     alt:
