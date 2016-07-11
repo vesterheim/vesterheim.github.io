@@ -80,11 +80,11 @@ carousel:
       published: false
       start_date:
       stop_date:
-    - image: 25x9/events/baltic-crossing-band.jpg
-      alt: Baltic Crossing Concert
-      caption: "Baltic Crossing plays at Vesterheim, September 27, 2015."
-      link: /events/calendar/2015/09/27/baltic-crossing/
-      published: false
+    - image: 25x9/exhibitions/special/skal-triptych.jpg
+      alt: Skål! Scandinavian Spirits
+      caption: "_Skål! Scandinavian Spirits_ On View at Vesterheim Aug. 12-Dec. 31, 2016."
+      link: /exhibitions/special/skal-scandinavian-spirits/
+      published: true
       start_date:
       stop_date:
 
