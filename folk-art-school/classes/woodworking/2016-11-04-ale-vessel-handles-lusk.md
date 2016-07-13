@@ -37,6 +37,4 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description 
 ---
-### This class is currently full. However, we often receive cancelations. Please call 563-382-9681 to be placed on a wait list. 
-
 Double-handled ale bowls (ø​lk​jenge) were carved primarily with horse or dragon heads as handles. In this class, we will focus on a lesser-known form of ale bowl from the Sogn region of Norway. A bowl from the Vesterheim collection (pictured) will be our model. Using hand tools, we will shape the bowl inside and out, and carve the serpent-shaped handles. Students will be able to paint and finish their completed ale bowls with a food-safe finish. 
