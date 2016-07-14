@@ -23,7 +23,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-Vesterheim is pleased to announce that it has received a Cultural Leadership Partner Operating Support Grant from the Iowa Arts Council, a division of the Iowa Department of Cultural Affairs. Grant funds will support Vesterheim's many activities, such as Norwegian Christmas Weekend and special programs during the 2016 exhibitions _From Tradition to Protest: Lila Nelson's Weaving Life,_ _Skål! Scandinavian Spirits,_ and _Fifty Years of Folk Art._ 
+Vesterheim is pleased to announce that it has received a Cultural Leadership Partner Operating Support Grant from the Iowa Arts Council, a division of the Iowa Department of Cultural Affairs. Grant funds will support Vesterheim's many activities, such as the 2016 exhibition _Fifty Years of Folk Art_ and the printing of the 2017 Folk Art School catalog.
 
 The Cultural Leadership Partners Art Project Grant creates opportunities for the arts to flourish in Iowa by investing in projects that positively impact the vitality of the arts in the state, demonstrate public value, and support Iowa Arts Council funding priorities. 
 

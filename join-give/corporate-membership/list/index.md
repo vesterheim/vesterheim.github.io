@@ -25,20 +25,11 @@ pagelist:
 ---
 We thank our Corporate Members for their support and ask that you consider supporting them!
 
-[Ace Hardware/Ace Kitchen Place](http://www.acekitchenplace.com/)
-: Ace has everything you would need in your kitchen or tool box as well as convert services and friendly, knowledgeable people.
-
 [A&amp;J Petersburg Agency](http://www.ajpetersburg.com/)
 : Serving Northeast Iowa’s Insurance and Real Estate needs since 1932.
 
 [Ameriprise Financial, David Olson &amp; Associates](http://www.ameripriseadvisors.com/david.m.olson/)
 : Working everyday with clients one-on-one to help them put their dreams and goals within reach.
-
-[Anderson, Wilmarth, Van der Maaten, Belay &amp; Fretheim](http://www.andersonlawdecorah.com/)
-: Decorah Business Attorneys.
-
-[Bank of the West](https://www.bankofthewest.com/)
-: For more than 135 years, the bank’s foundation has been their relationships with customers.
 
 [Bruening Rock Products, Inc.](http://www.brueningrock.com/)
 : Rock… Don’t build without it.
@@ -60,9 +51,6 @@ We thank our Corporate Members for their support and ask that you consider suppo
 
 [Country Inn - Decorah](http://www.countryinns.com/decorah-hotel-ia-52101/iadecora)
 : Travel in comfort when you visit Decorah.
-
-[Courtesy Corporation, McDonald’s Restaurant](http://www.mccourtesy.com/content/home)
-: Franchise serving Western Wisconsin, Southeastern Minnesota, and Decorah, Iowa.
 
 [Dairyland Power Cooperative](http://www.dairynet.com/)
 : Striving to provide services that exceed expectations.
@@ -91,17 +79,8 @@ We thank our Corporate Members for their support and ask that you consider suppo
 [Erdman Engineering P.C.](http://www.erdmanengineering.com/)
 : Serving Northeast Iowa with civil engineering and land surveying services since 1955.
 
-[Faldet Dairy Consulting](http://gpsdairy.com/)
-: Dairy nutrition consultants servicing dairies throughout the Midwest and beyond.
-
 [The Family Table Restaurant](http://www.familytabledecorah.com/)
 : Nothing real fancy, just good food.
-
-[Farmers &amp; Merchants Savings Bank](http://www.fmsb4me.com/)
-: Whose prime interest is you!
-
-[Fencl Oil &amp; LP Co., Inc.](http://www.fencloil.com/)
-: Keeping you warm since 1951!
 
 [Featherlite Trailers](http://www.fthr.com/)
 : Manufacturer of all-aluminum specialty trailers.
@@ -141,9 +120,6 @@ We thank our Corporate Members for their support and ask that you consider suppo
 
 [La Rana Bistro](http://ww41.laranabistro.com/)
 : Come for fresh and amazing food and a fantastic selection of cocktails, wine, and beer! Cheers!
-
-[Ladybug Landscapes and Decorah Floral](http://www.ladybugdecorah.com/)
-: Keep your home looking great with the help of Ladybug.
 
 [LetterWerks Sign City, LLC](http://www.letterwerks.com/)
 : Your source for signs, banners, and graphic design; digital vinyl banners; awards; and multi-color screen printing.
@@ -202,23 +178,11 @@ Randall Olson, D.D.S.
 [Stanley Engineered and Fastening (formerly Infastech)](http://www.stanleyengineeredfastening.com/)
 : Anything that is manufactured is touched by Stanley Engineered Fastening.
 
-[StateFarm Insurance—Paul Hundson Agency](https://www.statefarm.com/agent/US/IA/Decorah/Paul-Hudson-KL4VX1YS000)
-: For your insurance needs.
-
-[Storey Kenworthy](http://www.storeykenworthy.com/)
-: Iowa's trusted solution for All Things Office.
-
-[Super 8 Motel of Decorah](http://www.super8.com/hotels/iowa/decorah/super-8-decorah/hotel-overview)
-: After a long day of travel, relax in your Decorah, Iowa, hotel room with cable TV and Showtime, and connect to free Wi-Fi Internet.
-
 [T-Bock’s Sports Bar &amp; Grill](http://www.tbocks.com/)
 : Casual, family-friendly sports bar, featuring breakfast, lunch, and dinner specials seven days a week. 
 
 [Thrifty White Pharmacy](http://www.thriftywhite.com/)
 : A community pharmacy providing outpatient perscriptions, long-term care services, delivery, mail outs, vaccinations, and compounded medications.
-
-[Vick's Plumbing and Heating](http://www.vicksheating.com/)
-: In business since 1936, Vick's experienced and licensed installers and technicians are ready to help you make your house a home.
 
 [Viking River Cruises, Inc.](https://www.vikingrivercruises.com/?refcd=GO20120430223917100211s_viking_river_cruises&amp;tsacr=GO11872645970&amp;refsrcprg=sem&amp;utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=brand)
 : Join Viking River Cruises as they usher in a new era of ocean cruising by taking the innovative thinking behind award-winning river cruises and bringing it to the epic setting of the sea.

@@ -25,3 +25,5 @@ pagelist:
   teaser: Celebrate fifty incredible years of the groundbreaking Vesterheim Folk Art School and the famous annual exhibition it inspired.
 ---
 Celebrate with us fifty incredible years of the groundbreaking Vesterheim Folk Art School and the famous annual exhibition it inspired, and revel in the works of artists who have taught and were nurtured here.
+
+The exhibition is sponsored by the Iowa Arts Council, a division of the Iowa Department of Cultural Affairs; Veronna and John Capone; Ron Hovda; and additional support from Jeff Anderson, Shirley Evenstad, and Illinois Norsk Rosemalers Assoc.
