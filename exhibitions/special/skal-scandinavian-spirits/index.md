@@ -27,7 +27,7 @@ pagelist:
 ---
 Exhibition
 ------------------------
-For centuries, alcoholic beverages have played a role in spirited Scandinavian celebrations, inspiring consummate folk art and raising the ire of Temperance and religious leaders. This exciting traveling exhibition curated by the Museum of Danish America shares the history and traditions of drinking culture in Sweden, Norway, and Denmark, and how those traditions carried into the U.S. with immigrants. The exhibit focuses on beer and aquavit—the traditional booze of Scandinavia that means “the water of life.”
+For centuries, alcoholic beverages have played a role in spirited Scandinavian celebrations, inspiring consummate folk art and raising the ire of Temperance and religious leaders. This exciting traveling exhibition curated by the Museum of Danish America shares the history and traditions of drinking culture in Sweden, Norway, and Denmark, and how those traditions carried into the U.S. with immigrants. The exhibit focuses on beer and aquavit—the traditional flavored spirit of Scandinavia that means “the water of life.”
 
 Scandinavians have brewed beer for over 1,500 years. In pre-Christian times, the Norse god Odin was credited with teaching humans how to brew beer, and drinking beer was often involved in worship and as offering to the deities. Beer was part of battle victory celebrations and sometimes drinking challenges. In the 1500s, distilled liquor became known through Scandinavia as a medical cure-all. Early distilling efforts often produced awful flavors, so herbs and other plants were used to improve the taste—creating what is now known as aquavit. 
 

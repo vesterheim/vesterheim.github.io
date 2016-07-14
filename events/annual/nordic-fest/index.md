@@ -42,6 +42,8 @@ Traditions new and old abound throughout the weekend. There is always lively dan
 
 * Norwegian artists: Rosemaler Turid Helle Fatland and fiber artist Britt Solheim making sheepskin coverlets.
 
+* Demonstrators in _The National Exhibition of Folk Art in the Norwegian Tradition_: 9:00 a.m.-1:00 p.m. on Friday—woodworking with Becky Lusk; 1:00-5:00 p.m. on Friday—woodworking with Hans Sandom; 9:00 a.m.-1:00 p.m. on Saturday—woodworking with Harley Refsal; 1:00-5:00 p.m. on Saturday—woodworking with Phil Odden and Else Bigton. 
+
 * Folk Art School Demonstrators in tents directly in front of the Main Building from 9:00 a.m. - 5:00 p.m. each day. Students and instructors of Vesterheim’s Folk Art School demonstrate a variety of folk arts.
 
 * _Psalmodikon_ (stringed instrument) demonstrations and ropemaking demonstrations.
