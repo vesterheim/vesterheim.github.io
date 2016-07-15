@@ -25,7 +25,7 @@ pagelist:
 ---
 Vesterheim is pleased to announce that it has received a Cultural Leadership Partner Operating Support Grant from the Iowa Arts Council, a division of the Iowa Department of Cultural Affairs. Grant funds will support Vesterheim's many activities, such as the 2016 exhibition _Fifty Years of Folk Art_ and the printing of the 2017 Folk Art School catalog.
 
-The Cultural Leadership Partners Art Project Grant creates opportunities for the arts to flourish in Iowa by investing in projects that positively impact the vitality of the arts in the state, demonstrate public value, and support Iowa Arts Council funding priorities. 
+The grant creates opportunities for the arts to flourish in Iowa by investing in projects that positively impact the vitality of the arts in the state, demonstrate public value, and support Iowa Arts Council funding priorities. 
 
 “Through this investment and partnership, the Iowa Arts Council and Vesterheim are working hand-in-hand to ensure that the stories of Iowa are preserved and communicated to connect past, present, and future generations," said Vesterheim President/CEO Chris Johnson. "We're so fortunate to receive this public arts funding.”
 
