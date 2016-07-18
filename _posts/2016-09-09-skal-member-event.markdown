@@ -44,6 +44,6 @@ Experience Norwegian aquavit traditions and learn how to properly skål! Join us
 
 During the evening, Tova Brandt, curator at the Museum of Danish America, will give guided tours of the show, sharing behind-the-scenes stories! Other refreshments will be served.
 
-RSVP to Nicholas Klein at 563-382-9681, ext. 109, or [nklein@vesterheim.org](mailto:nklein.vesterheim.org). Not a Vesterheim member? Join [here!](/join-give/membership/) 
+RSVP to Nicholas Klein at 563-382-9681, ext. 109, or [nklein@vesterheim.org](mailto:nklein@vesterheim.org). Not a Vesterheim member? Join [here!](/join-give/membership/) 
 
 This traveling [exhibition](/exhibitions/special/skal-scandinavian-spirits/) curated by the Museum of Danish America and presented by Aalborg and Linie Aquavits will be on view at Vesterheim from August 12 - December 31, 2016. Vesterheim events are sponsored by Dennis Johnson, The Edward Jones Investment Offices of Dick Cuvelier and Troy Whitehill, A&J Petersburg Agency, and Dennis Larson.
