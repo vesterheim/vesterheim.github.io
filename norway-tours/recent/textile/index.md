@@ -14,8 +14,8 @@ related:
   - /norway-tours/upcoming/folk-art/
 
 navigation:
-  title: Textile Study Tour
-  order: 30  
+  title: Textile Study Tour - 2015
+  order: 50  
 pagelist:
   order:         # Defaults to navigation order
   image: 46x21/norway-tours/textile-study-tour-sami.jpg
@@ -38,5 +38,3 @@ Vesterheim's seventh Textile Study Tour focused on the textiles and traditions o
 {% include norway-tours/guide.html name='Ingebjørg Monsen' %}
 
 {% include norway-tours/guide.html name='Laurann Gilbertson' %}
-
-For more information about upcoming tours: Michelle Whitehill at 563-382-9681, ext. 240, or [mwhitehill@vesterheim.org](mailto:mwhitehill@vesterheim.org).

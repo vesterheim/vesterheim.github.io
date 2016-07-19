@@ -398,6 +398,15 @@ events:
     published: true
     start_date: 
     stop_date: 
+  - url: /events/away/des-moines/
+    image: 46x21/exhibitions/special/skal-triptych.jpg
+    alt:
+    caption:
+    title: Vesterheim Friends Luncheon and Program - Des Moines, Iowa
+    date: August 27, 2016
+    published: true
+    start_date:
+    stop_date:
   - url: /events/calendar/2016/09/09/skal-member-event/
     image: 46x21/exhibitions/special/skal-triptych.jpg
     alt:

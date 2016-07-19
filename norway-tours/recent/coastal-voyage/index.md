@@ -23,7 +23,7 @@ pagelist:
   image: 46x21/norway-tours/coastal-voyage.jpg
   alt: 
   caption:   
-  title: Norwegian Coastal Voyage Tour
+  title: Norwegian Coastal Voyage Tour - 2015
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
@@ -40,5 +40,3 @@ On this tour Vesterheim added it's special touch to the Hurtigruten’s classic 
 {% include norway-tours/guide.html name='Knut Werner-Hagen' %}
 
 {% include norway-tours/guide.html name='Michelle Whitehill' %}
-
-For more information about upcoming tours: Michelle Whitehill at 563-382-9681, ext. 240, or [mwhitehill@vesterheim.org](mailto:mwhitehill@vesterheim.org).
