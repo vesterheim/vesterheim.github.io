@@ -174,9 +174,9 @@ panels:
     image: 
     alt:
     caption:
-    title: Announcing the 2016 Folk Art Raffle
+    title: Last Chance for Folk Art Raffle Tickets!
     subtitle:
-    teaser: Check out Vesterheim's 2016 Folk Art Raffle. You could own this beautiful bowl by Norwegian rosemaler Turid Helle Fatland! Raffle tickets are only $2.50 each and available at the museum.
+    teaser: You could own this beautiful bowl by Norwegian rosemaler Turid Helle Fatland! Raffle tickets are only $2.50 each and available at the museum. Drawing is July 30 at 3:00 p.m.
     published: true
     start_date: 
     stop_date: 
@@ -365,7 +365,7 @@ events:
     title: Scandinavian Music Jam 
     date: July 24, 2016 
     time: 1:00-3:00 p.m. 
-    published: true
+    published: false
     start_date: 
     stop_date: 
   - url: /folk-art-school/classes/woodworking/2016-07-23-scandinavian-style-flat-plane-figure-carving/
@@ -375,7 +375,7 @@ events:
     title: Class - _Scandinavian-Style Flat-Plane Figure Carving_ with Harley Refsal
     date: July 23-27, 2016
     time:
-    published: true
+    published: false
     start_date: 
     stop_date: 
   - url: /events/annual/nordic-fest/

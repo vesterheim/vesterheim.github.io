@@ -26,7 +26,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-Enjoy a Vesterheim adventure at Decorah’s Annual Nordic Fest!
+Enjoy a Vesterheim adventure at Decorah’s Annual Nordic Fest! Print a text list of Vesterheim events and demonstrators [here.](/events/annual/documents/NFVesterheim List.pdf) 
 
 Nordic Fest is celebrating it's 50th anniversary! The city-wide festival is held each year on the last full weekend in July and includes fun activities for the whole family. This year it will held on July 29 and 30 with Opening Ceremonies on Thursday, July 28. 
 
