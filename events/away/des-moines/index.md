@@ -26,7 +26,7 @@ Vesterheim is honored to invite you to attend _Skål! Scandinavian Spirits Sneak
 
 The event will be Sunday, August 27, 2016, 11:30 a.m. - 1:30 p.m., at the Des Moines Marriott Downtown, 700 Grand Avenue, Des Moines, Iowa.
 
-Join Vesterheim Executive Director Chris Johnson and Vesterheim’s Folk Art School Woodworking Instructor Rebecca Hannah for a presentation about traditional Norwegian celebrations and the drinks and folk arts that make them so special.
+Join Vesterheim Executive Director Chris Johnson and Vesterheim’s Folk Art School Woodworking Instructor Rebecca Hanna for a presentation about traditional Norwegian celebrations and the drinks and folk arts that make them so special.
 
 Rebecca will share her enthusiasm for the creation of ale bowls and discuss how they’ve been used for holidays, both in Norway and the United States.
 

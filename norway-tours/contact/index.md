@@ -7,9 +7,9 @@ meta_description:  # Used in HTML head and as the description for some search en
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
  
 lead:
-  image: 1x1/norway-tours/michelle_whitehill.jpg
-  alt: Michelle Whitehill
-  caption: Michelle Whitehill.
+  image: 
+  alt: 
+  caption: 
   pull: right
 
 related:
@@ -29,8 +29,8 @@ pagelist:
 ---
 For more information about Vesterheim's tours to Norway contact:
 
-Michelle Whitehill <br />
+Katherine Johnson <br />
 563-382-9681, ext. 240 <br />
-[mwhitehill@vesterheim.org](mailto:mwhitehill@vesterheim.org) <br />
+[kjohnson@vesterheim.org](mailto:kjohnson@vesterheim.org) <br />
 P.O. Box 379 <br />
 Decorah, IA 52101
