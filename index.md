@@ -87,6 +87,13 @@ carousel:
       published: true
       start_date:
       stop_date:
+    - image: 25x9/join-give/magazine.jpg
+      alt: "Vesterheim Magazine"
+      caption: 
+      link: /join-give/membership/
+      published: true
+      start_date:
+      stop_date: 
 
 show_social_sharing_bar: false
 

@@ -16,14 +16,14 @@ navigation:
   order: 70
 pagelist:
   order:         # Defaults to navigation order
-  image: 46x21/about/magazine.jpg 
+  image: 46x21/about/magazine-2016.jpg 
   alt: 
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
   teaser: _Vesterheim,_ a stunning full-color, 48-page magazine, is a “museum without walls,” bringing into the homes of Vesterheim members twice each year the rich pageantry of Norwegian-American history, tradition, art, and culture.
 ---
-<figure class="pull-left  content-photo  content-photo--golden-ratio--pull-left  content-photo--golden-ratio"><div class="content-photo__lining">{% picture golden lead/magazine/magazine-2014.jpg alt="Vesterheim Magazine" %}</div></figure>
+<figure class="pull-left  content-photo  content-photo--golden-ratio--pull-left  content-photo--golden-ratio"><div class="content-photo__lining">{% picture golden lead/magazine/01300.jpg alt="Vesterheim Magazine" %}</div></figure>
 
 _Vesterheim,_ a stunning full-color, 48-page magazine, is a “museum without walls,” bringing into the homes of Vesterheim members twice each year the rich pageantry of Norwegian-American history, tradition, art, and culture. From the comfort of an armchair, you can marvel at the intricate beauty of folk-art traditions, explore the struggles and triumphs of immigrant life, or discover the Norwegian-American captains of industry and finance. 
 
