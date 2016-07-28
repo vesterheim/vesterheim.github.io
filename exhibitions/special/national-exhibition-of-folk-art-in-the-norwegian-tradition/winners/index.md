@@ -23,18 +23,18 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description
 ---
-2015 Knifemaking
+2016 Knifemaking
 ================
 
 ### Best of Show
 {: .heading--black--mixed-case }
 
-* John Drewes, Gold Medalist, Red Wing, Minn., Modern Scandinavian Utility Knife
+* John Drewes, Gold Medalist, Red Wing, Minn., Utility Knife with Steer Hide Sheath
 
 ### People’s Choice
 {: .heading--black--mixed-case }
 
-* John Drewes, Gold Medalist, Red Wing, Minn., Modern Scandinavian Utility Knife
+* To be announced.
 
 ### Gold Medal
 {: .heading--black--mixed-case }
@@ -49,31 +49,30 @@ None
 ### Red Ribbons
 {: .heading--black--mixed-case }
 
-* Thomas Latané, Pepin, Wis., Barrel Knife with Gnarly White Oak Handle
-* Darrell Henning, Decorah, Iowa, Dagligs Kniv
+None
 
 ### White Ribbon
 {: .heading--black--mixed-case }
 
-None
+* Steven Ruud, Anoka, Minn., Knife with Curly Maple Handle and Wooden Sheath
 
 ### Honorable Mention
 {: .heading--black--mixed-case }
 
-* Talon Wilson, Granite Falls, Minn., Tol Kniv with Messa Birch Handle
+* David Susag, Lanesboro, Minn., Knife with Birch, Palm Wood, and Pewter Handle
 
-2015 Rosemaling
+2016 Rosemaling
 ==========
 
 ### Best of Show
 {: .heading--black--mixed-case }
 
-* Judy Ritger, Gold Medalist, River Falls, Wis., Hallingdal-style Churn
+* Naoko Seto, Gold Medalist, Irvine, Cal., Vest-Agder-style _Tine_
 
 ### People’s Choice
 {: .heading--black--mixed-case }
 
-* Suzanne Toftey, Gold Medalist, Sartell, Minn., “Fun at the Seter” Telemark-style Plate
+* To be announced.
 
 ### Gold Medal
 {: .heading--black--mixed-case }
@@ -88,171 +87,169 @@ None
 ### Red Ribbons
 {: .heading--black--mixed-case }
 
-* Amy Lysbeth Ahrens, Madison, Wis., Telemark-style Plate
-* Lise Lorentzen, Bel Air, Md., Hallingdal-style Fire Screen
+* Louise Bath, Centennial, Col., Setesdal-style Sending Basket
+* Nancy Odalen, Stoughton, Wis., Ryfylke/Old Rogaland-style Box
+
 
 ### White Ribbons
 {: .heading--black--mixed-case }
 
-* Louise Bath, Centennial, Col., Hallingdal-style Mangle Board
-* Louise Bath, Centennial, Col., Hallingdal-style Sending Basket
-* Jeanette Reyerson, St. Augusta, Minn., Os-style Plate 
-* Peter Stromme, Marshfield, Wis., Os-style Wall Plaque
+* Louise Bath, Centennial, Col., Trøndelag-style _Tine_
+* Elizabeth Estep, Tacoma, Wash., Vest-Agder-style Horsehead Tray
+* Jan Norsetter, Verona, Wis., Valdres-style Mangle Board
+
 
 ### Honorable Mentions
 {: .heading--black--mixed-case }
 
-* Amy Lysbeth Ahrens, Madison, Wis., Telemark-style Trunk
-* Jan Boettcher, Thorntown, Ind., Os-style Bride's Chest
-* Joyce Fulford, La Crosse, Wis., Rogaland-style Lazy Susan
-* Lila Gullixson, Madison, Wis., Os-style Child's Chair
-* Jeaneen Staples, Star Prairie, Wis., Telemark-style Sewing Basket
+* Lise Lorentzen, Bel Air, Md., Hallingdal-style Bucket
+* Lise Lorentzen, Bel Air, Md., Hallingdal-style Trunk
+* Jeaneen Staples, Star Prairie, Wis., Telemark-style _Ambar_
 
-
-2015 Weaving
+2016 Weaving
 =======
 
 ### Best of Show
 {: .heading--black--mixed-case }
 
-* Judy Ann Ness, Gold Medalist, Eugene, Ore., “Playa Summer Lake, Spring 2014” Wall Hanging in Krokbragd Technique
+* Laura Demuth, Gold Medalist, Decorah, Iowa, “Handspun Home” Coverlet in _Rya_ 
+and Double Weave Techniques
 
 ### People’s Choice 
 {: .heading--black--mixed-case }
 
-* Judy Ann Ness, Gold Medalist, Eugene, Ore., “Playa Summer Lake, Spring 2014” Wall Hanging 
-in Krokbragd Technique
+* To be announced.
 
 ### Gold Medal
 {: .heading--black--mixed-case }
 
-None
+Virginia Wekseth, Onalaska, Wis.
 
 ### Blue Ribbon
 {: .heading--black--mixed-case }
 
-* Sandra Somdahl, Decorah, Iowa, “Loki's Rainbow” Wall Hanging in Rutevev Technique
+None
 
 ### Red Ribbon 
 {: .heading--black--mixed-case }
 
-* Marilyn Moore, Cedar, Minn., Rosepath Rug
+* Virginia Wekseth, Onalaska, Wis., “Autumn Leaves with a Touch of Snow” Rug in 
+_Rya_ Technique
 
 ### White Ribbons 
 {: .heading--black--mixed-case }
 
-* Kathryn Evans, Lena, Ill., Tablet-woven Pillow with Setesdal Embroidery
-* Virginia Wekseth, Onalaska, Wis., “Whimsy” Wall Hanging or Throw in Boundweave Technique
+* Nancy Ellison, Zumbrota, Minn., “My Buddy” Wall Hanging in _Rya_ Technique
+* Tracy Jackson, Salem, Ohio, “Norwegian Mangle Boards” Wall Hanging
 
 ### Honorable Mentions 
 {: .heading--black--mixed-case }
 
-* Corwyn Knutson, Roseville, Minn., “Hardanger Cherry Tree” Wall Hanging in Rya Technique
-* Donna Laken, Rockford, Ill., “Sunnfjord Dusk” Wall Hanging in Krokbragd Technique
-* Karin Anderson Maahs, Blaine, Minn., “Anderson Berry Farm, Bay City, Wisconsin” Tapestry
+* Donna Crocker, Cottage Grove, Minn., “Farming Story” Rug
+* Corwyn Knutson, Roseville, Minn., Wall Hanging in Monk’s Belt Technique
+* Andrea Myklebust, Stockholm, Wis., Flax Towel in Goose-Eye Twill Technique
 
-2015 Woodworking
+2016 Woodworking
 ===========
 
 ### Best of Show
 {: .heading--black--mixed-case }
 
-* Jimmy Miller, Gold Medalist, New Richmond, Minn., “Våren” Carved Figure
+* Todd Pasche, Minneiska, Minn., “Just Under the Bark” Relief Carving
 
 ### People’s Choice
 {: .heading--black--mixed-case }
 
-* Todd Pasche, Minnieska, Minn., “It’s a Keeper” Carved Figure
+* To be announced.
 
 ### Gold Medals
 {: .heading--black--mixed-case }
 
-* Russ Biros, Plato, Mo.
-* Arne Bortnem, Sioux Falls, S.D.
-* David Fowler, New Richmond, Wis. 
-* Marty Leenhouts, Garden City, Minn. 
-
+* Todd Pasche, Minneiska, Minn. 
 
 ### Blue Ribbon - Acanthus, Dragon-style Category
 {: .heading--black--mixed-case }
 
-* Russ Biros, Plato, Mo., “Viking Longboat” Carved Figurehead
+* Roger Ronnie, Rapid City, S.D., “200 Years Ago” Acanthus-carved Plate
 
 ### Red Ribbon - Acanthus, Dragon-style Category
 {: .heading--black--mixed-case }
 
-* Lorie Reins-Schweer, Iowa City, Iowa, Acanthus-carved Kubbestol
+* Roger Ronnie, Rapid City, S.D., “1000 Years of Carving” Acanthus-carved Plate
 
-### White Ribbons - Acanthus, Dragon-style Category
+### White Ribbon - Acanthus, Dragon-style Category
 {: .heading--black--mixed-case }
 
-* Lowell Torkelson, Willmar, Minn., Acanthus-carved Clock 
-* Sunhild Muldbakken, Sioux Falls, S.D., Acanthus-carved Box
+* Sunhild Muldbakken, Sioux Falls, S.D., Acanthus-carved Trunk
 
 ### Honorable Mention - Acanthus, Dragon-style Category
 {: .heading--black--mixed-case }
 
-None
+* Greg Aldrich, Billings, Mont., Dragon-style Toy Box Lid
+* Taylor Johnson, Cashton, Wis., Acanthus-carved Trunk
 
 ### Blue Ribbon - Chip Carving and Kolrosing Category
 {: .heading--black--mixed-case }
 
-None
+* Shawn Sersland, Decorah, Iowa, Chip-carved Box
 
 ### Red Ribbon - Chip Carving and Kolrosing Category
 {: .heading--black--mixed-case }
 
-* Marty Leenhouts, Garden City, Minn., Chip-carved Card Box
+* Scott Johnson, Atkinson, Neb., “Rosey” Chip-carved Plate
 
 ### White Ribbon - Chip Carving and Kolrosing Category
 {: .heading--black--mixed-case }
 
-* Shawn Sersland, Decorah, Iowa, Chip-carved Bread Board
+None
 
 ### Honorable Mention - Chip Carving and Kolrosing Category
 {: .heading--black--mixed-case }
 
-None
+* Scott Johnson, Atkinkson, Neb., “The Norse Man” Chip-carved Plate
 
 ### Blue Ribbon - Figure Carving Category
 {: .heading--black--mixed-case }
 
-* Arne Bortnem, Sioux Falls, S.D., “There is a Better Way” Carved Figure
+* Todd Pasche, Minneiska, Minn., “Just Under the Bark” Relief Carving
 
 ### Red Ribbons - Figure Carving Category
 {: .heading--black--mixed-case }
 
-* David Fowler, New Richmond, Wis., “Snow-shoeing Gnome” Carved Figure
-* David Fowler, New Richmond, Wis., “Town Crier” Carved Figure
+None
 
 ### White Ribbon - Figure Carving Category
 {: .heading--black--mixed-case }
 
-* David Elliker-Vågsberg, Eugene, Ore., "Nisse med Hardingfele" Carved Figure
+* Jeff Olson, Eau Claire, Wis., “Passing Time” Carved Figure
 
 ### Honorable Mention - Figure Carving Category
 {: .heading--black--mixed-case }
 
-* Al Carlson, The Villages, Fl., “Nordic Night” Relief-carved Plaque
+* Jeff Olson, Eau Claire, Wis., “Texaco Man” Carved Figure
+* Jack Toftey, Sartell, Minn., “Nose Picker” Carved Figure
+* Zach Heine, Decorah, Iowa, “Dala Horse” Carved Figure
+
 
 ### Blue Ribbon - Open Category
 {: .heading--black--mixed-case }
 
-None
+* Karen Rebholz, Madison, Wis., “Birds” Hardanger Fiddle
 
 ### Red Ribbon - Open Category
 {: .heading--black--mixed-case }
 
-None 
+* Tom Latané, Pepin, Wis., Carved Budstikke 
 
 ### White Ribbon - Open Category
 {: .heading--black--mixed-case }
 
-None
+* Todd Pasche, Minneiska, Minn., Carved Ale Bowl
+* Thomas Dengler, St Paul, Minn., Carved Horse-handled Ale Bowl
+
 
 ### Honorable Mentions - Open Category
 {: .heading--black--mixed-case }
 
-* Lindsay Lee, Decorah, Iowa, Birch Bark Box
-* Mike Lusk, Coon Valley, Wis., “Viking Ship” Tine
-* Mike Lusk, Coon Valley, Wis., Spin-lock Tine
+* Stanley Finholt, Decorah, Iowa, Large Turned Boxelder Bowl
+* Michael Lusk, Coon Valley, Wis., Stacked Birch Tine
