@@ -39,17 +39,17 @@ Vesterheim thanks these Compass Club members for their consistent support throug
 * Sallie Haugen DeReus
 * Richard Enstad 
 * Ed and Joyce Epperly
+* Lowell Erdman
 * Patricia and James Goke
 * Ronald W. Grider 
-* Martha Griesheimer 
-* Marilyn Hansen 
 * Jon and Mary Hart 
 * Judith Mithum Hartnett 
-* Marilyn Istad
 * Cynthia Jacobson 
 * Stan and Fran Jeffers 
+* Chris and Bonnie Johnson
 * Rhonda and Kenneth Kekke
-* Russell and Ingrid Keune 
+* Jane Kemp
+* Ingrid Keune 
 * Janice and A.T. Kraabel
 * Cynthia and David LeMieux 
 * Martha Y. and James W. Limburg 
@@ -60,4 +60,5 @@ Vesterheim thanks these Compass Club members for their consistent support throug
 * James Skurdall
 * Robert Sween 
 * Carol Thompson 
+* Karen Weiberg
 * Troy and Michelle Whitehill 

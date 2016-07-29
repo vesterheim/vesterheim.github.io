@@ -67,9 +67,6 @@ We thank our Corporate Members for their support and ask that you consider suppo
 [Decorah Greenhouses](http://www.decorahgreenhouses.com/)
 : Tradition of service for 135 years offering a great selection of green plants and fresh flowers in the northeast Iowa area. 
 
-[Decorah Mobile Glass, Inc.](http://www.decorahmobileglass.com/auto-glass)
-: From needing a windshield replaced in your vehicle to having a custom glass shower door installed (and everything in between) Decorah Mobile Glass is here to help.
-
 [Decorah Tire Service](http://www.goodyear.com/)
 : Forty-eight years of hometown service.
 
@@ -105,9 +102,6 @@ We thank our Corporate Members for their support and ask that you consider suppo
 
 [Hotel Winneshiek](http://www.hotelwinn.com/)
 : A grand historic boutique hotel nestled in the heart of downtown Decorah.
-
-[Hovden Oil, Inc.](http://hovdenoil.com/)
-: Petroleum Marketers—Commercial, Industrial, and Agricultural.
 
 [Paul Hudson, State Farm Agency](http://www.paulhudson.biz/)
 : Financial services and insurance, helping customers protect their assets and implement meaningful action toward their financial goals.
@@ -147,9 +141,6 @@ Randall Olson, D.D.S.
 
 [Perry Novak Electric and Crane](http://www.perrynovakelectric.com/)
 : A family-owned electrical contractor and equipment services company in Northeastern Iowa, inlcuding solar instalation and service with a 38-ton crane. 
-
-[Pizza Ranch](http://www.decorahpizzaranch.com/index.html)
-: Life tastes better at Pizza Ranch.
 
 [Pulpit Rock Brewing](http://www.pulpitrockbrewing.com)
 : A destination taproom and brewery in Decorah—focused on high-quality, small-batch craft beers.
