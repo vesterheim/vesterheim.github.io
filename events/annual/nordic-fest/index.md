@@ -2,7 +2,7 @@
 published: true
 layout: page
 title: Vesterheim Activities at Decorah's Nordic Fest
-subtitle: July 29-30, 2016
+subtitle: July 28-29, 2017
 meta_title:        # Appears on bookmarks, search results, etc...
 meta_description:  # Used in HTML head and as the description for some search engines
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
@@ -26,13 +26,15 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-Enjoy a Vesterheim adventure at Decorah’s Annual Nordic Fest! Print a text list of Vesterheim events and demonstrators [here.](/events/annual/documents/NFVesterheim List.pdf) 
+Enjoy a Vesterheim adventure at Decorah’s Annual Nordic Fest! 
 
-Nordic Fest is celebrating it's 50th anniversary! The city-wide festival is held each year on the last full weekend in July and includes fun activities for the whole family. This year it will held on July 29 and 30 with Opening Ceremonies on Thursday, July 28. 
+This city-wide festival is held each year on the last full weekend in July and includes fun activities for the whole family. The 2017 Nordic Fest will held on July 28 and 29 with Opening Ceremonies on Thursday, July 27. Check back for more details.
 
 Traditions new and old abound throughout the weekend. There is always lively dancing, challenging sporting events, delicious food, and lots of other entertainment. To learn more about other aspects of the fest, call the “troll-free” hotline at 1-800-382-FEST, or visit [Nordic Fest](http://www.nordicfest.com/).
 
-2016 Vesterheim Highlights include:
+We had a blast in 2016. Find an album of pictures from that event [here.](https://www.facebook.com/Vesterheim-Norwegian-American-Museum-18263584108/photos/?tab=album&album_id=10153725485404109)
+
+2016 Vesterheim Highlights included:
 
 * Best-selling author Lauraine Snelling will be available to sign books Saturday - 9:00-11:00 a.m. and 12:00-3:00 p.m. in the Museum Store! Snelling has written over 80 Norwegian-American pioneer books, including the Red River of the North series. Winner of the Romantic Times Career Achievement Award for Inspirational Fiction, Lauraine has become beloved by her readers for her historical novels featuring the town of Blessing, North Dakota, and her inspirational contemporary novels. Come join her as she celebrates the release of her newest novel, _The Second Half,_ plus all of her previous favorites!
 
@@ -67,5 +69,3 @@ Traditions new and old abound throughout the weekend. There is always lively dan
 * Free admission on Thursday - open 9:00 a.m. to 5:00 p.m.
 
 * The Open Air Division of 12 historic buildings is open Friday and Saturday from 12:00-4:00 p.m. to tour on your own with no admission fee. Guided tours of the Open Air Division are at 10:30 a.m., 1:30 p.m., and 2:30 p.m. on Thursday (free) and Sunday (with admission ticket.)
-
-Find an album of pictures from last year's event [here.](https://www.facebook.com/media/set/?set=a.10152986114114109.1073741889.18263584108&type=3)

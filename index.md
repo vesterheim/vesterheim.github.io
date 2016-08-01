@@ -63,7 +63,7 @@ carousel:
       alt: National Exhibition of Folk Art in the Norwegian Tradition
       caption: Admire recent works by contemporary artists from all over the country on view June 9-July 30!
       link: /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/viewing/
-      published: true
+      published: false
       start_date:
       stop_date: 
     - image: 25x9/exhibitions/special/from-tradition-to-protest-lila-nelson.jpg
@@ -170,20 +170,20 @@ panels:
     image: 16x9/exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition.jpg
     alt:
     caption:
-    title:
+    title: 2016 List of _National Exhibition_ Winners
     subtitle:
-    teaser: Congratulations to the winners in the _National Exhibition of Folk Art in the Norwegian Tradition._
-    published: false
+    teaser: Congratulations to the winners in the _National Exhibition of Folk Art in the Norwegian Tradition!_
+    published: true
     start_date: 
-    stop_date: 2015-09-15 
+    stop_date: 
   - url: /join-give/raffles/
     file_under: 
     image: 
     alt:
     caption:
-    title: Last Chance for Folk Art Raffle Tickets!
+    title: Folk Art Raffle Winner
     subtitle:
-    teaser: You could own this beautiful bowl by Norwegian rosemaler Turid Helle Fatland! Raffle tickets are only $2.50 each and available at the museum. Drawing is July 30 at 3:00 p.m.
+    teaser: Congratulations to the winner of this beautiful bowl—Ole Holman from Edgerton, Wisconsin! Thank you to Turid Helle Fatland for donating the piece and to everyone who purchased tickets.
     published: true
     start_date: 
     stop_date: 
@@ -217,7 +217,7 @@ panels:
     title: Nordic Fest 50th Anniversary Book Available
     subtitle:
     teaser: Nordic Fest book proceeds help preserve archival history at Vesterheim. Order your copy today. 
-    published: true
+    published: false
     start_date:
     stop_date: 
   - url: /about/news/2016/iowa-tourism-blogs/
@@ -392,7 +392,7 @@ events:
     title: Vesterheim Events at Decorah's 50th Nordic Fest 
     date: July 29-30, 2016
     time:
-    published: true
+    published: false
     start_date: 
     stop_date: 
   - url: /events/annual/folk-art-banquet/
@@ -402,7 +402,7 @@ events:
     title: Folk-Art Banquet 
     date: July 29, 2016
     time: 6:00 p.m.
-    published: true
+    published: false
     start_date: 
     stop_date: 
   - url: /events/away/des-moines/
