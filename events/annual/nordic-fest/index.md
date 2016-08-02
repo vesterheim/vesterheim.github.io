@@ -32,7 +32,7 @@ This city-wide festival is held each year on the last full weekend in July and i
 
 Traditions new and old abound throughout the weekend. There is always lively dancing, challenging sporting events, delicious food, and lots of other entertainment. To learn more about other aspects of the fest, call the “troll-free” hotline at 1-800-382-FEST, or visit [Nordic Fest](http://www.nordicfest.com/).
 
-We had a blast in 2016. Find an album of pictures from that event [here.](https://www.facebook.com/Vesterheim-Norwegian-American-Museum-18263584108/photos/?tab=album&album_id=10153725485404109)
+We had a blast in 2016. Thank you to everyone who visited and everyone who helped over the weekend! Find an album of pictures from that event [here.](https://www.facebook.com/Vesterheim-Norwegian-American-Museum-18263584108/photos/?tab=album&album_id=10153725485404109)
 
 2016 Vesterheim Highlights included:
 

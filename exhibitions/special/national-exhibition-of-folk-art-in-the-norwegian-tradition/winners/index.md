@@ -34,7 +34,7 @@ pagelist:
 ### People’s Choice
 {: .heading--black--mixed-case }
 
-* To be announced.
+* Spencer Ritzen, Gold Medalist, Corcoran, Minn., Fishing Fillet Knife with Birch and Silver Handle
 
 ### Gold Medal
 {: .heading--black--mixed-case }
@@ -72,7 +72,7 @@ None
 ### People’s Choice
 {: .heading--black--mixed-case }
 
-* To be announced.
+* Naoko Seto, Gold Medalist, Irvine, Cal., Vest-Agder-style Ambar
 
 ### Gold Medal
 {: .heading--black--mixed-case }
@@ -118,7 +118,7 @@ and Double Weave Techniques
 ### People’s Choice 
 {: .heading--black--mixed-case }
 
-* To be announced.
+* Rosemary Roehl, Gold Medalist, St. Cloud, Minn., “Northern Lights” Wall Hanging in Boundweave Technique
 
 ### Gold Medal
 {: .heading--black--mixed-case }
@@ -160,7 +160,7 @@ _Rya_ Technique
 ### People’s Choice
 {: .heading--black--mixed-case }
 
-* To be announced.
+* Todd Pasche, Minneiska, Minn., “Just Under the Bark” Relief Carving
 
 ### Gold Medals
 {: .heading--black--mixed-case }
