@@ -72,7 +72,7 @@ None
 ### People’s Choice
 {: .heading--black--mixed-case }
 
-* Naoko Seto, Gold Medalist, Irvine, Cal., Vest-Agder-style Ambar
+* Andrea Herkert, Gold Medalist, Belleville, Wis., Telemark-style Cello and Stand
 
 ### Gold Medal
 {: .heading--black--mixed-case }
