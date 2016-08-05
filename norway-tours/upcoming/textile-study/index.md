@@ -2,7 +2,7 @@
 published: true
 layout: page
 title: "Textile Study Tour to Norway and Denmark"
-subtitle: June 2017 
+subtitle: June 12-24, 2017 
 meta_title: "Textile Study Tour to Norway and Denmark"
 meta_description: Vesterheim’s eighth Textile Study Tour focuses on the textiles and traditions of southern Norway and Denmark.  
 # Ratio: 16:9 | Recommended: 1492px by 840px | Minimum: 746px by 420px
