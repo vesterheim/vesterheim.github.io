@@ -24,7 +24,7 @@ pagelist:
 ---
 Vesterheim is honored to invite you to attend _Skål! Scandinavian Spirits Sneak Preview_ a Vesterheim Friends Luncheon and Program.
 
-The event will be Sunday, August 27, 2016, 11:30 a.m. - 1:30 p.m., at the Des Moines Marriott Downtown, 700 Grand Avenue, Des Moines, Iowa.
+The event will be August 27, 2016, 11:30 a.m. - 1:30 p.m., at the Des Moines Marriott Downtown, 700 Grand Avenue, Des Moines, Iowa.
 
 Join Vesterheim Executive Director Chris Johnson and Vesterheim’s Folk Art School Woodworking Instructor Rebecca Hanna for a presentation about traditional Norwegian celebrations and the drinks and folk arts that make them so special.
 
