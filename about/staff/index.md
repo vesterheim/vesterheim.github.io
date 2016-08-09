@@ -43,14 +43,14 @@ Development and Membership
 - **Shawna Wagner**, Director of Development, Ext. 103. [swagner@vesterheim.org](mailto:swagner@vesterheim.org)
 - **Peggy Sersland**, Membership Manager, Ext. 112, [psersland@vesterheim.org](mailto:psersland@vesterheim.org)
 - **Nicholas Klein**, Gifts Officer, Ext. 109. [nklein@vesterheim.org](mailto:nklein@vesterheim.org)
+- **Karla Brown**, Development Events Coordinator, Ext. 107. [kbrown@vesterheim.org](mailto:kbrown@vesterheim.org)
 
 Education and Tours to Norway
 -----------------------------
 - **Darlene Fossum-Martin**, Education Specialist, Ext. 215, [dfossum-martin@vesterheim.org](mailto:dfossum-martin@vesterheim.org)
 - **Jennifer Kovarik**, Registrar, Archivist, and Youth Educator, Ext. 219, [jkovarik@vesterheim.org](mailto:jkovarik@vesterheim.org)
 - **Martha Griesheimer**, Coordinator of Volunteers, Ext. 305, [mgriesheimer@vesterheim.org](mailto:mgriesheimer@vesterheim.org)
-- **Michelle Whitehill**, Coordinator of Tours to Norway, Ext. 240, [mwhitehill@vesterheim.org](mailto:mwhitehill@vesterheim.org)
-- **Katherine R. Johnson**, Coordinator of Tours to Norway, Ext. 240, [kjohnson@vesterheim.org](mailto:mwhitehill@vesterheim.org)
+- **Katherine R. Johnson**, Coordinator of Tours to Norway, Ext. 240, [NorwayTours@vesterheim.org](mailto:NorwayTours@vesterheim.org)
 
 Museum Store
 ------------

@@ -35,9 +35,9 @@ Drinking traditions offer one way for Scandinavian Americans to connect to their
 
 Events
 ------------------------
-On September 9, Vesterheim members are in for a special treat, an evening of SKÅL at a members-only opening! Join us for a rousing aquavit tasting and food pairing, guided by Christer Andre Olsen, Brand Ambassador from the Norwegian company Arcus, distributor of Aalborg and Linie Aquavits. Seating is limited for the tastings. Two times available: 5:30-6:30 and 7:00-8:00 p.m. During the evening, Tova Brandt, curator at the Museum of Danish America, will give guided tours of the show, sharing behind-the-scenes stories! Other refreshments will be served. RSVP to Nicholas Klein at 563-382-9681, ext. 109, or [nklein@vesterheim.org](mailto:nklein@vesterheim.org). Not a Vesterheim member? Join [here!](/join-give/membership/) 
+On September 9, Vesterheim members are in for a special treat, an evening of SKÅL at a members-only opening! Join us for a rousing aquavit tasting and food pairing, guided by Claus Toftkjær, Brand Ambassador from the Norwegian company Arcus, distributor of Aalborg and Linie Aquavits. Seating is limited for the tastings. Two times available: 5:30-6:30 and 7:00-8:00 p.m. During the evening, Tova Brandt, curator at the Museum of Danish America, will give guided tours of the show, sharing behind-the-scenes stories! Other refreshments will be served. RSVP to Nicholas Klein at 563-382-9681, ext. 109, or [nklein@vesterheim.org](mailto:nklein@vesterheim.org). Not a Vesterheim member? Join [here!](/join-give/membership/) 
 
-On September 10, everyone is invited to an exhibition opening reception from 5:00-7:00 p.m. This event includes a free public aquavit tasting with Christer Andre Olsen, from the Norwegian company Arcus, distributor of Aalborg and Linie Aquavits, and gallery talks by Tova Brandt, curator at the Museum of Danish America, who created this special exhibition. 
+On September 10, there will be an exhibition opening reception from 5:00-7:00 p.m. This event includes a free public aquavit tasting with Claus Toftkjær, from the Norwegian company Arcus, distributor of Aalborg and Linie Aquavits, and gallery talks by Tova Brandt, curator at the Museum of Danish America, who created this special exhibition. Must be 21 to attend this event.
 
 Classes
 ------------------------

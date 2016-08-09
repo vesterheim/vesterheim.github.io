@@ -41,4 +41,4 @@ To reserve your spot on the tour, download this “[Tour Deposit](/norway-tours/
 
 {% include components/button.html text="Download Tour Deposit Form (PDF)" url="/norway-tours/forms/documents/DepositForm.pdf" style="primary" %}
 
-For more information about upcoming tours: Katherine Johnson at 563-382-9681, ext. 240, or [kjohnson@vesterheim.org](mailto:kjohnson@vesterheim.org).
+For more information about upcoming tours: Katherine Johnson at 563-382-9681, ext. 240, or [NorwayTours@vesterheim.org](mailto:NorwayTours@vesterheim.org).

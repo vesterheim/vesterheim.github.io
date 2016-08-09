@@ -38,4 +38,4 @@ Be sure to read the "[Terms and Conditions](/norway-tours/forms/documents/TermCo
 
 {% include components/button.html text="Download Terms and Conditions (PDF)" url="/norway-tours/forms/documents/TermCond.pdf" style="primary" %} 
 
-For more information: Michelle Whitehill at 563-382-9681, ext. 240, or [mwhitehill@vesterheim.org](mailto:mwhitehill@vesterheim.org).
+For more information: Katherine Johnson at 563-382-9681, ext. 240, or [NorwayTours@vesterheim.org](mailto:NorwayTours@vesterheim.org).

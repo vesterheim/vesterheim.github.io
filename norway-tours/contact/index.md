@@ -31,6 +31,6 @@ For more information about Vesterheim's tours to Norway contact:
 
 Katherine Johnson <br />
 563-382-9681, ext. 240 <br />
-[kjohnson@vesterheim.org](mailto:kjohnson@vesterheim.org) <br />
+[NorwayTours@vesterheim.org](mailto:NorwayTours@vesterheim.org) <br />
 P.O. Box 379 <br />
 Decorah, IA 52101

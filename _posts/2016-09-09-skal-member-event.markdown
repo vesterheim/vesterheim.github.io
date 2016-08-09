@@ -40,7 +40,7 @@ tags:
 ---
 Vesterheim members are in for a special treat—An Evening of SKÅL at a members-only opening for the  exhibition [_Skål! Scandinavian Spirits_](/exhibitions/special/skal-scandinavian-spirits/) on September 9, 2016, 5:00-8:00 p.m.
 
-Experience Norwegian aquavit traditions and learn how to properly skål! Join us for a rousing aquavit tasting and food pairing, guided by Christer Andre Olsen, Brand Ambassador from the Norwegian company Arcus, distributor of Aalborg and Linie Aquavits. Seating is limited for the tastings. Two times available: 5:30-6:30 and 7:00-8:00 p.m.
+Experience Norwegian aquavit traditions and learn how to properly skål! Join us for a rousing aquavit tasting and food pairing, guided by Claus Toftkjær, Brand Ambassador from the Norwegian company Arcus, distributor of Aalborg and Linie Aquavits. Seating is limited for the tastings. Two times available: 5:30-6:30 and 7:00-8:00 p.m.
 
 During the evening, Tova Brandt, curator at the Museum of Danish America, will give guided tours of the show, sharing behind-the-scenes stories! Other refreshments will be served.
 
