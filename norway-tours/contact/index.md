@@ -20,7 +20,7 @@ navigation:
   order: 50
 pagelist:
   order:         # Defaults to navigation order
-  image: 46x21/norway-tours/michelle-whitehill.jpg
+  image: 46x21/norway-tours/arctic-and-samiland.jpg
   alt: 
   caption:
   title:         # Defaults to navigation title
