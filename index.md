@@ -82,7 +82,7 @@ carousel:
       stop_date:
     - image: 25x9/exhibitions/special/skal-triptych.jpg
       alt: Skål! Scandinavian Spirits
-      caption: "_Skål! Scandinavian Spirits_ On View at Vesterheim Aug. 12-Dec. 31, 2016."
+      caption: "_Skål! Scandinavian Spirits_ Presented by Aalborg and Linie Aquavits, on view at Vesterheim Aug. 12-Dec. 31, 2016."
       link: /exhibitions/special/skal-scandinavian-spirits/
       published: true
       start_date:

@@ -9,6 +9,8 @@ hero:
   image: 16x9/exhibitions/special/skal-triptych.jpg
   alt: 
 caption: 
+related:
+- /exhibitions/special/skal-scandinavian-spirits/
 
 navigation:
   order: 10
@@ -30,6 +32,6 @@ Join Vesterheim Executive Director Chris Johnson and Vesterheim’s Folk Art Sch
 
 Rebecca will share her enthusiasm for the creation of ale bowls and discuss how they’ve been used for holidays, both in Norway and the United States.
 
-Chris will offer a preview of Skål! Scandinavian Spirits, a traveling exhibition on view at Vesterheim August 12 - December 31, 2016.
+Chris will offer a preview of _Skål! Scandinavian Spirits,_ a traveling exhibition curated by The Museum of Danish America and presented by Aalborg and Linie Aquavits, on view at Vesterheim August 12 - December 31, 2016.
 
 Tickets are $35 per person. Please RSVP to Nicholas Klein at [nklein@vesterheim.org](mailto:nklein@vesterheim.org), or 563-382-9681.
