@@ -26,16 +26,16 @@ pagelist:
 ---
 Vesterheim invites all pre-school-aged children and their parents or caregivers to explore art and culture with museum tours, hands-on art projects, and snacks during _Barnetimen_ (Children's Hour). The program is led by ArtHaus directors Jenni and Eric Petersen-Brant and is held from 10:00-11:00 a.m. the third Tuesday of each month from September through April. 
 
-2016-2017 dates are—
+2016-2017 dates and themes are—
 
-* September 20, 2016
-* October 18, 2016
-* November 15, 2016
-* December 20, 2016
-* January 17, 2017
-* February 21, 2017
-* March 21, 2017
-* April 18, 2017
+* September 20, 2016 - Boats. Visit the _TradeWind_ in the Ship Gallery, then make and sail your own boat.
+* October 18, 2016 - Weaving. Explore woven textiles at Vesterheim and make your own weaving.
+* November 15, 2016 - Crowns. Learn about Norwegian crowns and make your own dazzling version.
+* December 20, 2016 - Christmas. Explore Norwegian Christmas traditions, make a holiday gift to give or keep, and taste some traditional treats.
+* January 17, 2017 - Northern Lights. Learn about the Aurora Borealis or Northern Lights and paint our own version with special frozen paint. 
+* February 21, 2017 - Hearts. Look for hearts around the museum and use them for inspiration to make something special for your sweetheart. 
+* March 21, 2017 - Travel. Make some cool binoculars and take them on a trip around the world through art.  
+* April 18, 2017 - Houses. What makes a house a home? Visit houses from long ago and decorate your own tiny house.
 
 _Barnetimen_ is free of charge and no previous sign-up is necessary—come to one session or all of them. The program is geared toward 3-5 year olds, but all ages are welcome. Meet first at ArtHaus Studio at 516 W. Water St., visit the museum, and then head back to ArtHaus for an art project. 
 
