@@ -238,7 +238,7 @@ panels:
     caption:
     title: Iowa Cultural Trust Endowment Challenge Grant
     subtitle:
-    teaser: Please help us with a matching gift for the Iowa Cultural Trust Endowment Challenge Grant to Vesterheim!
+    teaser: Please help us with a matching gift for the Iowa Cultural Trust Endowment Challenge Grant to Vesterheim. We're almost there!
     published: true
     start_date:
     stop_date: 
@@ -250,7 +250,7 @@ panels:
     title: Vesterheim Survey
     subtitle:
     teaser: Please take our survey. We want to know what you think are the most important services Vesterheim can provide in the future.
-    published: true
+    published: false
     start_date:
     stop_date: 
 

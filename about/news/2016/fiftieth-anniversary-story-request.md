@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: page
 title: Share Your Memories of Vesterheim's Folk Art School
 meta_title:        # Appears on bookmarks, search results, etc...
