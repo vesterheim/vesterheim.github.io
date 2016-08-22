@@ -38,7 +38,7 @@ tags:
 ---
 On Saturday, September 17, 2016, during Luther College Family Weekend, Vesterheim is hosting special folk-art demonstrations and guided tours throughout the day. Vesterheim invites everyone to the museum to enjoy the activities as we welcome Luther families.
 
-The museum is open from 9:00 a.m. to 5:00 p.m. Regular admission prices apply. Luther College faculty, staff, and students, and Vesterheim Museum members receive free admission to Vesterheim all year long. 
+The museum is open from 9:00 a.m. to 5:00 p.m. There will be guided tours of the Open Air Division at 10:30 a.m. and 1:30 p.m. Regular admission prices apply. Luther College faculty, staff, and students, and Vesterheim Museum members receive free admission to Vesterheim all year long. 
 
 Check [here](http://vesterheim.org/visit/plan/hours-and-admission/) for museum admission prices. 
 
