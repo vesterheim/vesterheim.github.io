@@ -34,6 +34,8 @@ Traditions new and old abound throughout the weekend. There is always lively dan
 
 We had a blast in 2016. Thank you to everyone who visited and everyone who helped over the weekend! Find an album of pictures from that event [here.](https://www.facebook.com/Vesterheim-Norwegian-American-Museum-18263584108/photos/?tab=album&album_id=10153725485404109)
 
+_The Norwegian-American_ newspaper shared [this article](http://www.norwegianamerican.com/featured/nordic-fest-50-years-strong/) about the 2016 event. It was great fun to have them visit.
+
 2016 Vesterheim Highlights included:
 
 * Best-selling author Lauraine Snelling will be available to sign books Saturday - 9:00-11:00 a.m. and 12:00-3:00 p.m. in the Museum Store! Snelling has written over 80 Norwegian-American pioneer books, including the Red River of the North series. Winner of the Romantic Times Career Achievement Award for Inspirational Fiction, Lauraine has become beloved by her readers for her historical novels featuring the town of Blessing, North Dakota, and her inspirational contemporary novels. Come join her as she celebrates the release of her newest novel, _The Second Half,_ plus all of her previous favorites!

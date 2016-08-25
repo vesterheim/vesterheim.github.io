@@ -365,16 +365,6 @@ events:
     published: false
     start_date: 
     stop_date: 
-  - url: /events/calendar/2016/07/24/scandinavian-music-jam/
-    image: 16x9/events/scandinavian-music-jam.jpg
-    alt:
-    caption:
-    title: Scandinavian Music Jam 
-    date: July 24, 2016 
-    time: 1:00-3:00 p.m. 
-    published: false
-    start_date: 
-    stop_date: 
   - url: /folk-art-school/classes/woodworking/2016-07-23-scandinavian-style-flat-plane-figure-carving/
     image: /16x9/folk-art-school/figure-carving-harley.jpg
     alt:
@@ -414,6 +404,16 @@ events:
     published: true
     start_date:
     stop_date:
+  - url: /events/calendar/2016/08/28/scandinavian-music-jam/
+    image: 16x9/events/scandinavian-music-jam.jpg
+    alt:
+    caption:
+    title: Scandinavian Music Jam 
+    date: August 28, 2016 
+    time: 1:00-3:00 p.m. 
+    published: true
+    start_date: 
+    stop_date: 
   - url: /events/calendar/2016/09/09/skal-member-event/
     image: 46x21/exhibitions/special/skal-triptych.jpg
     alt:

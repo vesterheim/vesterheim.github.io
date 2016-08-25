@@ -40,6 +40,6 @@ tags:
 ---
 Celebrate the exhibition [_Skål! Scandinavian Spirits_](/exhibitions/special/skal-scandinavian-spirits/) with an opening reception on September 10, 2016, 5:00-7:00 p.m. Must be 21 to attend this event.
 
-Enjoy a public tasting with Claus Toftkjær, Brand Ambassador from the Norwegian company Arcus, distributor of Aalborg and Linie Aquavits, and other local brewers and vinters. During the evening, Tova Brandt, curator at the Museum of Danish America, will give guided tours of the show, sharing behind-the-scenes stories! Other refreshments will be served.
+Enjoy a public tasting with Claus Toftkjær, Brand Ambassador from the Norwegian company Arcus, distributor of Aalborg and Linie Aquavits. During the evening, Tova Brandt, curator at the Museum of Danish America, will give guided tours of the show, sharing behind-the-scenes stories! Other refreshments and drinks will be served.
 
 This traveling [exhibition](/exhibitions/special/skal-scandinavian-spirits/) curated by the Museum of Danish America and presented by Aalborg and Linie Aquavits will be on view at Vesterheim from August 12 - December 31, 2016. Vesterheim events are sponsored by Dennis Johnson, The Edward Jones Investment Offices of Dick Cuvelier and Troy Whitehill, A&J Petersburg Agency, and Dennis Larson.
