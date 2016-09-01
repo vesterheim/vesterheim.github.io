@@ -24,7 +24,7 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-Vesterheim invites all pre-school-aged children and their parents or caregivers to explore art and culture with museum tours, hands-on art projects, and snacks during _Barnetimen_ (Children's Hour). The program is led by ArtHaus directors Jenni and Eric Petersen-Brant and is held from 10:00-11:00 a.m. the third Tuesday of each month from September through April. 
+Vesterheim invites all pre-school-aged children and their parents or caregivers to explore art and culture with museum tours, hands-on art projects, and snacks during _Barnetimen_ (Children's Hour). Join Vesterheim Youth Educator Jennifer Kovarik and ArtHaus Directors Jenni and Eric Petersen-Brant from 10:00-11:00 a.m. on the third Tuesday of each month to explore art and culture.  
 
 2016-2017 dates and themes are—
 

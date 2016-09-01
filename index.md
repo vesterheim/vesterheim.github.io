@@ -47,13 +47,6 @@ carousel:
       stop_date:
     - image: 25x9/visit/norwegian_house.jpg
       alt: Norwegian House
-      caption: "Vesterheim was named one of “15 Best Small-Town Museums in the U.S.” by the world-respected travel guide, Fodor’s!"
-      link: /visit/what/
-      published: true
-      start_date:
-      stop_date:
-    - image: 25x9/visit/norwegian_house.jpg
-      alt: Norwegian House
       caption: _USA Today_ named Vesterheim one of “ten great places in the nation to admire American folk art.”
       link: /visit/what/
       published: false
@@ -66,13 +59,6 @@ carousel:
       published: false
       start_date:
       stop_date: 
-    - image: 25x9/exhibitions/special/from-tradition-to-protest-lila-nelson.jpg
-      alt: "From Tradition to Protest: Lila Nelson's Weaving Life"
-      caption: 
-      link: /exhibitions/special/lila-nelson-weaving-retrospective/
-      published: true
-      start_date:
-      stop_date: 
     - image: 25x9/folk-art-school/classes/woodroom.jpg
       alt: Vesterheim's Folk Art School
       caption: Experience the joy of making things at Vesterheim's Folk Art School!
@@ -80,6 +66,13 @@ carousel:
       published: false
       start_date:
       stop_date:
+    - image: 25x9/exhibitions/special/50-years-of-folk-art.jpg
+      alt: 50 Years of Folk Art
+      caption: A special exhibition on view Sept. 3, 2016-April 23, 2017!
+      link: /exhibitions/special/fifty-years-of-folk-art/
+      published: true
+      start_date:
+      stop_date: 
     - image: 25x9/exhibitions/special/skal-triptych.jpg
       alt: Skål! Scandinavian Spirits
       caption: "_Skål! Scandinavian Spirits_ Presented by Aalborg and Linie Aquavits, on view at Vesterheim Aug. 12-Dec. 31, 2016."
@@ -87,13 +80,27 @@ carousel:
       published: true
       start_date:
       stop_date:
+    - image: 25x9/exhibitions/special/from-tradition-to-protest-lila-nelson.jpg
+      alt: "From Tradition to Protest: Lila Nelson's Weaving Life"
+      caption: 
+      link: /exhibitions/special/lila-nelson-weaving-retrospective/
+      published: true
+      start_date:
+      stop_date: 
     - image: 25x9/join-give/magazine.jpg
       alt: "Vesterheim Magazine"
       caption: 
       link: /join-give/membership/
-      published: true
+      published: false
       start_date:
       stop_date: 
+    - image: 25x9/visit/norwegian_house.jpg
+      alt: Norwegian House
+      caption: "Vesterheim was named one of “15 Best Small-Town Museums in the U.S.” by the world-respected travel guide, Fodor’s!"
+      link: /visit/what/
+      published: true
+      start_date:
+      stop_date:
 
 show_social_sharing_bar: false
 
@@ -184,7 +191,7 @@ panels:
     title: Folk Art Raffle Winner
     subtitle:
     teaser: Congratulations to the winner of this beautiful bowl—Ole Holman from Edgerton, Wisconsin! Thank you to Turid Helle Fatland for donating the piece and to everyone who purchased tickets.
-    published: true
+    published: false
     start_date: 
     stop_date: 
   - url: /norway-tours/upcoming/south-norway-iceland/
@@ -242,29 +249,19 @@ panels:
     published: true
     start_date:
     stop_date: 
-  - url: /about/news/2016/vesterheim-survey/
+  - url: /norway-tours/upcoming/
     file_under: News
-    image: 16x9/about/survey.jpg
+    image: 16x9/norway-tours/coastal-voyage-islands.jpg
     alt:
     caption:
-    title: Vesterheim Survey
+    title: Announcing Vesterheim's 2017 Tours to Norway!
     subtitle:
-    teaser: Please take our survey. We want to know what you think are the most important services Vesterheim can provide in the future.
-    published: false
+    teaser: Join us on an amazing tour to Norway. Sign up today.
+    published: true
     start_date:
     stop_date: 
 
 events:  
-  - url: /events/annual/deck-tables/
-    image: /16x9/events/deck-the-tables.jpg
-    alt:
-    caption:
-    title: Deck the Tables
-    date: November 20-21, 2015
-    time: 
-    published: false
-    start_date: 
-    stop_date: 2015-11-22
   - url: /events/calendar/2015/12/03/gingerbread-fair/
     image: 16x9/events/gingerbread-house.jpg
     alt:
@@ -401,7 +398,7 @@ events:
     caption:
     title: Vesterheim Friends Luncheon and Program - Des Moines, Iowa
     date: August 27, 2016
-    published: true
+    published: false
     start_date:
     stop_date:
   - url: /events/calendar/2016/08/28/scandinavian-music-jam/
@@ -411,7 +408,7 @@ events:
     title: Scandinavian Music Jam 
     date: August 28, 2016 
     time: 1:00-3:00 p.m. 
-    published: true
+    published: false
     start_date: 
     stop_date: 
   - url: /events/calendar/2016/09/09/skal-member-event/
@@ -431,6 +428,16 @@ events:
     title: Exhibition Opening for _SKÅL! Scandinavian Spirits_
     date: September 10, 2016
     time: 5:00-7:00 p.m.
+    published: true
+    start_date: 
+    stop_date: 
+  - url: /events/calendar/2016/09/10/skal-reception/
+    image: 46x21/kids/ship_boys-main-building.jpg
+    alt:
+    caption:
+    title: Special Activities During Luther College Family Weekend
+    date: September 17, 2016
+    time: 
     published: true
     start_date: 
     stop_date: 
@@ -454,4 +461,14 @@ events:
     published: true
     start_date: 
     stop_date: 
+  - url: /events/annual/deck-tables/
+    image: /16x9/events/deck-the-tables.jpg
+    alt:
+    caption:
+    title: Deck the Tables
+    date: November 4-5, 2016
+    time: 
+    published: true
+    start_date: 
+    stop_date: 2016-11-6
 ---

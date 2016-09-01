@@ -30,19 +30,22 @@ There are three fantastic events, each with its own unique focus and each featur
 
 Events this year are:
 ----------------------
-**Blue Jeans & Bling Open House**
+**Blue Jeans & Bling - Sneak Preview Party**
 Friday, Nov. 4 
 6:00 - 8:00 p.m. 
+at the Hotel Winneshiek, Steyer Opera House, 3rd floor
 
-**The Luncheon**
+**Vintage-Themed Luncheon**
 (reservations required) 
 Saturday, Nov. 5 
 12:00 - 2:00 p.m.
+at the Hotel Winneshiek, Winneshiek Ballroom, 2nd floor
 
-**Gala Dinner and Live Auction**
+**Grande Finale Dinner**
 (reservations required) 
 Saturday, Nov. 5 
-Begins at 5:00 p.m.
+Begins at 5:00 p.m., Dinner at 6:30 p.m.
+at the Hotel Winneshiek, Steyer Opera House, 3rd floor
 
 More information about each event is coming soon.
 
