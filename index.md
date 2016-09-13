@@ -168,8 +168,8 @@ panels:
     caption:
     title:
     subtitle:
-    teaser: A tremendous _tusen takk_ to all the bidders, folk artists, and supporters of the 2015 Folk Art Benefit Auction.
-    published: false
+    teaser: Get ready for the 2016 Folk Art Benefit Auction. Items will be open for viewing soon!
+    published: true
     start_date: 
     stop_date:  
   - url: /exhibitions/special/national-exhibition-of-folk-art-in-the-norwegian-tradition/winners/
@@ -180,7 +180,7 @@ panels:
     title: 2016 List of _National Exhibition_ Winners
     subtitle:
     teaser: Congratulations to the winners in the _National Exhibition of Folk Art in the Norwegian Tradition!_
-    published: true
+    published: false
     start_date: 
     stop_date: 
   - url: /join-give/raffles/
@@ -262,26 +262,6 @@ panels:
     stop_date: 
 
 events:  
-  - url: /events/calendar/2015/12/03/gingerbread-fair/
-    image: 16x9/events/gingerbread-house.jpg
-    alt:
-    caption:
-    title: Gingerbread Fair 
-    date: December 3-31, 2015 
-    time:
-    published: false
-    start_date: 
-    stop_date: 2015-12-31
-  - url: /events/annual/norwegian-christmas/
-    image: 46x21/events/christmas--kids.jpg
-    alt:
-    caption:
-    title: Norwegian Christmas Celebration
-    date: December 5, 2015
-    time: 10:00 a.m. - 4:00 p.m.
-    published: true
-    start_date: 
-    stop_date: 2015-12-06
   - url: /events/calendar/2016/02/05/taste-of-winneshiek/
     image: 46x21/events/pulpit-rock-brewery.jpg
     alt:
@@ -418,7 +398,7 @@ events:
     title: An Evening of SKÅL—Members-Only Opening
     date: September 9, 2016
     time: 5:00-8:00 p.m.
-    published: true
+    published: false
     start_date: 
     stop_date: 
   - url: /events/calendar/2016/09/10/skal-reception/
@@ -428,7 +408,7 @@ events:
     title: Exhibition Opening for _SKÅL! Scandinavian Spirits_
     date: September 10, 2016
     time: 5:00-7:00 p.m.
-    published: true
+    published: false
     start_date: 
     stop_date: 
   - url: /events/calendar/2016/09/10/skal-reception/
@@ -438,6 +418,16 @@ events:
     title: Special Activities During Luther College Family Weekend
     date: September 17, 2016
     time: 
+    published: true
+    start_date: 
+    stop_date: 
+  - url: /events/youth-programs/barnetimen/
+    image: /46x21/events/barnetimen-kids-2014.jpg
+    alt:
+    caption:
+    title: Barnetimen Children’s Hour 
+    date: September 20, 2016 
+    time: 10:00-11:00 a.m.
     published: true
     start_date: 
     stop_date: 
@@ -471,4 +461,34 @@ events:
     published: true
     start_date: 
     stop_date: 2016-11-6
+  - url: /events/calendar/2016/11/05/knit-in/
+    image: /46x21/events/knit-in-sweater-bombing.jpg
+    alt:
+    caption:
+    title: Knit-In
+    date: November 5-6, 2016
+    time: 
+    published: true
+    start_date: 
+    stop_date: 
+  - url: /events/calendar/2015/12/03/gingerbread-fair/
+    image: 16x9/events/gingerbread-house.jpg
+    alt:
+    caption:
+    title: Gingerbread Fair 
+    date: December 2-January 2, 2016 
+    time:
+    published: false
+    start_date: 
+    stop_date: 
+  - url: /events/annual/norwegian-christmas/
+    image: 46x21/events/christmas--kids.jpg
+    alt:
+    caption:
+    title: Norwegian Christmas Celebration
+    date: December 3, 2016
+    time: 10:00 a.m. - 4:00 p.m.
+    published: false
+    start_date: 
+    stop_date: 
 ---

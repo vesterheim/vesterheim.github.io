@@ -41,7 +41,7 @@ This exhibition reopened on June 17, 2016, and will be on view for at least a ye
 Stoughton, Wisconsin <br />
 Exhibition _Sacred Symbols: The Folk Art of Norway_
 
-This Vesterheim traveling exhibition, which focuses on the many symbols that have come down from the Viking past, features wood, silver, horn, and textiles artifacts from the museum's collections. On view May 16, 2015 through March 31, 2016. Other Vesterheim artifacts and images can be seen in the center’s core exhibit.
+This Vesterheim traveling exhibition, which focuses on the many symbols that have come down from the Viking past, features wood, silver, horn, and textiles artifacts from the museum's collections. Other Vesterheim artifacts and images can be seen in the center’s core exhibit.
 
 ### Museum of Danish America
 {: .heading--black--mixed-case }
