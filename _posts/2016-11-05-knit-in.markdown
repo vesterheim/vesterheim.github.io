@@ -12,7 +12,6 @@ hero:
   alt: 
   caption: 
 related:
-- /folk-art-school/classes/fiber-arts/2016-06-11-fair-isle-knitting-owen-johnston/
 - /folk-art-school/classes/fiber-arts/2016-11-02-knitting-gloves-hillesland/
 
 home:

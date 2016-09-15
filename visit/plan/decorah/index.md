@@ -17,7 +17,7 @@ navigation:
   order: 70
 pagelist:
   order:         # Defaults to navigation order
-  image: 46x21/decorah/hotel-winneshiek.jpg
+  image: 16x9/decorah/fish-hatchery.jpg
   alt:
   caption:   
   title:         # Defaults to navigation title

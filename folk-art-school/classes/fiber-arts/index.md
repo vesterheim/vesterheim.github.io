@@ -9,8 +9,9 @@ hero:
   alt:
   caption:
 related:
-- /events/calendar/2016/04/02/getting-loopy-gathering-of-nalbinders/ 
+- /events/calendar/2016/11/05/knit-in/
 - /visit/plan/decorah/
+- /folk-art-school/housing-and-food/
 
 navigation:
   order: 10

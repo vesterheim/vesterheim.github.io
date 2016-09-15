@@ -411,7 +411,7 @@ events:
     published: false
     start_date: 
     stop_date: 
-  - url: /events/calendar/2016/09/10/skal-reception/
+  - url: /events/calendar/2016/09/17/special-activities-luther-family-weekend/
     image: 46x21/kids/ship_boys-main-building.jpg
     alt:
     caption:

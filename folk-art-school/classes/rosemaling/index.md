@@ -10,6 +10,7 @@ hero:
   caption:
 related:
 - /visit/plan/decorah/
+- /folk-art-school/housing-and-food/
 
 navigation:
   order: 50

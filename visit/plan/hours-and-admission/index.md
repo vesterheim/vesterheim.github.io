@@ -43,7 +43,8 @@ Prices
 *   Adults - $10
 *   Ages 7-18 - $5
 *   Seniors 65+ - $8
-*   Museum members - free [other member benefits listed here](/join-give/membership/).
+*   Museum members - free, [other member benefits listed here](/join-give/membership/).
+*   Luther College students, faculty, and staff - free 
 *   First Thursday of each month - free admission 
 
 Vesterheim is part of a reciprocal network for historical museums and sites, the [Time Travelers](http://timetravelers.mohistory.org/institutions) Program. If you are a member of a museum that participates in the program, you receive $1.00 off Vesterheim admission and 10% off in the Museum Store.
