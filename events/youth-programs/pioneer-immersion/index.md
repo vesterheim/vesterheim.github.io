@@ -22,9 +22,9 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description    
 ---
-**Program in the schools:** February-May 2016 <br />
-**Exhibition of Projects:** May 16-22, 2016 <br />
-**Open House:** May 19, 2016, from 4:30-6:30 p.m., free admission, everyone invited.
+**Program in the schools:** February-May 2017 <br />
+**Exhibition of Projects:** May 15-21, 2017 <br />
+**Open House:** May 18, 2017, from 4:30-6:30 p.m., free admission, everyone invited.
 
 Exhibition of Projects and Open House
 -------------------------------------
@@ -48,4 +48,4 @@ Iowa school districts that have participated in the program in the past include 
 
 For more information about the Vesterheim Pioneer Immersion Program and how your school can participate, please contact Jennifer Kovarik at [jkovarik@vesterheim.org](mailto:jkovarik@vesterheim.org), or 563-382-9681, ext. 219.
 
-In 2016, the program is funded by the 2015 [Deck the Tables](/events/annual/deck-tables/) event.
+In 2017, the program is funded by the 2016 [Deck the Tables](/events/annual/deck-tables/) event.
